@@ -1,6 +1,6 @@
 {
   "date": "2025-12-09",
-  "generated_at": "2025-12-09 17:48:02",
+  "generated_at": "2025-12-09 18:00:30",
   "domestic": [
     {
       "index": 1,
@@ -9,11 +9,11 @@
       "importance": "高",
       "reason": "影响力评分: 376.5",
       "tags": [
-        "突破",
-        "发布",
         "AI",
+        "合作",
         "首次",
-        "合作"
+        "创新",
+        "发布"
       ],
       "url": "https://36kr.com/p/3587781930451205?f=rss",
       "source": "36氪",
@@ -27,10 +27,10 @@
       "importance": "高",
       "reason": "影响力评分: 376.5",
       "tags": [
-        "CEO",
-        "突破",
         "AI",
+        "合作",
         "人工智能",
+        "CEO",
         "首次"
       ],
       "url": "https://36kr.com/p/3586724016209031?f=rss",
@@ -45,11 +45,11 @@
       "importance": "高",
       "reason": "影响力评分: 300.0",
       "tags": [
-        "开源",
-        "突破",
-        "发布",
         "AI",
-        "开放"
+        "开源",
+        "SOTA",
+        "开放",
+        "发布"
       ],
       "url": "https://www.leiphone.com/category/industrynews/2Nh7hNBT3raovZY1.html",
       "source": "AI科技评论",
@@ -63,11 +63,11 @@
       "importance": "高",
       "reason": "影响力评分: 240.0",
       "tags": [
-        "上市",
-        "突破",
         "AI",
+        "上市",
         "监控",
-        "大模型"
+        "投资",
+        "突破"
       ],
       "url": "https://36kr.com/p/3541396662431875?f=rss",
       "source": "36氪",
@@ -81,10 +81,10 @@
       "importance": "高",
       "reason": "影响力评分: 236.0",
       "tags": [
-        "领先",
         "合作",
         "创新",
-        "投资"
+        "投资",
+        "领先"
       ],
       "url": "https://36kr.com/p/3587965815243013?f=rss",
       "source": "36氪",
@@ -98,10 +98,10 @@
       "importance": "高",
       "reason": "影响力评分: 225.0",
       "tags": [
-        "AI",
         "合作",
+        "风险",
         "投资",
-        "风险"
+        "AI"
       ],
       "url": "https://36kr.com/newsflashes/3588252928672006?f=rss",
       "source": "36氪",
@@ -115,11 +115,11 @@
       "importance": "高",
       "reason": "影响力评分: 225.0",
       "tags": [
+        "合作",
         "CEO",
-        "突破",
-        "发布",
         "首次",
-        "合作"
+        "开放",
+        "发布"
       ],
       "url": "https://www.leiphone.com/category/transportation/5xtGWhqv0G0BXQky.html",
       "source": "AI科技评论",
@@ -133,11 +133,11 @@
       "importance": "高",
       "reason": "影响力评分: 225.0",
       "tags": [
+        "AI",
         "任正非",
         "Gemini 3",
-        "AI",
-        "发布",
-        "创新"
+        "创新",
+        "发布"
       ],
       "url": "https://www.leiphone.com/category/zaobao/pSwqW9y371CqMZGF.html",
       "source": "AI科技评论",
@@ -151,11 +151,11 @@
       "importance": "高",
       "reason": "影响力评分: 220.0",
       "tags": [
-        "上市",
-        "突破",
         "AI",
+        "上市",
         "人工智能",
-        "大模型"
+        "投资",
+        "创新"
       ],
       "url": "https://www.leiphone.com/category/chips/7NWjuHuBlTlRNdC8.html",
       "source": "AI科技评论",
@@ -185,10 +185,10 @@
       "importance": "高",
       "reason": "影响力评分: 200.0",
       "tags": [
-        "领先",
         "合作",
-        "CEO",
-        "突破"
+        "突破",
+        "领先",
+        "CEO"
       ],
       "url": "https://www.leiphone.com/category/industrynews/uArg3oAgKS1vS9Bb.html",
       "source": "AI科技评论",
@@ -202,11 +202,11 @@
       "importance": "高",
       "reason": "影响力评分: 195.0",
       "tags": [
-        "IPO",
-        "CEO",
         "AI",
-        "隐私",
-        "百亿"
+        "CEO",
+        "百亿",
+        "IPO",
+        "隐私"
       ],
       "url": "https://www.leiphone.com/category/zaobao/waPGO5bvsxztp1GN.html",
       "source": "AI科技评论",
@@ -221,10 +221,10 @@
       "reason": "影响力评分: 190.0",
       "tags": [
         "AI",
-        "罚款",
-        "发布",
         "投资",
-        "风险"
+        "发布",
+        "风险",
+        "罚款"
       ],
       "url": "https://36kr.com/p/3587542278471681?f=rss",
       "source": "36氪",
@@ -254,10 +254,10 @@
       "importance": "高",
       "reason": "影响力评分: 185.0",
       "tags": [
-        "领先",
+        "AI",
         "人工智能",
         "突破",
-        "AI"
+        "领先"
       ],
       "url": "https://www.leiphone.com/category/ai/fw0FBTMf74V6sm8k.html",
       "source": "AI科技评论",
@@ -272,10 +272,10 @@
       "reason": "影响力评分: 177.0",
       "tags": [
         "AI",
-        "监控",
-        "发布",
         "合作",
-        "创新"
+        "监控",
+        "创新",
+        "发布"
       ],
       "url": "https://36kr.com/p/3588167604584710?f=rss",
       "source": "36氪",
@@ -289,11 +289,11 @@
       "importance": "高",
       "reason": "影响力评分: 177.0",
       "tags": [
-        "CEO",
         "人工智能",
-        "发布",
+        "CEO",
         "投资",
-        "创新"
+        "创新",
+        "发布"
       ],
       "url": "https://36kr.com/p/3588036879892485?f=rss",
       "source": "36氪",
@@ -308,10 +308,10 @@
       "reason": "影响力评分: 177.0",
       "tags": [
         "AI",
-        "发布",
         "雷军",
         "投资",
-        "创新"
+        "创新",
+        "发布"
       ],
       "url": "https://36kr.com/p/3588024086561028?f=rss",
       "source": "36氪",
@@ -325,8 +325,8 @@
       "importance": "高",
       "reason": "影响力评分: 150.0",
       "tags": [
-        "AI",
-        "开源"
+        "开源",
+        "AI"
       ],
       "url": "https://www.qbitai.com/2025/12/359876.html",
       "source": "量子位",
@@ -340,8 +340,8 @@
       "importance": "高",
       "reason": "影响力评分: 150.0",
       "tags": [
-        "大模型",
-        "发布"
+        "发布",
+        "大模型"
       ],
       "url": "https://www.jiqizhixin.com/articles/2025-12-09-6",
       "source": "机器之心",
@@ -357,9 +357,9 @@
       "importance": "高",
       "reason": "影响力评分: 315.0",
       "tags": [
-        "AI regulation",
+        "AI",
         "executive order",
-        "AI"
+        "AI regulation"
       ],
       "url": "https://www.ft.com/content/47d54ca4-2ea3-4519-b860-e466ee7802b6",
       "source": "Financial Times Tech",
@@ -373,9 +373,9 @@
       "importance": "高",
       "reason": "影响力评分: 275.0",
       "tags": [
+        "AI",
         "AI law",
-        "executive order",
-        "AI"
+        "executive order"
       ],
       "url": "https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/",
       "source": "TechCrunch AI",
@@ -389,9 +389,9 @@
       "importance": "高",
       "reason": "影响力评分: 266.0",
       "tags": [
-        "reasoning",
-        "billion",
         "AI",
+        "billion",
+        "reasoning",
         "bias",
         "multimodal"
       ],
@@ -407,10 +407,10 @@
       "importance": "高",
       "reason": "影响力评分: 240.0",
       "tags": [
-        "billion",
+        "AI",
         "valuation",
-        "artificial intelligence",
-        "AI"
+        "billion",
+        "artificial intelligence"
       ],
       "url": "https://www.bloomberg.com/news/articles/2025-12-09/sequoia-led-funding-vaults-ai-startup-fal-to-4-5-billion-valuation",
       "source": "Bloomberg Technology",
@@ -424,8 +424,8 @@
       "importance": "高",
       "reason": "影响力评分: 215.0",
       "tags": [
-        "investigation",
         "AI",
+        "investigation",
         "antitrust"
       ],
       "url": "https://www.cnbc.com/2025/12/09/google-hit-with-eu-antitrust-probe-over-use-of-online-content-for-ai.html",
@@ -440,11 +440,11 @@
       "importance": "高",
       "reason": "影响力评分: 215.0",
       "tags": [
-        "reasoning",
-        "fine",
         "AI",
-        "introduces",
-        "multimodal"
+        "fine",
+        "reasoning",
+        "multimodal",
+        "introduces"
       ],
       "url": "https://arxiv.org/abs/2512.05824",
       "source": "arXiv AI",
@@ -458,10 +458,10 @@
       "importance": "高",
       "reason": "影响力评分: 215.0",
       "tags": [
-        "fine",
-        "outperforms",
-        "valuation",
         "AI",
+        "valuation",
+        "outperforms",
+        "fine",
         "state-of-the-art"
       ],
       "url": "https://arxiv.org/abs/2512.05121",
@@ -476,10 +476,10 @@
       "importance": "高",
       "reason": "影响力评分: 210.0",
       "tags": [
-        "fine",
-        "Gemini 2",
-        "LLM",
         "AI",
+        "LLM",
+        "Gemini 2",
+        "fine",
         "introduces"
       ],
       "url": "https://arxiv.org/abs/2512.05122",
@@ -494,11 +494,11 @@
       "importance": "高",
       "reason": "影响力评分: 200.0",
       "tags": [
-        "reasoning",
-        "fine",
+        "AI",
         "outperforms",
         "LLM",
-        "AI"
+        "fine",
+        "reasoning"
       ],
       "url": "https://arxiv.org/abs/2512.05576",
       "source": "arXiv AI",
@@ -512,10 +512,10 @@
       "importance": "高",
       "reason": "影响力评分: 200.0",
       "tags": [
-        "reasoning",
-        "multimodal",
+        "AI",
         "valuation",
-        "AI"
+        "multimodal",
+        "reasoning"
       ],
       "url": "https://arxiv.org/abs/2512.05930",
       "source": "arXiv AI",
@@ -529,10 +529,10 @@
       "importance": "高",
       "reason": "影响力评分: 200.0",
       "tags": [
-        "reasoning",
-        "valuation",
+        "AI",
         "AGI",
-        "AI"
+        "reasoning",
+        "valuation"
       ],
       "url": "https://arxiv.org/abs/2512.05954",
       "source": "arXiv AI",
@@ -546,8 +546,8 @@
       "importance": "高",
       "reason": "影响力评分: 185.0",
       "tags": [
-        "reasoning",
         "multimodal",
+        "reasoning",
         "LLM",
         "large language model"
       ],
@@ -564,8 +564,8 @@
       "reason": "影响力评分: 185.0",
       "tags": [
         "AGI",
-        "introduces",
-        "outperforms"
+        "outperforms",
+        "introduces"
       ],
       "url": "https://arxiv.org/abs/2512.05734",
       "source": "arXiv AI",
@@ -579,10 +579,10 @@
       "importance": "高",
       "reason": "影响力评分: 185.0",
       "tags": [
-        "reasoning",
+        "AI",
         "AGI",
         "LLM",
-        "AI",
+        "reasoning",
         "large language model"
       ],
       "url": "https://arxiv.org/abs/2512.05765",
@@ -598,9 +598,9 @@
       "reason": "影响力评分: 180.0",
       "tags": [
         "chief",
-        "CEO",
         "artificial intelligence",
-        "AI"
+        "AI",
+        "CEO"
       ],
       "url": "https://www.bloomberg.com/news/articles/2025-12-09/wells-fargo-ceo-sees-ai-impacting-companies-workforce-decisions",
       "source": "Bloomberg Technology",
@@ -614,9 +614,9 @@
       "importance": "高",
       "reason": "影响力评分: 180.0",
       "tags": [
+        "Elon Musk",
         "fine",
-        "H200",
-        "Elon Musk"
+        "H200"
       ],
       "url": "https://www.ft.com/content/3a1f9360-3466-43f1-92a3-0c3647a8e15a",
       "source": "Financial Times Tech",
@@ -630,10 +630,10 @@
       "importance": "高",
       "reason": "影响力评分: 180.0",
       "tags": [
-        "billion",
-        "launches",
+        "AI",
         "valuation",
-        "AI"
+        "billion",
+        "launches"
       ],
       "url": "https://www.cnbc.com/2025/12/08/tiger-global-new-fund-ai-valuations.html",
       "source": "CNBC Tech",
@@ -648,8 +648,8 @@
       "reason": "影响力评分: 180.0",
       "tags": [
         "breakthrough",
-        "fine",
-        "AI"
+        "AI",
+        "fine"
       ],
       "url": "https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/",
       "source": "MIT Technology Review",
@@ -663,10 +663,10 @@
       "importance": "高",
       "reason": "影响力评分: 165.0",
       "tags": [
+        "AI",
         "billion",
-        "H200",
         "artificial intelligence",
-        "AI"
+        "H200"
       ],
       "url": "https://www.bloomberg.com/news/videos/2025-12-09/nvidia-wins-approval-to-sell-h200-ai-chips-in-china-video",
       "source": "Bloomberg Technology",
@@ -689,11 +689,11 @@
       "impact_score": 165.0
     }
   ],
-  "summary": "今日从206条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：腾讯与影石Insta360联合发布智能音频新品：攻克垂直定位，定义室内音视频协作新标准｜最前线；xTool黑五网一销售额创新高，日GMV突破1亿元｜最前线；美团发布LongCat-Image图像生成模型，编辑能力登顶开源SOTA。",
+  "summary": "今日从207条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：腾讯与影石Insta360联合发布智能音频新品：攻克垂直定位，定义室内音视频协作新标准｜最前线；xTool黑五网一销售额创新高，日GMV突破1亿元｜最前线；美团发布LongCat-Image图像生成模型，编辑能力登顶开源SOTA。",
   "statistics": {
     "raw_domestic": 48,
-    "raw_international": 158,
-    "raw_total": 206,
+    "raw_international": 159,
+    "raw_total": 207,
     "final_domestic": 20,
     "final_international": 20
   }
