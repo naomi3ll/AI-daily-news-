@@ -236,157 +236,157 @@ def run_with_demo_data():
         }
     ]
     
-    # 演示数据 - 国际动态 (12条)
+    # 演示数据 - 国际动态 (12条) - 全部中文
     demo_international = [
         {
             "index": 1,
-            "title": "美国发布AI芯片出口新规，限制范围扩大",
-            "summary": f"{month_day}消息，美国商务部工业与安全局(BIS)发布更新的半导体出口管制规则，将AI芯片出口限制扩展至更多国家和地区，同时收紧对先进制造设备的管控，新规将于90天后生效。",
+            "title": "美国发布AI芯片出口新规",
+            "summary": f"{month_day}消息，美国商务部工业与安全局发布更新的半导体出口管制规则，将AI芯片出口限制扩展至更多国家和地区，收紧对先进制造设备的管控，涉及英伟达、AMD等主要芯片厂商，新规将于90天后正式生效。",
             "importance": "高",
             "reason": "重大政策变化，影响全球AI产业供应链",
             "tags": ["美国", "出口管制", "AI芯片", "制裁"],
             "url": "https://www.commerce.gov/",
-            "source": "US Commerce Dept",
+            "source": "美国商务部",
             "impact_score": 100.0
         },
         {
             "index": 2,
             "title": "OpenAI正式发布GPT-5",
-            "summary": f"{month_day}消息，OpenAI正式发布GPT-5大语言模型，采用全新的混合架构，在推理、编程、多模态理解等方面实现重大突破，上下文窗口扩展至100万tokens，CEO Sam Altman称其为'迈向AGI的关键一步'。",
+            "summary": f"{month_day}消息，OpenAI正式发布GPT-5大语言模型，采用全新混合架构在推理、编程、多模态理解等方面实现重大突破，上下文窗口扩展至100万tokens，首席执行官奥特曼称其为迈向通用人工智能的关键一步。",
             "importance": "高",
             "reason": "旗舰产品发布，定义AI能力新标杆",
             "tags": ["OpenAI", "GPT-5", "AGI", "重大发布"],
             "url": "https://openai.com/",
-            "source": "OpenAI Blog",
+            "source": "OpenAI官方博客",
             "impact_score": 98.0
         },
         {
             "index": 3,
             "title": "英伟达发布Blackwell Ultra芯片",
-            "summary": f"{month_day}消息，英伟达在GTC大会上发布新一代Blackwell Ultra AI芯片，算力达到40 PFLOPS，较H100提升5倍，同时公布与多家云厂商的部署计划，预计明年Q1量产。",
+            "summary": f"{month_day}消息，英伟达在GTC大会上发布新一代Blackwell Ultra人工智能芯片，单卡算力达到40PFLOPS较H100提升5倍，同时公布与亚马逊、微软、谷歌等多家云厂商的部署计划，预计明年第一季度实现量产。",
             "importance": "高",
             "reason": "算力基础设施重大升级，影响AI训练效率",
             "tags": ["英伟达", "Blackwell", "AI芯片", "算力"],
             "url": "https://www.nvidia.com/",
-            "source": "NVIDIA AI",
+            "source": "英伟达官网",
             "impact_score": 95.0
         },
         {
             "index": 4,
             "title": "谷歌DeepMind发布Gemini 2.5 Ultra",
-            "summary": f"{month_day}消息，谷歌DeepMind发布Gemini 2.5 Ultra多模态大模型，在数学、科学推理、代码生成等任务上超越GPT-5基准版，支持实时视频理解和多轮对话记忆。",
+            "summary": f"{month_day}消息，谷歌DeepMind发布Gemini 2.5 Ultra多模态大模型，在数学推理、科学问答、代码生成等任务上超越GPT-5基准版本，支持实时视频理解和多轮对话记忆功能。",
             "importance": "高",
             "reason": "顶级厂商竞争升级，多模态能力新突破",
             "tags": ["谷歌", "Gemini", "多模态", "DeepMind"],
             "url": "https://deepmind.google/",
-            "source": "DeepMind Blog",
+            "source": "谷歌DeepMind",
             "impact_score": 92.0
         },
         {
             "index": 5,
             "title": "欧盟《人工智能法案》正式全面生效",
-            "summary": f"{month_day}消息，欧盟《人工智能法案》(AI Act)正式全面生效，成为全球首部全面监管AI的立法。高风险AI系统需在6个月内完成合规，违规企业将面临最高3500万欧元或全球营收7%的罚款。",
+            "summary": f"{month_day}消息，欧盟《人工智能法案》正式全面生效成为全球首部全面监管人工智能的立法，高风险AI系统需在6个月内完成合规审查，违规企业将面临最高3500万欧元或全球营收7%的罚款。",
             "importance": "高",
             "reason": "全球首部AI监管法律生效，影响深远",
-            "tags": ["欧盟", "AI Act", "监管", "合规"],
+            "tags": ["欧盟", "AI法案", "监管", "合规"],
             "url": "https://ec.europa.eu/",
-            "source": "EU AI Policy",
+            "source": "欧盟委员会",
             "impact_score": 90.0
         },
         {
             "index": 6,
-            "title": "Anthropic发布Claude 4 Opus",
-            "summary": f"{month_day}消息，Anthropic发布Claude 4 Opus模型，在安全性和有用性之间取得更好平衡，长文本处理能力显著提升，同时推出企业版API，支持私有化部署。",
+            "title": "Anthropic发布Claude 4 Opus模型",
+            "summary": f"{month_day}消息，人工智能公司Anthropic发布Claude 4 Opus模型，在安全性和实用性之间取得更好平衡，长文本处理能力显著提升支持20万字上下文，同时推出企业版接口支持私有化部署。",
             "importance": "高",
             "reason": "顶级竞品更新，AI安全领域引领者",
             "tags": ["Anthropic", "Claude", "AI安全"],
             "url": "https://www.anthropic.com/",
-            "source": "Anthropic",
+            "source": "Anthropic官网",
             "impact_score": 88.0
         },
         {
             "index": 7,
             "title": "Meta开源Llama 4模型家族",
-            "summary": f"{month_day}消息，Meta正式开源Llama 4系列模型，包含8B到400B多个规格，采用混合专家架构(MoE)，在开源社区反响热烈，24小时内下载量突破100万次。",
+            "summary": f"{month_day}消息，Meta正式开源Llama 4系列大语言模型，包含80亿到4000亿参数多个规格版本，采用混合专家架构在开源社区反响热烈，发布24小时内下载量突破100万次。",
             "importance": "高",
             "reason": "超大规模开源，推动AI民主化进程",
             "tags": ["Meta", "Llama 4", "开源", "MoE"],
             "url": "https://ai.meta.com/",
-            "source": "Meta AI",
+            "source": "Meta人工智能",
             "impact_score": 85.0
         },
         {
             "index": 8,
-            "title": "xAI完成新一轮120亿美元融资",
-            "summary": f"{month_day}消息，Elon Musk旗下xAI宣布完成新一轮120亿美元融资，估值达到500亿美元，所融资金将用于扩建超算中心和Grok模型研发。",
+            "title": "马斯克xAI完成120亿美元融资",
+            "summary": f"{month_day}消息，埃隆·马斯克旗下人工智能公司xAI宣布完成新一轮120亿美元融资，公司估值达到500亿美元，所融资金将用于扩建超级计算中心和Grok大模型研发。",
             "importance": "高",
             "reason": "史上最大AI融资之一，验证行业热度",
-            "tags": ["xAI", "融资", "Elon Musk", "Grok"],
+            "tags": ["xAI", "融资", "马斯克", "Grok"],
             "url": "https://x.ai/",
-            "source": "Bloomberg Technology",
+            "source": "彭博科技",
             "impact_score": 82.0
         },
         {
             "index": 9,
-            "title": "MIT研究团队实现量子-经典混合AI突破",
-            "summary": f"{month_day}消息，MIT研究团队在Nature发表论文，首次实现量子计算与经典神经网络的高效混合架构，在特定优化问题上实现指数级加速，被评为'年度重大科学突破'。",
+            "title": "麻省理工实现量子AI重大突破",
+            "summary": f"{month_day}消息，麻省理工学院研究团队在《自然》杂志发表论文，首次实现量子计算与经典神经网络的高效混合架构，在特定优化问题上实现指数级加速，被评为年度重大科学突破。",
             "importance": "高",
             "reason": "基础研究重大突破，开辟新技术路径",
-            "tags": ["MIT", "量子计算", "学术突破", "Nature"],
+            "tags": ["麻省理工", "量子计算", "学术突破", "Nature"],
             "url": "https://news.mit.edu/",
-            "source": "MIT News AI",
+            "source": "麻省理工新闻",
             "impact_score": 80.0
         },
         {
             "index": 10,
-            "title": "微软Azure AI推出GPT-5托管服务",
-            "summary": f"{month_day}消息，微软宣布Azure OpenAI Service支持GPT-5模型托管，提供企业级SLA保障，同时推出新的成本优化方案，API调用成本降低40%。",
+            "title": "微软Azure推出GPT-5托管服务",
+            "summary": f"{month_day}消息，微软宣布Azure云平台正式支持GPT-5模型托管服务，提供企业级服务保障协议，同时推出新的成本优化方案使API调用成本降低40%。",
             "importance": "中",
             "reason": "云服务升级，降低企业AI使用门槛",
             "tags": ["微软", "Azure", "GPT-5", "云服务"],
             "url": "https://azure.microsoft.com/",
-            "source": "Microsoft AI Blog",
+            "source": "微软Azure",
             "impact_score": 72.0
         },
         {
             "index": 11,
-            "title": "RAND智库发布AI地缘政治影响报告",
-            "summary": f"{month_day}消息，美国兰德公司发布《人工智能与地缘政治竞争》研究报告，分析AI技术发展对国际关系格局的影响，建议美国加强与盟友的AI合作。",
+            "title": "兰德智库发布AI地缘政治报告",
+            "summary": f"{month_day}消息，美国兰德公司发布《人工智能与地缘政治竞争》研究报告，系统分析人工智能技术发展对国际关系格局的深远影响，建议美国政府加强与盟友在AI领域的战略合作。",
             "importance": "中",
             "reason": "权威智库分析，政策参考价值高",
-            "tags": ["RAND", "智库", "地缘政治", "战略"],
+            "tags": ["兰德", "智库", "地缘政治", "战略"],
             "url": "https://www.rand.org/",
-            "source": "RAND Corporation AI",
+            "source": "兰德公司",
             "impact_score": 68.0
         },
         {
             "index": 12,
-            "title": "斯坦福HAI发布2024 AI指数年度报告",
-            "summary": f"{month_day}消息，斯坦福大学人类中心人工智能研究院(HAI)发布年度AI指数报告，数据显示全球AI投资总额达2000亿美元，生成式AI占比首次超过50%。",
+            "title": "斯坦福发布年度AI指数报告",
+            "summary": f"{month_day}消息，斯坦福大学人类中心人工智能研究院发布年度AI指数报告，数据显示全球人工智能投资总额达2000亿美元创历史新高，生成式AI投资占比首次超过50%。",
             "importance": "中",
             "reason": "权威年度报告，全景展示行业发展",
             "tags": ["斯坦福", "HAI", "报告", "投资"],
             "url": "https://hai.stanford.edu/",
-            "source": "Stanford HAI",
+            "source": "斯坦福HAI",
             "impact_score": 65.0
         }
     ]
     
-    # 精简版数据（每类5条）
+    # 精简版数据（每类5条）- 严格对标用户例子句式
     demo_domestic_brief = [
-        {"index": 1, "importance": "高", "summary": f"{month_day}消息，国务院正式发布《人工智能产业高质量发展行动计划（2024-2027）》，提出到2027年我国人工智能核心产业规模超过万亿元。"},
-        {"index": 2, "importance": "高", "summary": f"{month_day}消息，智谱AI正式发布新一代基座大模型GLM-5，参数规模达到1.8万亿，在多项权威基准测试中超越GPT-4 Turbo。"},
-        {"index": 3, "importance": "高", "summary": f"{month_day}消息，百度发布文心一言5.0版本和ERNIE 4.5 Turbo模型，API调用成本降低60%，用户数突破3亿。"},
-        {"index": 4, "importance": "高", "summary": f"{month_day}消息，华为正式发布新一代昇腾910C AI训练芯片，算力达到640 TFLOPS，较上代提升80%。"},
-        {"index": 5, "importance": "高", "summary": f"{month_day}消息，阿里云宣布开源通义千问Qwen2.5-Max模型，1100亿参数版本在代码生成、数学推理等任务上达到业界领先。"}
+        {"index": 1, "importance": "高", "summary": f"{month_day}消息，国务院正式发布《人工智能产业高质量发展行动计划（2024-2027）》，提出到2027年我国人工智能核心产业规模超过万亿元，培育10家以上具有国际竞争力的AI企业，形成完整的人工智能产业链。"},
+        {"index": 2, "importance": "高", "summary": f"{month_day}消息，智谱AI正式发布新一代基座大模型GLM-5，参数规模达到1.8万亿在多项权威基准测试中超越GPT-4 Turbo，支持128K超长上下文并向开发者开放API接口。"},
+        {"index": 3, "importance": "高", "summary": f"{month_day}消息，百度在AI开发者大会上发布文心一言5.0版本和ERNIE 4.5 Turbo模型，推理速度提升3倍API调用成本降低60%，用户数突破3亿。"},
+        {"index": 4, "importance": "高", "summary": f"{month_day}消息，华为正式发布新一代昇腾910C AI训练芯片，采用先进制程工艺算力达到640 TFLOPS较上代提升80%，将大规模应用于国产AI服务器和智算中心。"},
+        {"index": 5, "importance": "高", "summary": f"{month_day}消息，阿里云宣布开源通义千问Qwen2.5-Max模型，提供1100亿参数版本在代码生成、数学推理等任务上达到业界领先水平，已在Hugging Face平台开放下载。"}
     ]
     
     demo_international_brief = [
-        {"index": 1, "importance": "高", "summary": f"{month_day}消息，美国商务部工业与安全局发布更新的半导体出口管制规则，将AI芯片出口限制扩展至更多国家和地区。"},
-        {"index": 2, "importance": "高", "summary": f"{month_day}消息，OpenAI正式发布GPT-5大语言模型，采用全新混合架构，上下文窗口扩展至100万tokens。"},
-        {"index": 3, "importance": "高", "summary": f"{month_day}消息，英伟达发布新一代Blackwell Ultra AI芯片，算力达到40 PFLOPS，较H100提升5倍。"},
-        {"index": 4, "importance": "高", "summary": f"{month_day}消息，欧盟《人工智能法案》正式全面生效，成为全球首部全面监管AI的立法。"},
-        {"index": 5, "importance": "高", "summary": f"{month_day}消息，Meta正式开源Llama 4系列模型，包含8B到400B多个规格，24小时内下载量突破100万次。"}
+        {"index": 1, "importance": "高", "summary": f"{month_day}消息，美国商务部工业与安全局发布更新的半导体出口管制规则，将AI芯片出口限制扩展至更多国家和地区，收紧对先进制造设备的管控，新规将于90天后正式生效。"},
+        {"index": 2, "importance": "高", "summary": f"{month_day}消息，OpenAI正式发布GPT-5大语言模型，采用全新混合架构在推理、编程、多模态理解等方面实现重大突破，上下文窗口扩展至100万tokens，首席执行官奥特曼称其为迈向通用人工智能的关键一步。"},
+        {"index": 3, "importance": "高", "summary": f"{month_day}消息，英伟达在GTC大会上发布新一代Blackwell Ultra人工智能芯片，单卡算力达到40PFLOPS较H100提升5倍，预计明年第一季度实现量产。"},
+        {"index": 4, "importance": "高", "summary": f"{month_day}消息，欧盟《人工智能法案》正式全面生效成为全球首部全面监管人工智能的立法，高风险AI系统需在6个月内完成合规审查，违规企业将面临最高3500万欧元罚款。"},
+        {"index": 5, "importance": "高", "summary": f"{month_day}消息，Meta正式开源Llama 4系列大语言模型，包含80亿到4000亿参数多个规格版本采用混合专家架构，发布24小时内下载量突破100万次。"}
     ]
     
     demo_data = {

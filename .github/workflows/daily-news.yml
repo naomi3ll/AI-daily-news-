@@ -37,7 +37,7 @@ jobs:
       - name: 🚀 采集新闻
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python src/main.py
+        run: python src/main.py --demo
         continue-on-error: true
 
       - name: 📤 提交数据更新
