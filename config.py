@@ -7,10 +7,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# OpenAI API配置
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1")
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+# LLM API配置 - 支持DeepSeek/OpenAI
+OPENAI_API_KEY = os.getenv("DEEPSEEK_API_KEY") or os.getenv("OPENAI_API_KEY", "")
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.deepseek.com")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "deepseek-chat")
 
 # ==================== 新闻源配置 ====================
 # 要求：每日采集100+条原始信息
