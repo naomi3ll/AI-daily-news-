@@ -392,6 +392,116 @@ body {
     font-size: 14px;
 }
 
+/* ==================== 复制按钮 ==================== */
+.copy-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.copy-btn:hover {
+    background: #0052cc;
+}
+
+/* ==================== 复制弹窗 ==================== */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background: #fff;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 800px;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 20px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.modal-header h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #212529;
+}
+
+.modal-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #6c757d;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.modal-close:hover {
+    color: #212529;
+}
+
+#copy-text {
+    flex: 1;
+    margin: 16px 20px;
+    padding: 16px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 2;
+    resize: none;
+    font-family: inherit;
+    min-height: 400px;
+}
+
+.modal-footer {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px 20px;
+    border-top: 1px solid #e9ecef;
+}
+
+.btn-copy {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.btn-copy:hover {
+    background: #0052cc;
+}
+
+#copy-status {
+    color: #28a745;
+    font-size: 14px;
+}
+
 /* ==================== 右侧数据看板 ==================== */
 .sidebar-right {
     background: var(--bg-secondary);

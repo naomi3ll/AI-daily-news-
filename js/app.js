@@ -122,6 +122,9 @@ async function loadDailyNews(date) {
         document.getElementById('raw-news').textContent = 
             data.statistics?.raw_total || '--';
         
+        // 保存当前数据用于复制
+        currentData = data;
+        
         // 渲染完整版
         renderNews('domestic-news', data.domestic || []);
         renderNews('international-news', data.international || []);
@@ -385,6 +388,9 @@ function loadDemoData() {
         demoData.domestic.length + demoData.international.length;
     document.getElementById('raw-news').textContent = demoData.statistics.raw_total;
     
+    // 保存当前数据用于复制
+    currentData = demoData;
+    
     renderNews('domestic-news', demoData.domestic);
     renderNews('international-news', demoData.international);
     renderBrief('domestic-brief', demoData.domestic_brief);
@@ -399,3 +405,63 @@ function escapeHtml(text) {
     div.textContent = text;
     return div.innerHTML;
 }
+
+// 存储当前数据用于复制
+let currentData = null;
+
+// 复制精简版文字
+function copyBriefText() {
+    if (!currentData) {
+        alert('暂无数据');
+        return;
+    }
+    
+    const domestic = currentData.domestic_brief || currentData.domestic?.slice(0, 5) || [];
+    const international = currentData.international_brief || currentData.international?.slice(0, 5) || [];
+    
+    let text = '国内动态：\n';
+    domestic.forEach((news, idx) => {
+        text += `${news.index || idx + 1}、${news.summary}\n`;
+    });
+    
+    text += '\n国际动态：\n';
+    international.forEach((news, idx) => {
+        text += `${news.index || idx + 1}、${news.summary}\n`;
+    });
+    
+    document.getElementById('copy-text').value = text;
+    document.getElementById('copy-modal').style.display = 'flex';
+}
+
+// 关闭弹窗
+function closeModal() {
+    document.getElementById('copy-modal').style.display = 'none';
+    document.getElementById('copy-status').textContent = '';
+}
+
+// 执行复制
+function doCopy() {
+    const textarea = document.getElementById('copy-text');
+    textarea.select();
+    textarea.setSelectionRange(0, 99999);
+    
+    try {
+        document.execCommand('copy');
+        document.getElementById('copy-status').textContent = '✅ 已复制到剪贴板！';
+    } catch (err) {
+        // 尝试新API
+        navigator.clipboard.writeText(textarea.value).then(() => {
+            document.getElementById('copy-status').textContent = '✅ 已复制到剪贴板！';
+        }).catch(() => {
+            document.getElementById('copy-status').textContent = '❌ 复制失败，请手动选择复制';
+        });
+    }
+}
+
+// 点击弹窗外部关闭
+document.addEventListener('click', (e) => {
+    const modal = document.getElementById('copy-modal');
+    if (e.target === modal) {
+        closeModal();
+    }
+});
