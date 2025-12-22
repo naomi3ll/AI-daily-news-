@@ -1,0 +1,534 @@
+{
+  "date": "2025-12-22",
+  "generated_at": "2025-12-22 08:37:30",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "清华系具身大脑公司获近亿元融资，预计2026年接入设备达十万台以上｜硬氪首发",
+      "summary": "12月22日消息，孵化自清华大学类脑中心的北京千诀科技有限公司完成近亿元Pre-A++轮融资，该公司专注于具身智能决策与规划大模型的研发，其生态位对标美国头部企业Physical Intelligence，融资将用于技术研发和全球商业化拓展。",
+      "importance": "高",
+      "reason": "重大商业动态：中国顶尖高校孵化的具身智能公司获得大额融资，属于国内AI产业的重要进展。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "大模型",
+        "清华大学"
+      ],
+      "url": "https://36kr.com/newsflashes/3606419834586112?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-22 07:59:58",
+      "impact_score": 390.0
+    },
+    {
+      "index": 2,
+      "title": "具身智能老炮再获数亿融资，移动多臂机器人已批量工业落地｜36氪首发",
+      "summary": "12月22日消息，总部位于上海的具身智能机器人公司飒智智能连续完成A++轮及A+++轮融资，累计金额达数亿元，其自主研发的SAGE-OS机器人操作系统与一体化控制器已实现批量工业落地，资金将用于技术研发和海外市场拓展。",
+      "importance": "高",
+      "reason": "重大商业动态：国内具身智能机器人公司获得数亿元大额融资，且产品已实现工业落地，标志着该领域商业化进程加速。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "机器人",
+        "商业化"
+      ],
+      "url": "https://36kr.com/p/3602151684604937?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-22 02:00:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 3,
+      "title": "全国首个开放式机器人租赁平台“擎天租”在上海发布",
+      "summary": "12月22日消息，全国首个开放式机器人租赁平台“擎天租”在上海正式发布，该平台已覆盖全国50个核心城市、超600家服务商，提供多品牌、多型号机器人租赁服务，旨在将高门槛的机器人使用转化为便捷的共享租赁模式。",
+      "importance": "高",
+      "reason": "重大产品发布：全国首个开放式机器人租赁平台发布，是推动机器人规模化应用和降低使用门槛的重要商业创新。",
+      "tags": [
+        "机器人",
+        "租赁平台",
+        "商业化",
+        "生态化"
+      ],
+      "url": "https://36kr.com/p/3604613279237380?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 01:23:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 4,
+      "title": "「Tokens 经济」引领 AI 产业化落地，火山引擎凭什么后来居上",
+      "summary": "12月22日消息，字节跳动旗下火山引擎宣布其豆包大模型日均Tokens使用量已突破50万亿，居中国第一、全球第三，并发布了豆包大模型1.8等系列模型，标志着其在大模型服务（MaaS）市场已成为不可忽视的力量。",
+      "importance": "高",
+      "reason": "重大产品发布与商业动态：中国头部云厂商公布其大模型核心使用指标（Tokens）的领先地位，并发布新版模型，是衡量国内大模型产业落地进展的关键信号。",
+      "tags": [
+        "大模型",
+        "火山引擎",
+        "商业化",
+        "Tokens"
+      ],
+      "url": "https://36kr.com/newsflashes/3606410953360649?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-22 07:50:56",
+      "impact_score": 234.0
+    },
+    {
+      "index": 5,
+      "title": "九年换八位CEO！长城汽车哈弗总经理赵永坡接任魏牌CEO；账上超十亿美金，MiniMax叩响港股大门；全球首款2nm手机芯片诞生",
+      "summary": "12月22日消息，中国AI独角兽MiniMax已通过港交所上市聆讯，其账上现金超过10亿美元，并获得阿里、腾讯等巨头投资，正式叩响港股大门，成为冲刺最快上市的AI公司之一。",
+      "importance": "高",
+      "reason": "重大商业动态：国内顶尖大模型公司MiniMax启动港股上市进程，是AI产业资本化的重要里程碑事件。",
+      "tags": [
+        "上市",
+        "MiniMax",
+        "融资",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/ai/zqkaPu1It4WVaiBs.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-22 03:25:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 6,
+      "title": "构建具身智能数据基础设施，「诺亦腾机器人」完成Pre-A+轮融资",
+      "summary": "12月22日消息，诺亦腾机器人（Noitom Robotics）近日完成Pre-A+轮融资，由启明创投等机构领投，累计募集资金已达数亿元人民币，资金将主要用于具身智能所需的多模态数据基础设施的研发与建设。",
+      "importance": "中",
+      "reason": "重大商业动态：国内公司获得融资，专注于AI产业关键的具身智能数据基础设施领域，对产业发展有支撑作用。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "数据基础设施",
+        "诺亦腾"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/7erVa3A6q6yEqhiM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-22 03:36:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "火线解析MiniMax招股书！全球领先大模型成本只有OpenAI 1%，果然拳怕少壮",
+      "summary": "12月22日消息，根据其招股书披露，中国大模型公司MiniMax展现出极高的成本效率，其全球领先的大模型运营成本据称仅为OpenAI的1%，凸显了其在技术效率和商业化路径上的独特竞争力。",
+      "importance": "中",
+      "reason": "重大商业动态：揭示了国内头部AI公司在技术成本和运营效率上的潜在优势，是评估其商业竞争力的关键信息。",
+      "tags": [
+        "MiniMax",
+        "成本",
+        "商业化",
+        "大模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3606428751561733?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-22 08:15:02",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "阿里开源全新图像模型Qwen-Image-Layered，可实现PS级图层精准编辑生成",
+      "summary": "12月22日消息，阿里巴巴开源了全新的图像模型Qwen-Image-Layered，该模型实现了从“像素预测”到“结构重组”的范式转变，能够进行Photoshop级别的图层精准编辑与生成，推动了视觉大模型的技术边界。",
+      "importance": "中",
+      "reason": "重大学术/产品突破：国内科技巨头开源突破性图像生成模型，代表了在视觉AI领域的重要技术进步。",
+      "tags": [
+        "开源",
+        "图像模型",
+        "阿里巴巴",
+        "技术突破"
+      ],
+      "url": "https://36kr.com/p/3602557343908871?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-22 01:30:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "MiniMax海螺视频团队首次开源：Tokenizer也具备明确的Scaling Law",
+      "summary": "12月22日消息，MiniMax旗下海螺视频团队首次开源其视觉分词器预训练框架VTP，并验证了视觉Tokenizer同样遵循明确的Scaling Law规律，为视觉大模型的训练提供了重要的开源工具与理论依据。",
+      "importance": "中",
+      "reason": "重大学术突破：国内AI团队在视觉模型基础研究上取得进展并开源核心框架，对学术界和产业界均有贡献。",
+      "tags": [
+        "开源",
+        "MiniMax",
+        "视觉模型",
+        "Scaling Law"
+      ],
+      "url": "https://www.leiphone.com/category/chips/ve30PoZewrgUJf5W.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-22 03:58:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "AI生成操作系统新突破！上海交大提出文件系统开发新范式：从此只需写规约",
+      "summary": "12月22日消息，上海交通大学的研究团队提出了一种操作系统文件系统开发的新范式，开发者只需编写设计规约，剩下的代码实现工作可交由AI完成，这标志着AI在底层系统软件开发领域取得了新的突破。",
+      "importance": "中",
+      "reason": "重大学术突破：中国顶尖研究机构在AI for Systems领域取得突破性研究成果，具有重要的学术和产业应用潜力。",
+      "tags": [
+        "上海交大",
+        "AI生成",
+        "操作系统",
+        "学术突破"
+      ],
+      "url": "https://www.qbitai.com/2025/12/363445.html",
+      "source": "量子位",
+      "original_pub_date": "2025-12-21 15:20:30",
+      "impact_score": 157.5
+    },
+    {
+      "index": 11,
+      "title": "SGLang原生支持昇腾，新模型一键拉起无需改代码",
+      "summary": "12月22日消息，高性能大模型推理框架SGLang现已原生支持华为昇腾AI处理器，这意味着开发者可以在昇腾硬件上无缝运行新模型，实现“一键拉起”而无需修改代码，降低了国产AI算力的使用门槛。",
+      "importance": "中",
+      "reason": "重大产品发布：关键AI软件框架实现对国产主流AI芯片（华为昇腾）的原生支持，是构建国内AI算力生态的重要一环。",
+      "tags": [
+        "昇腾",
+        "华为",
+        "推理框架",
+        "生态建设"
+      ],
+      "url": "https://www.qbitai.com/2025/12/363681.html",
+      "source": "量子位",
+      "original_pub_date": "2025-12-22 07:48:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "智元机器人邓泰华：今年销售收入有望超10亿元",
+      "summary": "12月22日消息，智元机器人创始人邓泰华透露，公司今年有望实现5000台机器人出货，销售收入预计超过10亿元人民币，并看好具身智能未来将成为工业品领域最大的单品市场。",
+      "importance": "中",
+      "reason": "重大商业动态：国内明星机器人公司公布其年度营收预期，展现了具身智能机器人赛道的商业化进展和市场规模。",
+      "tags": [
+        "智元机器人",
+        "销售收入",
+        "商业化",
+        "具身智能"
+      ],
+      "url": "https://www.qbitai.com/2025/12/363586.html",
+      "source": "量子位",
+      "original_pub_date": "2025-12-22 05:02:28",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "王晓刚和他的“世界模型”：一人管十狗，先让四足机器人上街干活｜智能涌现专访",
+      "summary": "12月22日消息，商汤科技联合创始人王晓刚创立的大晓机器人发布了其机器狗产品，该产品基于“世界模型”技术，已开始在城市管理场景中落地测试，实现单人远程管理多台机器狗执行巡查等任务。",
+      "importance": "中",
+      "reason": "重大产品发布与商业动态：国内AI领军人物创业项目发布具身智能产品并进入实际应用测试阶段，是技术落地的重要观察点。",
+      "tags": [
+        "大晓机器人",
+        "机器狗",
+        "世界模型",
+        "商业化落地"
+      ],
+      "url": "https://36kr.com/p/3605941177304071?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 23:57:12",
+      "impact_score": 147.0
+    },
+    {
+      "index": 14,
+      "title": "萝卜快跑将于2026年在英国伦敦开启无人驾驶测试及出行服务",
+      "summary": "12月22日消息，百度旗下无人驾驶出行服务平台“萝卜快跑”宣布，将于2026年在英国伦敦开启无人驾驶测试及出行服务，这是该服务首次进入中国香港以外的右舵市场，标志着中国自动驾驶技术的出海进程。",
+      "importance": "中",
+      "reason": "重大商业动态：中国领先的自动驾驶公司宣布进入欧洲核心市场，是国内AI技术出海和国际商业化拓展的重要一步。",
+      "tags": [
+        "百度",
+        "自动驾驶",
+        "出海",
+        "萝卜快跑"
+      ],
+      "url": "https://www.qbitai.com/2025/12/363431.html",
+      "source": "量子位",
+      "original_pub_date": "2025-12-21 14:39:07",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "华为：搭载鸿蒙5及鸿蒙6终端设备数超3200万",
+      "summary": "12月22日消息，华为终端宣布，搭载其自主研发的HarmonyOS 5及HarmonyOS 6的终端设备数量已突破3200万台，显示了鸿蒙操作系统在AI时代终端生态建设上取得的快速进展。",
+      "importance": "中",
+      "reason": "重大产品动态：国内科技巨头公布其核心操作系统的最新装机数据，反映了其在构建独立AI生态方面的用户基础和进展。",
+      "tags": [
+        "华为",
+        "鸿蒙系统",
+        "操作系统",
+        "生态"
+      ],
+      "url": "https://36kr.com/p/3606096999154953?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-22 02:34:36",
+      "impact_score": 140.5
+    },
+    {
+      "index": 16,
+      "title": "千问加速进入AI硬件：再上新两款夸克AI眼镜，最低1999元",
+      "summary": "12月22日消息，阿里巴巴旗下夸克发布两款新的AI眼镜，其中G1风尚眉框款最低到手价降至1999元，大幅降低了AI随身硬件的门槛，同时保持旗舰级配置并深度集成千问AI助手，加速AI硬件普及。",
+      "importance": "低",
+      "reason": "重大产品发布：国内互联网巨头以亲民价格推出AI硬件新品，是推动AI技术消费级应用和硬件生态竞争的重要动作。",
+      "tags": [
+        "阿里巴巴",
+        "AI眼镜",
+        "硬件",
+        "千问"
+      ],
+      "url": "https://www.qbitai.com/2025/12/363560.html",
+      "source": "量子位",
+      "original_pub_date": "2025-12-22 02:36:28",
+      "impact_score": 135.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval",
+      "summary": "12月22日消息，一项名为MemoryGraft的研究揭示了大型语言模型（LLM）智能体在长期记忆和检索增强生成（RAG）机制中存在的严重安全漏洞，攻击者可通过投毒经验检索实现对其的持久性控制，这为AI智能体的安全部署敲响了警钟。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】类别，揭示了LLM智能体在核心学习机制（经验检索）上的重大安全风险，对AI安全领域具有重要警示意义。",
+      "tags": [
+        "安全",
+        "LLM",
+        "智能体"
+      ],
+      "url": "https://arxiv.org/abs/2512.16969",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 2,
+      "title": "Unexpected Knowledge: Auditing Wikipedia and Grokipedia Search Recommendations",
+      "summary": "12月22日消息，一项研究对传统百科全书维基百科与新兴的完全由AI生成的百科全书Grokipedia进行了审计与比较，旨在评估AI生成内容平台作为信息门户的可靠性及其可能带来的知识偏差风险。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】类别，涉及AI生成内容（AIGC）对公共知识库和信息生态的潜在影响，是当前AI伦理与治理的核心议题。",
+      "tags": [
+        "AI伦理",
+        "AIGC",
+        "信息生态"
+      ],
+      "url": "https://arxiv.org/abs/2512.17145",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 3,
+      "title": "Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats",
+      "summary": "12月22日消息，研究首次系统性地分析了具备智能体AI能力的车辆（AgV）所面临的安全风险，涵盖了从认知层（如记忆、推理）到跨系统层的威胁，为自动驾驶与智能座舱的安全设计提供了关键洞见。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】类别，将AI智能体安全风险与汽车这一关键物理系统结合，涉及人身安全，重要性极高。",
+      "tags": [
+        "AI安全",
+        "自动驾驶",
+        "智能体"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-22 07:40:51",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "US mortgage lenders insure against artificial intelligence screening errors",
+      "summary": "12月22日消息，以慕尼黑再保险为代表的保险公司开始为美国抵押贷款机构提供针对人工智能筛查错误的保险产品，此举旨在帮助金融机构管理AI决策风险，并可能降低其资本金要求。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】，反映了AI在关键金融领域（信贷）深度应用后催生的新型风险管理与保险市场，是AI商业化进程中的重要标志。",
+      "tags": [
+        "AI金融",
+        "风险管理",
+        "保险"
+      ],
+      "url": "https://arxiv.org/abs/2512.16962",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 5,
+      "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "summary": "12月22日消息，研究人员提出了一个基于科学家工作流程的“科学通用智能”评估框架，旨在系统性地测试大型语言模型是否具备跨科学领域自主构思、研究和推理的能力，为衡量AI的科学研究潜力设立了新标准。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】，提出了评估AI科学能力的新框架和定义，对推动AI在科学发现中的应用有重要意义。",
+      "tags": [
+        "科学AI",
+        "评估基准",
+        "LLM"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-21/y2k-iphones-and-ai-25-years-of-tech-innovation-and-what-comes-next",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-21 15:04:15",
+      "impact_score": 142.5
+    },
+    {
+      "index": 6,
+      "title": "Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty",
+      "summary": "12月22日消息，研究受所罗门诺夫归纳法启发，提出了一种利用大型语言模型在数据稀疏的不确定环境下进行假设排序与预测的新方法，旨在平衡预测准确性与假设简洁性，提升AI的泛化推理能力。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】，结合了经典AI理论（所罗门诺夫归纳法）与前沿LLM技术，针对不确定性推理这一核心挑战提出新思路。",
+      "tags": [
+        "推理",
+        "不确定性",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2512.17559",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 7,
+      "title": "Towards Explainable Conversational AI for Early Diagnosis with Large Language Models",
+      "summary": "12月22日消息，研究致力于开发基于大型语言模型的可解释对话式AI，用于辅助早期疾病诊断，旨在解决全球医疗系统面临的诊断效率低下、成本高昂及专家资源有限等核心挑战。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】，将LLM与可解释AI结合应用于医疗诊断这一高价值且敏感的领域，具有重要的社会价值和学术意义。",
+      "tags": [
+        "AI医疗",
+        "可解释AI",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2512.16970",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 8,
+      "title": "PAACE: A Plan-Aware Automated Agent Context Engineering Framework",
+      "summary": "12月22日消息，研究人员提出了PAACE框架，这是一个面向复杂多步骤工作流的、具备计划感知能力的自动化智能体上下文工程框架，旨在高效管理LLM智能体在规划、工具使用和反思中产生的爆炸性增长的上下文信息。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】，针对LLM智能体在实际部署中的核心工程挑战（上下文管理）提出了系统性解决方案，对推动智能体实用化至关重要。",
+      "tags": [
+        "智能体",
+        "工程框架",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2512.17043",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 9,
+      "title": "Uber, Lyft set to trial robotaxis in the UK in partnership with China's Baidu",
+      "summary": "12月22日消息，美国出行公司优步和Lyft宣布，将与中国科技公司百度合作，于明年在英国伦敦启动自动驾驶出租车的测试运营，标志着全球自动驾驶商业化的竞争进入新阶段。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，主体为美国公司Uber和Lyft（国际动态），涉及自动驾驶这一前沿领域的重要跨国合作与测试，商业影响显著。",
+      "tags": [
+        "自动驾驶",
+        "Robotaxi",
+        "跨国合作"
+      ],
+      "url": "https://arxiv.org/abs/2512.17194",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 10,
+      "title": "Permira, Warburg Agree to Buy Clearwater Analytics for $8.4 Billion",
+      "summary": "12月22日消息，由Permira和Warburg Pincus领衔的私募财团已同意以84亿美元（含债务）的价格收购投资与会计软件提供商Clearwater Analytics，这是科技金融领域一笔巨额并购交易。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，涉及巨额并购（84亿美元），虽然Clearwater不完全是AI公司，但其软件服务与金融数据分析紧密相关，反映了资本对数据智能领域的持续押注。",
+      "tags": [
+        "并购",
+        "私募",
+        "金融科技"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-21/chinese-chipmakers-race-to-ipo-after-back-to-back-listings-surge",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-21 23:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally",
+      "summary": "12月22日消息，一项全球性研究发现，拟人化的AI设计虽然普遍增加了用户对其的人格化感知，但在用户参与度和信任度上却产生了截然不同的结果，凸显了AI交互设计需考虑文化差异的复杂性。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】中的伦理与用户体验研究，揭示了AI拟人化设计的全球性差异影响，对产品全球化部署有参考价值。",
+      "tags": [
+        "AI伦理",
+        "人机交互",
+        "全球化"
+      ],
+      "url": "https://arxiv.org/abs/2512.16975",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 12,
+      "title": "A Women's Health Benchmark for Large Language Models",
+      "summary": "12月22日消息，研究人员发布了首个专注于女性健康的大型语言模型评测基准，旨在系统评估LLMs在提供女性健康信息时的准确性与可靠性，以应对其作为数亿用户健康信息源时可能存在的知识盲区与偏见。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】及学术研究，针对LLM在特定关键领域（女性健康）的公平性与准确性进行评估，具有社会意义。",
+      "tags": [
+        "AI公平性",
+        "医疗健康",
+        "评估基准"
+      ],
+      "url": "https://arxiv.org/abs/2512.17027",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-22 05:00:00",
+      "impact_score": 120.0
+    }
+  ],
+  "summary": "今日从98条原始信息中精选出16条国内动态和12条国际动态，其中9条为高重要性。 重点关注：清华系具身大脑公司获近亿元融资，预计2026年接入设备达十万台以上｜硬氪首发；具身智能老炮再获数亿融资，移动多臂机器人已批量工业落地｜36氪首发；全国首个开放式机器人租赁平台“擎天租”在上海发布。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 52,
+    "raw_total": 98,
+    "final_domestic": 16,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "12月22日消息，孵化自清华大学类脑中心的北京千诀科技有限公司完成近亿元Pre-A++轮融资，该公司专注于具身智能决策与规划大模型的研发，其生态位对标美国头部企业Physical Intelligence，融资将用于技术研发和全球商业化拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月22日消息，总部位于上海的具身智能机器人公司飒智智能连续完成A++轮及A+++轮融资，累计金额达数亿元，其自主研发的SAGE-OS机器人操作系统与一体化控制器已实现批量工业落地，资金将用于技术研发和海外市场拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月22日消息，全国首个开放式机器人租赁平台“擎天租”在上海正式发布，该平台已覆盖全国50个核心城市、超600家服务商，提供多品牌、多型号机器人租赁服务，旨在将高门槛的机器人使用转化为便捷的共享租赁模式。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月22日消息，字节跳动旗下火山引擎宣布其豆包大模型日均Tokens使用量已突破50万亿，居中国第一、全球第三，并发布了豆包大模型1.8等系列模型，标志着其在大模型服务（MaaS）市场已成为不可忽视的力量。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月22日消息，中国AI独角兽MiniMax已通过港交所上市聆讯，其账上现金超过10亿美元，并获得阿里、腾讯等巨头投资，正式叩响港股大门，成为冲刺最快上市的AI公司之一。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "12月22日消息，一项名为MemoryGraft的研究揭示了大型语言模型（LLM）智能体在长期记忆和检索增强生成（RAG）机制中存在的严重安全漏洞，攻击者可通过投毒经验检索实现对其的持久性控制，这为AI智能体的安全部署敲响了警钟。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月22日消息，一项研究对传统百科全书维基百科与新兴的完全由AI生成的百科全书Grokipedia进行了审计与比较，旨在评估AI生成内容平台作为信息门户的可靠性及其可能带来的知识偏差风险。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月22日消息，研究首次系统性地分析了具备智能体AI能力的车辆（AgV）所面临的安全风险，涵盖了从认知层（如记忆、推理）到跨系统层的威胁，为自动驾驶与智能座舱的安全设计提供了关键洞见。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月22日消息，以慕尼黑再保险为代表的保险公司开始为美国抵押贷款机构提供针对人工智能筛查错误的保险产品，此举旨在帮助金融机构管理AI决策风险，并可能降低其资本金要求。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月22日消息，研究人员提出了一个基于科学家工作流程的“科学通用智能”评估框架，旨在系统性地测试大型语言模型是否具备跨科学领域自主构思、研究和推理的能力，为衡量AI的科学研究潜力设立了新标准。",
+      "importance": "中"
+    }
+  ]
+}
