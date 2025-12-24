@@ -1,0 +1,563 @@
+{
+  "date": "2025-12-24",
+  "generated_at": "2025-12-24 08:36:18",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "传字节拿下春晚独家AI云合作；美国将大疆列入受控清单，中方、大疆回应；段永平牵头OPPO、vivo重组造车？众泰回应：目前没合作",
+      "summary": "12月24日消息，字节跳动据传已拿下2026年央视春晚独家AI云合作，这标志着中国头部科技公司在国家级重大活动中AI技术应用的关键突破，同时美国将大疆列入受控清单引发中方及大疆的正式回应。",
+      "importance": "高",
+      "reason": "涉及中国头部科技公司（字节跳动）的重大商业合作，以及中国公司（大疆）面临的重大国际政策与安全事件，符合重大商业动态和安全与伦理标准。",
+      "tags": [
+        "字节跳动",
+        "春晚",
+        "AI云合作",
+        "大疆",
+        "出口管制"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/D155oMtFju7xAJBd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-24 03:42:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 2,
+      "title": "“商汤系”跑出一堆独角兽，可闫俊杰无法复制",
+      "summary": "12月24日消息，商汤科技孵化的AI独角兽MiniMax与智谱AI已通过港交所聆讯并发布招股书，即将上市，这标志着中国AI创业生态的成熟与资本市场的关键进展。",
+      "importance": "高",
+      "reason": "涉及中国顶尖AI公司（商汤、MiniMax、智谱AI）的重大商业动态（上市），符合重大商业动态标准。",
+      "tags": [
+        "商汤科技",
+        "MiniMax",
+        "智谱AI",
+        "上市",
+        "独角兽"
+      ],
+      "url": "https://36kr.com/p/3609258452141057?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-24 08:12:06",
+      "impact_score": 322.5
+    },
+    {
+      "index": 3,
+      "title": "央行等八部门联合发布《关于金融支持加快西部陆海新通道建设的意见》",
+      "summary": "12月24日消息，中国人民银行等八部门联合发布金融支持西部陆海新通道建设的意见，提出21条举措以完善金融组织协作、构建高质量资金融通体系并建设数字金融服务平台。",
+      "importance": "高",
+      "reason": "中国政府多部门联合发布的重要金融政策文件，涉及数字金融服务平台建设，属于重大政策与法规。",
+      "tags": [
+        "中国人民银行",
+        "金融政策",
+        "数字金融",
+        "西部陆海新通道"
+      ],
+      "url": "https://36kr.com/newsflashes/3609228338021380?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-24 07:36:55",
+      "impact_score": 279.0
+    },
+    {
+      "index": 4,
+      "title": "阿里Z-Image登顶开源图像生成模型榜单，1秒就能生图",
+      "summary": "12月24日消息，阿里巴巴的6B参数Z-Image Turbo模型在全球权威AI基准测试中超越FLUX.2，登顶开源图像生成模型榜单，成为性能最强、速度最快的开源图像模型之一。",
+      "importance": "高",
+      "reason": "中国头部科技公司（阿里巴巴）在核心AI模型（图像生成）上取得突破性性能成果，属于重大学术/技术突破。",
+      "tags": [
+        "阿里巴巴",
+        "Z-Image Turbo",
+        "图像生成",
+        "SOTA",
+        "开源模型"
+      ],
+      "url": "https://36kr.com/p/3608882030593282?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-24 01:45:20",
+      "impact_score": 245.0
+    },
+    {
+      "index": 5,
+      "title": "QM发布最新AI应用周活榜：豆包、DeepSeek、元宝、阿福位列前四，灵光进前十",
+      "summary": "12月24日消息，QuestMobile报告显示，中国AI应用市场格局初定，字节跳动豆包、深度求索DeepSeek、昆仑万维元宝及蚂蚁阿福位列周活前四，反映出国内AI应用生态的激烈竞争与用户采纳度。",
+      "importance": "中",
+      "reason": "反映了中国AI应用市场的竞争格局和用户规模，涉及多家中国主要AI公司（字节、深度求索、蚂蚁等）的产品动态，属于重要的商业与市场动态。",
+      "tags": [
+        "豆包",
+        "DeepSeek",
+        "元宝",
+        "AI应用",
+        "周活跃用户"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fTFFcTxUg5bpmOm6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-24 02:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "腾讯云Valkey社区贡献位居全球第一，率先在国内支持8.0版本",
+      "summary": "12月24日消息，腾讯云宣布在国内率先支持并发布开源内存数据库Valkey 8.0版本，且其在该项目的社区代码贡献量位居全球第一，成为推动这一关键基础软件发展的核心力量。",
+      "importance": "中",
+      "reason": "中国头部科技公司（腾讯）在关键开源基础软件领域取得领先地位并发布重要版本，属于重大产品发布与技术贡献。",
+      "tags": [
+        "腾讯云",
+        "Valkey",
+        "开源数据库",
+        "社区贡献",
+        "版本发布"
+      ],
+      "url": "https://36kr.com/p/3608893291856899?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-24 01:56:51",
+      "impact_score": 236.0
+    },
+    {
+      "index": 7,
+      "title": "AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA",
+      "summary": "12月24日消息，中国AI独角兽MiniMax发布其M2.1模型，在多项多语言编程基准测试中取得SOTA（State-of-the-Art）性能，标志着其在AI编程能力上的重大突破。",
+      "importance": "中",
+      "reason": "中国AI公司（MiniMax）在AI编程这一关键领域取得突破性研究成果（SOTA），属于重大学术/技术突破。",
+      "tags": [
+        "MiniMax",
+        "AI编程",
+        "代码生成",
+        "SOTA",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/J6u9dJsiqdUAB70b.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 02:03:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 8,
+      "title": "钉钉疯人院，跑出三个爆款",
+      "summary": "12月24日消息，钉钉发布AI 1.1版本，推出了DingTalk A1、AI表格、AI听记三款爆品，并发布了全球首个为AI打造的工作智能操作系统Agent OS，标志着其向AI原生工作平台的全面转型。",
+      "importance": "中",
+      "reason": "中国头部企业办公平台（钉钉/阿里巴巴）发布重大产品更新及新操作系统，属于重大产品发布。",
+      "tags": [
+        "钉钉",
+        "阿里巴巴",
+        "AI办公",
+        "Agent OS",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/eTSgW7YOHtWf6MSM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 02:42:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "阿里升级新一代语音模型Qwen3-TTS，可参考文字、声音生成拟人音色",
+      "summary": "12月24日消息，阿里巴巴升级其语音模型家族，发布Qwen3-TTS-VD和Qwen3-TTS-VC两款新模型，可实现DIY声音设计和像素级音色克隆，大幅提升语音合成的自然度和创造性。",
+      "importance": "中",
+      "reason": "中国头部科技公司（阿里巴巴）在语音大模型领域发布重要升级产品，属于重大产品发布。",
+      "tags": [
+        "阿里巴巴",
+        "Qwen",
+        "TTS",
+        "语音合成",
+        "音色克隆"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/bvLIIT3vKwLCr28A.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 03:17:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "《鼓励外商投资产业目录（2025年版）》发布，优化对外资的方向性引导",
+      "summary": "12月24日消息，国家发展改革委、商务部发布《鼓励外商投资产业目录（2025年版）》，总条目增至1679条，通过优化引导以提高引资质量，完善外商投资在中国的区域布局。",
+      "importance": "中",
+      "reason": "中国国家部委发布的重要外商投资指导政策，属于重大政策与法规，对包括AI在内的科技产业引进外资有导向作用。",
+      "tags": [
+        "国家发改委",
+        "商务部",
+        "外商投资",
+        "产业目录",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/chips/VEsWAEveZYGcAYrG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 02:19:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 11,
+      "title": "从700万粉丝IP到千台实体售罄，这家公司想做“原生机器人IP”的长期陪伴｜36氪首发",
+      "summary": "12月24日消息，杭州二白智能科技有限公司完成千万级天使轮融资，资金将用于其“二白Mini”随身陪伴机器人的量产交付与长期陪伴能力相关的模型与系统研发。",
+      "importance": "低",
+      "reason": "中国AI机器人初创公司获得融资，属于商业动态，但融资额和公司影响力相对较小。",
+      "tags": [
+        "二白智能",
+        "机器人",
+        "天使轮融资",
+        "陪伴机器人"
+      ],
+      "url": "https://36kr.com/newsflashes/3609202011571208?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-24 07:10:08",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "贾佳亚教授：模型不必一味求大！优化神经元连接方式同样是智能跃升的「关键密码」丨GAIR 2025",
+      "summary": "12月24日消息，香港科技大学贾佳亚教授在GAIR 2025大会上发表前沿观点，指出优化神经元连接方式是AI智能跃升的关键，为中国AI学术研究提供了重要思路。",
+      "importance": "低",
+      "reason": "中国知名学者（香港科技大学教授）在重要国内AI会议上分享学术观点，属于学术动态，但非具体突破性成果发布。",
+      "tags": [
+        "贾佳亚",
+        "香港科技大学",
+        "GAIR",
+        "AI研究",
+        "模型优化"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TUtriG1DUMBLiX6Z.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 08:19:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "深圳AI扫描仪卖进美国国会，全球年销过亿 | Insight全球",
+      "summary": "12月24日消息，深圳AI办公硬件公司成者（CZUR）凭借AI扫描仪成功打入全球政企市场，并投入近2亿元研发AI会议产品，展现了中国AI硬件出海的创新实力。",
+      "importance": "低",
+      "reason": "中国AI硬件公司（成者科技）的商业成功故事和研发投入，属于商业动态，但非里程碑式事件。",
+      "tags": [
+        "成者科技",
+        "AI硬件",
+        "出海",
+        "扫描仪",
+        "深圳"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/tzGQqDIPxyCPfBFQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 07:20:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "“黑五”小胜后，速卖通疑似对亚马逊下“战书” 1月7日杭州见！",
+      "summary": "12月24日消息，阿里巴巴旗下速卖通发布海报，疑似公开挑战亚马逊，并计划于1月7日在杭州举办品牌出海大会，标志着中国电商平台在跨境领域的竞争升级。",
+      "importance": "低",
+      "reason": "中国公司（阿里巴巴/速卖通）的商业营销和竞争动态，属于商业动态，但具体大会尚未召开，影响力待观察。",
+      "tags": [
+        "速卖通",
+        "阿里巴巴",
+        "出海",
+        "跨境电商",
+        "竞争"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/IF2o3c95gQt2GvHb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-24 02:01:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "声智科技多模态AI时尚耳机正式发布",
+      "summary": "12月24日消息，中国AI公司声智科技宣布其多模态AI时尚耳机在海外众筹平台Kickstarter全球首发，该产品定位“随身感知工具”，具备声视融合能力。",
+      "importance": "低",
+      "reason": "中国AI公司（声智科技）发布消费级AI硬件产品，属于产品发布，但产品处于众筹初期，市场影响力有待验证。",
+      "tags": [
+        "声智科技",
+        "AI耳机",
+        "多模态",
+        "硬件发布",
+        "Kickstarter"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/IsZKF5kA5dx7ZCzi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-23 08:54:00",
+      "impact_score": 170.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "US Sanctions Former EU Official, Others in Swipe at Europe",
+      "summary": "12月24日消息，美国特朗普政府宣布对前欧盟专员蒂埃里·布雷顿等五人实施签证制裁，指控其试图迫使美国科技公司监管其平台上的政治言论，此举被视为对欧洲的直接打击。",
+      "importance": "高",
+      "reason": "属于重大政策与法规，涉及美国政府对欧盟官员的制裁，是重要的国际政治与科技监管动态。",
+      "tags": [
+        "制裁",
+        "政策",
+        "美欧关系"
+      ],
+      "url": "https://arxiv.org/abs/2512.20344",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-24 05:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "Nvidia Buyer Megaspeed Faces Smuggling Probe | Bloomberg Tech 12/23/2025",
+      "summary": "12月24日消息，英伟达在东南亚的最大买家Megaspeed正面临芯片走私调查，此事凸显了全球AI芯片供应链的紧张局势和潜在的合规风险。",
+      "importance": "高",
+      "reason": "涉及全球AI芯片龙头英伟达的关键买家，属于重大商业动态与潜在的安全/合规事件，对产业链有直接影响。",
+      "tags": [
+        "英伟达",
+        "供应链",
+        "调查"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-23/bloomberg-tech-12-23-2025-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 20:20:47",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "ServiceNow to Buy Cyber Startup Armis for $7.75 Billion",
+      "summary": "12月24日消息，美国企业软件巨头ServiceNow宣布将以77.5亿美元收购网络安全初创公司Armis，这是该公司有史以来最大规模的收购案，旨在增强其AI驱动的安全能力。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及超过75亿美元的大型并购，且收购方是重要的企业软件与AI服务提供商。",
+      "tags": [
+        "并购",
+        "网络安全",
+        "企业软件"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-23/servicenow-agrees-to-buy-cyber-startup-armis-for-7-75-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 14:05:09",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
+      "summary": "12月24日消息，包括约翰·卡雷鲁在内的多位作者对六家主要AI公司提起新诉讼，他们拒绝了Anthropic的集体诉讼和解方案，指控LLM公司以极低成本解决高价值版权索赔。",
+      "importance": "高",
+      "reason": "属于重大安全与伦理及法规动态，涉及针对多家主流AI公司的集体诉讼，关乎AI训练数据的版权核心争议。",
+      "tags": [
+        "诉讼",
+        "版权",
+        "伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-23/mergers-in-the-cards-for-europe-s-635-billion-chemicals-sector",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 08:30:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "How social media encourages the worst of AI boosterism",
+      "summary": "12月24日消息，谷歌DeepMind CEO德米斯·哈萨比斯公开批评社交媒体助长了AI过度炒作的风气，并点名回应了OpenAI科学家关于GPT-5解决数学难题的夸大宣传，引发行业对AI宣传伦理的讨论。",
+      "importance": "高",
+      "reason": "涉及谷歌DeepMind和OpenAI两家顶级AI公司高管的公开言论与伦理争议，属于重要的安全与伦理动态。",
+      "tags": [
+        "伦理争议",
+        "谷歌DeepMind",
+        "OpenAI"
+      ],
+      "url": "https://arxiv.org/abs/2512.20333",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-24 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "ITI CEO on the Tech Industry's Roadmap for 2026",
+      "summary": "12月24日消息，美国信息技术产业协会CEO杰森·奥克斯曼讨论了数据中心建设、AI监管和科技出口限制等议题，为2026年科技行业政策走向提供了重要风向标。",
+      "importance": "中",
+      "reason": "涉及美国科技行业领袖对AI监管、出口限制等核心政策议题的展望，属于重要的政策动态。",
+      "tags": [
+        "政策展望",
+        "AI监管",
+        "出口管制"
+      ],
+      "url": "https://arxiv.org/abs/2512.20618",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-24 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "US Holds Off on New Chinese Chip Tariffs Amid Trump-Xi Truce",
+      "summary": "12月24日消息，美国在指控中国半导体行业存在不公平贸易行为的同时，决定暂缓对华芯片加征新关税，至少推迟至2027年中，此举与特朗普-习近平达成的休战协议有关。",
+      "importance": "中",
+      "reason": "属于重大政策与法规动态，涉及中美科技竞争核心的芯片关税政策，对全球半导体产业链有重要影响。",
+      "tags": [
+        "关税",
+        "中美关系",
+        "半导体"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-23/expect-account-to-account-movements-zerohash-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 20:32:41",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "summary": "12月24日消息，谷歌DeepMind发布2025年度回顾，总结了其在AI研究八个关键领域取得的突破性进展，展示了这家科技巨头在推动前沿AI技术发展方面的年度成果。",
+      "importance": "中",
+      "reason": "属于重大学术/技术突破动态，总结了谷歌这一全球AI领导者在过去一年的核心研究进展。",
+      "tags": [
+        "研究突破",
+        "谷歌",
+        "年度回顾"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-23/iti-ceo-on-the-tech-industry-s-roadmap-for-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 18:53:36",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice",
+      "summary": "12月24日消息，一项基于DeepSeek模型的研究提出了一种用于临床实践的全自动胸部X光片解读AI系统，旨在解决全球放射科医生短缺问题，并在相关评估中表现出色。",
+      "importance": "中",
+      "reason": "属于重大学术突破与应用动态，展示了AI在关键医疗领域（放射学）的最新进展和潜在影响力。",
+      "tags": [
+        "医疗AI",
+        "学术研究",
+        "多模态"
+      ],
+      "url": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2025-12-23 10:00:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 10,
+      "title": "SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization",
+      "summary": "12月24日消息，研究人员提出SynCraft框架，通过引导大语言模型预测编辑序列来优化分子的可合成性，旨在解决AI生成化学分子中大量无法合成的关键瓶颈问题。",
+      "importance": "中",
+      "reason": "属于重大学术突破，针对AI在药物发现和材料科学中生成可行分子的核心挑战提出了创新解决方案。",
+      "tags": [
+        "AI for Science",
+        "药物研发",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2512.20206",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-24 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 11,
+      "title": "LongVideoAgent: Multi-Agent Reasoning with Long Videos",
+      "摘要": "12月24日消息，研究团队提出LongVideoAgent，这是一个利用多智能体进行长视频推理的系统，旨在克服现有方法在理解小时级视频内容时存在的信息损失和时序推理弱化问题。",
+      "importance": "中",
+      "reason": "属于重大学术突破，针对多模态AI处理长视频内容这一前沿挑战提出了新的技术路径。",
+      "tags": [
+        "多模态AI",
+        "视频理解",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2512.20387",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-24 05:00:00",
+      "impact_score": 185.0,
+      "summary": "12月24日消息，"
+    },
+    {
+      "index": 12,
+      "title": "AST SpaceMobile Launches Biggest Satellite to Challenge SpaceX",
+      "summary": "12月24日消息，AST SpaceMobile公司从印度发射了其有史以来最大的卫星，这是其一系列部署中的首颗，旨在挑战埃隆·马斯克的SpaceX，为手机提供天基连接服务。",
+      "importance": "低",
+      "reason": "属于重大商业动态，涉及太空通信领域的新竞争，与未来全球连接和潜在的低轨AI计算生态相关。",
+      "tags": [
+        "太空竞赛",
+        "卫星通信",
+        "商业竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-23/servicenow-ceo-mcdermott-extends-contract-through-2030",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 22:56:25",
+      "impact_score": 180.0
+    },
+    {
+      "index": 13,
+      "title": "Hard to Define Competition in Streaming: Yale’s Scott Morton",
+      "summary": "12月24日消息，耶鲁大学经济学教授菲奥娜·斯科特·莫顿指出，在流媒体领域定义何为竞争十分困难，并讨论了这可能对Netflix收购华纳兄弟探索公司的交易产生的影响。",
+      "importance": "低",
+      "reason": "涉及学术专家对重大潜在并购（Netflix收购）的反垄断观点，属于政策与商业交叉的动态。",
+      "tags": [
+        "反垄断",
+        "流媒体",
+        "学术观点"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-23/us-sanctions-former-eu-official-others-in-new-swipe-at-europe",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-23 22:20:58",
+      "impact_score": 170.0
+    },
+    {
+      "index": 14,
+      "title": "KKR-Backed FiberCop Alleges Italian Agency Favored Rival",
+      "summary": "12月24日消息，由KKR支持的意大利宽带公司FiberCop对意大利宽带机构提出法律挑战，指控其在近40亿欧元的全国光纤网络部署中偏袒其主要竞争对手。",
+      "importance": "低",
+      "reason": "属于商业动态，涉及国际资本（KKR）在欧盟重要基础设施项目中的法律纠纷，与数字基建相关。",
+      "tags": [
+        "法律纠纷",
+        "基础设施",
+        "欧洲市场"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-24/ast-spacemobile-launches-biggest-satellite-to-challenge-spacex",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-24 04:49:10",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从162条原始信息中精选出15条国内动态和14条国际动态，其中9条为高重要性。 重点关注：传字节拿下春晚独家AI云合作；美国将大疆列入受控清单，中方、大疆回应；段永平牵头OPPO、vivo重组造车？众泰回应：目前没合作；“商汤系”跑出一堆独角兽，可闫俊杰无法复制；央行等八部门联合发布《关于金融支持加快西部陆海新通道建设的意见》。",
+  "statistics": {
+    "raw_domestic": 58,
+    "raw_international": 104,
+    "raw_total": 162,
+    "final_domestic": 15,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "12月24日消息，字节跳动据传已拿下2026年央视春晚独家AI云合作，这标志着中国头部科技公司在国家级重大活动中AI技术应用的关键突破，同时美国将大疆列入受控清单引发中方及大疆的正式回应。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月24日消息，商汤科技孵化的AI独角兽MiniMax与智谱AI已通过港交所聆讯并发布招股书，即将上市，这标志着中国AI创业生态的成熟与资本市场的关键进展。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月24日消息，中国人民银行等八部门联合发布金融支持西部陆海新通道建设的意见，提出21条举措以完善金融组织协作、构建高质量资金融通体系并建设数字金融服务平台。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月24日消息，阿里巴巴的6B参数Z-Image Turbo模型在全球权威AI基准测试中超越FLUX.2，登顶开源图像生成模型榜单，成为性能最强、速度最快的开源图像模型之一。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月24日消息，QuestMobile报告显示，中国AI应用市场格局初定，字节跳动豆包、深度求索DeepSeek、昆仑万维元宝及蚂蚁阿福位列周活前四，反映出国内AI应用生态的激烈竞争与用户采纳度。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "12月24日消息，美国特朗普政府宣布对前欧盟专员蒂埃里·布雷顿等五人实施签证制裁，指控其试图迫使美国科技公司监管其平台上的政治言论，此举被视为对欧洲的直接打击。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月24日消息，英伟达在东南亚的最大买家Megaspeed正面临芯片走私调查，此事凸显了全球AI芯片供应链的紧张局势和潜在的合规风险。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月24日消息，美国企业软件巨头ServiceNow宣布将以77.5亿美元收购网络安全初创公司Armis，这是该公司有史以来最大规模的收购案，旨在增强其AI驱动的安全能力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月24日消息，包括约翰·卡雷鲁在内的多位作者对六家主要AI公司提起新诉讼，他们拒绝了Anthropic的集体诉讼和解方案，指控LLM公司以极低成本解决高价值版权索赔。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月24日消息，谷歌DeepMind CEO德米斯·哈萨比斯公开批评社交媒体助长了AI过度炒作的风气，并点名回应了OpenAI科学家关于GPT-5解决数学难题的夸大宣传，引发行业对AI宣传伦理的讨论。",
+      "importance": "高"
+    }
+  ]
+}
