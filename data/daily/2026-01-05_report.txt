@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-01-05
+生成时间: 2026-01-05 08:21:11
+数据来源: 从 102 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、1月5日消息，12月31日深夜，至知创新研究院（IQuest Research）正式发布全新一代开源代码大模型IQuest-Coder-V1系列，模型在自主性软件工程、竞赛编程等关键维度上，成为了当下开源模型SOTA。 这个“名不见经传”的研究团队2025年以“Ubiquant AI”署名了多项高质量工作，涵盖大语言模型、代码智能、医疗垂域模型、人工智能与数学等方面。在刚刚过去的人工智能领域全球核心学术会议20
+2、1月5日消息，要闻提示 1.杨立昆曝离职Meta猛料：刷分作弊，小扎愤怒，28岁新上司啥也不懂 2.破防！腾讯元宝罕见辱骂用户，官方紧急致歉 3.雷军回应小字营销：行业陋习，立刻马上就改 4.内讧升级，彻底决裂？传双星名人创始人汪海声明断绝父子关系 5.王兴兴辟谣宇树科技上市绿色通道被叫停：被人乱编的消息，别当真 6.罗马仕被曝启动重生计划：重拿新3C认证，已与红杉等接洽 7.苹果回应国行版AI灰测：未正式上线
+3、1月5日消息，36氪获悉，「微元合成」近日获近3亿元新一轮股权融资，投资方包括北京市新材料产业投资基金、北京市医药健康产业投资基金、建信投资和中关村资本。 据了解，微元合成已完成多项人类营养、动物营养产品的研发和产业化，如阿洛酮糖、叶黄素、甘露醇等。本轮融资将重点用于加快甲醇生物制造大宗生物基产品管线的研发与布局。 现阶段，以合成生物技术为基础的生物制造赛道，已从技术崇拜走向务实的产能及商业化落地。回顾过去几年
+4、1月5日消息，文｜邱晓芬 编辑｜苏建勋 朱森华是个把严谨刻进骨子里的人。 作为脑神经科学的博士后，在我们访谈当天，他将我们提供的一份访谈提纲，写成了一份七页纸、近万字的回复，当中还用字母、数字把观点分门别类，并做了图辅助理解，像是在完成一篇道地的学术论文。 研究大脑，就是研究人，这从朱森华的聊天习惯就能看出，他不会一直单方面的滔滔不绝，而是会停下来，询问我们对某些问题的看法，也会因为我的“文科出身、媒体背景”，
+5、1月5日消息，主打一个实用
+
+国际动态：
+1、1月5日消息，arXiv:2601.00024v1 Announce Type: new Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decis
+2、1月5日消息，Antitrust enforcers suffer setbacks in huge monopoly cases as judges prove reluctant to carve up businesses
+3、1月5日消息，Samsung Electronics Co. unveiled its 2026 home theater lineup, aiming to cement its position as the leading TV maker amid intensifying competition and what it described as a shift toward jumbo televis
+4、1月5日消息，Plaud is going after the likes of Granola to launch a desktop app that records online meetings
+5、1月5日消息，arXiv:2601.00003v1 Announce Type: new Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of 
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 1月5日消息，12月31日深夜，至知创新研究院（IQuest Research）正式发布全新一代开源代码大模型IQuest-Coder-V1系列，模型在自主性软件工程、竞赛编程等关键维度上，成为了当下开源模型SOTA。 这个“名不见经传”的研究团队2025年以“Ubiquant AI”署名了多项高质量工作，涵盖大语言模型、代码智能、医疗垂域模型、人工智能与数学等方面。在刚刚过去的人工智能领域全球核心学术会议20
+   📋 入选理由: 影响力评分: 385.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/wVBREQ6NB4T42tEc.html
+   🏷️ 标签: 突破, LLM, 开源, 首次, 发布
+
+2、🔥 1月5日消息，要闻提示 1.杨立昆曝离职Meta猛料：刷分作弊，小扎愤怒，28岁新上司啥也不懂 2.破防！腾讯元宝罕见辱骂用户，官方紧急致歉 3.雷军回应小字营销：行业陋习，立刻马上就改 4.内讧升级，彻底决裂？传双星名人创始人汪海声明断绝父子关系 5.王兴兴辟谣宇树科技上市绿色通道被叫停：被人乱编的消息，别当真 6.罗马仕被曝启动重生计划：重拿新3C认证，已与红杉等接洽 7.苹果回应国行版AI灰测：未正式上线
+   📋 入选理由: 影响力评分: 315.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/ll69PnRSsUumzwz3.html
+   🏷️ 标签: Llama 4, 上线, 上市, 发布, 人工智能
+
+3、🔥 1月5日消息，36氪获悉，「微元合成」近日获近3亿元新一轮股权融资，投资方包括北京市新材料产业投资基金、北京市医药健康产业投资基金、建信投资和中关村资本。 据了解，微元合成已完成多项人类营养、动物营养产品的研发和产业化，如阿洛酮糖、叶黄素、甘露醇等。本轮融资将重点用于加快甲醇生物制造大宗生物基产品管线的研发与布局。 现阶段，以合成生物技术为基础的生物制造赛道，已从技术崇拜走向务实的产能及商业化落地。回顾过去几年
+   📋 入选理由: 影响力评分: 312.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3624332622119944?f=rss
+   🏷️ 标签: 投资, 融资, 合作
+
+4、🔥 1月5日消息，文｜邱晓芬 编辑｜苏建勋 朱森华是个把严谨刻进骨子里的人。 作为脑神经科学的博士后，在我们访谈当天，他将我们提供的一份访谈提纲，写成了一份七页纸、近万字的回复，当中还用字母、数字把观点分门别类，并做了图辅助理解，像是在完成一篇道地的学术论文。 研究大脑，就是研究人，这从朱森华的聊天习惯就能看出，他不会一直单方面的滔滔不绝，而是会停下来，询问我们对某些问题的看法，也会因为我的“文科出身、媒体背景”，
+   📋 入选理由: 影响力评分: 286.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3624490892461057?f=rss
+   🏷️ 标签: 深度学习, 首次, 发布, 投资, 融资
+
+5、🔥 1月5日消息，主打一个实用
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/366548.html
+   🏷️ 标签: 开源, 昇腾
+
+6、🔥 1月5日消息，“代理SaaS？我劝你三思。” 在云业务增长趋缓的当下，雷峰网曾与不少云渠道商探讨转型可能，而提及SaaS代理，多数人几乎毫不犹豫地摇头。在他们的认知中，SaaS意味着付费意愿低、客单价薄、续费难把控。哪怕云生意再难做，许多人仍宁愿守着老路，也不愿轻易踏入这片“盐碱地”。 但总有生态玩家，看得不一样。长虹佳华是其中一个。 2025年1月，长虹佳华正式签约成为金山办公的企业总分销商，并启动了WPS 
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/eNZglvp4zVwQtvi6.html
+   🏷️ 标签: 突破, 领先, 合作, 首次
+
+7、🔥 1月5日消息，要闻提示 1.最高降30万！宝马中国回应30多款车型降价 2.超越特斯拉！比亚迪拿下纯电汽车全球第一 3.山姆与小象超市共享同一供应商？网友质疑会员卡价值，三方回应 4.壁仞科技成功在香港上市，2026年香港首个IPO 5.Kimi完成35亿融资，海外收入大涨！杨植麟：公司有超100亿现金储备 6.雷军直播回应拆车原因：希望大家说公道话，不要为了流量去故意夸大找茬 7.曝iPhone飞行途中电池鼓
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/AwgfnYlzaX07STQ9.html
+   🏷️ 标签: 超越, 突破, 上市, 融资, 雷军
+
+8、🔥 1月5日消息，作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，近日，AI智能自动化平台提供商「九科信息」完成B2轮融资，本轮融资由深圳市特区建发战略新兴产业私募创业投资基金（以下简称“特建发亚商基金”）独家领投，融资金额累计过亿元人民币。此前公司已获得包括招商局创投、金沙江创投、深创投索斯福在内的多轮投资。本轮融资将主要用于产品研发、市场拓展及出海业务布局。 「九科信息」成立于2020年，孵化于招商局集团内部，是
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3625896773240067?f=rss
+   🏷️ 标签: 突破, 投资, 融资, 大模型, AI
+
+9、🔥 1月5日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，上海织识智能科技有限公司（以下简称“尧乐科技”）已完成近亿元Pre-A轮融资，云道资本担任长期独家财务顾问。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： Pre-A轮 融资规模： 近亿元；此前已获得小米集团投资的首轮融资 投资方： 科沃斯参股的隐峰揽秀基金领投，硅港资本、初辉资本跟投 资金用途： 本轮资金将重点投向核心技术迭代、出海市
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3618139468923911?f=rss
+   🏷️ 标签: CEO, 投资, 融资, 创新
+
+10、🔥 1月5日消息，硬氪获悉，专注于智能体感游戏外设的企业「Action&Link」近日完成数百万元种子轮融资。「Action&Link」成立于2023年，其创始人戎思佳是95后，此次创业对他来说是兴趣、思考和技术的结合。我们总结了本轮融资信息和该公司几大亮点： Action&Link Portal体感控制器 1. 融资金额及投资机构 融资轮次： 种子轮 融资规模： 数百万元人民币 投资方： 真格基金 资金用途： 扩
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3624605578675206?f=rss
+   🏷️ 标签: 投资, 创新, 开放, 融资
+
+11、🔥 1月5日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳市无穹创新科技有限公司（以下简称“无穹创新”）近期连续完成三轮融资，累计金额达数千万元，Maple Pledge枫承资本长期出任独家私募融资顾问。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： 天使+轮、Pre-A及Pre-A+轮 融资规模： 数千万元 投资方： 李泽湘教授旗下的XBOTPARK基金、零以创投、元禾原点广州基金、元禾
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3590661917212678?f=rss
+   🏷️ 标签: 投资, 融资, 创新, 开源
+
+12、🔥 1月5日消息，作者 | 郑浩钧 编辑 | 王瑞昊 雷峰网《新智驾》获悉，Momenta已获长城汽车旗下两款新的车型定点，其中一款为哈弗猛龙车型。搭载Momenta方案的长城新车型预计将于2026年初上市。 知情人士透露，搭载Momenta方案的长城新车型，辅助驾驶能力定位在L2+级别，支持高速NOA和泊车辅助等功能，暂不支持城市NOA。 据了解，新车型将搭载Momenta最新的一段式端到端方案，采用与别克至境L
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/xyFSfrmntrywa71n.html
+   🏷️ 标签: 首次, 上市, CEO, 融资, 大模型
+
+13、🔥 1月5日消息，作者丨吴优 编辑丨余快 去年12月，闪极在深圳福田会展中心召开了一场声势浩大的AI眼镜发布会，创始人张波站在聚光灯下大声宣告，要做圆滑当道的锐利异类。他手里的闪极首款AI眼镜，以999元的定价击穿行业底线，一个“雷军也做不到”的价格，让这个首次涉足AI眼镜的充电宝品牌，瞬间成为科技圈的焦点。 但高光过后，闪极很快陷入致命危机。产品频发的蓝牙连接故障，让它从 “价格颠覆者” 变成行业典型案例。曾经高
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/VTmm7DpKkFXVwdkZ.html
+   🏷️ 标签: 首次, 发布, 领先, 雷军, AI
+
+14、🔥 1月5日消息，雷峰网·鲸犀独家获悉，华为天才少年李元庆已正式加入乐享科技，后续将重点负责乐享科技的创新业务战略规划与核心技术攻关。 李元庆出生于1998年，自幼对机械结构产生浓厚兴趣，童年时期常在4S店观察汽车零部件运作原理。研究生阶段先后完成扑翼飞行器气动算法、仿生脊柱控制系统等20余种机器人原型开发。 李元庆大学毕业后，专注于EVTOL设计、轨迹规划及飞控算法开发等，并搭建EVTOL OPENLOOP开环仿
+   📋 入选理由: 影响力评分: 205.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/a81F3hC4WWy0gjfQ.html
+   🏷️ 标签: 突破, 大模型, 创新
+
+15、🔥 1月5日消息，36氪获悉，正泰电器公告，公司为满足业务发展需要，深入推进国际化战略，积极借助国际资本市场拓宽多元融资渠道，拟筹划发行境外股份（H股）并在香港联合交易所有限公司上市。
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3626216508097545?f=rss
+   🏷️ 标签: 上市, 融资
+
+16、🔥 1月5日消息，国家统计局公开数据显示，2025年1-11月份，社会消费品零售总额同比增长4%，增速不仅快于上年同期，也快于上年全年。在这一宏观背景下，市场内部结构也在发生变化。 1月5日发布的《2025年百城“盒区房”消费力报告》（下称“报告”），结合2025年盒马在多地门店及入驻商圈的信息动态、灼识咨询对零售商超及城市商圈的研究观察，以商超与城市的融合视角反映了过去一年新兴市场的消费图景。 报告首次发布“盒区
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/NjeK0Hu1fLoduASo.html
+   🏷️ 标签: 突破, 发布, 首次
+
+17、🔥 1月5日消息，过亿流量扶持、专业团队指导
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/366573.html
+   🏷️ 标签: AI, 开放, 首次
+
+18、🔥 1月5日消息，今日热点导览 杨立昆谈从Meta离职原因 “i茅台”连续4天秒空，茅台批发价再度跌破1499元 汉堡王称已在紧急抢修 雷军称小米车轮子撞掉是丢轮保车 网传苹果AI启动灰度测试，苹果回应 TOP 3 大新闻 雷军回应小字营销：接受批评，小字确实是行业陋习 1月3日晚，小米集团董事长雷军进行了2026年第一场直播。此次直播中，对于小字营销一事给予了回应。 雷军在直播中称，“小字营销”是行业陋习，小米从
+   📋 入选理由: 影响力评分: 162.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3625756011217925?f=rss
+   🏷️ 标签: 上市, AI, 雷军, 发布
+
+19、🔥 1月5日消息，文｜邱晓芬 富充 编辑｜苏建勋 锤子手机被字节收购七年之后，罗永浩的年度“科技春晚”今日正式回归。 12月30日晚，“罗永浩的十字路口”年度科技创新分享大会（2025）在上海徐汇西岸国际会展中心举办。 四个多小时的发布会里，罗永浩为字节抖音精选、豆包、细红线，以及深圳六家硬件产品带货。 在发布会之前，观众对罗永浩的分享期待值拉满，开票短短两个小时内，六个档位（300-1000元）门票被抢购一空，在
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3624605624567043?f=rss
+   🏷️ 标签: 收购, 创新, 发布
+
+20、🔥 1月5日消息，
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-05
+   🏷️ 标签: SOTA, AI
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 1月5日消息，arXiv:2601.00024v1 Announce Type: new Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decis
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00024
+   🏷️ 标签: AGI, valuation, reasoning
+
+2、🔥 1月5日消息，Antitrust enforcers suffer setbacks in huge monopoly cases as judges prove reluctant to carve up businesses
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/869aae15-4c37-48a6-9a8b-d80b5d40db6a
+   🏷️ 标签: antitrust
+
+3、🔥 1月5日消息，Samsung Electronics Co. unveiled its 2026 home theater lineup, aiming to cement its position as the leading TV maker amid intensifying competition and what it described as a shift toward jumbo televis
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-05/samsung-unveils-new-supersized-color-rich-tvs-with-more-ai
+   🏷️ 标签: AI, unveils
+
+4、🔥 1月5日消息，Plaud is going after the likes of Granola to launch a desktop app that records online meetings
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/
+   🏷️ 标签: AI, launches
+
+5、🔥 1月5日消息，arXiv:2601.00003v1 Announce Type: new Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of 
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00003
+   🏷️ 标签: LLM, reasoning, fine, AI, large language model
+
+6、🔥 1月5日消息，arXiv:2601.00623v1 Announce Type: new Abstract: Direct Preference Optimization (DPO) has shown strong potential for mitigating hallucinations in Multimodal Large Language Models (MLLMs). However, exis
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00623
+   🏷️ 标签: multimodal, LLM, fine, AI, large language model
+
+7、🔥 1月5日消息，MiniMax plans to price its Hong Kong initial public offering at the top of the marketed range, people familiar with the matter said, reflecting investor enthusiasm for Chinese startups that are increa
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-05/minimax-is-said-to-plan-pricing-hong-kong-ipo-at-top-on-ai-fervor
+   🏷️ 标签: AI, IPO
+
+8、🔥 1月5日消息，Asia’s equity capital markets are expected to have another blockbuster year in 2026, building on a surge that pushed the region to the forefront of global share sales.
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-04/from-baidu-unit-to-jio-asia-s-ipo-boom-shows-no-sign-of-slowing
+   🏷️ 标签: AI, IPO
+
+9、🔥 1月5日消息，arXiv:2601.00694v1 Announce Type: new Abstract: Existing paradigms for inferring pedestrian crossing behavior, ranging from statistical models to supervised learning methods, demonstrate limited gener
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00694
+   🏷️ 标签: LLM, reasoning, introduces, AI, large language model
+
+10、🔥 1月5日消息，Subtle's new $199 earbuds will also let you dictate in any app on desktop or phone
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/
+   🏷️ 标签: releases
+
+11、🔥 1月5日消息，arXiv:2601.00004v1 Announce Type: new Abstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limited due to low access to clinicians, stigma
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00004
+   🏷️ 标签: fine, LLM, AI, large language model
+
+12、🔥 1月5日消息，arXiv:2601.00021v1 Announce Type: new Abstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constrained by conservation laws. An intelligent
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00021
+   🏷️ 标签: fine, AI
+
+13、🔥 1月5日消息，arXiv:2601.00029v1 Announce Type: new Abstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacular form. Using the Iranian pigeon tower a
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00029
+   🏷️ 标签: AI, valuation, reasoning
+
+14、🔥 1月5日消息，arXiv:2601.00097v1 Announce Type: new Abstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from raw text. The causal learning or extraction 
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00097
+   🏷️ 标签: fine, LLM
+
+15、🔥 1月5日消息，arXiv:2601.00105v1 Announce Type: new Abstract: We present Mortar, a system for autonomously evolving game mechanics for automatic game design. Game mechanics define the rules and interactions that go
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00105
+   🏷️ 标签: fine, large language model
+
+16、🔥 1月5日消息，arXiv:2601.00290v1 Announce Type: new Abstract: Clinical trial failure remains a central bottleneck in drug development, where minor protocol design flaws can irreversibly compromise outcomes despite 
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00290
+   🏷️ 标签: AI, valuation, reasoning
+
+17、🔥 1月5日消息，arXiv:2601.00475v1 Announce Type: new Abstract: The generation of truly novel and diverse ideas is important for contemporary engineering design, yet it remains a significant cognitive challenge for n
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00475
+   🏷️ 标签: fine, AI
+
+18、🔥 1月5日消息，arXiv:2601.00743v1 Announce Type: new Abstract: Integrating symbolic constraints into deep learning models could make them more robust, interpretable, and data-efficient. Still, it remains a time-cons
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00743
+   🏷️ 标签: fine, AI, deep learning
+
+19、🔥 1月5日消息，arXiv:2601.00121v1 Announce Type: new Abstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to deploy advanced optimization methods. Thi
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00121
+   🏷️ 标签: LLM, AI, large language model, reasoning
+
+20、🔥 1月5日消息，arXiv:2601.00125v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit persistent logical failures in complex reasoning due to the lack of an internal axiomatic framework. We propose Mat
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.00125
+   🏷️ 标签: LLM, AI, large language model, reasoning
+
+
+======================================================================
+📊 今日总结: 今日从102条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：破圈还是回归？九坤创始团队成立至知创新研究院；雷军回应小字营销：行业陋习，立刻马上就改；破防！腾讯元宝罕见辱骂用户，官方紧急致歉；杨立昆爆猛料：Meta模型靠作弊刷分上榜；「微元合成」获��3亿元融资，以甲醇为原料、开发大宗生物基产品 | 36氪首发。
+======================================================================
