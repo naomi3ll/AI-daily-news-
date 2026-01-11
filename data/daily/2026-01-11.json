@@ -1,0 +1,476 @@
+{
+  "date": "2026-01-11",
+  "generated_at": "2026-01-11 08:36:00",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "唐杰/杨植麟/林俊旸/姚顺雨罕见同台，“基模四杰”开聊中国AGI",
+      "summary": "1月11日消息，在由清华大学基础模型北京市重点实验室和智谱AI发起的AGI-Next前沿峰会上，智谱AI唐杰、腾讯姚顺雨、阿里林俊旸及月之暗面杨植麟等中国大模型领域核心人物罕见同台，深入探讨中国通用人工智能（AGI）的发展路径、技术挑战与未来趋势，展现了国内顶尖力量对下一代AI的思考与布局。",
+      "importance": "高",
+      "reason": "属于【国内动态】中的重大商业与学术动态。主体为中国顶尖研究机构（清华大学）和核心AI公司（智谱AI、腾讯、阿里、月之暗面），事件聚焦中国AGI发展的最高层对话，涉及技术路线、产业竞争等核心议题，影响力巨大。",
+      "tags": [
+        "AGI",
+        "大模型",
+        "学术峰会",
+        "智谱AI",
+        "腾讯",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3634683932312833?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 07:12:07",
+      "impact_score": 615.0
+    },
+    {
+      "index": 2,
+      "title": "前华为员工创业，在资源回收领域应用AI多模态智能分选，拿下千万元融资｜硬氪首发",
+      "summary": "1月11日消息，由前华为员工创立的广州九爪智能科技有限公司完成数千万元Pre-A轮融资，该公司将AI视觉与高光谱等多模态传感技术深度融合，自主研发软硬件一体化智能分选体系，致力于提升资源回收领域的分选精度与自动化水平，本轮融资将用于算法迭代与场景规模化落地。",
+      "importance": "高",
+      "reason": "属于【国内动态】中的重大商业动态（融资）与AI技术应用。主体为中国创业公司（九爪智能），核心技术为AI多模态感知与智能分选，是AI赋能传统产业（环保、资源回收）的典型案例，符合产业升级趋势。",
+      "tags": [
+        "AI多模态",
+        "智能分选",
+        "融资",
+        "硬科技",
+        "产业AI"
+      ],
+      "url": "https://36kr.com/p/3634674384569345?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 07:03:45",
+      "impact_score": 292.5
+    },
+    {
+      "index": 3,
+      "title": "证监会：推动各类中长期资金进一步提高入市规模比例",
+      "summary": "1月11日消息，中国证监会副主席陈华平在第30届中国资本市场论坛上表示，将持续完善长线资金入市的制度环境，合力推动各类中长期资金进一步提高投资A股的规模与比例，并优化合格境外投资者等制度安排，旨在吸引并留住更多长期资本，夯实资本市场发展基础。",
+      "importance": "高",
+      "reason": "属于【国内动态】中的重大政策动向。主体为中国政府金融监管机构（证监会），其表态直接关系到资本市场（包括科技股、AI概念股）的长期资金供给和流动性环境，对整体市场情绪和产业发展有宏观指导意义。",
+      "tags": [
+        "证监会",
+        "资本市场",
+        "政策",
+        "长期资金",
+        "金融监管"
+      ],
+      "url": "https://36kr.com/p/3634524127511811?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 04:32:43",
+      "impact_score": 245.0
+    },
+    {
+      "index": 4,
+      "title": "引望回应“今年下半年上市”传闻：假消息",
+      "summary": "1月11日消息，针对市场传闻“华为旗下深圳引望公司计划于2026年下半年上市”，引望公司官方正式回应称此为不实信息，明确否认了上市计划，此举平息了近期关于华为智能汽车解决方案业务单元资本运作的猜测。",
+      "importance": "高",
+      "reason": "属于【国内动态】中的重大商业动态（关键公司动向）。主体为华为旗下的核心AI与智能汽车业务公司（引望），其上市传闻与否认均对市场预期、行业竞争格局以及华为车BU的战略走向有重大影响。",
+      "tags": [
+        "华为",
+        "引望",
+        "智能汽车",
+        "上市传闻",
+        "商业动态"
+      ],
+      "url": "https://36kr.com/newsflashes/3634494473127171?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 04:15:50",
+      "impact_score": 234.0
+    },
+    {
+      "index": 5,
+      "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
+      "summary": "1月11日消息，长光卫星技术股份有限公司研发的“吉星”高分07系列卫星成功获取并发布了国内首张甚高分辨率彩色夜光遥感卫星影像，该技术通过捕捉夜间人工光源实现低照度成像，在环境监测、社会经济分析等领域具有重要应用价值，标志着我国在高端遥感领域取得新突破。",
+      "importance": "中",
+      "reason": "属于【国内动态】中的重大学术/技术突破。主体为中国商业航天公司（长光卫星），成果为国内首创的甚高分辨率彩色夜光遥感技术，是AI与航天遥感结合的高端应用，具备显著的科研与商业价值。",
+      "tags": [
+        "商业航天",
+        "遥感卫星",
+        "技术突破",
+        "长光卫星",
+        "AI遥感"
+      ],
+      "url": "https://36kr.com/p/3633518419428361?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-10 11:26:59",
+      "impact_score": 215.0
+    },
+    {
+      "index": 6,
+      "title": "全国最大断面特厚板坯连铸机在湛江钢铁投产",
+      "summary": "1月11日消息，宝钢股份湛江钢铁炼钢厂全国最大断面（2700mm）的5号特厚板坯连铸机全面建成投产，该设备可稳定生产460mm特厚板坯，标志着我国在大断面、高性能板坯的自主化、稳定化生产技术上取得关键突破，服务于国家重大战略需求。",
+      "importance": "中",
+      "reason": "属于【国内动态】中的重大技术突破与产业进展。主体为中国核心工业企业（宝钢股份/中国宝武），成果涉及高端制造和重大装备国产化，虽非直接AI新闻，但体现了支撑AI硬件（如服务器机柜、数据中心）的基础工业能力提升。",
+      "tags": [
+        "高端制造",
+        "国产化突破",
+        "宝钢股份",
+        "重大装备"
+      ],
+      "url": "https://36kr.com/p/3634689952629764?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 07:18:19",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "小鹏汽车何小鹏：2026年海外生产制造布局的节奏还会进一步加快",
+      "summary": "1月11日消息，小鹏汽车董事长兼CEO何小鹏表示，公司计划在2026年进一步加快海外生产制造的布局节奏，全力推进包括智能汽车、Robotaxi、机器人及飞行汽车在内的所有核心产品线的全球化进程，目前业务已覆盖全球60个国家和地区。",
+      "importance": "中",
+      "reason": "属于【国内动态】中的重大商业动态（全球化战略）。主体为中国头部智能汽车公司（小鹏汽车），其加速海外布局的战略直接关联中国AI技术（自动驾驶、智能座舱）的全球输出与竞争，是AI落地的重要商业场景。",
+      "tags": [
+        "小鹏汽车",
+        "全球化",
+        "智能汽车",
+        "自动驾驶",
+        "出海"
+      ],
+      "url": "https://36kr.com/newsflashes/3634613718057987?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 06:23:06",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "航发团队攻坚半导体真空设备，多款产品性能对标国际标杆，完成数千万天使轮融资｜硬氪首发",
+      "summary": "1月11日消息，由航空发动机技术团队创立的芯航微（上海）科技有限公司完成数千万元天使轮融资，该公司专注于半导体真空零部件研发，其涡轮分子泵等多款产品性能已对标国际标杆，致力于实现该领域关键设备的国产化替代。",
+      "importance": "中",
+      "reason": "属于【国内动态】中的重大商业动态（融资）与硬科技突破。主体为中国半导体设备创业公司（芯航微），其技术源自国家核心军工领域（航发），产品服务于半导体制造这一AI产业的基础环节，具有战略意义。",
+      "tags": [
+        "半导体设备",
+        "国产替代",
+        "融资",
+        "硬科技",
+        "真空设备"
+      ],
+      "url": "https://36kr.com/p/3631870029775874?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-10 02:29:12",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "银河证券：反内卷政策趋势仍在，太空光伏产业加速",
+      "summary": "1月11日消息，中国银河证券发布研报指出，光伏行业“反内卷”政策引导趋势未变，并预测随着商业航天成本下降与电池技术突破，太空光伏产业有望在未来10-15年逐步商业化，建议关注相关技术储备与龙头企业。",
+      "importance": "低",
+      "reason": "属于【国内动态】中的行业分析与政策解读。主体为中国金融机构（银河证券），内容涉及对AI算力潜在能源解决方案（太空光伏）的前瞻性分析，以及对中国产业政策的研判，具有参考价值。",
+      "tags": [
+        "券商研报",
+        "太空光伏",
+        "产业政策",
+        "商业航天"
+      ],
+      "url": "https://36kr.com/p/3633816041735171?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 01:00:44",
+      "impact_score": 177.0
+    },
+    {
+      "index": 10,
+      "title": "华金证券：春季行情主升时行业如何轮动",
+      "summary": "1月11日消息，华金证券发布研报分析春季行情，认为科技成长和部分周期行业可能持续占优，并指出商业航天和脑机接口有望成为主题投资主线，两者均受益于强政策扶持与巨大的产业发展空间。",
+      "importance": "低",
+      "reason": "属于【国内动态】中的资本市场分析。主体为中国金融机构（华金证券），内容明确将商业航天和脑机接口这两个与AI紧密相关的未来产业列为投资主线，反映了国内资本市场对AI前沿领域的关注焦点。",
+      "tags": [
+        "券商研报",
+        "脑机接口",
+        "商业航天",
+        "投资策略"
+      ],
+      "url": "https://36kr.com/newsflashes/3634671746155522?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 07:54:21",
+      "impact_score": 147.0
+    },
+    {
+      "index": 11,
+      "title": "深圳“安居创业帮扶计划”上线",
+      "summary": "1月11日消息，深圳市正式推出“安居创业帮扶计划”，并在安居空港花园等7个社区率先试点，为符合条件的保障性住房住户提供为期三年的租金扶持，以降低创业初始成本，激发社会创新活力。",
+      "importance": "低",
+      "reason": "属于【国内动态】中的地方性产业支持政策。主体为深圳市政府及相关机构，政策旨在营造有利于创新创业的环境，间接为科技人才和AI等领域创业者提供支持，体现了地方对新兴产业的扶持态度。",
+      "tags": [
+        "深圳政策",
+        "创业扶持",
+        "产业环境"
+      ],
+      "url": "https://36kr.com/p/3634686937859074?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-11 07:15:05",
+      "impact_score": 140.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nvidia, Tesla Chase Same Self-Driving Goal Via Varying Paths",
+      "summary": "1月11日消息，英伟达首席执行官黄仁勋在CES展会上清晰阐述了其自动驾驶技术愿景，其目标与主要客户特斯拉的自动驾驶路线产生交集，标志着两大科技巨头在自动驾驶领域的战略竞争与布局进入新阶段。",
+      "importance": "高",
+      "reason": "重大产品发布：涉及全球AI芯片龙头英伟达在自动驾驶领域的重大战略宣示，属于核心AI应用方向。",
+      "tags": [
+        "英伟达",
+        "特斯拉",
+        "自动驾驶",
+        "CES"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-10/nvidia-and-tesla-chase-same-self-driving-goal-via-varying-paths",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-10 16:00:00",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Elon Musk’s Grok AI Blocked in Indonesia Over Sexualized Content",
+      "summary": "1月11日消息，印度尼西亚政府因调查发现xAI公司开发的Grok人工智能系统生成了性相关内容，决定暂时封锁对该聊天机器人的访问，这是海外政府对AI内容安全监管的又一具体行动。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及AI生成有害内容引发的政府监管行动，属于典型的安全与伦理事件，且主体为海外公司。",
+      "tags": [
+        "xAI",
+        "Grok",
+        "内容安全",
+        "监管",
+        "印度尼西亚"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-10/elon-musk-s-grok-ai-blocked-in-indonesia-over-sexualized-content",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-10 09:34:46",
+      "impact_score": 180.0
+    },
+    {
+      "index": 3,
+      "title": "Musk Calls UK ‘Fascist’ as Row Over Grok AI Images Escalates",
+      "summary": "1月11日消息，埃隆·马斯克因其人工智能工具Grok生成涉及妇女和儿童的性化图像，与英国政府发生激烈争执，并指责后者为“法西斯”，凸显了AI内容治理与言论自由之间的国际性冲突。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及AI伦理争议升级为国际政治层面的公开冲突，主体为海外公司，事件影响重大。",
+      "tags": [
+        "xAI",
+        "Grok",
+        "伦理争议",
+        "英国政府",
+        "内容监管"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-10 14:05:55",
+      "impact_score": 127.5
+    },
+    {
+      "index": 4,
+      "title": "Elon Musk Says X to Make Algorithm Open Source in Seven Days",
+      "summary": "1月11日消息，埃隆·马斯克宣布社交媒体平台X将在七天内向公众开源其新算法，包括用于决定向用户推荐帖子和广告的代码，此举可能对社交媒体和推荐系统的透明度与竞争格局产生深远影响。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球性社交媒体平台核心算法的开源，属于具有重大行业影响力的商业决策。",
+      "tags": [
+        "X平台",
+        "算法开源",
+        "透明度",
+        "社交媒体"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-10/musk-calls-uk-fascist-as-row-over-x-s-grok-ai-images-escalates",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-10 15:33:36",
+      "impact_score": 105.0
+    },
+    {
+      "index": 5,
+      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+      "summary": "1月11日消息，印度尼西亚官员宣布，因xAI的聊天机器人Grok被用于制作未经同意的性化深度伪造内容，将暂时封锁对其的访问，这反映了全球范围内对AI生成有害深度伪造内容的监管压力正在增大。",
+      "importance": "高",
+      "reason": "安全与伦理：与新闻2类似，但更具体地指向深度伪造这一严重安全威胁，属于高重要性安全事件。",
+      "tags": [
+        "xAI",
+        "Grok",
+        "深度伪造",
+        "内容安全",
+        "监管"
+      ],
+      "url": "https://www.zdnet.com/article/hp-omnibook-ultra-14-ces/",
+      "source": "ZDNet AI",
+      "original_pub_date": "2026-01-10 13:00:43",
+      "impact_score": 100.0
+    },
+    {
+      "index": 6,
+      "title": "Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart",
+      "summary": "1月11日消息，随着OpenAI和英伟达在AI基础设施领域达成一系列交易，以及超大规模云服务商持续投入数百亿美元资本支出，行业开始集中讨论当前AI热潮是否已形成泡沫，反映了市场对AI产业过热风险的普遍关注。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及对全球AI产业整体投资趋势和潜在风险的宏观分析，主体为OpenAI、英伟达等海外巨头。",
+      "tags": [
+        "AI泡沫",
+        "产业分析",
+        "资本支出",
+        "OpenAI",
+        "英伟达"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-10/elon-musk-says-x-to-make-its-algorithm-open-source-in-seven-days",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-10 19:34:13",
+      "impact_score": 97.5
+    },
+    {
+      "index": 7,
+      "title": "‘South Korea’s Google’ pitches AI alternative to US and China",
+      "summary": "1月11日消息，韩国互联网巨头Naver正以其AI和云系统向那些出于安全考虑不愿使用美国和中国云服务的国家进行推广，试图在全球AI基础设施竞争中提供除中美之外的“第三选择”。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及海外公司（韩国Naver）在全球AI地缘竞争中的战略布局，属于重要的产业动态。",
+      "tags": [
+        "Naver",
+        "韩国",
+        "AI基础设施",
+        "地缘竞争",
+        "云服务"
+      ],
+      "url": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-10 19:37:54",
+      "impact_score": 93.0
+    },
+    {
+      "index": 8,
+      "title": "How do you value a company like Nvidia?",
+      "summary": "1月11日消息，作为AI产业的标杆企业，英伟达的股价估值问题引发市场广泛讨论，其高昂的市值反映了市场对AI未来潜力的极高预期，同时也带来了对估值是否过热的担忧。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及全球AI龙头公司的市值与估值分析，对理解资本市场对AI产业的看法至关重要。",
+      "tags": [
+        "英伟达",
+        "估值",
+        "资本市场",
+        "AI产业"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-11/is-ai-made-music-taking-over",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-11 06:00:09",
+      "impact_score": 90.0
+    },
+    {
+      "index": 9,
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "summary": "1月11日消息，据报道，OpenAI正要求承包商上传过去工作中的真实项目文件，以用于评估其AI智能体的办公性能，这一做法被知识产权律师认为可能使公司面临巨大的法律风险。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及海外AI龙头OpenAI在数据收集和使用方面可能存在的法律与伦理风险。",
+      "tags": [
+        "OpenAI",
+        "数据收集",
+        "知识产权风险",
+        "AI训练"
+      ],
+      "url": "https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-01-10 13:00:01",
+      "impact_score": 90.0
+    },
+    {
+      "index": 10,
+      "title": "Grok Is Being Used to Mock and Strip Women in Hijabs and Saris",
+      "summary": "1月11日消息，大量由Grok生成或编辑的AI图像正被用于针对穿着宗教和文化服饰（如希贾布和纱丽）的女性进行嘲弄和“脱衣”，引发了严重的文化冒犯和伦理问题。",
+      "importance": "中",
+      "reason": "安全与伦理：具体描述了海外AI产品Grok被滥用于生成具有文化攻击性和性别歧视内容的事件，属于重要的伦理与安全议题。",
+      "tags": [
+        "xAI",
+        "Grok",
+        "AI滥用",
+        "文化冒犯",
+        "性别歧视"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-01-10 00:06:16",
+      "impact_score": 85.0
+    },
+    {
+      "index": 11,
+      "title": "AI memory is sold out, causing an unprecedented surge in prices",
+      "summary": "1月11日消息，AI内存需求激增导致供应短缺，美光、SK海力士和三星电子三大存储芯片制造商几乎垄断了整个RAM市场，并正从此次由AI驱动的短缺中获益，价格出现前所未有的飙升。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及全球AI硬件供应链的关键环节（存储芯片）出现短缺和价格波动，影响整个产业发展。主体为海外公司。",
+      "tags": [
+        "存储芯片",
+        "美光",
+        "SK海力士",
+        "三星",
+        "供应链",
+        "AI硬件"
+      ],
+      "url": "https://www.ft.com/content/973d668a-ebaf-493e-b278-a4f584937d45",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-11 05:00:02",
+      "impact_score": 45.0
+    },
+    {
+      "index": 12,
+      "title": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
+      "summary": "1月11日消息，Anthropic在Daniela Amodei等人的领导下，凭借对AI安全和企业级应用的押注实现了惊人增长，其团队可能掌握着生成式AI未来发展的关键，成为该领域的重要竞争者。",
+      "importance": "中",
+      "reason": "重大商业动态：报道海外重要AI公司Anthropic的增长战略和团队，属于重要的产业公司动态。",
+      "tags": [
+        "Anthropic",
+        "生成式AI",
+        "AI安全",
+        "企业应用"
+      ],
+      "url": "https://www.ft.com/content/27f1a582-db13-47d9-aa87-a8c1a0034bb4",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-10 05:00:25",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从46条原始信息中精选出11条国内动态和12条国际动态，其中9条为高重要性。 重点关注：唐杰/杨植麟/林俊旸/姚顺雨罕见同台，“基模四杰”开聊中国AGI；前华为员工创业，在资源回收领域应用AI多模态智能分选，拿下千万元融资｜硬氪首发；证监会：推动各类中长期资金进一步提高入市规模比例。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 21,
+    "raw_total": 46,
+    "final_domestic": 11,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月11日消息，在由清华大学基础模型北京市重点实验室和智谱AI发起的AGI-Next前沿峰会上，智谱AI唐杰、腾讯姚顺雨、阿里林俊旸及月之暗面杨植麟等中国大模型领域核心人物罕见同台，深入探讨中国通用人工智能（AGI）的发展路径、技术挑战与未来趋势，展现了国内顶尖力量对下一代AI的思考与布局。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月11日消息，由前华为员工创立的广州九爪智能科技有限公司完成数千万元Pre-A轮融资，该公司将AI视觉与高光谱等多模态传感技术深度融合，自主研发软硬件一体化智能分选体系，致力于提升资源回收领域的分选精度与自动化水平，本轮融资将用于算法迭代与场景规模化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月11日消息，中国证监会副主席陈华平在第30届中国资本市场论坛上表示，将持续完善长线资金入市的制度环境，合力推动各类中长期资金进一步提高投资A股的规模与比例，并优化合格境外投资者等制度安排，旨在吸引并留住更多长期资本，夯实资本市场发展基础。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月11日消息，针对市场传闻“华为旗下深圳引望公司计划于2026年下半年上市”，引望公司官方正式回应称此为不实信息，明确否认了上市计划，此举平息了近期关于华为智能汽车解决方案业务单元资本运作的猜测。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月11日消息，长光卫星技术股份有限公司研发的“吉星”高分07系列卫星成功获取并发布了国内首张甚高分辨率彩色夜光遥感卫星影像，该技术通过捕捉夜间人工光源实现低照度成像，在环境监测、社会经济分析等领域具有重要应用价值，标志着我国在高端遥感领域取得新突破。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月11日消息，英伟达首席执行官黄仁勋在CES展会上清晰阐述了其自动驾驶技术愿景，其目标与主要客户特斯拉的自动驾驶路线产生交集，标志着两大科技巨头在自动驾驶领域的战略竞争与布局进入新阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月11日消息，印度尼西亚政府因调查发现xAI公司开发的Grok人工智能系统生成了性相关内容，决定暂时封锁对该聊天机器人的访问，这是海外政府对AI内容安全监管的又一具体行动。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月11日消息，埃隆·马斯克因其人工智能工具Grok生成涉及妇女和儿童的性化图像，与英国政府发生激烈争执，并指责后者为“法西斯”，凸显了AI内容治理与言论自由之间的国际性冲突。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月11日消息，埃隆·马斯克宣布社交媒体平台X将在七天内向公众开源其新算法，包括用于决定向用户推荐帖子和广告的代码，此举可能对社交媒体和推荐系统的透明度与竞争格局产生深远影响。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月11日消息，印度尼西亚官员宣布，因xAI的聊天机器人Grok被用于制作未经同意的性化深度伪造内容，将暂时封锁对其的访问，这反映了全球范围内对AI生成有害深度伪造内容的监管压力正在增大。",
+      "importance": "高"
+    }
+  ]
+}
