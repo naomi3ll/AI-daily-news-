@@ -1,37 +1,19 @@
 {
   "date": "2026-01-13",
-  "generated_at": "2026-01-13 05:40:25",
+  "generated_at": "2026-01-13 08:19:25",
   "domestic": [
     {
       "index": 1,
-      "title": "科氪 | 荣耀ROBOT PHONE亮相2026 CES，以颠覆性设计斩获多项顶级大奖",
-      "summary": "1月13日消息，2026年1月6日至9日，国际消费电子展(CES2026)在美国拉斯维加斯盛大举行。荣耀向世界展示了全球第一款“手机机器人”——荣耀ROBOT PHONE。这款融合了前沿AI与机器人技术的颠覆性产品，一经亮相就凭借其突破性的手机机器人云台架构与AI交互体验成功突围，一举囊括CNET、Android Police、GadgetFlow以及Geekspin等多家全球顶级科技媒体的年度大奖以及点赞报道。",
-      "importance": "高",
-      "reason": "影响力评分: 457.0",
-      "tags": [
-        "AI",
-        "突破",
-        "创新",
-        "革命性",
-        "首次"
-      ],
-      "url": "https://36kr.com/p/3636077116949511?f=rss",
-      "source": "36氪",
-      "original_pub_date": "2026-01-12 06:49:03",
-      "impact_score": 457.0
-    },
-    {
-      "index": 2,
       "title": "头部公司估值几十亿的外骨骼，画大饼还是真愿景？",
       "summary": "1月13日消息，作者丨欧雪 编辑丨袁斯来 放在一年前，很少有投资人会相信，累计出货量几万台的外骨骼公司，能估值几十亿。 它是种老产品，已经诞生超过半个世纪，场景应用明确，因为一直难以突破体验瓶颈，从未大规模用于C端。很长时间中，这个赛道没有新鲜事，发生过一些零星的投资，一批小而美的公司温吞地生存着。 似乎一夜之间，它成为很多投资人都会购入一件的潮流单品。而且，忽然就勾勒出一幅过去难以想象的宏伟愿景。 这种转变也在",
       "importance": "高",
       "reason": "影响力评分: 420.0",
       "tags": [
-        "投资",
-        "估值",
         "AI",
+        "估值",
+        "突破",
         "十亿",
-        "突破"
+        "融资"
       ],
       "url": "https://36kr.com/p/3637232459056131?f=rss",
       "source": "36氪",
@@ -39,17 +21,17 @@
       "impact_score": 420.0
     },
     {
-      "index": 3,
+      "index": 2,
       "title": "「死了么」爆红：付费人数翻了200倍，估值达1000万；曝DeepSeek V4大模型春节前后发布；马斯克宣布将开源X最新算法",
       "summary": "1月13日消息，要闻提示 1.超越 pi0.5，千寻智能 Spirit v1.5 登顶 RoboChallenge 榜单 2.DeepSeek V4大模型被曝春节前后发布：AI编程能力超越Claude 3.“死了么”爆红：付费人数翻了200倍，估值达1000万！另有“活了么”App迅速上线 4.雷军集中辟谣奏效？200公里瞬间刹停舆论开始反转……本人回应 5.传闻成真？前比亚迪高管赵长江或已加盟智界！ 6.比亚迪",
       "importance": "高",
       "reason": "影响力评分: 330.0",
       "tags": [
-        "上线",
-        "超越",
-        "估值",
+        "雷军",
         "AI",
-        "雷军"
+        "估值",
+        "发布",
+        "开源"
       ],
       "url": "https://www.leiphone.com/category/zaobao/ZTdc8zXeZ2U0W4Ff.html",
       "source": "AI科技评论",
@@ -57,17 +39,17 @@
       "impact_score": 330.0
     },
     {
-      "index": 4,
+      "index": 3,
       "title": "8点1氪丨“死了么”APP团队再次回应争议；小米集团总裁卢伟冰辟谣辞职；国内首起AI开发者涉黄获刑案件宣判",
       "summary": "1月13日消息，今日热点导览 泡泡玛特将与荣耀手机推出IP联名合作 章泽天开通个人播客”小天章“和小红书账号 宗馥莉旗下宏振投资公司更名，去“娃哈哈” 官方：医疗机构不得开展殡仪服务、外包太平间 43度飞天茅台拟调降打款价至739元/瓶 TOP 3 大新闻 “死了么”APP团队再次回应争议，并考虑融资50万 1月11日，在短时间内登顶苹果付费软件榜首位的“死了么”APP团队发布最新声明，就名称、功能优化、定价等问",
       "importance": "高",
       "reason": "影响力评分: 322.5",
       "tags": [
-        "投资",
         "AI",
-        "融资",
         "发布",
-        "合作"
+        "融资",
+        "合作",
+        "投资"
       ],
       "url": "https://36kr.com/p/3637086699111433?f=rss",
       "source": "36氪",
@@ -75,16 +57,16 @@
       "impact_score": 322.5
     },
     {
-      "index": 5,
+      "index": 4,
       "title": "xTool，下一个「影石」要IPO了？",
       "summary": "1月13日消息，作者 | 范亮 编辑 | 张帆 1月1日，xTool正式向港交所递表。 这是一家在海外DIY爱好者中知名度颇高的中国品牌。核心的三个标签是： 消费级激光雕刻机龙头、年入超20亿、80%收入来自欧美。 从成长历程来看，xTool与影石创新颇为类似，二者均在海外以“追赶者”角色逆袭成为行业龙头。在2025年11月完成D轮融资后，xTool的估值超过11亿美元。 那么，若成功登陆港交所，xTool可以复",
       "importance": "高",
       "reason": "影响力评分: 307.5",
       "tags": [
         "融资",
-        "IPO",
         "创新",
-        "估值"
+        "估值",
+        "IPO"
       ],
       "url": "https://36kr.com/p/3637407225070601?f=rss",
       "source": "36氪",
@@ -92,17 +74,17 @@
       "impact_score": 307.5
     },
     {
-      "index": 6,
+      "index": 5,
       "title": "中国影像首登“科技奥斯卡”，光子跃迁以全球首款8K AI拇指相机定义CES 2026",
       "summary": "1月13日消息，2026年1月9日，全球科技界的年度盛宴CES圆满落幕。在这场定义未来科技的舞台上，新锐智能影像品牌光子跃迁（LEAPTIC）携“全球首款8K AI拇指运动相机”等一系列创新成果重磅亮相，不仅完成了其在国际顶级展会上的首次华丽登场，更以一套完整的产品理念与个人影像生态，为高速发展的智能影像领域递交了一份备受瞩目的“完美成绩单”。 一份来自全球的认可 光子跃迁的CES之旅，是一场从产品发布到价值确认",
       "importance": "高",
       "reason": "影响力评分: 285.0",
       "tags": [
+        "首次",
         "AI",
         "突破",
         "发布",
-        "创新",
-        "首次"
+        "创新"
       ],
       "url": "https://www.leiphone.com/category/industrynews/01hQLycinYt03K7R.html",
       "source": "AI科技评论",
@@ -110,17 +92,69 @@
       "impact_score": 285.0
     },
     {
+      "index": 6,
+      "title": "工信部：到2028年，工业互联网平台高质量发展取得积极成效，具有一定影响力的平台超450家",
+      "summary": "1月13日消息，36氪获悉，工业和信息化部印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》。到2028年，工业互联网平台高质量发展取得积极成效，“专业型+行业型+协作型”多层次平台体系持续壮大，具有一定影响力的平台超450家；平台的要素资源连接能力大幅增强，重点平台的数据增值、模型沉淀和人工智能开发应用能力显著提升，工业设备连接数突破1.2亿台（套）；平台普及率达到55%以上，基本建成泛在互联",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "开放",
+        "开源",
+        "人工智能",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3637554958009601?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 07:52:15",
+      "impact_score": 264.0
+    },
+    {
       "index": 7,
+      "title": "最前线｜智能座舱开始AI变革，长城新车要标配车端智能体",
+      "summary": "1月13日消息，智能辅助驾驶能力突飞猛进背后，是AI能力的不断涌现，它在智能座舱上同样受到热捧，甚至因为座舱对延时和算力的要求更低，应用门槛也相应降低。 特斯拉用“Grok+FSD”组合已经给出了惊人表现。用户除了可以体验特斯拉FSD的流畅领航辅助驾驶，还能和Grok进行了拟人、善解人意的对话，甚至用Grok实现模糊指令下的导航。 因此，AI智能体上车，成为热潮。 长城汽车等国内车企率先捕捉到了这一点。今年的消费",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "发布",
+        "AI",
+        "正式推出",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3637524364887305?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 07:24:20",
+      "impact_score": 264.0
+    },
+    {
+      "index": 8,
+      "title": "江苏：支持人工智能“一人公司（OPC）”创新创业模式",
+      "summary": "1月13日消息，36氪获悉，江苏省政府发布关于印发江苏省“人工智能＋”行动方案的通知。方案指出，大力培育智能原生新业态。以模型即服务、数据即服务为牵引，构建面向智能原生的技术、产品和服务体系。积极探索普惠高效开源应用新模式。加快智能体开发平台、自动化标注工具、开源算子库等通用产品开发，完善具身智能机器人、智能穿戴、智能家居、智能装备、大模型一体机、智能安防等智能原生硬件产业链，鼓励信息技术企业向数智企业转型，培育",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "发布",
+        "开源",
+        "人工智能",
+        "大模型",
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3637509608424456?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 07:06:07",
+      "impact_score": 264.0
+    },
+    {
+      "index": 9,
       "title": "中国移动链长基金战略加持，国内首台原子量子计算系统研发团队完成新一轮战略融资",
       "summary": "1月13日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，中科酷原科技（武汉）有限公司（以下简称“中科酷原”）完成新一轮近亿元的战略融资，由中国移动链长基金独家投资。融资资金将主要用于量子计算硬件研发加速、新产品与新技术迭代，以及应用场景探索。 中科酷原是国内首个同时具备原子量子计算和量子精密测量研发及产业化能力的公司，同时也是湖北省量子技术产业链“链主”企业。公司核心团队来自中科院精密测量研究院，是国",
       "importance": "高",
       "reason": "影响力评分: 251.0",
       "tags": [
-        "投资",
         "突破",
-        "融资",
         "发布",
-        "创新"
+        "融资",
+        "创新",
+        "投资"
       ],
       "url": "https://36kr.com/p/3637227648402438?f=rss",
       "source": "36氪",
@@ -128,17 +162,17 @@
       "impact_score": 251.0
     },
     {
-      "index": 8,
+      "index": 10,
       "title": "戴德梁行：房地产市场还有潜力 REITs扩围开启不动产金融化新阶段",
       "summary": "1月12日，在戴德梁行北京公司2025年终发布会上，戴德梁行北区董事总经理胡峰表示，中国的房地产市场的话，仍有巨大的这个潜力可挖。从宏观层面来看，与国际对比，全球十大经济体中，除中国、印度和巴西等发展中国家房地产增加值占GDP比重不到10%，其他区域超过10%，美国房地产增加值占GDP达12.2%，中国为6.3%，表明中国房地产对经济直接贡献并不偏高，反而处于国际中下偏低水平。从市场未来方向来看，",
       "importance": "高",
       "reason": "影响力评分: 251.0",
       "tags": [
-        "投资",
-        "上市",
+        "首次",
         "突破",
         "发布",
-        "首次"
+        "上市",
+        "投资"
       ],
       "url": "https://36kr.com/p/3636261248320771?f=rss",
       "source": "36氪",
@@ -146,15 +180,33 @@
       "impact_score": 251.0
     },
     {
-      "index": 9,
+      "index": 11,
+      "title": "看过一千个To B产品，钉钉最年轻副总裁创业，做了个不To B的Agent",
+      "summary": "1月13日消息，文｜邓咏仪 编辑｜苏建勋 2023年，王铭在钉钉已经成为最年轻的副总裁，接触了上千家中国ToB SaaS软件和企业客户，但在第五年，他做出了一个反向决定——创业去做一款To C的AI原生应用。 王铭有过多次职业转向——毕业开始，创业做“闪购”零售，被并购，去58集团负责到家等业务，一直面向的是最To C的市场——然后，在2020年疫情期间加入钉钉，负责SaaS生态、大模型与AI生态、产业生态和AI",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "发布",
+        "并购",
+        "大模型",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3637452674254087?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 06:09:08",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
       "title": "氪星晚报｜加拿大Kepler公司发射10颗卫星；被传离职？小米卢伟冰发文：今天上班；我国牵头的滑动轴承国际标准正式发布",
       "summary": "1月13日消息，大公司： 马来西亚临时限制访问AI聊天机器人“格罗克” 马来西亚通信和多媒体委员会11日发表声明说，当天起临时限制马来西亚互联网用户访问美国企业家埃隆·马斯克旗下的人工智能（AI）聊天机器人“格罗克”（Grok）。声明说，采取这一监管措施是鉴于“格罗克”被滥用于生成淫秽色情、极具冒犯性且未经当事人同意的合成图像内容，包括涉及女性及未成年人的内容。 加拿大Kepler公司发射10颗卫星 加拿大初创企",
       "importance": "高",
       "reason": "影响力评分: 240.0",
       "tags": [
         "百亿",
-        "投资",
         "AI",
+        "发布",
         "监管",
         "人工智能"
       ],
@@ -164,14 +216,30 @@
       "impact_score": 240.0
     },
     {
-      "index": 10,
+      "index": 13,
+      "title": "王小川：百川智能预计2027年启动IPO",
+      "summary": "1月13日消息，百川智能创始人兼CEO王小川表示，公司预计将于2027年启动IPO上市。（新浪科技）",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "CEO",
+        "上市",
+        "IPO"
+      ],
+      "url": "https://36kr.com/newsflashes/3637577027634438?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 08:14:42",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
       "title": "国产具身模型开源“屠榜”，首杀Pi0.5获英伟达Jim Fan点赞！",
       "summary": "1月13日消息，Spirit，灵魂，当下机器人亟需的东西。 但过去一年机器人们的灵魂，在两个极端间横跳。 一端是各种炫目视频反复刷屏，高度结构化的实验“温室”不断产出高成功率模型，Demo 里的 AI 是如此聪明；但另一端，当这些“满分选手”走进现实，却频频翻车。 演示视频可以剪辑，实验室环境可以特制，任务的难度可以自定义。这让整个行业陷入了一种“关公战秦琼”的困惑：当场景、硬件、评测标准各不相同，我们究竟在比什",
       "importance": "高",
       "reason": "影响力评分: 200.0",
       "tags": [
-        "开源",
         "AI",
+        "开源",
         "领先",
         "创新"
       ],
@@ -181,15 +249,15 @@
       "impact_score": 200.0
     },
     {
-      "index": 11,
+      "index": 15,
       "title": "CES 2026｜出门问问发布TicNote系列新品，联动TicNote Cloud打造团队协作新生态",
       "summary": "1月13日消息，当地时间1月7日，出门问问在全球科技盛会CES 2026期间，以“Beyond Recording”为主题，举办新品发布会，正式发布TicNote系列新品——首款4G AI录音耳机TicNote Pods、首款AI 录音手表TicNote Watch，以及AI 原生文件协作平台TicNote Cloud。通过搭载核心引擎Shadow AI 2.0，形成“记录-文件化-执行-协作”闭环链路，驱动Ti",
       "importance": "高",
       "reason": "影响力评分: 195.0",
       "tags": [
+        "发布",
         "上线",
-        "AI",
-        "发布"
+        "AI"
       ],
       "url": "https://www.leiphone.com/category/industrynews/f1fpU3RSou9XzMdz.html",
       "source": "AI科技评论",
@@ -197,7 +265,7 @@
       "impact_score": 195.0
     },
     {
-      "index": 12,
+      "index": 16,
       "title": "《鹅鸭杀》上线6日：新增用户破千万",
       "summary": "1月13日消息，由金山世游独家代理、虎牙联合发行的社交推理手游《鹅鸭杀》自上线以来，迅速引爆全网。上线仅6日新增用户突破千万，同时最高在线人数（PCU）已超越Steam端历史峰值，累计斩获全网热搜近百个，并在多个主流平台登顶榜单TOP1。 话题持续发酵，斩获全网热搜 《鹅鸭杀》手游延续了PC端经典玩法，凭借轻松的社交氛围、有趣的推理机制和特色的本地化改造，迅速俘获了大量玩家。雷峰网了解到，在短短几天内，游戏不仅新",
       "importance": "高",
@@ -213,7 +281,7 @@
       "impact_score": 185.0
     },
     {
-      "index": 13,
+      "index": 17,
       "title": "百望股份李国平：SaaS的智能体化转型，能否堪比云计算革命？ | SaaS+Agent十人谈",
       "summary": "1月13日消息，“Meta数十亿美金收购Manus，正是看好‘智能力’从「只有大脑」到「脑手皆能」的变革。” IT老兵李国平如此评价Manus易主一事，其所言的“智能力”，是指智能体（Agent）认知+执行的复合能力。在他看来，SaaS行业也正在经历一场关乎自身的智能变革—— “ 如果SaaS仍以人与系统（界面）的交互为主，不进行智能变革的话，必将被时代颠覆。 ”人机交互模式的根本性转变，是Agent浪潮给Saa",
       "importance": "高",
@@ -228,7 +296,7 @@
       "impact_score": 150.0
     },
     {
-      "index": 14,
+      "index": 18,
       "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
       "summary": "1月13日消息，",
       "importance": "高",
@@ -243,131 +311,74 @@
       "impact_score": 150.0
     },
     {
-      "index": 15,
-      "title": "何小鹏：未来最好的AI公司，都会自研芯片",
-      "summary": "1月13日消息，小鹏汽车董事长、CEO何小鹏 文｜肖漫 编辑｜李勤 除了在发布会上一遍遍强调自己是 AI 公司，小鹏在新业务进展上也越来越像一家 AI 公司。 2026年1月8日，小鹏发布小鹏P7+、小鹏G7增程版、2026款小鹏G6、2026款小鹏G9四款新车，但这些车型最重要的技术更新并非硬件配置，而是芯片和 AI——这四款新车都会用上小鹏自研的图灵 AI 芯片，Ultra SE和Ultra 版本车型搭载小鹏",
-      "importance": "高",
-      "reason": "影响力评分: 147.0",
-      "tags": [
-        "CEO",
-        "AI",
-        "发布",
-        "大模型"
-      ],
-      "url": "https://36kr.com/p/3632116618937351?f=rss",
-      "source": "36氪",
-      "original_pub_date": "2026-01-12 07:07:51",
-      "impact_score": 147.0
-    },
-    {
-      "index": 16,
-      "title": "服饰鞋履卷设计，家居内衣“拼体感”｜世研消费指数品牌榜Vol.96",
-      "summary": "1月13日消息，鞋服配饰行业正经历一场从“外在表达”到“内在体验”的深度变革。服饰消费呈现基础款与设计感并存的多元格局，品牌借文化融合实现高端破圈；而内衣家居赛道则转向科技体感与情感价值的双重驱动，技术派与理念派各辟蹊径。当产品竞争从功能延伸到情感与生活方式，品牌如何才能真正构建不可替代的用户心智？ 图源：世研大消费指数 本次监测周期内，阿迪达斯、波司登和优衣库以1.79、1.75、1.64的综合热度位列榜单综合",
-      "importance": "高",
-      "reason": "影响力评分: 147.0",
-      "tags": [
-        "发布",
-        "创新",
-        "合作"
-      ],
-      "url": "https://36kr.com/p/3636038146835457?f=rss",
-      "source": "36氪",
-      "original_pub_date": "2026-01-12 06:10:29",
-      "impact_score": 147.0
-    },
-    {
-      "index": 17,
-      "title": "刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了",
-      "summary": "1月13日消息，",
-      "importance": "高",
-      "reason": "影响力评分: 135.0",
-      "tags": [
-        "开源"
-      ],
-      "url": "https://www.jiqizhixin.com/articles/2026-01-13-2",
-      "source": "机器之心",
-      "original_pub_date": "2026-01-13 02:18:05",
-      "impact_score": 135.0
-    },
-    {
-      "index": 18,
-      "title": "具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代",
-      "summary": "1月13日消息，首个在RoboChallenge上成功率超过50%的具身智能模型",
-      "importance": "高",
-      "reason": "影响力评分: 135.0",
-      "tags": [
-        "开源"
-      ],
-      "url": "https://www.qbitai.com/2026/01/369107.html",
-      "source": "量子位",
-      "original_pub_date": "2026-01-12 08:06:15",
-      "impact_score": 135.0
-    },
-    {
       "index": 19,
-      "title": "元念科技正式发布其新一代AI可穿戴产品矩阵",
-      "summary": "1月13日消息，36氪获悉，近日， Omni Health（元念科技）正式发布了其新一代AI可穿戴产品矩阵，其中包括聚焦长期生命体征监测的Omni Health Ring Pro，以及基于AI视觉技术的自动化营养追踪终端Omni Health Pin。目前，Ring Pro已面向全球开启规模化销售，Omni Health Pin将于2026年内推出。",
+      "title": "工信部：加快培育流程自动化助手、智慧巡检数字人、具身智能装备等自决策、自执行、自演进的工业场景智能体",
+      "summary": "1月13日消息，36氪获悉，工业和信息化部13日发布《推动工业互联网平台高质量发展行动方案（2026—2028年）》。方案指出，实施工业互联网与人工智能融合赋能行动，引导平台企业加快提升全员人工智能素养与技能，推动人工智能技术在工业全链条渗透，在生产控制、风险识别等规则相对明确的场景推广判别式人工智能应用，在工艺优化、方案设计等需求相对复杂的场景探索生成式人工智能实践。支持平台企业聚焦重点行业高价值场景，加快培育",
       "importance": "高",
-      "reason": "影响力评分: 132.0",
+      "reason": "影响力评分: 147.0",
       "tags": [
-        "AI",
-        "发布"
+        "发布",
+        "风险",
+        "人工智能"
       ],
-      "url": "https://36kr.com/newsflashes/3637349849351433?f=rss",
+      "url": "https://36kr.com/newsflashes/3637556570358788?f=rss",
       "source": "36氪",
-      "original_pub_date": "2026-01-13 04:23:36",
-      "impact_score": 132.0
+      "original_pub_date": "2026-01-13 07:53:53",
+      "impact_score": 147.0
     },
     {
       "index": 20,
-      "title": "上海浦东引领区投资中心注册资本增至200亿元，增幅300%",
-      "summary": "1月13日消息，36氪获悉，爱企查App显示，近日，上海浦东引领区投资中心（有限合伙）发生工商变更，出资额由50亿人民币增至200亿人民币，增幅300%。该企业成立于2022年，经营范围为以自有资金从事投资活动，由上海浦东创新投资发展（集团）有限公司、上海浦东私募基金管理有限公司共同出资。",
+      "title": "江苏：推进智能网联汽车“车路云一体化”应用试点",
+      "summary": "1月13日消息，36氪获悉，江苏省政府发布关于印发江苏省“人工智能＋”行动方案的通知。方案指出，加快推进自动驾驶行业应用。加快大模型在辅助驾驶与自动驾驶系统中的研发部署，构建全流程数据驱动的算法体系，推动适配高阶自动驾驶的智能座舱研发。探索建设自动驾驶空间智能与世界模型创新平台。推进智能网联汽车“车路云一体化”应用试点，建设智能化路侧基础设施，在限定区域内实现全线交通设施联网识别和自动驾驶模式运行。",
       "importance": "高",
-      "reason": "影响力评分: 125.5",
+      "reason": "影响力评分: 147.0",
       "tags": [
+        "发布",
+        "大模型",
         "创新",
-        "投资"
+        "人工智能"
       ],
-      "url": "https://36kr.com/newsflashes/3637408747815941?f=rss",
+      "url": "https://36kr.com/newsflashes/3637509250532359?f=rss",
       "source": "36氪",
-      "original_pub_date": "2026-01-13 05:32:34",
-      "impact_score": 125.5
+      "original_pub_date": "2026-01-13 07:05:45",
+      "impact_score": 147.0
     }
   ],
   "international": [
     {
       "index": 1,
-      "title": "NBA Europe Pitches Investors With $1 Billion Team Price Tags",
-      "summary": "1月13日消息，The National Basketball Association is preparing to pitch investors on a new European league, targeting team valuations of up to $1 billion, as it readies a pair of regular season games in London and ",
-      "importance": "高",
-      "reason": "影响力评分: 240.0",
-      "tags": [
-        "AI",
-        "valuation",
-        "billion"
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-01-12/nba-europe-pitches-investors-with-1-billion-price-tag-per-team",
-      "source": "Bloomberg Technology",
-      "original_pub_date": "2026-01-12 10:00:00",
-      "impact_score": 240.0
-    },
-    {
-      "index": 2,
       "title": "Does Inference Scaling Improve Reasoning Faithfulness? A Multi-Model Analysis of Self-Consistency Tradeoffs",
       "summary": "1月13日消息，arXiv:2601.06423v1 Announce Type: new Abstract: Self-consistency has emerged as a popular technique for improving large language model accuracy on reasoning tasks. The approach is straightforward: gen",
       "importance": "高",
       "reason": "影响力评分: 210.0",
       "tags": [
+        "Opus",
         "reasoning",
         "AI",
-        "GPT-5",
         "large language model",
-        "Opus"
+        "GPT-5"
       ],
       "url": "https://arxiv.org/abs/2601.06423",
       "source": "arXiv AI",
       "original_pub_date": "2026-01-13 05:00:00",
       "impact_score": 210.0
+    },
+    {
+      "index": 2,
+      "title": "TCS CEO on India’s IT Outlook and AI Strategy",
+      "summary": "1月13日消息，Tata Consultancy Services CEO and Managing Director K. Krithivasan shares insights on the company’s quarterly performance, after missing analysts’ estimates due to limited spending on information tech",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "CEO",
+        "joins",
+        "AI",
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/tcs-ceo-on-india-s-it-outlook-and-ai-strategy-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 07:01:56",
+      "impact_score": 195.0
     },
     {
       "index": 3,
@@ -377,8 +388,8 @@
       "reason": "影响力评分: 180.0",
       "tags": [
         "appointed",
-        "AI",
-        "national security"
+        "national security",
+        "AI"
       ],
       "url": "https://www.ft.com/content/1255421d-4634-4258-9ea0-c2365010a862",
       "source": "Financial Times Tech",
@@ -408,11 +419,11 @@
       "importance": "高",
       "reason": "影响力评分: 165.0",
       "tags": [
+        "valuation",
         "AI",
-        "LLM",
         "AI safety",
-        "alignment",
-        "o3"
+        "o3",
+        "alignment"
       ],
       "url": "https://arxiv.org/abs/2601.06047",
       "source": "arXiv AI",
@@ -436,6 +447,22 @@
     },
     {
       "index": 7,
+      "title": "HCLTech CEO on AI Strategy, Mega Deals & Growth Outlook",
+      "summary": "1月13日消息，HCLTech CEO and Managing Director C Vijayakumar shares insights on the company’s quarterly performance and AI‑driven transformation. He discusses mega deals, hiring priorities in cloud and cybersecuri",
+      "importance": "高",
+      "reason": "影响力评分: 157.5",
+      "tags": [
+        "CEO",
+        "AI",
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/hcltech-ceo-on-ai-strategy-mega-deals-growth-outlook-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 07:00:50",
+      "impact_score": 157.5
+    },
+    {
+      "index": 8,
       "title": "SK Hynix to Build $13 Billion AI Memory Chip Packaging Plant",
       "summary": "1月13日消息，SK Hynix Inc. plans to spend 19 trillion won ($12.9 billion) building a new advanced chip packaging facility, kicking off a major expansion aimed at meeting surging demand from AI applications.",
       "importance": "高",
@@ -451,14 +478,14 @@
       "impact_score": 157.5
     },
     {
-      "index": 8,
+      "index": 9,
       "title": "GE Healthcare CEO on Threats From AI",
       "summary": "1月13日消息，Peter Arduini, CEO of GE Healthcare, talks about the risks of using artificial intelligence, but he says the technology is a breakthrough for healthcare. He speaks to Katie Greifeld at the JPMorgan He",
       "importance": "高",
       "reason": "影响力评分: 157.5",
       "tags": [
-        "breakthrough",
         "AI",
+        "breakthrough",
         "CEO",
         "artificial intelligence"
       ],
@@ -468,16 +495,16 @@
       "impact_score": 157.5
     },
     {
-      "index": 9,
+      "index": 10,
       "title": "AI Safeguards, Generative AI and the Pandora Box: AI Safety Measures to Protect Businesses and Personal Reputation",
       "summary": "1月13日消息，arXiv:2601.06197v1 Announce Type: new Abstract: Generative AI has unleashed the power of content generation and it has also unwittingly opened the pandora box of realistic deepfake causing a number of",
       "importance": "高",
       "reason": "影响力评分: 150.0",
       "tags": [
-        "neural network",
         "AI",
-        "deepfake",
         "AI safety",
+        "neural network",
+        "deepfake",
         "investigation"
       ],
       "url": "https://arxiv.org/abs/2601.06197",
@@ -486,7 +513,7 @@
       "impact_score": 150.0
     },
     {
-      "index": 10,
+      "index": 11,
       "title": "Paramount Launches Warner Bros. Proxy Fight, Files Suit",
       "summary": "1月13日消息，Paramount Skydance Corp. ratcheted up the stakes in the monthslong battle for Warner Bros. Discovery Inc., saying it plans to nominate directors to the board to thwart a merger with Netflix Inc.",
       "importance": "高",
@@ -501,14 +528,14 @@
       "impact_score": 150.0
     },
     {
-      "index": 11,
+      "index": 12,
       "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
       "summary": "1月13日消息，A number of US laws have already banned deepfake pornography — most notably the Take It Down Act. But while specific users are clearly breaking those laws, it’s much harder to hold the entire platform",
       "importance": "高",
       "reason": "影响力评分: 145.0",
       "tags": [
-        "deepfake",
-        "lawsuit"
+        "lawsuit",
+        "deepfake"
       ],
       "url": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
       "source": "TechCrunch AI",
@@ -516,7 +543,7 @@
       "impact_score": 145.0
     },
     {
-      "index": 12,
+      "index": 13,
       "title": "Nvidia to Invest $1 Billion in AI Drug Lab With Eli Lilly",
       "summary": "1月13日消息，Nvidia plans to invest $1 billion over five years in a new laboratory with Eli Lilly & Co., in an effort to speed up the use of AI in the pharmaceutical industry. Denny Fish, portfolio manager on the ",
       "importance": "高",
@@ -532,7 +559,7 @@
       "impact_score": 142.5
     },
     {
-      "index": 13,
+      "index": 14,
       "title": "CES showed me why Chinese tech companies feel so optimistic",
       "summary": "1月13日消息，This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I decided to go to CES kind of at the last minute. Over the ho",
       "importance": "高",
@@ -547,14 +574,14 @@
       "impact_score": 142.5
     },
     {
-      "index": 14,
+      "index": 15,
       "title": "Nvidia and Microsoft back AI breakthrough for gene therapies",
       "summary": "1月13日消息，UK’s Basecamp Research uses species genomic sequence database to tackle cancers and superbugs",
       "importance": "高",
       "reason": "影响力评分: 142.5",
       "tags": [
-        "breakthrough",
-        "AI"
+        "AI",
+        "breakthrough"
       ],
       "url": "https://www.ft.com/content/29ec4303-cb70-48b5-a28c-320a7062cdd3",
       "source": "Financial Times Tech",
@@ -562,14 +589,14 @@
       "impact_score": 142.5
     },
     {
-      "index": 15,
+      "index": 16,
       "title": "The Download: introducing this year’s 10 Breakthrough Technologies",
       "summary": "1月13日消息，This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing this year’s 10 Breakthrough Technologies It’s easy",
       "importance": "高",
       "reason": "影响力评分: 142.5",
       "tags": [
-        "breakthrough",
-        "AI"
+        "AI",
+        "breakthrough"
       ],
       "url": "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/",
       "source": "MIT Technology Review",
@@ -577,16 +604,16 @@
       "impact_score": 142.5
     },
     {
-      "index": 16,
+      "index": 17,
       "title": "Structure-Aware Diversity Pursuit as an AI Safety Strategy against Homogenization",
       "summary": "1月13日消息，arXiv:2601.06116v1 Announce Type: new Abstract: Generative AI models reproduce the biases in the training data and can further amplify them through mode collapse. We refer to the resulting harmful los",
       "importance": "高",
       "reason": "影响力评分: 135.0",
       "tags": [
-        "AI",
         "bias",
-        "AI safety",
-        "LLM"
+        "LLM",
+        "AI",
+        "AI safety"
       ],
       "url": "https://arxiv.org/abs/2601.06116",
       "source": "arXiv AI",
@@ -594,7 +621,7 @@
       "impact_score": 135.0
     },
     {
-      "index": 17,
+      "index": 18,
       "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
       "summary": "1月13日消息，Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product.",
       "importance": "高",
@@ -609,7 +636,7 @@
       "impact_score": 132.0
     },
     {
-      "index": 18,
+      "index": 19,
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "summary": "1月13日消息，Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
       "importance": "高",
@@ -624,7 +651,7 @@
       "impact_score": 132.0
     },
     {
-      "index": 19,
+      "index": 20,
       "title": "Billions from a million: the London VC that hit the jackpot with Revolut",
       "summary": "1月13日消息，Balderton Capital led $75bn fintech’s first funding round and retains substantial stake even after cashing out $2bn",
       "importance": "高",
@@ -637,67 +664,52 @@
       "source": "Financial Times Tech",
       "original_pub_date": "2026-01-13 05:00:19",
       "impact_score": 127.5
-    },
-    {
-      "index": 20,
-      "title": "Apple Picks Gemini to Run AI-Powered Siri | Bloomberg Tech 1/12/2026",
-      "summary": "1月13日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Apple’s decision to use Alphabet’s Gemini to power Siri in a multiyear deal. Plus, Nvidia plans to invest $1 billion over five years in a new lab with E",
-      "importance": "高",
-      "reason": "影响力评分: 127.5",
-      "tags": [
-        "AI",
-        "billion"
-      ],
-      "url": "https://www.bloomberg.com/news/videos/2026-01-12/bloomberg-tech-1-12-2026-video",
-      "source": "Bloomberg Technology",
-      "original_pub_date": "2026-01-12 22:05:58",
-      "impact_score": 127.5
     }
   ],
-  "summary": "今日从150条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：科氪 | 荣耀ROBOT PHONE亮相2026 CES，以颠覆性设计斩获多项顶级大奖；头部公司估值几十亿的外骨骼，画大饼还是真愿景？；「死了么」爆红：付费人数翻了200倍，估值达1000万；曝DeepSeek V4大模型春节前后发布；马斯克宣布将开源X最新算法。",
+  "summary": "今日从161条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：头部公司估值几十亿的外骨骼，画大饼还是真愿景？；「死了么」爆红：付费人数翻了200倍，估值达1000万；曝DeepSeek V4大模型春节前后发布；马斯克宣布将开源X最新算法；8点1氪丨“死了么”APP团队再次回应争议；小米集团总裁卢伟冰辟谣辞职；国内首起AI开发者涉黄获刑案件宣判。",
   "statistics": {
-    "raw_domestic": 38,
+    "raw_domestic": 49,
     "raw_international": 112,
-    "raw_total": 150,
+    "raw_total": 161,
     "final_domestic": 20,
     "final_international": 20
   },
   "domestic_brief": [
     {
       "index": 1,
-      "summary": "1月13日消息，2026年1月6日至9日，国际消费电子展(CES2026)在美国拉斯维加斯盛大举行。荣耀向世界展示了全球第一款“手机机器人”——荣耀ROBOT PHONE。这款融合了前沿AI与机器人技术的颠覆性产品，一经亮相就凭借其突破性的手机机器人云台架构与AI交互体验成功突围，一举囊括CNET、Android Police、GadgetFlow以及Geekspin等多家全球顶级科技媒体的年度大奖以及点赞报道。",
-      "importance": "高"
-    },
-    {
-      "index": 2,
       "summary": "1月13日消息，作者丨欧雪 编辑丨袁斯来 放在一年前，很少有投资人会相信，累计出货量几万台的外骨骼公司，能估值几十亿。 它是种老产品，已经诞生超过半个世纪，场景应用明确，因为一直难以突破体验瓶颈，从未大规模用于C端。很长时间中，这个赛道没有新鲜事，发生过一些零星的投资，一批小而美的公司温吞地生存着。 似乎一夜之间，它成为很多投资人都会购入一件的潮流单品。而且，忽然就勾勒出一幅过去难以想象的宏伟愿景。 这种转变也在",
       "importance": "高"
     },
     {
-      "index": 3,
+      "index": 2,
       "summary": "1月13日消息，要闻提示 1.超越 pi0.5，千寻智能 Spirit v1.5 登顶 RoboChallenge 榜单 2.DeepSeek V4大模型被曝春节前后发布：AI编程能力超越Claude 3.“死了么”爆红：付费人数翻了200倍，估值达1000万！另有“活了么”App迅速上线 4.雷军集中辟谣奏效？200公里瞬间刹停舆论开始反转……本人回应 5.传闻成真？前比亚迪高管赵长江或已加盟智界！ 6.比亚迪",
       "importance": "高"
     },
     {
-      "index": 4,
+      "index": 3,
       "summary": "1月13日消息，今日热点导览 泡泡玛特将与荣耀手机推出IP联名合作 章泽天开通个人播客”小天章“和小红书账号 宗馥莉旗下宏振投资公司更名，去“娃哈哈” 官方：医疗机构不得开展殡仪服务、外包太平间 43度飞天茅台拟调降打款价至739元/瓶 TOP 3 大新闻 “死了么”APP团队再次回应争议，并考虑融资50万 1月11日，在短时间内登顶苹果付费软件榜首位的“死了么”APP团队发布最新声明，就名称、功能优化、定价等问",
       "importance": "高"
     },
     {
-      "index": 5,
+      "index": 4,
       "summary": "1月13日消息，作者 | 范亮 编辑 | 张帆 1月1日，xTool正式向港交所递表。 这是一家在海外DIY爱好者中知名度颇高的中国品牌。核心的三个标签是： 消费级激光雕刻机龙头、年入超20亿、80%收入来自欧美。 从成长历程来看，xTool与影石创新颇为类似，二者均在海外以“追赶者”角色逆袭成为行业龙头。在2025年11月完成D轮融资后，xTool的估值超过11亿美元。 那么，若成功登陆港交所，xTool可以复",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月13日消息，2026年1月9日，全球科技界的年度盛宴CES圆满落幕。在这场定义未来科技的舞台上，新锐智能影像品牌光子跃迁（LEAPTIC）携“全球首款8K AI拇指运动相机”等一系列创新成果重磅亮相，不仅完成了其在国际顶级展会上的首次华丽登场，更以一套完整的产品理念与个人影像生态，为高速发展的智能影像领域递交了一份备受瞩目的“完美成绩单”。 一份来自全球的认可 光子跃迁的CES之旅，是一场从产品发布到价值确认",
       "importance": "高"
     }
   ],
   "international_brief": [
     {
       "index": 1,
-      "summary": "1月13日消息，The National Basketball Association is preparing to pitch investors on a new European league, targeting team valuations of up to $1 billion, as it readies a pair of regular season games in London and ",
+      "summary": "1月13日消息，arXiv:2601.06423v1 Announce Type: new Abstract: Self-consistency has emerged as a popular technique for improving large language model accuracy on reasoning tasks. The approach is straightforward: gen",
       "importance": "高"
     },
     {
       "index": 2,
-      "summary": "1月13日消息，arXiv:2601.06423v1 Announce Type: new Abstract: Self-consistency has emerged as a popular technique for improving large language model accuracy on reasoning tasks. The approach is straightforward: gen",
+      "summary": "1月13日消息，Tata Consultancy Services CEO and Managing Director K. Krithivasan shares insights on the company’s quarterly performance, after missing analysts’ estimates due to limited spending on information tech",
       "importance": "高"
     },
     {
