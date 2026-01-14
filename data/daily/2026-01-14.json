@@ -1,0 +1,714 @@
+{
+  "date": "2026-01-14",
+  "generated_at": "2026-01-14 08:19:22",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "复旦教授联手前英特尔首席科学家创业，获天使轮追加投资，已与小米、宇树科技合作｜36氪首发",
+      "summary": "1月14日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，近日，全球首个生成式通用具身大脑公司——上海眸深智能科技有限公司（下称“眸深智能”）完成超千万人民币天使轮追加投资，投资方为徐汇资本。 本轮融资资金主要用于算力采购、工程化团队扩建及机器人实验平台搭建。同时，公司正式入驻徐汇区人工智能产业核心载体“模速空间”。 眸深智能成立于2025年，专注于生成式跨本体通用具身大脑研发，致力于为人形机器人及多形态物理智能体提供",
+      "importance": "高",
+      "reason": "影响力评分: 455.0",
+      "tags": [
+        "深度学习",
+        "创新",
+        "投资",
+        "大模型",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3638639464385924?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 02:15:55",
+      "impact_score": 455.0
+    },
+    {
+      "index": 2,
+      "title": "亚马逊或将继续对意大利反垄断罚款提起上诉",
+      "summary": "1月14日消息，据报道，在意大利法院减少该国反垄断监管机构对美国电商巨头亚马逊处以的罚款金额后，亚马逊仍将就这一裁决提出上诉，因为该公司认为意大利反垄断监管机构的指控根本不成立。当地时间周一，意大利反垄断机构表示，已将2021年对亚马逊处以的11.3亿欧元罚款减少至7.524亿欧元（约合8.763亿美元），该罚款是因亚马逊滥用其市场支配地位，限制意大利电商物流服务领域的竞争而判处的。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 390.0",
+      "tags": [
+        "反垄断",
+        "监管",
+        "罚款"
+      ],
+      "url": "https://36kr.com/newsflashes/3638966139096197?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 07:47:46",
+      "impact_score": 390.0
+    },
+    {
+      "index": 3,
+      "title": "昨夜，苹果官宣 iPhone 将搭载最强 AI！马斯克第一个跳出来骂；章泽天开通个人播客，一小时收听量破万；曝强脑科技秘密提交香港IPO申请",
+      "summary": "1月14日消息，要闻提示 1.昨夜，苹果官宣 iPhone 将搭载最强 AI！马斯克第一个跳出来骂 2.曝携程误发全员离职通知！网友：人在工作中能捅多大的篓子 3.章泽天开通个人播客，一小时收听量破万，首期对话刘嘉玲 4.曝强脑科技秘密提交香港IPO申请，或成“杭州六小龙”首家上市公司，公司暂无回应 5.传小米总裁卢伟冰离职，本人回应：今天上班 6.字节、美团、阿里同时押注，自变量完成10亿元A++轮融资 7.曝",
+      "importance": "高",
+      "reason": "影响力评分: 380.0",
+      "tags": [
+        "IPO",
+        "上市",
+        "合作",
+        "AI",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/hLetRPJYM9qhyYgd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-13 07:07:00",
+      "impact_score": 380.0
+    },
+    {
+      "index": 4,
+      "title": "正式落地！美国政府批准向中国出口英伟达H200芯片；死了么APP官宣改名！启用全球化品牌名Demumu；立讯精密：终止收购印度闻泰资产",
+      "summary": "1月14日消息，要闻提示 1.小扎再砍元宇宙1500人！Meta 战略重心从元宇宙转向AI设备 2.正式落地！美国政府批准向中国出口英伟达H200芯片 3.赵长江官宣加入鸿蒙智行，任智界汽车执行董事及执行副总裁 4.立讯精密：终止收购印度闻泰资产，仲裁追讨1.53亿元款项 5.死了么APP官宣改名！正式启用全球化品牌名Demumu 6.DeepSeek发布梁文锋署名新论文，V4有望支持全新记忆架构 7.小米潘九堂",
+      "importance": "高",
+      "reason": "影响力评分: 290.0",
+      "tags": [
+        "投资",
+        "大模型",
+        "收购",
+        "H200",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/mg5GmPRMpz1yppXh.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-14 00:38:00",
+      "impact_score": 290.0
+    },
+    {
+      "index": 5,
+      "title": "最前线｜智能座舱开始AI变革，长城新车要标配车端智能体",
+      "summary": "1月14日消息，智能辅助驾驶能力突飞猛进背后，是AI能力的不断涌现，它在智能座舱上同样受到热捧，甚至因为座舱对延时和算力的要求更低，应用门槛也相应降低。 特斯拉用“Grok+FSD”组合已经给出了惊人表现。用户除了可以体验特斯拉FSD的流畅领航辅助驾驶，还能和Grok进行了拟人、善解人意的对话，甚至用Grok实现模糊指令下的导航。 因此，AI智能体上车，成为热潮。 长城汽车等国内车企率先捕捉到了这一点。今年的消费",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "发布",
+        "上市",
+        "AI",
+        "正式推出"
+      ],
+      "url": "https://36kr.com/p/3637524364887305?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 07:24:20",
+      "impact_score": 264.0
+    },
+    {
+      "index": 6,
+      "title": "客户数据遭泄露，Free和Free Mobile被法国监管机构处以4200万欧元罚款",
+      "summary": "1月14日消息，法国国家信息自由委员会1月14日对法国电信公司Free和Free Mobile分别处以1500万欧元和2700万欧元罚款，原因是这两家公司未能履行保护客户数据的义务。此次处罚源于2024年10月黑客入侵事件，导致涉及2400万客户合同的个人数据遭泄露，其中包含银行支付信息。法国国家信息自由委员会调查发现，涉事企业未实施若干基础安全措施，这些措施本可有效阻碍攻击行为。（界面）",
+      "importance": "高",
+      "reason": "影响力评分: 260.0",
+      "tags": [
+        "监管",
+        "罚款"
+      ],
+      "url": "https://36kr.com/newsflashes/3638991922515337?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 08:14:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 7,
+      "title": "市场监管总局对携程立案调查",
+      "summary": "1月14日消息，36氪获悉，近日，市场监管总局根据前期核查，依据《中华人民共和国反垄断法》，对携程集团有限公司涉嫌滥用市场支配地位实施垄断行为立案调查。",
+      "importance": "高",
+      "reason": "影响力评分: 260.0",
+      "tags": [
+        "反垄断",
+        "监管"
+      ],
+      "url": "https://36kr.com/newsflashes/3638980364242057?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 08:02:15",
+      "impact_score": 260.0
+    },
+    {
+      "index": 8,
+      "title": "氪星晚报｜美防长称马斯克旗下AI聊天机器人将接入五角大楼系统；瑞银首席执行官据悉将于2027年4月卸任；王小川：百川智能预计2027年启动IPO",
+      "summary": "1月14日消息，大公司： 沃尔沃旗下NOVO Energy宣布暂停运营 沃尔沃汽车旗下电池公司NOVO Energy发布声明称，“在确定新的技术合作伙伴之前，公司无法按原计划推进运营。”此外，受此影响，NOVO Energy计划进行裁员，此次裁员将波及公司所有岗位。该公司表示，已通知相关工会，并向瑞典劳动力市场管理机构提交了共计75个岗位的裁员通知。（财联社） 澳16岁以下社媒禁令实施月余，Meta已封禁逾54万",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "发布",
+        "IPO",
+        "AI",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3637665871807496?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 10:13:48",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "智能化爆发前夜，智界汽车正在经历一场从1到100的品牌跃升战",
+      "summary": "1月14日消息，2026年1月13日，前腾势销售事业部总经理赵长江官宣加盟智界，出任品牌执行董事及执行副总裁。 这则消息在年初的智能汽车行业掀起了不小的波澜——自2025年10月赵长江从比亚迪离职后，这位曾经的腾势销售总经理的去向，始终是行业热议的焦点。 有行业人士分析，赵长江选择智界绝非偶然的个人职业选择，而是智能汽车产业从电动化上半场，迈入智能化下半场的必然人才流向。当行业共识从“电动化替代燃油”转向“智能化",
+      "importance": "高",
+      "reason": "影响力评分: 221.0",
+      "tags": [
+        "首次",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3638008100211842?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-13 15:33:42",
+      "impact_score": 221.0
+    },
+    {
+      "index": 10,
+      "title": "百度启动管培生扩招计划，offer数扩增100%",
+      "summary": "1月12日，百度官方宣布，首次启动MTS（Management Trainee Spring）管培生春季扩招计划。据介绍，这是百度顶尖人才计划首次扩招，offer数量将扩增100%。 百度方面介绍，MTS管培生计划聚焦于培养AI时代下的年轻领军人才。该计划基于管培生的个人意愿和能力特点，定制化设计两年培养期的轮岗路径，由集团高管亲自带教，助力人才快速成长。截至2025年年末，百度管培生计划已连续招",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "首次",
+        "上市",
+        "创新",
+        "大模型",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/3CPxxx7nzKdwDgVs.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-13 09:37:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "CES 2026｜出门问问发布TicNote系列新品，联动TicNote Cloud打造团队协作新生态",
+      "summary": "1月14日消息，当地时间1月7日，出门问问在全球科技盛会CES 2026期间，以“Beyond Recording”为主题，举办新品发布会，正式发布TicNote系列新品——首款4G AI录音耳机TicNote Pods、首款AI 录音手表TicNote Watch，以及AI 原生文件协作平台TicNote Cloud。通过搭载核心引擎Shadow AI 2.0，形成“记录-文件化-执行-协作”闭环链路，驱动Ti",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "发布",
+        "上线",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/f1fpU3RSou9XzMdz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-13 03:10:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "反诈的360在印度被「诈」",
+      "summary": "1月14日消息，作者 | 王汉博 编辑 | 张帆 2025年底，奇富科技拿奖拿到手软。 12月，奇富科技凭借反诈技术获工信部通报表扬，自主研发的AI合规智能体入选“金信通”典型案例；1月，联合高校发布首个信贷多模态评测基准，AI合规智能体又在中国互联网协会主办的赛事上连获三奖，同时，公司团队还在2025黑灰产检测技能大赛上斩获一组别“团队金奖”。 这家起初由360集团内部孵化、前身为360数科的金融科技公司，在技",
+      "importance": "高",
+      "reason": "影响力评分: 190.0",
+      "tags": [
+        "估值",
+        "监管",
+        "AI",
+        "风险",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3638662452891008?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 02:42:06",
+      "impact_score": 190.0
+    },
+    {
+      "index": 13,
+      "title": "多品类齐发，AI内化于芯：安克创新以智能硬件矩阵展现全球领军者实力",
+      "summary": "1月8日，美国拉斯维加斯的 CES 刚刚落幕，在中国深圳举办的通义智能硬件展再次成为全球消费电子行业的焦点。这场展会由阿里云主办，汇聚了超过 220 多家企业和 1500 件智能硬件产品，也被业界视为观测中国AI硬件趋势的新核心场。值得注意的是，一家公司的名字同时频繁出现在这两个东西方顶级硬科技展会的讨论中——安克创新。 在深圳，安克创新的展台前挤满了探寻 AI 如何落地在多种场景的行业人士和科技",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "超越",
+        "创新",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/8GHXOTzNo9YajVqT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-13 07:12:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 14,
+      "title": "《鹅鸭杀》上线6日：新增用户破千万",
+      "summary": "1月14日消息，由金山世游独家代理、虎牙联合发行的社交推理手游《鹅鸭杀》自上线以来，迅速引爆全网。上线仅6日新增用户突破千万，同时最高在线人数（PCU）已超越Steam端历史峰值，累计斩获全网热搜近百个，并在多个主流平台登顶榜单TOP1。 话题持续发酵，斩获全网热搜 《鹅鸭杀》手游延续了PC端经典玩法，凭借轻松的社交氛围、有趣的推理机制和特色的本地化改造，迅速俘获了大量玩家。雷峰网了解到，在短短几天内，游戏不仅新",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "上线",
+        "超越",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/L0QhrulvWY6f2zFX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-13 03:32:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "为实现55-60万的销量目标，小鹏准备了三手牌｜36氪独家",
+      "summary": "1月14日消息，小鹏汽车董事长 何小鹏 文｜肖漫 编辑｜李勤、杨轩 36氪汽车获悉，小鹏汽车近期在内部战略会上确定了2026年销量目标，全年销量要达到55万-60万辆。这比小鹏2025年完成的42.94万辆增长约28.1%-39.7%，意味着其平均月交付需提升至4.58万-5万辆以上。 2026年是小鹏将开启“一车双能”布局的产品大年。何小鹏曾透露，2026年将推出7款具备超级增程配置的一车双能车型，包含3款超级",
+      "importance": "高",
+      "reason": "影响力评分: 152.0",
+      "tags": [
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3636215229170951?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 07:53:37",
+      "impact_score": 152.0
+    },
+    {
+      "index": 16,
+      "title": "不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍",
+      "summary": "1月14日消息，把上下文压缩到自身权重，测试时学习",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "大模型",
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/01/369340.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-14 06:09:53",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "百川开源全球最强医疗大模型M3，「严肃问诊」定义AI医疗新能力",
+      "summary": "1月14日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "开源"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-14",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-14 01:26:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "王小川：30亿现金在手，明年IPO，toC产品马上就发",
+      "summary": "1月14日消息，新模型开源，幻觉率全球最低",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "IPO",
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/01/369332.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-13 11:49:09",
+      "impact_score": 150.0
+    },
+    {
+      "index": 19,
+      "title": "百望股份李国平：SaaS的智能体化转型，能否堪比云计算革命？ | SaaS+Agent十人谈",
+      "summary": "1月14日消息，“Meta数十亿美金收购Manus，正是看好‘智能力’从「只有大脑」到「脑手皆能」的变革。” IT老兵李国平如此评价Manus易主一事，其所言的“智能力”，是指智能体（Agent）认知+执行的复合能力。在他看来，SaaS行业也正在经历一场关乎自身的智能变革—— “ 如果SaaS仍以人与系统（界面）的交互为主，不进行智能变革的话，必将被时代颠覆。 ”人机交互模式的根本性转变，是Agent浪潮给Saa",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "收购",
+        "十亿"
+      ],
+      "url": "https://www.leiphone.com/category/CorporateServices/pUsb6avxsGjhmrCi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-13 03:27:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 20,
+      "title": "小鹏联创何涛人生的下半场，他要接住下一场智能化出行的洪流｜36氪专访",
+      "summary": "1月14日消息，作者 | 张子怡 编辑 | 袁斯来 离开小鹏汽车第一年，何涛把能玩的东西都玩了一遍。去欧洲、去美国、去东南亚，“拼命地玩”，去爬山、冲浪、开帆船，什么刺激他做什么。 玩到后来，何涛感到空虚。在美国豪宅区闲逛时，他看到那些退休的公司老板，沉迷于打理自家花园，搞搞自动浇水系统，他仿佛看到自己的未来。“感觉这太可怕了。” 何涛说自己闲不住。经历过商战的大起大落，他早就对肾上腺素直冲心脏的刺激上了瘾。很多",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "发布",
+        "AI",
+        "风险"
+      ],
+      "url": "https://36kr.com/p/3637880831773828?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-14 01:30:34",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Investors Eye AI Spending in Bank Earnings",
+      "summary": "1月14日消息，JPMorgan CEO Jamie Dimon insisted in the bank’s post-earnings call that it will be spending on AI to drive efficiencies and keep up with competitors, in response to an analyst question. As bank earnin",
+      "importance": "高",
+      "reason": "影响力评分: 262.5",
+      "tags": [
+        "joins",
+        "CEO",
+        "AI",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/investors-eye-ai-spending-in-bank-earnings-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 19:18:23",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Cerebras in Discussions to Raise Funds at $22 Billion Valuation",
+      "summary": "1月14日消息，AI chip provider Cerebras Systems Inc. is in talks to raise roughly $1 billion in a new funding round, according to a person familiar with the matter, bolstering the company’s efforts to compete with ",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-13/cerebras-in-discussions-to-raise-funds-at-22-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 23:59:35",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Caterpillar Briefly Tops $300 Billion Valuation on AI Rally",
+      "summary": "1月14日消息，Caterpillar Inc. shares extended a turbocharged rally fueled by bets on the industrial giant’s artificial intelligence prospects to briefly push its market valuation above $300 billion for the first t",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "artificial intelligence",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-13/caterpillar-crosses-300-billion-in-market-value-on-ai-rally",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 15:48:56",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery",
+      "summary": "1月14日消息，NVIDIA and Lilly are putting together “a blueprint for what is possible in the future of drug discovery,” NVIDIA founder and CEO Jensen Huang told attendees at a fireside chat Monday with Dave Ricks, ",
+      "importance": "高",
+      "reason": "影响力评分: 229.5",
+      "tags": [
+        "CEO",
+        "Jensen Huang",
+        "AI",
+        "founder"
+      ],
+      "url": "https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-01-13 20:00:43",
+      "impact_score": 229.5
+    },
+    {
+      "index": 5,
+      "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+      "summary": "1月14日消息，Deepgram is raising its Series C round at a $1.3 billion valuation.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-13 13:30:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Tempus CEO on AI In Healthcare Space",
+      "summary": "1月14日消息，Tempus AI CEO Eric Lefkofsky joins Bloomberg's Katie Greifeld at the annual JP Morgan healthcare conference in San Francisco to talk about how they incorporate AI into every day consumer's lives. He s",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "joins",
+        "CEO",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/tempus-ceo-on-ai-in-healthcare-space-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 22:01:38",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Taiwan Wants to Arrest OnePlus CEO in Latest Step to Block China",
+      "summary": "1月14日消息，Prosecutors in Taiwan issued an arrest warrant for the chief executive officer of Chinese smartphone company OnePlus, stepping up efforts to stem potential losses of technology and talent to a geopoli",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "chief",
+        "CEO",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-13/taiwan-issues-arrest-warrant-for-ceo-of-oneplus-over-china-hires",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 13:20:32",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Dina Powell McCormick appointed president and vice-chair at Meta",
+      "summary": "1月14日消息，Former deputy national security adviser in Donald Trump’s first term served on tech company’s board last year",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "appointed",
+        "AI",
+        "national security"
+      ],
+      "url": "https://www.ft.com/content/1255421d-4634-4258-9ea0-c2365010a862",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-13 01:10:19",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios",
+      "summary": "1月14日消息，arXiv:2601.08173v1 Announce Type: new Abstract: The rapid evolution of Multi-modal Large Language Models (MLLMs) has advanced workflow automation; however, existing research mainly targets performance",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "acquisition",
+        "LLM",
+        "large language model",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2601.08173",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-14 05:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "China’s Zhipu Unveils New AI Model Trained on Huawei’s Chips",
+      "summary": "1月14日消息，Chinese AI startup Knowledge Atlas Technology JSC Ltd. released a new multimodal model that it says is the country’s first to be fully trained using domestic chips, in a sign of progress toward meetin",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "unveils",
+        "multimodal",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-14 04:12:48",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "'Lot of Good' in Market Structure Bill: Coinbase's Calvert",
+      "summary": "1月14日消息，Many digital-asset companies would continue to be able to offer rewards to customers who hold stablecoins under a new proposal tied to hotly-anticipated crypto market structure legislation. The Senate",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "joins",
+        "legislation"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/-lot-of-good-in-market-structure-bill-coinbase-s-calvert",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 19:32:44",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Anthropic shakes up C-suite to expand its internal incubator",
+      "summary": "1月14日消息，Mike Krieger, the Instagram co-founder who joined Anthropic two years ago as its chief product officer, is moving to a new focus at the AI startup: co-leading its internal incubator, dubbed the \"Labs\"",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "chief",
+        "founder",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-01-13 20:30:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "Dutch Court Weighs Next Step in Fight Over Chipmaker Nexperia",
+      "summary": "1月14日消息，A dispute over chipmaker Nexperia BV will reach a critical stage as a Dutch court considers whether it should open an investigation and withhold control from Chinese owner Wingtech Technology Co. over",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "investigation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-14/dutch-court-weighs-next-step-in-fight-over-chipmaker-nexperia",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-14 05:15:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "Large Artificial Intelligence Model Guided Deep Reinforcement Learning for Resource Allocation in Non Terrestrial Networks",
+      "summary": "1月14日消息，arXiv:2601.08254v1 Announce Type: new Abstract: Large AI Model (LAM) have been proposed to applications of Non-Terrestrial Networks (NTN), that offer better performance with its great generalization a",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "fairness",
+        "AI",
+        "outperforms",
+        "LLM",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2601.08254",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-14 05:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Tesla, EEOC Plan Talks to Settle California Factory Racism Suit",
+      "summary": "1月14日消息，Tesla Inc. will enter into settlement negotiations with the US Equal Employment Opportunity Commission over the agency’s 2023 lawsuit accusing the electric-vehicle maker of race-based harassment at it",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "lawsuit"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-14/tesla-eeoc-plan-talks-to-settle-california-factory-racism-suit",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-14 00:22:40",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "US Clears Path for Nvidia to Sell H200s to China Via New Rule",
+      "summary": "1月14日消息，The Trump administration moved closer to allowing Nvidia Corp. to sell its H200 artificial intelligence chips to China by issuing revised criteria for winning US government approval to ship the proces",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "H200",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-13/us-clears-path-for-nvidia-to-sell-h200s-to-china-via-new-rule",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 22:42:27",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "Latest on US Crypto Market Structure Legislation",
+      "summary": "1月14日消息，Many digital-asset companies would continue to be able to offer rewards to customers who hold stablecoins under a new proposal tied to hotly-anticipated crypto market structure legislation. The Senate",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "legislation"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/latest-on-us-crypto-market-structure-legislation-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 19:31:04",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+      "summary": "1月14日消息，Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "investigation",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-13 12:21:47",
+      "impact_score": 145.0
+    },
+    {
+      "index": 19,
+      "title": "Apple Picks Gemini AI in Win for Google’s Tensor Chip",
+      "summary": "1月14日消息，Apple chooses Google AI in a multiyear deal that highlights the cost advantage of Google’s tensor processing unit chips and Apple’s need to improve AI offerings. Dan Ives, managing director and senior",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AGI",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-13/apple-picks-gemini-ai-in-win-for-google-s-tensor-chip-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-13 19:36:40",
+      "impact_score": 142.5
+    },
+    {
+      "index": 20,
+      "title": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety",
+      "summary": "1月14日消息，arXiv:2601.08000v1 Announce Type: new Abstract: Ensuring that Large Language Models (LLMs) adhere to safety principles without refusing benign requests remains a significant challenge. While OpenAI in",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "reasoning",
+        "AI",
+        "introduces",
+        "alignment",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2601.08000",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-14 05:00:00",
+      "impact_score": 135.0
+    }
+  ],
+  "summary": "今日从174条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：复旦教授联手前英特尔首席科学家创业，获天使轮追加投资，已与小米、宇树科技合作｜36氪首发；亚马逊或将继续对意大利反垄断罚款提起上诉；昨夜，苹果官宣 iPhone 将搭载最强 AI！马斯克第一个跳出来骂；章泽天开通个人播客，一小时收听量破万；曝强脑科技秘密提交香港IPO申请。",
+  "statistics": {
+    "raw_domestic": 54,
+    "raw_international": 120,
+    "raw_total": 174,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月14日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，近日，全球首个生成式通用具身大脑公司——上海眸深智能科技有限公司（下称“眸深智能”）完成超千万人民币天使轮追加投资，投资方为徐汇资本。 本轮融资资金主要用于算力采购、工程化团队扩建及机器人实验平台搭建。同时，公司正式入驻徐汇区人工智能产业核心载体“模速空间”。 眸深智能成立于2025年，专注于生成式跨本体通用具身大脑研发，致力于为人形机器人及多形态物理智能体提供",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月14日消息，据报道，在意大利法院减少该国反垄断监管机构对美国电商巨头亚马逊处以的罚款金额后，亚马逊仍将就这一裁决提出上诉，因为该公司认为意大利反垄断监管机构的指控根本不成立。当地时间周一，意大利反垄断机构表示，已将2021年对亚马逊处以的11.3亿欧元罚款减少至7.524亿欧元（约合8.763亿美元），该罚款是因亚马逊滥用其市场支配地位，限制意大利电商物流服务领域的竞争而判处的。（新浪财经）",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月14日消息，要闻提示 1.昨夜，苹果官宣 iPhone 将搭载最强 AI！马斯克第一个跳出来骂 2.曝携程误发全员离职通知！网友：人在工作中能捅多大的篓子 3.章泽天开通个人播客，一小时收听量破万，首期对话刘嘉玲 4.曝强脑科技秘密提交香港IPO申请，或成“杭州六小龙”首家上市公司，公司暂无回应 5.传小米总裁卢伟冰离职，本人回应：今天上班 6.字节、美团、阿里同时押注，自变量完成10亿元A++轮融资 7.曝",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月14日消息，要闻提示 1.小扎再砍元宇宙1500人！Meta 战略重心从元宇宙转向AI设备 2.正式落地！美国政府批准向中国出口英伟达H200芯片 3.赵长江官宣加入鸿蒙智行，任智界汽车执行董事及执行副总裁 4.立讯精密：终止收购印度闻泰资产，仲裁追讨1.53亿元款项 5.死了么APP官宣改名！正式启用全球化品牌名Demumu 6.DeepSeek发布梁文锋署名新论文，V4有望支持全新记忆架构 7.小米潘九堂",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月14日消息，智能辅助驾驶能力突飞猛进背后，是AI能力的不断涌现，它在智能座舱上同样受到热捧，甚至因为座舱对延时和算力的要求更低，应用门槛也相应降低。 特斯拉用“Grok+FSD”组合已经给出了惊人表现。用户除了可以体验特斯拉FSD的流畅领航辅助驾驶，还能和Grok进行了拟人、善解人意的对话，甚至用Grok实现模糊指令下的导航。 因此，AI智能体上车，成为热潮。 长城汽车等国内车企率先捕捉到了这一点。今年的消费",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月14日消息，JPMorgan CEO Jamie Dimon insisted in the bank’s post-earnings call that it will be spending on AI to drive efficiencies and keep up with competitors, in response to an analyst question. As bank earnin",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月14日消息，AI chip provider Cerebras Systems Inc. is in talks to raise roughly $1 billion in a new funding round, according to a person familiar with the matter, bolstering the company’s efforts to compete with ",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月14日消息，Caterpillar Inc. shares extended a turbocharged rally fueled by bets on the industrial giant’s artificial intelligence prospects to briefly push its market valuation above $300 billion for the first t",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月14日消息，NVIDIA and Lilly are putting together “a blueprint for what is possible in the future of drug discovery,” NVIDIA founder and CEO Jensen Huang told attendees at a fireside chat Monday with Dave Ricks, ",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月14日消息，Deepgram is raising its Series C round at a $1.3 billion valuation.",
+      "importance": "高"
+    }
+  ]
+}
