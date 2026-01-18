@@ -1,0 +1,183 @@
+======================================================================
+AI每日动态 - 2026-01-18
+生成时间: 2026-01-18 08:16:45
+数据来源: 从 41 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、1月18日消息，作者丨刘燕秋 来源丨投中网 1月14日晚间，紫光国微披露了一笔交易预案：公司拟通过发行股份及支付现金相结合的方式，收购瑞能半导100%股权。14名交易对方包括南昌建恩、北京广盟、天津瑞芯、建投华科等。 其中，前三大股东为南昌建恩、北京广盟、天津瑞芯，背后都是建广资产，一家在媒体描述里“能与大基金比肩”的大型半导体投资机构，代表作是重组“恩智浦三杰”和紫光集团。 在交易性质上，瑞能半导前任董事长李滨
+2、1月18日消息，作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，跨境物流服务商广东拓威天海科技股份有限公司（以下简称“拓威天海”）近日宣布完成近亿元人民币C轮融资。本轮融资由浙商创投与空天基金共同投资。 我们总结了本轮融资信息和该公司几大亮点： 01 融资详情 融资金额： 近亿元人民币 融资轮次： C轮 投资方： 浙商创投、空天基金 历史融资： 公司此前已获得深创投、白云金控等多家机构投资。 本轮资金用途： 本轮投
+3、1月18日消息，36氪获悉，据商务部网站消息，2025年，在元首外交战略引领下，中国—中亚经贸合作取得长足发展。据中国海关统计，全年货物贸易进出口达到1063亿美元，同比增长12%，增速较上年提高6个百分点。贸易规模再创新高。中国—中亚进出口总值历史上首次突破1000亿美元大关，连续5年保持正增长。中国首次跃居中亚各国第一大贸易伙伴，中亚占中国外贸的比重进一步上升。
+4、1月18日消息，
+5、1月18日消息，作者丨欧雪 编辑丨袁斯来 随着AI与营销加速融合，单一功能的Agent已难以满足复杂营销场景需求。 在1月15日于深圳举办的2026科大讯飞AIMC全球智能营销生态峰会上，科大讯飞AI营销（AIMarX）正式推出营销SuperAgent应用框架，并发布基于该框架构建的营销智能体平台，提出以“群体智能”驱动营销从“经验驱动”迈向“智能驱动”的行业新范式。 “数据割裂正成为AI规模化落地的核心制约。”
+
+国际动态：
+1、1月18日消息，Nearly a year after DeepSeek’s AI breakthrough rattled global markets, China is entering 2026 with a fresh wave of technological advances that are powering a stock rally, even as its economy remains f
+2、1月18日消息，Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
+3、1月18日消息，Tesla Inc. is almost finished with the design of the AI5 chip for its full self-driving system, and is in the early stages of developing the next version, AI6, Chief Executive Officer Elon Musk said i
+4、1月18日消息，Regulators launch ‘anti-involution’ investigations against internet companies
+5、1月18日消息，Parts makers concerned about whether Beijing will allow imports of AI processors
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 1月18日消息，作者丨刘燕秋 来源丨投中网 1月14日晚间，紫光国微披露了一笔交易预案：公司拟通过发行股份及支付现金相结合的方式，收购瑞能半导100%股权。14名交易对方包括南昌建恩、北京广盟、天津瑞芯、建投华科等。 其中，前三大股东为南昌建恩、北京广盟、天津瑞芯，背后都是建广资产，一家在媒体描述里“能与大基金比肩”的大型半导体投资机构，代表作是重组“恩智浦三杰”和紫光集团。 在交易性质上，瑞能半导前任董事长李滨
+   📋 入选理由: 影响力评分: 405.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3644606458252930?f=rss
+   🏷️ 标签: 合作, 首次, 上市, 投资, 收购
+
+2、🔥 1月18日消息，作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，跨境物流服务商广东拓威天海科技股份有限公司（以下简称“拓威天海”）近日宣布完成近亿元人民币C轮融资。本轮融资由浙商创投与空天基金共同投资。 我们总结了本轮融资信息和该公司几大亮点： 01 融资详情 融资金额： 近亿元人民币 融资轮次： C轮 投资方： 浙商创投、空天基金 历史融资： 公司此前已获得深创投、白云金控等多家机构投资。 本轮资金用途： 本轮投
+   📋 入选理由: 影响力评分: 357.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3641918009937540?f=rss
+   🏷️ 标签: 合作, 突破, 融资, 投资, 发布
+
+3、🔥 1月18日消息，36氪获悉，据商务部网站消息，2025年，在元首外交战略引领下，中国—中亚经贸合作取得长足发展。据中国海关统计，全年货物贸易进出口达到1063亿美元，同比增长12%，增速较上年提高6个百分点。贸易规模再创新高。中国—中亚进出口总值历史上首次突破1000亿美元大关，连续5年保持正增长。中国首次跃居中亚各国第一大贸易伙伴，中亚占中国外贸的比重进一步上升。
+   📋 入选理由: 影响力评分: 346.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644516845522824?f=rss
+   🏷️ 标签: 突破, 首次, 合作, 创新
+
+4、🔥 1月18日消息，
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-17-2
+   🏷️ 标签: 开源, AI, 发布
+
+5、🔥 1月18日消息，作者丨欧雪 编辑丨袁斯来 随着AI与营销加速融合，单一功能的Agent已难以满足复杂营销场景需求。 在1月15日于深圳举办的2026科大讯飞AIMC全球智能营销生态峰会上，科大讯飞AI营销（AIMarX）正式推出营销SuperAgent应用框架，并发布基于该框架构建的营销智能体平台，提出以“群体智能”驱动营销从“经验驱动”迈向“智能驱动”的行业新范式。 “数据割裂正成为AI规模化落地的核心制约。”
+   📋 入选理由: 影响力评分: 279.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3642948995862405?f=rss
+   🏷️ 标签: 突破, 隐私, 正式推出, 发布, AI
+
+6、🔥 1月18日消息，印度民航总局17日宣布对印度靛蓝航空公司处以创纪录的245万美元罚款，作为对该航司2025年12月大面积取消航班的处罚。这一监管机构还向靛蓝航空多名高管发出警告，并要求撤换运营控制部门负责人。（新华社）
+   📋 入选理由: 影响力评分: 260.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644480998789001?f=rss
+   🏷️ 标签: 罚款, 监管
+
+7、🔥 1月18日消息，示意图 文｜晓静 编辑｜徐青阳 山姆·奥特曼曾在接受采访时说：“广告加AI让我感到特别不安。我认为广告是我们商业模式的最后手段。” 但是，在 2026 年刚刚开年，北京时间1月17日凌晨，OpenAI 就宣布了正式开始试水最令奥特曼不安的“广告加 AI”。 未来几周内，将率先于美国市场启动ChatGPT广告测试，同时在全球核心市场推出月费8美元的低价订阅套餐ChatGPT Go。这个时间距Open
+   📋 入选理由: 影响力评分: 251.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3644462576995970?f=rss
+   🏷️ 标签: 估值, 融资, 创新, AGI, AI
+
+8、🔥 1月18日消息，36氪获悉，贵州茅台发文提示：近期，线上平台再次出现冒用茅台名义，发布“开放企业直供通道”“企业1499飞天申购，点击链接获取详情”“飞天茅台官方申请入口”“无需搭售、点击链接立即申请”“1499元企业申购通道”等虚假招商信息，有关内容均属不实宣传，存在误导消费者、甚至诈骗风险。公司从未授权或委托任何主体，发布以上信息。目前，公司各省区自营店正在与原有企业团购客户签订2026年销售合同，通过线下对
+   📋 入选理由: 影响力评分: 249.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644480111431300?f=rss
+   🏷️ 标签: 开放, 风险, 发布
+
+9、🔥 1月18日消息，示意图 「核心提示」 政策潮水慢慢退去，电车行业正面临着从“政策输血”到“市场造血”的转向。 作者 | 娜娜 编辑 | 邢昀 2025年，中国新能源车渗透率首次突破50%，这个数字背后，是“油电倒挂”时代的真正到来。 随着充电桩遍布街头巷尾，续航轻松突破500公里，“续航焦虑”几乎不成为购车困扰。国产力量的集体崛起与激烈的内部竞争，彻底改写了赛场规则。 热闹的销量背后，是“电动化”的逐渐完善，这也
+   📋 入选理由: 影响力评分: 221.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3644455846514304?f=rss
+   🏷️ 标签: 突破, 首次
+
+10、🔥 1月18日消息，今日热点导览 西贝公关副总裁宋宣已离职 携程被地方市场监管部门约谈多次仍不改 华为、小米等品牌被纳入iPhone以旧换新范围 “与辉同行”客服回应“麻黄鸡争议” 保时捷2025年全球交付量为279449辆 TOP 3 大新闻 贾国龙罗永浩被微博禁言，罗永浩朋友圈最新发声 1月15日21时50分许，新黄河记者从罗永浩方面有关人士确认，@罗永浩的十字路口 以及@西贝贾国龙 两个账号均被禁言。微博CEO
+   📋 入选理由: 影响力评分: 175.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3642816248172161?f=rss
+   🏷️ 标签: CEO, 诺贝尔, 监管, 发布
+
+11、🔥 1月18日消息，36氪获悉，1月18日，华泰保险官方微信公众号发布消息显示，2025年华泰资产资产管理规模、管理费收入、利润总额均创历史新高，其中资产管理规模突破1万亿元。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644436810616705?f=rss
+   🏷️ 标签: 突破, 发布
+
+12、🔥 1月18日消息，【中国，深圳】1月16日，华为以“让有路的地方就有高质量充电”为主题，举办2026充电网络产业十大趋势发布会。华为智能充电网络领域总裁王志武从产业与技术多重维度全面解读，正式发布2026充电网络产业十大趋势。 王志武表示，充电网络产业仍处于波次发展的初级阶段，未来还有无限的可想象空间。我们当下正在经历的重卡物流电动化，不仅社会价值更高，更代表一场交通能源变革，商用车场景将成为直流充电绝对的流量高地
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/tq9WbYmzR9tWuLC5.html
+   🏷️ 标签: 投资, 监管, 发布
+
+13、🔥 1月18日消息，山姆·奥特曼 知识就是力量，人才结构决定企业命运。从奥特曼的辍学神话到OpenAI员工母校排行，学历无用论被数据击溃！OpenAI斯坦福、伯克利、MIT毕业生云集，AI人才聚集效应浮现。 世上从不缺天才。 OpenAI的首席执行官奥特曼上了2年大学后，从斯坦福辍学开始创业，没有大学文凭； Meta的首席AI官Alexandr Wang汪滔，从MIT辍学创业； 谷歌大脑前研究科学家、OpenAI可解
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3644311216344712?f=rss
+   🏷️ 标签: 投资, CEO, AI
+
+14、🔥 1月18日消息，近日，富达基金的基金经理张笑牧表示，当前，中国资本市场正经历深刻的底层重构。政策端持续发力“新质生产力”，研发投入与科技自立自强的加速，使经济新旧动能转换正在从预期走向实质落地。随着中长期资金配置共识的形成，张笑牧认为，2026年的核心投资机遇仍将锚定在科技创新领域，尤其是自主可控的创新驱动产业。（证券时报）
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644384003035012?f=rss
+   🏷️ 标签: 投资, 创新
+
+15、🔥 1月18日消息，预热一个月的多动力平台揭开面纱。1月16日，长城汽车正式发布“归元”平台，兼容五大动力形式，同时带来一致的智能化体验。 “这是全球唯一一个原生AI全动力汽车平台”，长城汽车总裁穆峰介绍，归元平台将推动长城产品战略实现由单点突破到全阵列跃升。长城汽车计划推出五大动力形式、七大品类的51款产品。 这也是长城为征战全球市场做出的充分准备。不同动力形式的兼容，推动长城产品能够突破地域限制，覆盖更多市场；同
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/e2KjWqFADVDqjlpv.html
+   🏷️ 标签: 突破, AI, 发布
+
+16、🔥 1月18日消息，henry 发自 凹非寺量子位 已经是全球市值第一了，还怎么继续往上走？ 英伟达给出的答案很简单： 挖人，挖更多的人。 过去的2025年，黄仁勋一边扩编管理层，一边掏钱收团队—— 从挖角市场、政策、人力资源高管，到收购初创公司“打包”引入技术负责人，一套典型的“黄氏挖人+黄氏收购”正在成型。 不止芯片，用挖人重塑“第二增长曲线” 2025财年，英伟达营收 1305亿 美元，较前一财年增长逾一倍，成
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3644499135221632?f=rss
+   🏷️ 标签: chief, 收购
+
+17、🔥 1月18日消息，有关官员于周日表示，韩国主要商业银行正与政府外汇主管部门协同加码施策，通过推出鼓励客户抛售美元的优惠政策、下调外币存款利率等举措，遏制韩元近期的贬值势头。受美元整体走强、地缘政治风险加剧以及韩国本土投资者大举开展海外股票投资等多重因素影响，尽管官方已采取口头干预及政策调控措施，韩元对美元汇率仍持续徘徊在市场高度关注的1450韩元关口附近。（新浪财经）
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644387622129544?f=rss
+   🏷️ 标签: 投资, 风险
+
+18、🔥 1月18日消息，美国航天局17日将执行“阿耳忒弥斯2号”载人绕月飞行任务的火箭和飞船运至佛罗里达州肯尼迪航天中心的发射台，标志着“阿耳忒弥斯2号”进入关键准备阶段。美国航天局局长艾萨克曼当天在社交媒体上发文说，这是美国50多年来首次将执行载人绕月任务的火箭和飞船运送至发射台。在发射前仍有大量工作需要完成，美国航天局将开展测试，确保飞行器能够将4名宇航员送往太空并保障他们安全返回地球。按美国航天局公布的计划，“阿耳
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644514534084484?f=rss
+   🏷️ 标签: 首次
+
+19、🔥 1月18日消息，过去十年里，手机SoC的演进路径相对清晰且线性： 制程越先进、主频越高、跑分越强，芯片就越接近“旗舰体验”。 然而，如今行业里越来越多的实测显示，峰值性能指标在真实环境中，并不再具有令人信服的“唯一性”。 在多任务并发、长时间负载和复杂应用叠加的现实使用环境中，跑分榜单上的优势要转化为用户体感上的顺畅，还要迈过功耗、散热、稳定性的关卡。 这一变化，与端侧AI的困境重合。 当端侧大模型、实时抠图、智
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/7ggi511vxeXrHS1V.html
+   🏷️ 标签: AI, 发布, 大模型
+
+20、🔥 1月18日消息，近日，AMD公开承诺，旗下Radeon显卡的价格将控制在普通消费者能够承受的范围内，而不仅仅是面向财力雄厚的发烧友。由于DRAM内存短缺导致显卡价格已经失控飙升，Ryzen和Radeon副总裁兼总经理David McAfee告诉媒体，AMD的目标是将价格涨幅控制在合理范围内。McAfee解释说，AMD与DRAM供应商建立了长期合作关系，以确保其Radeon显卡的内存供应稳定。虽然AMD仍在与合作伙
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3644517758963590?f=rss
+   🏷️ 标签: 合作
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 1月18日消息，Nearly a year after DeepSeek’s AI breakthrough rattled global markets, China is entering 2026 with a fresh wave of technological advances that are powering a stock rally, even as its economy remains f
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-18/china-s-new-tech-stock-boom-leaves-its-economic-malaise-behind
+   🏷️ 标签: AI, breakthrough, leaves, AGI
+
+2、🔥 1月18日消息，Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
+   📋 入选理由: 影响力评分: 275.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/
+   🏷️ 标签: AI, AI law, lawsuit
+
+3、🔥 1月18日消息，Tesla Inc. is almost finished with the design of the AI5 chip for its full self-driving system, and is in the early stages of developing the next version, AI6, Chief Executive Officer Elon Musk said i
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-17/musk-says-tesla-almost-done-with-ai5-chip-design-working-on-ai6
+   🏷️ 标签: Elon Musk, chief, AI
+
+4、🔥 1月18日消息，Regulators launch ‘anti-involution’ investigations against internet companies
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/a33b4f60-5351-4cfd-a838-4adaa324fc54
+   🏷️ 标签: AI, investigation
+
+5、🔥 1月18日消息，Parts makers concerned about whether Beijing will allow imports of AI processors
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/02a3eb7c-684f-4e39-87b8-36e9595ef800
+   🏷️ 标签: AI, H200
+
+6、🔥 1月18日消息，Elon Musk wants OpenAI Inc. and Microsoft to pay him damages in the range of $79 billion to $134 billion over his claims that the generative AI company defrauded him by abandoning its nonprofit roots 
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-17/musk-seeks-up-to-134-billion-damages-from-openai-microsoft
+   🏷️ 标签: Elon Musk, AI, billion
+
+7、🔥 1月18日消息，Micron Technology Inc. has signed a letter of intent to buy a fabrication site in Taiwan from Powerchip Semiconductor Manufacturing Corp. for $1.8 billion to expand its memory chip production.
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-17/micron-to-buy-taiwan-chip-fabrication-site-for-1-8-billion
+   🏷️ 标签: AI, billion
+
+8、🔥 1月18日消息，Before the G6 releases later this year, we tested LG's two latest flagship OLED TVs to see which is the better buy.
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: ZDNet AI | 🔗 https://www.zdnet.com/article/lg-g5-vs-lg-g4/
+   🏷️ 标签: releases
+
+9、🔥 1月18日消息，Leaders at Mira Murati’s startup believe Barret Zoph engaged in an incident of “serious misconduct.” The details are now coming to light.
+   📋 入选理由: 影响力评分: 86.5
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/
+   🏷️ 标签: AI, founder
+
+
+======================================================================
+📊 今日总结: 今日从41条原始信息中精选出20条国内动态和9条国际动态，其中29条为高重要性。 重点关注：一笔交易，市值涨了70亿；头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发；商务部：中国—中亚进出口总值首次突破千亿美元大关。
+======================================================================
