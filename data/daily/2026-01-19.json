@@ -1,0 +1,713 @@
+{
+  "date": "2026-01-19",
+  "generated_at": "2026-01-19 08:21:32",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "一笔交易，市值涨了70亿",
+      "summary": "1月19日消息，作者丨刘燕秋 来源丨投中网 1月14日晚间，紫光国微披露了一笔交易预案：公司拟通过发行股份及支付现金相结合的方式，收购瑞能半导100%股权。14名交易对方包括南昌建恩、北京广盟、天津瑞芯、建投华科等。 其中，前三大股东为南昌建恩、北京广盟、天津瑞芯，背后都是建广资产，一家在媒体描述里“能与大基金比肩”的大型半导体投资机构，代表作是重组“恩智浦三杰”和紫光集团。 在交易性质上，瑞能半导前任董事长李滨",
+      "importance": "高",
+      "reason": "影响力评分: 405.0",
+      "tags": [
+        "收购",
+        "上市",
+        "首次",
+        "合作",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3644606458252930?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-18 07:44:26",
+      "impact_score": 405.0
+    },
+    {
+      "index": 2,
+      "title": "智谱1000亿 , 清华赚翻了",
+      "summary": "1月19日消息，作者/吴琼 报道/投资界PEdaily 又一个创投圈现象级回报。 自1月8日登陆港交所后，智谱股价一路高涨，短短一周市值涨超500亿港元。截至目前，智谱最新市值达到了1100亿港元。 成立至今，智谱累计完成至少8轮融资，融资规模超83亿元，身后集结超50家机构投资方，合计共87家股东。随着股价大涨，身后投资人及员工团队都实现超级回报。 但外界鲜少注意到的是，2019年智谱成立时出现了一个极为重要的",
+      "importance": "高",
+      "reason": "影响力评分: 352.5",
+      "tags": [
+        "上市",
+        "人工智能",
+        "融资",
+        "大模型",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3644717569625990?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-18 09:18:49",
+      "impact_score": 352.5
+    },
+    {
+      "index": 3,
+      "title": "遭到欺诈？马斯克向微软和OpenAI索赔超9000亿元；网友炸锅！员工因拒绝年会表演，被公司开除；机器人将再度登上春晚！网友：绝不是扭秧歌",
+      "summary": "1月19日消息，要闻提示 1.遭到欺诈？马斯克向微软和OpenAI索赔超9000亿元 2.网友炸锅！因拒绝年会表演，员工被公司开除 3.二手小米SU7 Ultra售价33.8万？车主曝光车商不良套路 4.华为Mate 80单品激活量突破150万台：国产旗舰销量第一名 5.机器人将再度登上春晚！网友：绝不是小心翼翼扭秧歌 6.收购台湾晶圆厂！“存储芯片龙头”美光计划扩产 7.曝小米、OPPO、vivo、传音下调出货",
+      "importance": "高",
+      "reason": "影响力评分: 330.0",
+      "tags": [
+        "收购",
+        "人工智能",
+        "融资",
+        "合作",
+        "估值"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/eck4KsTIey3EPRqY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-19 00:54:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 4,
+      "title": "台积电冲1780新台币创新天价，市值突破46万亿新台币",
+      "summary": "1月19日消息，据台媒报道，晶圆代工厂台积电股价开低震荡走高，盘中一度上涨新台币40元，攀高至1780元，再创新天价，市值突破新台币46万亿元。受惠AI市场需求强劲，台积电第一季营运表现可望淡季不淡，美元营收将季增4%，2026年美元营收将强劲成长近30%，并持续积极投资扩产，资本支出达520亿至560亿美元。搭配内存、PCB等领域缺货涨价效应持续发酵，台股终场上涨230.59点，收在31639.29点，同创盘中",
+      "importance": "高",
+      "reason": "影响力评分: 251.0",
+      "tags": [
+        "投资",
+        "突破",
+        "创新",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3645962556411520?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 06:24:54",
+      "impact_score": 251.0
+    },
+    {
+      "index": 5,
+      "title": "AI加速普及，数据库为何成为新底座？",
+      "summary": "1月19日消息，当大模型以狂飙之势席卷各行各业，一场更为基础的变革正在算力与数据的底层悄然发生。 1月18日，第五届OceanBase数据库大赛落幕。此前该赛事已在2023年纳入全国大学生计算机系统能力大赛体系，成为教育部认定的A类学科竞赛。教育体系对人才培养的关注，又一次凸显数据库在AI时代的关键地位。 据悉，本届赛事吸引全国高校的1223支队伍、2620名学生参赛，他们在决赛中面临两项任务：一是优化“全文检索",
+      "importance": "高",
+      "reason": "影响力评分: 236.0",
+      "tags": [
+        "大模型",
+        "超越",
+        "首次",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3646024739638914?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 07:30:58",
+      "impact_score": 236.0
+    },
+    {
+      "index": 6,
+      "title": "8点1氪丨贾国龙再发声：“西贝从来不存在两岁的西蓝花”；特朗普宣布将对欧洲8国加征关税；铁路12306平台推出旅客误购限时免费退票服务",
+      "summary": "1月19日消息，今日热点导览 B站：2025年，用户观看百大UP主内容的总时长超过830亿分钟 首次飞行试验任务失利，星河动力致歉 AMD承诺：将显卡价格控制在普通人能接受的范围内 两部门：商业用房购房贷款最低首付款比例调整为不低于30% 阿里CEO吴泳铭发布新年家书：今年几场大仗很漂亮 追觅创始人俞浩：做出百万亿美金公司是目标，没烧过投资人的钱 TOP3大新闻 贾国龙再发声：“从来不存在两岁的西蓝花” 1月18",
+      "importance": "高",
+      "reason": "影响力评分: 190.0",
+      "tags": [
+        "首次",
+        "投资",
+        "CEO",
+        "反制",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3645586129964675?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 00:04:56",
+      "impact_score": 190.0
+    },
+    {
+      "index": 7,
+      "title": "人大高瓴赵鑫团队新作：先拆掉 RLVR，再重建推理模型训练",
+      "summary": "1月19日消息，当大语言模型开始被要求解数学题、写证明、规划任务流程，人们才真正意识到一件事：会生成并不等于会推理。 过去几年，行业把大模型推向前所未有的规模，用 RLHF 和各种奖励技术把答案校准得越来越像人类。但一个越来越尖锐的现实问题也随之浮现：模型为什么有时一本正经地胡说八道？为什么在同一训练框架下，它有时异常自信却错误，有时又显得畏首畏尾？在人们不断强化学习信号、追求更高分数的同时，一个关键问题始终没有",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "大模型",
+        "reasoning",
+        "大语言模型",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/ai/4UCfvG5o2F2vXyym.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-19 05:53:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
+      "summary": "1月19日消息，由飞书提供AI软件与智能会议服务",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "发布",
+        "创新",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/01/370245.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-19 04:59:37",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "飞书史上第一次硬件合作，和安克创新做了一款「AI录音豆」",
+      "summary": "1月19日消息，《智能涌现》获悉，飞书将与安克创新联合发布一款名为“AI录音豆”的智能录音硬件。 从我们获得的资料来看，这是一款重量仅10克的圆形设备，外观呈豆状，机身搭载双MEMS麦克风阵列，整机配合充电舱重量约48克。产品支持蓝牙与Wi-Fi两种传输模式，主打无感佩戴和随时录音。 自2025年海外创业公司Plaud凭借AI录音卡片产品打开市场后，国内已有多家厂商跟进推出类似产品，但大厂亲自下场做AI录音硬件的",
+      "importance": "高",
+      "reason": "影响力评分: 162.0",
+      "tags": [
+        "合作",
+        "发布",
+        "创新",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3645215315267202?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 00:15:47",
+      "impact_score": 162.0
+    },
+    {
+      "index": 10,
+      "title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
+      "summary": "1月19日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "上线",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/01/370192.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-19 02:35:56",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "日均停留近2小时，这个AI内容产品拿捏了县城青少年",
+      "summary": "1月19日消息，“造梦次元其实是一个AI角色厂牌。” 锦秋基金合伙人臧天宇老说想法流是 “最会拿捏模型厂商的公司” 。没别的，就是旗下产品造梦次元的token消耗量大，在24年假期峰值时是豆包大模型最大的客户。 也因此，在2024年底，锦秋基金领投了想法流的A轮。 造梦次元的官方定位是一个AI内容社区， 主要是将模型能力转化为可被消费的内容体验。 当年6月，豆包刚出来时，能找到一个日均token消耗量1亿的客户都",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "合作",
+        "大模型",
+        "上线",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3646033157984136?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 07:42:57",
+      "impact_score": 147.0
+    },
+    {
+      "index": 12,
+      "title": "效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026",
+      "summary": "1月19日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "突破",
+        "AI"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-19",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-19 02:25:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了",
+      "summary": "1月19日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "发布"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-19-3",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-19 04:03:52",
+      "impact_score": 135.0
+    },
+    {
+      "index": 14,
+      "title": "外交部：欢迎美国企业等各国企业抓住中国高质量发展的“机遇清单”",
+      "summary": "1月19日消息，据报道，中国美国商会近日发布的调查结果显示，对中国市场增长持乐观态度的受访在华美企比例显著上升，超过半数去年预计实现盈利或大幅盈利。对此，外交部发言人郭嘉昆1月19日在例行记者会上说，在华美国企业的成功故事印证了中美之间合则两利，推动中美关系稳定、健康、可持续发展符合双方共同利益。郭嘉昆说，中国大市场是世界大机遇，布局中国就是赢得先机，投资中国带来丰厚回报。我们欢迎包括美国企业在内的各国企业抓住中",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "投资",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3646024159022721?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 07:27:34",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "欧盟召开紧急会议，未就反制美国加税措施达成一致",
+      "summary": "1月18日晚间，欧盟大使在布鲁塞尔召开紧急特别会议，审议特朗普宣布的加征10%关税政策，并协调可能的应对措施。记者观察到，这份价值930亿欧元的关税清单其实在去年就已经制定完成，为了避免全面贸易战，暂停执行至2月6日。而此次法国力推的“反胁迫机制”未能在这次紧急会议中达成一致。据参与筹备工作的官员表示，报复措施还在制定中，目的是让欧洲领导人在达沃斯世界经济论坛与美国总统举行的关键会晤中拥有筹码。（",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "反制"
+      ],
+      "url": "https://36kr.com/newsflashes/3645983926374018?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 06:46:38",
+      "impact_score": 130.0
+    },
+    {
+      "index": 16,
+      "title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
+      "summary": "1月19日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "融资",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/01/370277.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-19 07:20:07",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
+      "summary": "1月19日消息，文｜王欣 编辑｜苏建勋 把公司直接搬进客户办公区，在创业圈并不算常见操作，第四范式前总裁裴沵思带领的Noumena团队却坚持如此。直到现在，他们仍驻扎在某美妆品牌的办公区内，与客户团队深度共创。 裴沵思的初衷很明确：让团队中最懂大模型的科学家，贴近业务一线。 Noumena的三位联合创始人，Jett曾任小红书KA行业群总经理，另外两位联合创始人，均是历经第四范式商业与工业化历练的科学家——首席科学",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "大模型",
+        "CEO",
+        "融资",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3644947937972103?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 00:30:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 18,
+      "title": "红杉合伙人：2026，AGI已经来了",
+      "summary": "1月19日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AGI"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-18-2",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-18 12:39:18",
+      "impact_score": 127.5
+    },
+    {
+      "index": 19,
+      "title": "禾赛科技三位创始人再创新公司Sharpa，目标是造通用机器人",
+      "summary": "1月19日消息，激光雷达供应商禾赛科技联合创始人及CTO向少卿和CEO李一帆、首席科学家孙恺在2024年底创立了一家机器人公司Sharpa，主要开发通用机器人及核心部件。三人是Sharpa的联合创始人，负责战略指导和规划、制定大方向，不任实际职务。Sharpa独立运营，和禾赛没有股权从属或业务管控关系，核心成员大部分由外部招聘，目前员工超过100人。（晚点LatePost）",
+      "importance": "高",
+      "reason": "影响力评分: 125.5",
+      "tags": [
+        "CEO",
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3646074144886400?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 08:18:25",
+      "impact_score": 125.5
+    },
+    {
+      "index": 20,
+      "title": "Chris Hohn旗下对冲基金去年大赚189亿美元，打破城堡投资纪录",
+      "summary": "1月19日消息，Chris Hohn去年打破对冲基金的盈利纪录，而股市上涨和全球市场波动加剧帮助该行业累计实现盈利5430亿美元，同样创下历史新高。根据金融公司Edmond de Rothschild估计，Hohn麾下专注于股票投资的TCI Fund Management去年获利189亿美元。这超过了肯·格里芬旗下城堡投资2022年创下的纪录，也超越了2007年次贷危机期间约翰·保尔森大肆做空斩获的150亿美元—",
+      "importance": "高",
+      "reason": "影响力评分: 125.5",
+      "tags": [
+        "投资",
+        "超越"
+      ],
+      "url": "https://36kr.com/newsflashes/3646042379980425?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-19 07:46:06",
+      "impact_score": 125.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "China’s New Tech Stock Boom Leaves Its Economic Malaise Behind",
+      "summary": "1月19日消息，Nearly a year after DeepSeek’s AI breakthrough rattled global markets, China is entering 2026 with a fresh wave of technological advances that are powering a stock rally, even as its economy remains f",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "leaves",
+        "breakthrough",
+        "AI",
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-18/china-s-new-tech-stock-boom-leaves-its-economic-malaise-behind",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-18 00:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "PhilTower’s $1 Billion Sale Plan Is Said to Stall on Valuation",
+      "summary": "1月19日消息，A sale of PhilTower has stalled because of differences in views between shareholders and potential buyers about the company’s valuation, according to people familiar with the matter.",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "valuation",
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-19/philtower-s-1-billion-sale-plan-is-said-to-stall-on-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-19 02:23:44",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "ARC Prize 2025: Technical Report",
+      "summary": "1月19日消息，arXiv:2601.10904v1 Announce Type: new Abstract: The ARC-AGI benchmark series serves as a critical measure of few-shot generalization on novel tasks, a core aspect of intelligence. The ARC Prize 2025 g",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "valuation",
+        "fine",
+        "reasoning",
+        "AGI"
+      ],
+      "url": "https://arxiv.org/abs/2601.10904",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 4,
+      "title": "Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs",
+      "summary": "1月19日消息，arXiv:2601.11468v1 Announce Type: new Abstract: Predictive Process Monitoring is a branch of process mining that aims to predict the outcome of an ongoing process. Recently, it leveraged machine-and-d",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "valuation",
+        "LLM",
+        "reasoning",
+        "deep learning",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.11468",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge",
+      "summary": "1月19日消息，arXiv:2601.10922v1 Announce Type: new Abstract: We study data curation for multimodal reasoning through the NeurIPS 2025 Data Curation for Vision-Language Reasoning (DCVLR) challenge, which isolates d",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.10922",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech",
+      "summary": "1月19日消息，arXiv:2601.11178v1 Announce Type: new Abstract: Social media platforms are increasingly dominated by long-form multimodal content, where harmful narratives are constructed through a complex interplay ",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.11178",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems",
+      "summary": "1月19日消息，arXiv:2601.11354v1 Announce Type: new Abstract: Recent advances in agentic Large Language Models (LLMs) have positioned them as generalist planners capable of reasoning and acting across diverse tasks",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AGI",
+        "LLM",
+        "reasoning",
+        "AI",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2601.11354",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Former AOL chief says ‘big money’ will dictate future of media",
+      "summary": "1月19日消息，Industry veteran says disparity in capital will define next big sports rights cycle",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "chief",
+        "fine"
+      ],
+      "url": "https://www.ft.com/content/5265ae96-b277-4f02-acf8-5ee663dec4d8",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-18 11:00:07",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "China battles price wars in fight against deflation",
+      "summary": "1月19日消息，Regulators launch ‘anti-involution’ investigations against internet companies",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "investigation",
+        "AI"
+      ],
+      "url": "https://www.ft.com/content/a33b4f60-5351-4cfd-a838-4adaa324fc54",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-18 05:00:06",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "Fintech Tycoon’s Startup Platform Merges With Milan Tech Hubs",
+      "summary": "1月19日消息，A nonprofit foundation backed by Italian billionaire Andrea Pignataro is merging with the tech incubators of Milan’s leading universities in a bid to boost early-stage investment in the country.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-18/fintech-tycoon-s-startup-platform-merges-with-milan-tech-hubs",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-18 15:16:47",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
+      "summary": "1月19日消息，arXiv:2601.10729v1 Announce Type: new Abstract: Serving long-context LLMs is challenging because request lengths and batch composition vary during token generation, causing the memory footprint to flu",
+      "importance": "高",
+      "reason": "影响力评分: 115.0",
+      "tags": [
+        "fine",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.10729",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 12,
+      "title": "EvidFuse: Writing-Time Evidence Learning for Consistent Text-Chart Data Reporting",
+      "summary": "1月19日消息，arXiv:2601.05487v1 Announce Type: cross Abstract: Data-driven reports communicate decision-relevant insights by tightly interleaving narrative text with charts grounded in underlying tables. However, ",
+      "importance": "高",
+      "reason": "影响力评分: 115.0",
+      "tags": [
+        "fine",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.05487",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 13,
+      "title": "AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
+      "summary": "1月19日消息，arXiv:2601.11044v1 Announce Type: new Abstract: Large Language Models (LLMs) based autonomous agents demonstrate multifaceted capabilities to contribute substantially to economic production. However, ",
+      "importance": "高",
+      "reason": "影响力评分: 105.0",
+      "tags": [
+        "valuation",
+        "large language model",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.11044",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 14,
+      "title": "Beyond Model Scaling: Test-Time Intervention for Efficient Deep Reasoning",
+      "summary": "1月19日消息，arXiv:2601.11252v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) excel at multi-step reasoning but often suffer from inefficient reasoning processes like overthinking and overshoot, where",
+      "importance": "高",
+      "reason": "影响力评分: 105.0",
+      "tags": [
+        "introduces",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2601.11252",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 15,
+      "title": "XChoice: Explainable Evaluation of AI-Human Alignment in LLM-based Constrained Choice Decision Making",
+      "summary": "1月19日消息，arXiv:2601.11286v1 Announce Type: new Abstract: We present XChoice, an explainable framework for evaluating AI-human alignment in constrained decision making. Moving beyond outcome agreement such as a",
+      "importance": "高",
+      "reason": "影响力评分: 105.0",
+      "tags": [
+        "valuation",
+        "alignment",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.11286",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 16,
+      "title": "Israel’s Wartime Tech Economy",
+      "summary": "1月19日消息，Israel has long been known as the “startup nation,” and its tech sector accelerated during the Israel-Hamas war. Since 2023, Israeli startups have raised record levels of private capital, driven by gr",
+      "importance": "高",
+      "reason": "影响力评分: 105.0",
+      "tags": [
+        "artificial intelligence",
+        "CEO",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-18/israel-s-wartime-tech-economy-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-18 13:03:43",
+      "impact_score": 105.0
+    },
+    {
+      "index": 17,
+      "title": "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration",
+      "summary": "1月19日消息，arXiv:2601.10744v1 Announce Type: new Abstract: An ideal embodied agent should possess lifelong learning capabilities to handle long-horizon and complex tasks, enabling continuous operation in general",
+      "importance": "高",
+      "reason": "影响力评分: 100.0",
+      "tags": [
+        "multimodal",
+        "AI",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2601.10744",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 100.0
+    },
+    {
+      "index": 18,
+      "title": "Optimisation of complex product innovation processes based on trend models with three-valued logic",
+      "summary": "1月19日消息，arXiv:2601.10768v1 Announce Type: new Abstract: This paper investigates complex product-innovation processes using models grounded in a set of heuristics. Each heuristic is expressed through simple tr",
+      "importance": "高",
+      "reason": "影响力评分: 100.0",
+      "tags": [
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.10768",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 100.0
+    },
+    {
+      "index": 19,
+      "title": "Efficient Protein Optimization via Structure-aware Hamiltonian Dynamics",
+      "summary": "1月19日消息，arXiv:2601.11012v1 Announce Type: new Abstract: The ability to engineer optimized protein variants has transformative potential for biotechnology and medicine. Prior sequence-based optimization method",
+      "importance": "高",
+      "reason": "影响力评分: 100.0",
+      "tags": [
+        "AI",
+        "AGI"
+      ],
+      "url": "https://arxiv.org/abs/2601.11012",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 100.0
+    },
+    {
+      "index": 20,
+      "title": "BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search",
+      "summary": "1月19日消息，arXiv:2601.11037v1 Announce Type: new Abstract: RL-based agentic search enables LLMs to solve complex questions via dynamic planning and external search. While this approach significantly enhances acc",
+      "importance": "高",
+      "reason": "影响力评分: 100.0",
+      "tags": [
+        "reasoning",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.11037",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-19 05:00:00",
+      "impact_score": 100.0
+    }
+  ],
+  "summary": "今日从88条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：一笔交易，市值涨了70亿；智谱1000亿 , 清华赚翻了；遭到欺诈？马斯克向微软和OpenAI索赔超9000亿元；网友炸锅！员工因拒绝年会表演，被公司开除；机器人将再度登上春晚！网友：绝不是扭秧歌。",
+  "statistics": {
+    "raw_domestic": 36,
+    "raw_international": 52,
+    "raw_total": 88,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月19日消息，作者丨刘燕秋 来源丨投中网 1月14日晚间，紫光国微披露了一笔交易预案：公司拟通过发行股份及支付现金相结合的方式，收购瑞能半导100%股权。14名交易对方包括南昌建恩、北京广盟、天津瑞芯、建投华科等。 其中，前三大股东为南昌建恩、北京广盟、天津瑞芯，背后都是建广资产，一家在媒体描述里“能与大基金比肩”的大型半导体投资机构，代表作是重组“恩智浦三杰”和紫光集团。 在交易性质上，瑞能半导前任董事长李滨",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月19日消息，作者/吴琼 报道/投资界PEdaily 又一个创投圈现象级回报。 自1月8日登陆港交所后，智谱股价一路高涨，短短一周市值涨超500亿港元。截至目前，智谱最新市值达到了1100亿港元。 成立至今，智谱累计完成至少8轮融资，融资规模超83亿元，身后集结超50家机构投资方，合计共87家股东。随着股价大涨，身后投资人及员工团队都实现超级回报。 但外界鲜少注意到的是，2019年智谱成立时出现了一个极为重要的",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月19日消息，要闻提示 1.遭到欺诈？马斯克向微软和OpenAI索赔超9000亿元 2.网友炸锅！因拒绝年会表演，员工被公司开除 3.二手小米SU7 Ultra售价33.8万？车主曝光车商不良套路 4.华为Mate 80单品激活量突破150万台：国产旗舰销量第一名 5.机器人将再度登上春晚！网友：绝不是小心翼翼扭秧歌 6.收购台湾晶圆厂！“存储芯片龙头”美光计划扩产 7.曝小米、OPPO、vivo、传音下调出货",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月19日消息，据台媒报道，晶圆代工厂台积电股价开低震荡走高，盘中一度上涨新台币40元，攀高至1780元，再创新天价，市值突破新台币46万亿元。受惠AI市场需求强劲，台积电第一季营运表现可望淡季不淡，美元营收将季增4%，2026年美元营收将强劲成长近30%，并持续积极投资扩产，资本支出达520亿至560亿美元。搭配内存、PCB等领域缺货涨价效应持续发酵，台股终场上涨230.59点，收在31639.29点，同创盘中",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月19日消息，当大模型以狂飙之势席卷各行各业，一场更为基础的变革正在算力与数据的底层悄然发生。 1月18日，第五届OceanBase数据库大赛落幕。此前该赛事已在2023年纳入全国大学生计算机系统能力大赛体系，成为教育部认定的A类学科竞赛。教育体系对人才培养的关注，又一次凸显数据库在AI时代的关键地位。 据悉，本届赛事吸引全国高校的1223支队伍、2620名学生参赛，他们在决赛中面临两项任务：一是优化“全文检索",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月19日消息，Nearly a year after DeepSeek’s AI breakthrough rattled global markets, China is entering 2026 with a fresh wave of technological advances that are powering a stock rally, even as its economy remains f",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月19日消息，A sale of PhilTower has stalled because of differences in views between shareholders and potential buyers about the company’s valuation, according to people familiar with the matter.",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月19日消息，arXiv:2601.10904v1 Announce Type: new Abstract: The ARC-AGI benchmark series serves as a critical measure of few-shot generalization on novel tasks, a core aspect of intelligence. The ARC Prize 2025 g",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月19日消息，arXiv:2601.11468v1 Announce Type: new Abstract: Predictive Process Monitoring is a branch of process mining that aims to predict the outcome of an ongoing process. Recently, it leveraged machine-and-d",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月19日消息，arXiv:2601.10922v1 Announce Type: new Abstract: We study data curation for multimodal reasoning through the NeurIPS 2025 Data Curation for Vision-Language Reasoning (DCVLR) challenge, which isolates d",
+      "importance": "高"
+    }
+  ]
+}
