@@ -1,0 +1,728 @@
+{
+  "date": "2026-01-23",
+  "generated_at": "2026-01-23 08:19:02",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "氪星晚报｜潘功胜：今年降准降息还有一定的空间；高盛上调2026年底金价目标至5400美元；百川推出最低幻觉循证增强医疗大模型M3 Plus",
+      "summary": "1月23日消息，大公司： 穿越者公司已预订首批20余位太空游客，预计2028年实现载人首飞 1月22日，北京穿越者载人航天科技有限公司（以下简称“穿越者”）举行“太空旅游全球发布会”。会上，首批太空游客亮相，包括中国工程院院士李立浧、智元机器人CMO邱恒、探路者品牌创始人王静、啟赋资本董事长傅哲宽等，此外，首批太空游客还包括一名硅基生物，为众擎机器人PM01。国内首艘商业载人飞船“穿越者壹号（CYZ1）”全尺寸试",
+      "importance": "高",
+      "reason": "影响力评分: 487.0",
+      "tags": [
+        "首次",
+        "领先",
+        "大模型",
+        "创新",
+        "开放"
+      ],
+      "url": "https://36kr.com/p/3650396043092101?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-22 11:34:09",
+      "impact_score": 487.0
+    },
+    {
+      "index": 2,
+      "title": "安踏投资加速，主品牌却有些掉队了",
+      "summary": "1月23日消息，作者 | 谢芸子 编辑 | 张帆 安踏投资并购的步伐明显加快了。 2025年4月，安踏体育以2.9亿美元收购了德国户外品牌狼爪。数月后，公司又宣布与韩国时尚集团MUSINSA共同成立合资公司MUSINSA中国。且进入2026年以来，PUMA彪马的收购传闻还在持续发酵。 路透社援引知情人士消息称，安踏拟收购PUMA 29%的股权。若该笔收购能够达成，安踏将取代皮诺家族成为PUMA的最大股东。几乎同时",
+      "importance": "高",
+      "reason": "影响力评分: 405.0",
+      "tags": [
+        "投资",
+        "并购",
+        "估值",
+        "收购",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3650506248839298?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-23 01:41:47",
+      "impact_score": 405.0
+    },
+    {
+      "index": 3,
+      "title": "腾讯开启研发新范式：CodeBuddy Code 升级 90% 代码由其自生成",
+      "summary": "1月23日消息，4 名研发，58 天，79 个版本——其中 90% 代码由 CodeBuddy 自己生成，AI 团队 7×24 小时协同开发，重新定义研发范式。 近日，腾讯宣布其 AI 编程 CLI 工具 CodeBuddy Code 发布2.0版本，并分享了其研发新进展。 腾讯 CodeBuddy 是首个支持插件、IDE、CLI三形态的AI编程工具。其中 CLI 形态 CodeBuddy Code 定位于专业工",
+      "importance": "高",
+      "reason": "影响力评分: 375.0",
+      "tags": [
+        "AI",
+        "开放",
+        "发布",
+        "上线",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/1IgIqltdqJrjgxvm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-22 06:36:00",
+      "impact_score": 375.0
+    },
+    {
+      "index": 4,
+      "title": "独家丨原子重塑 AtomForm 完成新一轮超亿元融资，计划全面打开桌面级制造市场",
+      "summary": "1月23日消息，雷峰网·鲸犀独家获悉，原子重塑（AtomForm）近日完成新一轮融资，融资金额超过人民币一亿元。本轮融资由初辉资本、翼朴资本及天空工场创投基金联合投资。至此，公司累计融资规模已达数亿元，商业化进程持续提速。 随着本轮融资落地，原子重塑将围绕市场拓展、生产体系建设及新品规划等核心方向加快布局，进一步夯实其在新一代数字制造设备领域的技术壁垒与商业化能力。 在产品规划上，原子重塑正构建覆盖多工艺的完整矩",
+      "importance": "高",
+      "reason": "影响力评分: 275.0",
+      "tags": [
+        "首次",
+        "投资",
+        "融资",
+        "合作",
+        "上线"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/ElxGc5f0xmYZS0he.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-22 02:41:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 5,
+      "title": "2025 年 ACM Fellow 名单公布：郑宇、梅涛、金海、陈宝权等 19 名华人学者入榜",
+      "summary": "1月23日消息，AI 科技评论获悉，当地时间 1 月 21 日，美国计算机学会（ACM）揭晓了 2025 年最新 Fellow 名单。 本次美国计算机协会 (ACM) 一共宣布了 71 位 ACM Fellow，其中有 19 位华人学者上榜（占比约 27%），他们在医疗人工智能、计算机图形学、数据管理、移动计算、网络系统、网络安全、可持续发展技术等领域做出了重大贡献。 ACM 创立于 1947 年，是世界上第一个",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "AI",
+        "突破",
+        "诺贝尔",
+        "图灵奖",
+        "人工智能"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/WMLaRUxUigODAJDI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-23 03:19:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "32岁程序员猝死：底薪3千24小时待岗，抢救时被拉入工作群；大清洗！大众裁员3.5万人，包括1/3高管；阿里旗下芯片公司平头哥拟独立上市",
+      "summary": "1月23日消息，要闻提示 1.大清洗！大众裁员3.5万人，包括1/3高管 2.32岁程序员猝死：底薪3千24小时待岗，抢救时被拉入工作群！最新细节 3.传阿里旗下芯片公司平头哥拟独立上市 4.微信聊天不能导出和分析？腾讯回应开源项目被下架：威胁用户数据隐私，极易被黑灰产利用 5.京东推最低11299元黄金手机壳秒售罄 6.月之暗面总裁张予彤：Kimi 仅使用美国顶尖实验室 1% 的资源，新模型很快发布 7.国产 ",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "上市",
+        "融资",
+        "IPO",
+        "隐私",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/vsiD9DMlf5I80297.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-23 00:43:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 7,
+      "title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
+      "summary": "1月23日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "IPO",
+        "上市"
+      ],
+      "url": "https://www.qbitai.com/2026/01/371924.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-23 06:09:44",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
+      "summary": "1月23日消息，文｜王欣逸 编辑｜邓咏仪 一句话介绍 geoSurge是一家专注做GEO（生成式引擎优化）的初创公司，基于“模型内部记忆+RAG（检索增强生成）”提供GEO服务，总部位于伦敦，成立于2025年4月。 目前，geoSurge已完成由欧洲老牌风投机构Passion Capital和美国硅谷风投基金Tuesday Capital支持的Pre-Seed轮融资，得到了来自包括谷歌DeepMind、微软AI等",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "投资",
+        "大模型",
+        "机器学习",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3650535923032196?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-23 00:15:53",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "和飞书合作，安克没能走出舒适区",
+      "summary": "1月23日消息，作者 | 张子怡 编辑 | 袁斯来 一款来自海外的老产品，成了国内AI硬件赛道新的搅局者。 安克创新和飞书联合发布的AI录音豆，或许是最近声量最高的一款硬件。这款产品以极轻的“磁吸纽扣”形态试图现无感随身佩戴，飞书提供了该产品的软件AI适配与服务，能够基于飞书AI能力，支持声纹识别、实时转写与翻译等功能。 不过，安克AI录音豆并不是为了飞书专门发明的产品。 该产品的海外版名为soundcore W",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "上市",
+        "大模型",
+        "创新",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3650349560193411?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-22 08:48:02",
+      "impact_score": 240.0
+    },
+    {
+      "index": 10,
+      "title": "“因势新材”完成数千万元天使轮融资",
+      "summary": "1月23日消息，36氪获悉，近日，“因势新材”完成数千万元天使轮融资。本轮融资由奇瑞集团的风险投资(CVC)平台瑞丞基金领投，淡马锡旗下的风险投资机构祥峰投资、安徽省国有资本运营控股集团旗下国控投资公司跟投，小米战投继续追加投资。本次所融资金将重点投入于产能扩建和技术迭代中。",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "投资",
+        "融资",
+        "风险"
+      ],
+      "url": "https://36kr.com/newsflashes/3651706491134086?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-23 07:47:56",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "头部AI基础设施服务商获亿元级美金投资，Forebright、高瓴、云锋等参与，已进入大厂供应链",
+      "summary": "1月23日消息，文 | 林晴晴 编辑 | 袁斯来 硬氪获悉，模块化数据中心（MDC）解决方案提供商「易普集（EPG）」近日已完成亿元级美金的B轮融资。本轮融资由国际资本Forebright和Silicon Peak领投，高瓴创投（GL Ventures）、纽尔利资本、云锋基金、星航资本跟投，一苇资本担任长期独家财务顾问。本轮融资将主要用于产能扩建、运营资金补充及全球市场拓展，以更好的保障客户数据中心交付，特别是A",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3651582023524488?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-23 05:42:14",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "淘宝天猫2026年营商环境再加码：上线售后AI假图识别模型等10项新举措",
+      "summary": "1月23日消息，新的一年，淘宝天猫营商环境再加码。 1月20日，淘宝天猫在商家服务大会上宣布，将上线售后AI假图识别模型、退货不符互信机制、细分行业和场景争议处理规则等10项营商环境新举措，助力商家降本增效，扶持好服务商家获得确定性增长。 大会现场数据显示，去年淘宝天猫推出的多项营商环境优化举措，为商家降本增效显著，其中，账号诚信体系累计为商家挽回损失超40亿元，真实体验分上线后4.8分以上高分店铺成交额同比增速",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "开放",
+        "上线",
+        "风险"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/SKRONjSUS4lDN9ti.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-22 03:34:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "淘宝天猫将上线售后AI假图识别模型，治理AI造假骗退款",
+      "summary": "1月23日消息，AI图片以假乱真，催生信任危机。特别是在电商售后环节，利用AI工具在正常商品图片上添加破洞、污渍或霉斑等瑕疵效果，伪造商品有质量问题，以骗取补偿或退款，逐渐成为行业顽疾。 1月20日，淘宝天猫在商家服务大会上宣布，对AI假图“零容忍”，启动售后AI假图治理专项，即将上线AI假图识别模型，为商家提供一键检测功能，并将模型逐步应用于纠纷判决、退款、申诉等渠道，模型训练阶段识别准确率超过95%。 目前平",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "AI",
+        "开放",
+        "上线"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/jQ3CON1yABAtQTYt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-22 03:36:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "独家丨原科沃斯大中华区业务总裁刘文宁创业，布局可穿戴设备赛道",
+      "summary": "1月23日消息，雷峰网·鲸犀独家获悉，原科沃斯大中华区业务总裁刘文宁创业，聚焦可穿戴设备赛道。 消息人士向雷峰网·鲸犀透露，刘文宁于2025年上半年加入字节，担任Ocean团队市场负责人，但待了不足一年的时间便离职创业。刘文宁目前已接触不少投资方，二号位是原字节扣子团队成员。 刘文宁最为人所熟知的，是他近十年的科沃斯职业生涯。 在科沃斯期间，刘文宁曾担任科沃斯大中华区业务总裁，负责统筹大中华区全域业务布局。 刘文",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "估值",
+        "投资",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/xAPYAkoGMgZnMLpF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-22 02:33:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "因做不出差异化，vivo叫停AI眼镜项目丨智能涌现独家",
+      "summary": "1月23日消息，vivo的快进快出，也揭示了AI眼镜行业的同质化困境。 文｜邱晓芬 编辑｜苏建勋 《智能涌现》独家获悉， 手机厂商vivo近期叫停了AI眼镜项目， 这一项目 此前已秘密筹备半年时间，并已与歌尔、中科创达在内的多家ODM厂商合作demo。 一名知情人士称，音视频、带单绿显示的AI眼镜方案都在vivo的讨论范围内，但最终尚未确定方向便被叫停。原因是， vivo执行副总裁胡柏山在内的多位高层判断，其AI",
+      "importance": "高",
+      "reason": "影响力评分: 182.0",
+      "tags": [
+        "CEO",
+        "合作",
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3651349127651465?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-23 01:45:39",
+      "impact_score": 182.0
+    },
+    {
+      "index": 16,
+      "title": "Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题",
+      "summary": "1月23日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "发布",
+        "风险"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-23-5",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-23 06:04:23",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
+      "summary": "1月23日消息，应用/游戏/电影/音乐，一键高质量生成并发布",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "发布"
+      ],
+      "url": "https://www.qbitai.com/2026/01/371570.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-22 11:17:47",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "华为云昇腾AI云服务客户增长超8倍，稳居最大国产AI云服务提供商",
+      "summary": "1月23日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "昇腾"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-22-11",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-22 09:35:30",
+      "impact_score": 150.0
+    },
+    {
+      "index": 19,
+      "title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
+      "summary": "1月23日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "昇腾"
+      ],
+      "url": "https://www.qbitai.com/2026/01/371533.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-22 08:42:07",
+      "impact_score": 150.0
+    },
+    {
+      "index": 20,
+      "title": "vLLM团队官宣创业：融资1.5亿美元，清华特奖游凯超成为联创",
+      "summary": "1月23日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 147.5",
+      "tags": [
+        "融资",
+        "LLM"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-23-2",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-23 01:37:37",
+      "impact_score": 147.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "GDS-Backed DayOne Is Said to Eye $20 Billion Valuation in US IPO",
+      "summary": "1月23日消息，DayOne Data Centers Ltd. is targeting a valuation as high as $20 billion in its planned US initial public offering, people familiar with the matter said, in what would be a substantial increase from r",
+      "importance": "高",
+      "reason": "影响力评分: 352.5",
+      "tags": [
+        "valuation",
+        "AI",
+        "IPO",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-23/gds-backed-dayone-is-said-to-eye-20-billion-valuation-in-us-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-23 02:51:20",
+      "impact_score": 352.5
+    },
+    {
+      "index": 2,
+      "title": "Juspay’s New Funding Round Boosts Valuation to $1.2 Billion",
+      "summary": "1月23日消息，Indian payments technology provider Juspay Technologies Pvt. has raised fresh funds in a round led by WestBridge Capital that boosts the company’s valuation to about $1.2 billion.",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "valuation",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-23/juspay-s-new-funding-round-boosts-valuation-to-1-2-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-23 03:37:37",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Fei-Fei Li’s AI Startup World Labs in Funding Talks at $5 Billion Valuation",
+      "summary": "1月23日消息，Artificial intelligence pioneer Fei-Fei Li has had discussions with investors to raise hundreds of millions in funding for her startup, World Labs, at a valuation of about $5 billion, according to peo",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "valuation",
+        "billion",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-23 01:22:10",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "Grab-GoTo Deal Hits Snag Caused by State-Backed Holder’s Stake",
+      "summary": "1月23日消息，Grab Holdings Ltd.’s planned multibillion-dollar acquisition of GoTo Group has hit a stumbling block.",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "billion",
+        "acquisition"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-23/grab-goto-deal-hits-snag-caused-by-state-backed-holder-s-stake",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-23 05:29:25",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies",
+      "summary": "1月23日消息，arXiv:2601.14827v1 Announce Type: new Abstract: Vision-Language Models show strong zero-shot performance for chest X-ray classification, but standard flat metrics fail to distinguish between clinicall",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "AI",
+        "alignment",
+        "state-of-the-art",
+        "AGI",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.14827",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 6,
+      "title": "The Plausibility Trap: Using Probabilistic Engines for Deterministic Tasks",
+      "summary": "1月23日消息，arXiv:2601.15130v1 Announce Type: new Abstract: The ubiquity of Large Language Models (LLMs) is driving a paradigm shift where user convenience supersedes computational efficiency. This article define",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "penalty",
+        "large language model",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.15130",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 7,
+      "title": "Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation",
+      "summary": "1月23日消息，arXiv:2601.14691v2 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as judges to evaluate agent performance, particularly in non-verifiable settings where judgments rely",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "AI",
+        "reasoning",
+        "state-of-the-art",
+        "large language model",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2601.14691",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "Intel Gives Weak Forecast After Supply Shortages Hurt Sales",
+      "summary": "1月23日消息，Intel gave a lackluster forecast for the current quarter after manufacturing problems hampered a comeback bid, a disappointment for investors who anticipated more of a boost from new products. First-q",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "joins",
+        "AI",
+        "billion",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-22/intel-gives-weak-forecast-supply-shortages-hurt-sales-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-22 22:55:55",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "Intel Struggles to Meet Demand, CEO Says After Earnings",
+      "summary": "1月23日消息，Intel Corp. gave a lackluster forecast for the current quarter because supply shortages are making it harder to meet customer demand. Chief Executive Officer Lip-Bu Tan told Bloomberg's Ed Ludlow that",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "CEO",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-22/intel-struggles-to-meet-demand-ceo-says-after-earnings-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-22 21:51:55",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
+      "summary": "1月23日消息，Google DeepMind CEO Demis Hassabis says the tech giant isn't pressuring him to insert ads into the AI chatbot experience.",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "CEO",
+        "AI",
+        "Demis Hassabis"
+      ],
+      "url": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-22 19:41:01",
+      "impact_score": 158.0
+    },
+    {
+      "index": 11,
+      "title": "Vietnam Fines TikTok for Violating Government Data Consent Rules",
+      "summary": "1月23日消息，Vietnam regulators fined ByteDance Ltd.’s TikTok 880 million dong ($33,516) for misleading consumers about their relationship with businesses and violating consumer protection and data consent rules.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "fine"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-23/vietnam-fines-tiktok-for-violating-government-data-consent-rules",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-23 04:11:45",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "Google Antitrust Accord Over Its App Store Meets Skeptical Judge",
+      "summary": "1月23日消息，Google’s proposed settlement with Epic Games Inc. in a long-running antitrust dispute over how the tech giant operates its mobile app store drew deep skepticism from a federal judge, who repeatedly qu",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "antitrust"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-22/google-antitrust-accord-over-its-app-store-meets-skeptical-judge",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-22 23:56:06",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "Apple Says EC Is Using ‘Political Delay Tactics’ on App Changes to Impose Fines",
+      "summary": "1月23日消息，Apple Inc. accused the European Commission of using “political delay tactics” to postpone new app policies as a pretense to investigate and fine the iPhone maker.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "fine"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-22/apple-says-ec-is-using-political-delay-tactics-on-app-changes-to-impose-fines",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-22 22:45:27",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
+      "summary": "1月23日消息，This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Yann LeCun’s new venture is a contrarian bet against large lan",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "large language model",
+        "Turing Award"
+      ],
+      "url": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-01-22 13:10:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "Yann LeCun’s new venture is a contrarian bet against large language models",
+      "summary": "1月23日消息，Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry’s current obsession with large language models",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "large language model",
+        "Turing Award"
+      ],
+      "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-01-22 10:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "OpenAI seeking investments from Middle East sovereign wealth funds for multibillion-dollar round",
+      "summary": "1月23日消息，OpenAI CEO Sam Altman is in the United Arab Emirates to participate in investment talks as he tries to raise more money for his cash-burning startup.",
+      "importance": "高",
+      "reason": "影响力评分: 140.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "Sam Altman",
+        "billion"
+      ],
+      "url": "https://www.cnbc.com/2026/01/21/openai-seek-investments-from-middle-east-for-multibillion-dollar-round.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-01-22 03:50:10",
+      "impact_score": 140.0
+    },
+    {
+      "index": 17,
+      "title": "DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs",
+      "summary": "1月23日消息，arXiv:2601.14711v1 Announce Type: new Abstract: Optimizing the advertiser's cumulative value of winning impressions under budget constraints poses a complex challenge in online advertising, under the ",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "AGI",
+        "large language model",
+        "fine",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2601.14711",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 18,
+      "title": "Towards Bound Consistency for the No-Overlap Constraint Using MDDs",
+      "summary": "1月23日消息，arXiv:2601.14784v1 Announce Type: new Abstract: Achieving bound consistency for the no-overlap constraint is known to be NP-complete. Therefore, several polynomial-time tightening techniques, such as ",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "reasoning",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.14784",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 19,
+      "title": "CI4A: Semantic Component Interfaces for Agents Empowering Web Automation",
+      "summary": "1月23日消息，arXiv:2601.14790v1 Announce Type: new Abstract: While Large Language Models demonstrate remarkable proficiency in high-level semantic planning, they remain limited in handling fine-grained, low-level ",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "introduces",
+        "AI",
+        "large language model",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.14790",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 20,
+      "title": "The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems",
+      "summary": "1月23日消息，arXiv:2601.15059v1 Announce Type: new Abstract: Modern CI/CD pipelines integrating agent-generated code exhibit a structural failure in responsibility attribution. Decisions are executed through forma",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "fine",
+        "exceeds"
+      ],
+      "url": "https://arxiv.org/abs/2601.15059",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-22 05:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从177条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：氪星晚报｜潘功胜：今年降准降息还有一定的空间；高盛上调2026年底金价目标至5400美元；百川推出最低幻觉循证增强医疗大模型M3 Plus；安踏投资加速，主品牌却有些掉队了；腾讯开启研发新范式：CodeBuddy Code 升级 90% 代码由其自生成。",
+  "statistics": {
+    "raw_domestic": 47,
+    "raw_international": 130,
+    "raw_total": 177,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月23日消息，大公司： 穿越者公司已预订首批20余位太空游客，预计2028年实现载人首飞 1月22日，北京穿越者载人航天科技有限公司（以下简称“穿越者”）举行“太空旅游全球发布会”。会上，首批太空游客亮相，包括中国工程院院士李立浧、智元机器人CMO邱恒、探路者品牌创始人王静、啟赋资本董事长傅哲宽等，此外，首批太空游客还包括一名硅基生物，为众擎机器人PM01。国内首艘商业载人飞船“穿越者壹号（CYZ1）”全尺寸试",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月23日消息，作者 | 谢芸子 编辑 | 张帆 安踏投资并购的步伐明显加快了。 2025年4月，安踏体育以2.9亿美元收购了德国户外品牌狼爪。数月后，公司又宣布与韩国时尚集团MUSINSA共同成立合资公司MUSINSA中国。且进入2026年以来，PUMA彪马的收购传闻还在持续发酵。 路透社援引知情人士消息称，安踏拟收购PUMA 29%的股权。若该笔收购能够达成，安踏将取代皮诺家族成为PUMA的最大股东。几乎同时",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月23日消息，4 名研发，58 天，79 个版本——其中 90% 代码由 CodeBuddy 自己生成，AI 团队 7×24 小时协同开发，重新定义研发范式。 近日，腾讯宣布其 AI 编程 CLI 工具 CodeBuddy Code 发布2.0版本，并分享了其研发新进展。 腾讯 CodeBuddy 是首个支持插件、IDE、CLI三形态的AI编程工具。其中 CLI 形态 CodeBuddy Code 定位于专业工",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月23日消息，雷峰网·鲸犀独家获悉，原子重塑（AtomForm）近日完成新一轮融资，融资金额超过人民币一亿元。本轮融资由初辉资本、翼朴资本及天空工场创投基金联合投资。至此，公司累计融资规模已达数亿元，商业化进程持续提速。 随着本轮融资落地，原子重塑将围绕市场拓展、生产体系建设及新品规划等核心方向加快布局，进一步夯实其在新一代数字制造设备领域的技术壁垒与商业化能力。 在产品规划上，原子重塑正构建覆盖多工艺的完整矩",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月23日消息，AI 科技评论获悉，当地时间 1 月 21 日，美国计算机学会（ACM）揭晓了 2025 年最新 Fellow 名单。 本次美国计算机协会 (ACM) 一共宣布了 71 位 ACM Fellow，其中有 19 位华人学者上榜（占比约 27%），他们在医疗人工智能、计算机图形学、数据管理、移动计算、网络系统、网络安全、可持续发展技术等领域做出了重大贡献。 ACM 创立于 1947 年，是世界上第一个",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月23日消息，DayOne Data Centers Ltd. is targeting a valuation as high as $20 billion in its planned US initial public offering, people familiar with the matter said, in what would be a substantial increase from r",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月23日消息，Indian payments technology provider Juspay Technologies Pvt. has raised fresh funds in a round led by WestBridge Capital that boosts the company’s valuation to about $1.2 billion.",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月23日消息，Artificial intelligence pioneer Fei-Fei Li has had discussions with investors to raise hundreds of millions in funding for her startup, World Labs, at a valuation of about $5 billion, according to peo",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月23日消息，Grab Holdings Ltd.’s planned multibillion-dollar acquisition of GoTo Group has hit a stumbling block.",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月23日消息，arXiv:2601.14827v1 Announce Type: new Abstract: Vision-Language Models show strong zero-shot performance for chest X-ray classification, but standard flat metrics fail to distinguish between clinicall",
+      "importance": "高"
+    }
+  ]
+}
