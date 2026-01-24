@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-01-24
+生成时间: 2026-01-24 08:16:47
+数据来源: 从 107 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、1月24日消息，作者 | 谢芸子 编辑 | 张帆 安踏投资并购的步伐明显加快了。 2025年4月，安踏体育以2.9亿美元收购了德国户外品牌狼爪。数月后，公司又宣布与韩国时尚集团MUSINSA共同成立合资公司MUSINSA中国。且进入2026年以来，PUMA彪马的收购传闻还在持续发酵。 路透社援引知情人士消息称，安踏拟收购PUMA 29%的股权。若该笔收购能够达成，安踏将取代皮诺家族成为PUMA的最大股东。几乎同时
+2、1月24日消息，作者丨路遥 编辑丨余快 雷峰网·鲸犀获悉，智能割草机器人企业目心智能（TerraMow）已于近期完成新一轮融资，资方为知名投资机构，融资规模超过 1 亿元。 此前，目心智能的股东名单中已集结了真格基金、创新工厂等顶尖一线机构。 目心智能成立于2019年，由前大疆视觉感知部门负责人张宏辉创立，核心团队约15名初始成员均来自大疆感知部门。目前公司规模接近100人，四位合伙人及核心高管多为技术出身，使团
+3、1月24日消息，AI 科技评论获悉，当地时间 1 月 21 日，美国计算机学会（ACM）揭晓了 2025 年最新 Fellow 名单。 本次美国计算机协会 (ACM) 一共宣布了 71 位 ACM Fellow，其中有 19 位华人学者上榜（占比约 27%），他们在医疗人工智能、计算机图形学、数据管理、移动计算、网络系统、网络安全、可持续发展技术等领域做出了重大贡献。 ACM 创立于 1947 年，是世界上第一个
+4、1月24日消息，要闻提示 1.大清洗！大众裁员3.5万人，包括1/3高管 2.32岁程序员猝死：底薪3千24小时待岗，抢救时被拉入工作群！最新细节 3.传阿里旗下芯片公司平头哥拟独立上市 4.微信聊天不能导出和分析？腾讯回应开源项目被下架：威胁用户数据隐私，极易被黑灰产利用 5.京东推最低11299元黄金手机壳秒售罄 6.月之暗面总裁张予彤：Kimi 仅使用美国顶尖实验室 1% 的资源，新模型很快发布 7.国产 
+5、1月24日消息，雷峰网独家获悉，通信测试厂商赛迈测控近期完成超亿元A轮融资。本轮融资由毅达资本、十月资本、元禾厚望、元禾控股、南通科创集团和苏创投联合投资。公司此前的投资方包括美的资本、宏泰科技、金雨茂物，万创投行担任长期财务顾问。 赛迈测控成立于2021年，创始团队拥有10年以上产业工作经验，核心技术成员来自NI、R&S、Keysight、华为等半导体射频行业知名公司以及国内高级研究所。这家公司在成立第二年已实
+
+国际动态：
+1、1月24日消息，The CEO’s writing style is a subject of much examination
+2、1月24日消息，Famed artificial intelligence researcher Richard Socher is in talks to raise hundreds of millions of dollars for a new startup called Recursive that’s focused on building more advanced AI systems, acc
+3、1月24日消息，TikTok and other China-linked apps dominated U.S. app downloads in 2025, defying mounting political pressure, trade restrictions and national security scrutiny.
+4、1月24日消息，Databricks is among the highly valued technology companies that are primed to go public in 2026.
+5、1月24日消息，BitGo CEO Mike Belshe tells Bloomberg that proposed market-structure legislation like the CLARITY Act would give investors and companies a more stable framework. Belshe says BitGo supports regulation 
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 1月24日消息，作者 | 谢芸子 编辑 | 张帆 安踏投资并购的步伐明显加快了。 2025年4月，安踏体育以2.9亿美元收购了德国户外品牌狼爪。数月后，公司又宣布与韩国时尚集团MUSINSA共同成立合资公司MUSINSA中国。且进入2026年以来，PUMA彪马的收购传闻还在持续发酵。 路透社援引知情人士消息称，安踏拟收购PUMA 29%的股权。若该笔收购能够达成，安踏将取代皮诺家族成为PUMA的最大股东。几乎同时
+   📋 入选理由: 影响力评分: 405.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3650506248839298?f=rss
+   🏷️ 标签: 收购, 投资, 估值, 并购, 发布
+
+2、🔥 1月24日消息，作者丨路遥 编辑丨余快 雷峰网·鲸犀获悉，智能割草机器人企业目心智能（TerraMow）已于近期完成新一轮融资，资方为知名投资机构，融资规模超过 1 亿元。 此前，目心智能的股东名单中已集结了真格基金、创新工厂等顶尖一线机构。 目心智能成立于2019年，由前大疆视觉感知部门负责人张宏辉创立，核心团队约15名初始成员均来自大疆感知部门。目前公司规模接近100人，四位合伙人及核心高管多为技术出身，使团
+   📋 入选理由: 影响力评分: 275.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/qr07N6oIfZHVBR3o.html
+   🏷️ 标签: 投资, 上线, 融资, 合作, 创新
+
+3、🔥 1月24日消息，AI 科技评论获悉，当地时间 1 月 21 日，美国计算机学会（ACM）揭晓了 2025 年最新 Fellow 名单。 本次美国计算机协会 (ACM) 一共宣布了 71 位 ACM Fellow，其中有 19 位华人学者上榜（占比约 27%），他们在医疗人工智能、计算机图形学、数据管理、移动计算、网络系统、网络安全、可持续发展技术等领域做出了重大贡献。 ACM 创立于 1947 年，是世界上第一个
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/yanxishe/WMLaRUxUigODAJDI.html
+   🏷️ 标签: 突破, 人工智能, AI, 图灵奖, 诺贝尔
+
+4、🔥 1月24日消息，要闻提示 1.大清洗！大众裁员3.5万人，包括1/3高管 2.32岁程序员猝死：底薪3千24小时待岗，抢救时被拉入工作群！最新细节 3.传阿里旗下芯片公司平头哥拟独立上市 4.微信聊天不能导出和分析？腾讯回应开源项目被下架：威胁用户数据隐私，极易被黑灰产利用 5.京东推最低11299元黄金手机壳秒售罄 6.月之暗面总裁张予彤：Kimi 仅使用美国顶尖实验室 1% 的资源，新模型很快发布 7.国产 
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/vsiD9DMlf5I80297.html
+   🏷️ 标签: 上市, 隐私, IPO, 开源, 融资
+
+5、🔥 1月24日消息，雷峰网独家获悉，通信测试厂商赛迈测控近期完成超亿元A轮融资。本轮融资由毅达资本、十月资本、元禾厚望、元禾控股、南通科创集团和苏创投联合投资。公司此前的投资方包括美的资本、宏泰科技、金雨茂物，万创投行担任长期财务顾问。 赛迈测控成立于2021年，创始团队拥有10年以上产业工作经验，核心技术成员来自NI、R&S、Keysight、华为等半导体射频行业知名公司以及国内高级研究所。这家公司在成立第二年已实
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/pMivuJP4mGTGRLbU.html
+   🏷️ 标签: 融资, 合作, 投资
+
+6、🔥 1月24日消息，
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/371924.html
+   🏷️ 标签: 上市, AI, IPO
+
+7、🔥 1月24日消息，文｜王欣逸 编辑｜邓咏仪 一句话介绍 geoSurge是一家专注做GEO（生成式引擎优化）的初创公司，基于“模型内部记忆+RAG（检索增强生成）”提供GEO服务，总部位于伦敦，成立于2025年4月。 目前，geoSurge已完成由欧洲老牌风投机构Passion Capital和美国硅谷风投基金Tuesday Capital支持的Pre-Seed轮融资，得到了来自包括谷歌DeepMind、微软AI等
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3650535923032196?f=rss
+   🏷️ 标签: CEO, 投资, 大模型, 风险, AI
+
+8、🔥 1月24日消息，作者｜黄楠 编辑｜袁斯来 当“护眼”和“沉浸学习”成为当代家长挑选教育产品时最为看重的两大要素，一款“去屏幕化”的产品正试图重新塑造学习陪伴的形态。 硬氪获悉，北京盒智科技有限责任公司（以下简称“盒智科技”）此前已完成数百万级天使轮融资。我们总结了该公司几大亮点： 融资金额及投资机构 融资轮次： 天使轮 融资规模： 数百万元 领投方： 奇绩创坛 资金用途： 本轮融资将主要用于技术研发投入，加快产品
+   📋 入选理由: 影响力评分: 230.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3581375032605829?f=rss
+   🏷️ 标签: 融资, AI, 投资
+
+9、🔥 1月24日消息，大公司： 宜家携手京东推出即时零售业务 36氪获悉，1月23日，宜家携手京东在北京、广州、深圳、杭州、成都、武汉、济南、昆明、佛山9个城市探索即时零售业务，当地消费者可以通过京东平台秒送页面下单宜家产品，并实现最快一小时内送达。 蚂蚁国际：Alipay+连通意大利数字钱包 36氪获悉，因应意大利来华免签政策，近日，意大利银行Banca Profilo旗下数字钱包Tinaba宣布，通过与蚂蚁国际旗下
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3651632890634631?f=rss
+   🏷️ 标签: 收购, 人工智能, 大模型, AI, 合作
+
+10、🔥 1月24日消息，上海麦当劳在南京东路核心商圈打造的全新城市中心旗舰餐厅上海黄浦华旭国际大厦CUBE风格旗舰店餐厅亮相，这也是上海麦当劳的第600家餐厅。 上海麦当劳市场高级总经理罗伟表示：“32年来，麦当劳始终伴随上海的发展。当前，上海迈入体验经济进阶期，我们在城市中枢持续布局城市中心旗舰店。这家第600家餐厅将以创新场景为商圈注入新活力，助力提升城市消费。”
+   📋 入选理由: 影响力评分: 221.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3652915056238983?f=rss
+   🏷️ 标签: 突破, 创新
+
+11、🔥 1月24日消息，文 | 林晴晴 编辑 | 袁斯来 硬氪获悉，模块化数据中心（MDC）解决方案提供商「易普集（EPG）」近日已完成亿元级美金的B轮融资。本轮融资由国际资本Forebright和Silicon Peak领投，高瓴创投（GL Ventures）、纽尔利资本、云锋基金、星航资本跟投，一苇资本担任长期独家财务顾问。本轮融资将主要用于产能扩建、运营资金补充及全球市场拓展，以更好的保障客户数据中心交付，特别是A
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3651582023524488?f=rss
+   🏷️ 标签: 融资, AI, 投资
+
+12、🔥 1月24日消息，vivo的快进快出，也揭示了AI眼镜行业的同质化困境。 文｜邱晓芬 编辑｜苏建勋 《智能涌现》独家获悉， 手机厂商vivo近期叫停了AI眼镜项目， 这一项目 此前已秘密筹备半年时间，并已与歌尔、中科创达在内的多家ODM厂商合作demo。 一名知情人士称，音视频、带单绿显示的AI眼镜方案都在vivo的讨论范围内，但最终尚未确定方向便被叫停。原因是， vivo执行副总裁胡柏山在内的多位高层判断，其AI
+   📋 入选理由: 影响力评分: 182.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3651349127651465?f=rss
+   🏷️ 标签: 发布, AI, 合作, CEO
+
+13、🔥 1月24日消息，作者 | 郑浩钧 编辑 | 吴 彤 汽车智能驾驶的竞争，已经决出了阶段性的胜负。 中国智能驾驶供应商的格局，正快速从群雄并起走向 “一超多强”。华为凭借智选车与HI模式的双重布局，在技术方案、搭载量和车企合作上确立了“一超”地位。轻舟智航、地平线、Momenta等公司，则凭借各自优势构成了“多强”阵营，跻身到自动驾驶第一梯队。 格局集中的背后，是市场的加速普及与门槛的急剧提高。2025年前三季度，
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/WD5exD6jCDGD5AmP.html
+   🏷️ 标签: 发布, 合作, 上市, 突破
+
+14、🔥 1月23日，百度发布设立应用研发组织相关公告，新设个人超级智能事业群组。该事业群组将合并文库和网盘事业部，由王颖担任组织负责人，直接向CEO汇报。 此次调整将有助于充分整合人才、技术等核心要素，进一步强化百度在AI应用方面的整体协同创新能力。
+   📋 入选理由: 影响力评分: 162.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3652855054066049?f=rss
+   🏷️ 标签: 发布, AI, 创新, CEO
+
+15、🔥 1月24日消息，开启医疗AI的“通用基座”时代
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/372307.html
+   🏷️ 标签: 发布, AI
+
+16、🔥 1月24日消息，
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-23-5
+   🏷️ 标签: 发布, 风险
+
+17、🔥 1月24日消息，
+   📋 入选理由: 影响力评分: 147.5
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-23-2
+   🏷️ 标签: 融资, LLM
+
+18、🔥 1月24日消息，
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-23-4
+   🏷️ 标签: 开源
+
+19、🔥 1月24日消息，
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-23-3
+   🏷️ 标签: 发布
+
+20、🔥 1月24日消息，今日热点导览 宜家首次支持即时零售 泡泡玛特“星星人情人节限定”系列溢价近7倍 操纵证券市场，余韩被证监会罚没超10亿 理想汽车将关闭部分门店 腾讯通报2025年反舞弊结果：九十余人被解聘 TOP3大新闻 12306客服回应“高铁车厢二氧化碳浓度超标” 近日，一条在高铁二等座车厢内测二氧化碳浓度的视频引发网友热议，视频画面显示：乘客入座前，车厢内二氧化碳浓度在880ppm（百万分之一，浓度单位）左
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3652729313108355?f=rss
+   🏷️ 标签: 发布, 首次
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 1月24日消息，The CEO’s writing style is a subject of much examination
+   📋 入选理由: 影响力评分: 330.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/newsletters/2026-01-23/musk-openai-lawsuit-reveals-sam-altman-s-writing-style
+   🏷️ 标签: CEO, AI law, lawsuit, AI, Sam Altman
+
+2、🔥 1月24日消息，Famed artificial intelligence researcher Richard Socher is in talks to raise hundreds of millions of dollars for a new startup called Recursive that’s focused on building more advanced AI systems, acc
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation
+   🏷️ 标签: artificial intelligence, billion, AI, valuation
+
+3、🔥 1月24日消息，TikTok and other China-linked apps dominated U.S. app downloads in 2025, defying mounting political pressure, trade restrictions and national security scrutiny.
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/23/tiktok-other-china-linked-apps-thrived-in-the-us-in-2025-.html
+   🏷️ 标签: national security, trade restriction
+
+4、🔥 1月24日消息，Databricks is among the highly valued technology companies that are primed to go public in 2026.
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html
+   🏷️ 标签: billion, AI, IPO
+
+5、🔥 1月24日消息，BitGo CEO Mike Belshe tells Bloomberg that proposed market-structure legislation like the CLARITY Act would give investors and companies a more stable framework. Belshe says BitGo supports regulation 
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-23/clarity-act-is-good-for-crypto-industry-bitgo-ceo-video
+   🏷️ 标签: legislation, CEO
+
+6、🔥 1月24日消息，This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “Dr. Google” had its issues. Can ChatGPT Health do better? For
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/
+   🏷️ 标签: AI, AI regulation
+
+7、🔥 1月24日消息，Chinese officials have informed the country’s largest tech firms they can prepare orders for Nvidia Corp.’s H200 AI chips. Frank Lee, global head of tech hardware and semi research at HSBC examines th
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-23/china-tells-alibaba-others-to-prep-nvidia-h200-orders-video
+   🏷️ 标签: AI, H200, surveillance
+
+8、🔥 1月24日消息，MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In the final weeks of 2025, the
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/
+   🏷️ 标签: artificial intelligence, AI, AI regulation
+
+9、🔥 1月24日消息，Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the start
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/
+   🏷️ 标签: founder, AI, CEO
+
+10、🔥 1月24日消息，The visit comes as New Delhi prepares to host a major AI summit expected to draw top executives from Meta, Google, and Anthropic. This will be Altman's first visit to the country in nearly a year.
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/
+   🏷️ 标签: AI, Sam Altman, chief
+
+11、🔥 1月24日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Intel’s manufacturing struggles as the company’s shares fall post-earnings. Plus, China's largest tech firms get an initial green light from Beijing to 
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-23/bloomberg-tech-1-23-2026-video
+   🏷️ 标签: AI, H200
+
+12、🔥 1月24日消息，Chinese officials have told the country’s largest tech firms including Alibaba Group Holding Ltd. they can prepare orders for Nvidia Corp.’s H200 AI chips, suggesting Beijing is close to formally appr
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-23/china-tells-alibaba-top-tech-firms-to-prep-nvidia-h200-orders
+   🏷️ 标签: artificial intelligence, AI, H200
+
+13、🔥 1月24日消息，Tony Fadell, principal at Build Collective, iPod co-creator and Nest Labs founder, discusses hardware innovation and the future of AI with Romaine Bostick and Katie Greifeld on “The Close.” He says th
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-23/tony-fadell-on-apple-s-ai-aims-crazy-tech-talent-wars-video
+   🏷️ 标签: founder, AI, IPO
+
+14、🔥 1月24日消息，The private equity owner of Xebia is considering a sale of the artificial intelligence consulting firm, which could be valued at €1 billion ($1.2 billion) or more in a deal, according to people famili
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-23/owner-of-ai-consultancy-xebia-is-said-to-weigh-1-billion-sale
+   🏷️ 标签: artificial intelligence, billion, AI
+
+15、🔥 1月24日消息，Binance founder and former CEO Changpeng "CZ" Zhao said he has "no business relationships whatsoever" with the Trump family.
+   📋 入选理由: 影响力评分: 125.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html
+   🏷️ 标签: founder, AI, CEO
+
+16、🔥 1月24日消息，Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar New Year, two people familiar with the matter told CNBC.
+   📋 入选理由: 影响力评分: 125.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html
+   🏷️ 标签: AI, CEO, Jensen Huang
+
+17、🔥 1月24日消息，Tesla CEO Elon Musk said on X that his EV company has removed human safety monitors from some of its Robotaxi vehicles in Austin.
+   📋 入选理由: 影响力评分: 125.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/22/musk-says-tesla-takes-safety-supervisors-out-of-some-austin-robotaxis.html
+   🏷️ 标签: AI, CEO, Elon Musk
+
+18、🔥 1月24日消息，Despite its depressed valuation, the fintech’s longtime backers were probably keen to cash out
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/a009f986-f3c3-493c-965c-47f182ae62c1
+   🏷️ 标签: valuation
+
+19、🔥 1月24日消息，Software maker Databricks Inc. has lined up $1.8 billion of new financing from broadly syndicated loan investors and private credit lenders.
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-23/software-maker-databricks-inks-1-8-billion-financing-package
+   🏷️ 标签: billion
+
+20、🔥 1月24日消息，Nvidia's board now has 10 directors, including CEO Jensen Huang,
+   📋 入选理由: 影响力评分: 110.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/23/nvidia-director-persis-drell-resigns-decade-on-board-26-million-stock.html
+   🏷️ 标签: CEO, Jensen Huang
+
+
+======================================================================
+📊 今日总结: 今日从107条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：安踏投资加速，主品牌该有些压力了；独家丨纯视觉方案「天花板」目心智能完成B轮过亿元融资，加速从幕后向自有品牌转型；2025 年 ACM Fellow 名单公布：郑宇、梅涛、金海、陈宝权等 19 名华人学者入榜。
+======================================================================
