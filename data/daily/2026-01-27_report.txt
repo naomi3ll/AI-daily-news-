@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-01-27
+生成时间: 2026-01-27 08:20:49
+数据来源: 从 173 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、1月27日消息，36氪独家获悉，新能源重卡公司DeepWay深向已完成11.77亿元的Pre-IPO轮融资。 本轮融资由普华资本领投，ABC Impact、欣旺达、前海淏天、瀚棠置业、临沂国科、长兴创强基金、山东国控资本、联想创投、大湾区基金、光跃投资、红山基金共同投资。 据了解，资金将主要用于集团主营业务的运营和发展。 DeepWay深向成立于2020年7月，百度系其核心股东之一，董事长兼CEO万钧为商用车物流
+2、1月27日消息，作者丨欧雪 编辑丨袁斯来 硬氪独家获悉，光量子计算企业图灵量子（TuringQ）近日完成新一轮数亿元B轮融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及领投机构 融资金额： 数亿元 融资轮次： B轮 投资机构： 本轮融资汇聚一线市场化国有资本，以及四川省产业振兴集团、深投控、复星、商汤等多家战略投资方。 资金用途： 资金将重点投入国产自主可控的实用化量子计算机研发、核心技术攻坚、高端研发
+3、1月26日，阿里正式发布千问旗舰推理模型Qwen3-Max-Thinking，创下数项权威评测全球新纪录，性能媲美GPT-5.2、Gemini 3 Pro，成为迄今为止最接近国际顶尖模型的国内最强AI大模型。通过总参数、强化学习、推理计算的极致规模扩展，千问新模型实现了性能的大幅飞跃，刷新科学知识（GPQA Diamond）、数学推理（IMO-AnswerBench）、代码编程（LiveCodeB
+4、1月27日消息，文 | 海若镜 2022年，创业第七年，薛翀开始跑步，用汗水来对抗郁闷和失意。 资本寒冬、市场骤冷，谈好的5000万融资无法到账，他创立的医疗SaaS公司全诊医学只好收缩战线，退守浙江。彼时，医疗行业普遍面临大裁员的苦楚，薛翀也是。濒死挣扎后，他决定还是挤出资源，保留一支10人小队，探索并不清晰的AI创新业务。 没想到，正是这个反常识的决策，让全诊医学翻了盘，接住了大模型时代的“馈赠”： 2025
+5、1月27日消息，作者 | 王晗玉 编辑 | 张帆 延续2024年的“924”行情，两年多以来A股持续波动上涨，至目前上证指数已从2700多点涨至4100点以上。多家机构纷纷预测A股正步入“慢牛”格局，B股则像一个被遗忘的“价值洼地”。 1月14日，锦江酒店发布公告，表示公司已完成对部分B股的增持计划，累计增持金额为2606.68万美元。此轮增持将市场的目光又一次引至B股——在A股市场震荡上行、估值中枢有所抬升的背
+
+国际动态：
+1、1月27日消息，Anthropic Chief Executive Officer Dario Amodei joined a growing chorus of Silicon Valley leaders expressing outrage over the fatal shooting of Alex Pretti, aligning with tech industry workers who’ve u
+2、1月27日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s additional $2 billion investment in CoreWeave, to accelerate the buildout of AI factories. Plus, IonQ CEO Niccolo de Masi discusses the quantum
+3、1月27日消息，AI inference startup Baseten Labs has raised $300 million at a $5 billion valuation, doubling its value in just six months. Baseten CEO Tuhin Srivastava and one of its backers, Conviction founder Sara
+4、1月27日消息，Quantum computing firm IonQ has agreed to buy SkyWater Technology in a $1.8 billion cash-and-stock deal. IonQ CEO Niccolo de Masi discusses the reasoning behind this latest acquisition with Caroline H
+5、1月27日消息，Nvidia Corp., the dominant maker of artificial intelligence chips, invested an additional $2 billion in the cloud computing firm and key customer CoreWeave Inc., marking the latest example of the circ
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 1月27日消息，36氪独家获悉，新能源重卡公司DeepWay深向已完成11.77亿元的Pre-IPO轮融资。 本轮融资由普华资本领投，ABC Impact、欣旺达、前海淏天、瀚棠置业、临沂国科、长兴创强基金、山东国控资本、联想创投、大湾区基金、光跃投资、红山基金共同投资。 据了解，资金将主要用于集团主营业务的运营和发展。 DeepWay深向成立于2020年7月，百度系其核心股东之一，董事长兼CEO万钧为商用车物流
+   📋 入选理由: 影响力评分: 440.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3648965783543429?f=rss
+   🏷️ 标签: IPO, 合作, 融资, 投资, 突破
+
+2、🔥 1月27日消息，作者丨欧雪 编辑丨袁斯来 硬氪独家获悉，光量子计算企业图灵量子（TuringQ）近日完成新一轮数亿元B轮融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及领投机构 融资金额： 数亿元 融资轮次： B轮 投资机构： 本轮融资汇聚一线市场化国有资本，以及四川省产业振兴集团、深投控、复星、商汤等多家战略投资方。 资金用途： 资金将重点投入国产自主可控的实用化量子计算机研发、核心技术攻坚、高端研发
+   📋 入选理由: 影响力评分: 425.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3656992648650888?f=rss
+   🏷️ 标签: 合作, 融资, 投资, 人工智能, AI
+
+3、🔥 1月26日，阿里正式发布千问旗舰推理模型Qwen3-Max-Thinking，创下数项权威评测全球新纪录，性能媲美GPT-5.2、Gemini 3 Pro，成为迄今为止最接近国际顶尖模型的国内最强AI大模型。通过总参数、强化学习、推理计算的极致规模扩展，千问新模型实现了性能的大幅飞跃，刷新科学知识（GPQA Diamond）、数学推理（IMO-AnswerBench）、代码编程（LiveCodeB
+   📋 入选理由: 影响力评分: 425.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/k0Evef8ezEtSdgHk.html
+   🏷️ 标签: SOTA, Gemini 3, GPT-5, 创新, 大模型
+
+4、🔥 1月27日消息，文 | 海若镜 2022年，创业第七年，薛翀开始跑步，用汗水来对抗郁闷和失意。 资本寒冬、市场骤冷，谈好的5000万融资无法到账，他创立的医疗SaaS公司全诊医学只好收缩战线，退守浙江。彼时，医疗行业普遍面临大裁员的苦楚，薛翀也是。濒死挣扎后，他决定还是挤出资源，保留一支10人小队，探索并不清晰的AI创新业务。 没想到，正是这个反常识的决策，让全诊医学翻了盘，接住了大模型时代的“馈赠”： 2025
+   📋 入选理由: 影响力评分: 361.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3647401456078465?f=rss
+   🏷️ 标签: 创新, 融资, 投资, 突破, 大模型
+
+5、🔥 1月27日消息，作者 | 王晗玉 编辑 | 张帆 延续2024年的“924”行情，两年多以来A股持续波动上涨，至目前上证指数已从2700多点涨至4100点以上。多家机构纷纷预测A股正步入“慢牛”格局，B股则像一个被遗忘的“价值洼地”。 1月14日，锦江酒店发布公告，表示公司已完成对部分B股的增持计划，累计增持金额为2606.68万美元。此轮增持将市场的目光又一次引至B股——在A股市场震荡上行、估值中枢有所抬升的背
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3656051954966918?f=rss
+   🏷️ 标签: 风险, 投资, 上市, 发布, 估值
+
+6、🔥 1月27日消息，要闻提示 1.TikTok官宣美国方案，两公司共同运营，字节保留算法知识产权 2.iPhone Air大降2500元：累积激活量还不到20万，不及预期！苹果客服回应 3.300万就能上太空旅游？演员黄景瑜冲了！智元机器人CMO、中国工程院院士等十余人也已预订 4.百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚 5.俞敏洪：AI+教育或消灭大量老师岗位，中国中小学教师一大半
+   📋 入选理由: 影响力评分: 290.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/KG99M3uzGzjK1ZoE.html
+   🏷️ 标签: 合作, 投资, 上市, 发布, 大模型
+
+7、🔥 1月27日消息，
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-27-3
+   🏷️ 标签: 发布, Sora, AI
+
+8、🔥 1月27日消息，在教育公益领域，传统的“物质帮扶”模式正在向更深层、更系统的人才支持演进。如何从基础建设延伸至人才培养的软性维度、学科交叉与长期成长，已成为衡量公益创新价值的关键标尺。俞浩慈善基金会通过系统的公益实践，为此提供了具有前瞻性的答卷。 2026年1月27日，俞浩慈善基金会正式推出「天空工场」全球青年创新领袖人才计划，这标志其完成了从基础教育到高等教育的全学龄公益布局，一套以“创新模式”与“人才全程关怀
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/9tUHxAlGKniPZMyI.html
+   🏷️ 标签: 创新, 正式推出, 突破, CEO, 超越
+
+9、🔥 1月27日消息，从市场监管总局召开的2025年综合整治“内卷式”竞争十大重大案件发布会上了解到，针对充电宝安全事件多发、频发，严重威胁人民群众生命财产安全和社会公共安全情况，市场监管总局部署开展了充电宝质量安全集中整治行动。全国市场监管部门共查处充电宝相关违法案件1169件，守牢产品质量安全底线。其中，深圳罗马仕科技有限公司违反强制性认证规定及虚假宣传较为典型。（央视新闻）
+   📋 入选理由: 影响力评分: 275.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3657358306238857?f=rss
+   🏷️ 标签: 监管, 发布, 法案
+
+10、🔥 1月27日消息，当市场增速放缓、消费趋于理性，传统“以价换量”的增长逻辑已难以为继，头部品牌纷纷将目光投向技术深耕与战略转型的深水区。AI赋能、健康理念、高端化布局、跨界融合……这些关键词正重塑着家用电器行业的竞争格局。 本期世研指数榜单聚焦家用电器行业，透过热度指数，带你洞察这场由技术驱动、战略引领的产业变革浪潮。 图源：世研消费 本次监测周期内，美的、格力和松下分别以1.92、1.71和1.68的综合热度指数
+   📋 入选理由: 影响力评分: 266.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3657388456338057?f=rss
+   🏷️ 标签: 创新, 突破, 发布, 上市, AI
+
+11、🔥 1月27日消息，在全球创新格局深度演进的背景下，青年人才的成长环境与发展路径正发生深刻变化。如何为青年在关键阶段提供更加稳定、持续且面向未来的支持，成为社会力量参与人才发展工作的重要课题。 2026年1月27日，俞浩慈善基金会正式发布 「天空工场」全球青年创新领袖人才计划。该计划旨在通过创新公益模式，精准支持已在世界级学术、科研或创新实践中取得突出成果的高校学生，助力他们加速成长，连接全球资源网络，实现从“卓越”
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/cQGxKBxrdND1KF5H.html
+   🏷️ 标签: 开放, 合作, 创新, 突破, 发布
+
+12、🔥 1月27日消息，36氪获悉，商务部新闻发言人就中英经贸合作情况答记者问。有记者问：英国首相斯塔默将于1月28日至31日对中国进行正式访问，这将是英国首相时隔8年首次访华。请问双方届时在经贸领域将有哪些活动安排，有望取得哪些成果？如何评价中英经贸关系发展现状及未来合作前景？答：中英互为重要经贸伙伴。长期以来，在两国领导人的战略引领下，中英经贸关系保持健康稳定发展。2025年，中英双边货物贸易额达到1037亿美元，服
+   📋 入选理由: 影响力评分: 236.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3657365609242752?f=rss
+   🏷️ 标签: 投资, 突破, 合作, 首次
+
+13、🔥 1月27日消息，36氪获悉，AI医疗创新企业“虚之实”宣布，已于2025年底完成A+轮融资，融资金额超过5000万元。本轮融资由浙商资本、相泰资本和梅花创投三家机构联合投资，将重点用于脑部专病AI算法体系建设、多模态神经数据建模、物理AI训练数据积累以及XR类脑机接口硬件研发。虚之实进一步表示，公司B轮融资目前已在积极准备过程中，预计春节后将正式启动。
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3657331148464259?f=rss
+   🏷️ 标签: 投资, AI, 创新, 融资
+
+14、🔥 1月27日消息，欧洲汽车制造商协会（ACEA）周二公布的数据显示，去年12月份欧盟纯电动汽车销量首次超过汽油车。数据显示，美国纯电动汽车品牌特斯拉的市场份额持续下滑，被包括中国比亚迪和欧洲销量冠军大众汽车集团在内的竞争对手蚕食。（新浪财经）
+   📋 入选理由: 影响力评分: 221.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3657294061789321?f=rss
+   🏷️ 标签: 首次, 超越
+
+15、🔥 1月27日消息，轻舟智航联合创始人、董事长兼CEO 于骞 文｜肖漫 编辑｜李勤 智驾行业正处于一个微妙的周期交替点。 一方面，智驾平权正在真正走向量产落地，进入更低的车型价格带；另一方面，更大的算力、更复杂的模型、更激进的技术叙事也同时在发生，目标直指 L3 甚至 L4。这是机会，也是清场的时刻。 在此前一轮又一轮的淘汰赛中，轻舟智航成为上一轮大逃杀里面的幸存者之一。它并非起点最高、融资最猛的智驾公司，却始终能够
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3652006209020288?f=rss
+   🏷️ 标签: 合作, CEO, 融资
+
+16、🔥 1月27日消息，雷峰网/AI科技评论独家获悉，浙江人形机器人创新中心有限公司（简称“浙江人形”）已于近日完成4.5亿元Pre-A轮融资。截至目前，公司在过去一年半的时间累计筹集资金共22亿元。 公司的股东囊括中控技术、招商创科、联想创投、冯源资本、宁波工业互联网研究院、迦智科技、智昌科技等场景产业资本，以及浙江省创业投资集团、宁波金控控股集团、海发控股集团、越秀产业基金、宁波人才集团等政府产业资本和方广资本等市场
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/tHdd4OZPUUy0tL8F.html
+   🏷️ 标签: 投资, AI, 创新, 融资
+
+17、🔥 1月27日消息，2026年1月27日，俞浩慈善基金会正式发起「天空工场」全球青年创新领袖人才计划。首批入选者来自清华、北大、复旦等国内顶尖高校，在人工智能、机器人、人文研究、语言文化、设计创新等多个领域表现卓越。该计划旨在通过“资金+资源+平台”的创新公益模式，精准支持已在世界级学术、科研或创新实践中取得突出成果的高校学生，助力他们加速成长，连接全球资源网络，实现从“卓越”到“引领未来”的跨越。
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/NePb5EYUvGwB7KZq.html
+   🏷️ 标签: 突破, 创新, 人工智能
+
+18、🔥 1月27日消息，作者 | 赵之齐 编辑 | 包永刚 2018年，边缘算力与CDN（内容分发网络）市场已白热化，价格卷到极致。就在这一年，PPIO成立了。他们毅然切入边缘云领域，直面红海的竞争。 当时，创始人姚欣给天使投资人——百川智能创始人王小川、前微软Azure中国总裁申元庆——讲的创业逻辑是： “ 当年PPTV就是整合闲置的算力和资源，建起来的一套分布式平台 。我们二十年前就在做C端的算力整合，现在要去做B端
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/GpExeQUQDrXE3B8H.html
+   🏷️ 标签: IPO, 投资, 大模型, 人工智能, CEO
+
+19、🔥 1月27日消息，大公司： 贾国龙：不再打造个人IP 西贝餐饮集团创始人贾国龙近日接受专访时表示，将回归一线、聚焦主业，不再打造个人IP。贾国龙表示，自己更愿意回归一线搞好服务，“其实我回一线干活的能力还是有的，我可以选食材，到各个原料基地去比较，选择哪个原料品质更好，成本还低，能做出好菜来，这就是我的追求”。贾国龙预计，2025年9月至2026年3月，西贝累计亏损将超6亿元。西贝将在一季度陆续关闭全国102家门店
+   📋 入选理由: 影响力评分: 173.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3656083905273986?f=rss
+   🏷️ 标签: 法案, 人工智能, CEO, AI, 马化腾
+
+20、🔥 1月27日消息，要闻提示 1.人均月加班超149小时，当当网旗下公司因27名员工超长加班被罚 2.曝安防巨头取消大小周但要提前上班！网友：隐性加班换了个形式 3.理想汽车内部会曝光：重启人形机器人，要招聘最好的人 4.春节分10亿元现金！马化腾：希望重现当年微信红包盛况 5.阶跃星辰完成超50亿元B+轮融资，印奇出任董事长 6.第三次！宇树科技官宣：上春晚 7.马斯克摊上事！欧盟正式调查X平台：Grok生成虚假色
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/jkpwvpNdlG7PDOsk.html
+   🏷️ 标签: 融资, 罚款, 发布, AI, 马化腾
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 1月27日消息，Anthropic Chief Executive Officer Dario Amodei joined a growing chorus of Silicon Valley leaders expressing outrage over the fatal shooting of Alex Pretti, aligning with tech industry workers who’ve u
+   📋 入选理由: 影响力评分: 277.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-27/amodei-hoffman-join-tech-workers-decrying-minnesota-violence
+   🏷️ 标签: SOTA, chief, Dario Amodei, CEO, AI
+
+2、🔥 1月27日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s additional $2 billion investment in CoreWeave, to accelerate the buildout of AI factories. Plus, IonQ CEO Niccolo de Masi discusses the quantum
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-26/bloomberg-tech-1-26-2026-video
+   🏷️ 标签: billion, CEO, AI, acquisition
+
+3、🔥 1月27日消息，AI inference startup Baseten Labs has raised $300 million at a $5 billion valuation, doubling its value in just six months. Baseten CEO Tuhin Srivastava and one of its backers, Conviction founder Sara
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-26/ai-startup-baseten-raises-300-million-video
+   🏷️ 标签: founder, billion, valuation, CEO, AI
+
+4、🔥 1月27日消息，Quantum computing firm IonQ has agreed to buy SkyWater Technology in a $1.8 billion cash-and-stock deal. IonQ CEO Niccolo de Masi discusses the reasoning behind this latest acquisition with Caroline H
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-26/quantum-firm-ionq-to-buy-chipmaker-skywater-for-1-8b-video
+   🏷️ 标签: billion, CEO, acquisition, reasoning
+
+5、🔥 1月27日消息，Nvidia Corp., the dominant maker of artificial intelligence chips, invested an additional $2 billion in the cloud computing firm and key customer CoreWeave Inc., marking the latest example of the circ
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-26/nvidia-invests-2b-more-in-coreweave-offers-new-chip-video
+   🏷️ 标签: artificial intelligence, billion, joins, valuation, AI
+
+6、🔥 1月27日消息，arXiv:2601.17814v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have advanced rapidly, yet heterogeneity in architecture, alignment strategies, and efficiency means that no si
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.17814
+   🏷️ 标签: LLM, multimodal, large language model, alignment, valuation
+
+7、🔥 1月27日消息，British startup Synthesia, whose AI platform helps companies create interactive training videos, has raised a $200 million Series E round of funding that brings its valuation to $4 billion — up from $
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/
+   🏷️ 标签: valuation, billion, AI
+
+8、🔥 1月27日消息，arXiv:2601.17335v1 Announce Type: new Abstract: We study whether Artificial General Intelligence (AGI) admits a coherent theoretical definition that supports absolute claims of existence, robustness, 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.17335
+   🏷️ 标签: AGI, AI, artificial general intelligence
+
+9、🔥 1月27日消息，arXiv:2601.17426v1 Announce Type: new Abstract: Human logic has gradually shifted from intuition-driven inference to rigorous formal systems. Motivated by recent advances in large language models (LLM
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.17426
+   🏷️ 标签: LLM, large language model, SOTA, reasoning
+
+10、🔥 1月27日消息，Dario Amodei posts 20,000-word essay detailing potentially catastrophic risks from powerful technology in years to come
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/c3098552-7204-4a93-844c-1b8569c9dcb2
+   🏷️ 标签: chief, AI, Dario Amodei
+
+11、🔥 1月27日消息，European regulators begin investigation into creation and spread of sexualised images of women and children
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/f5ed0160-7098-4e63-88e5-8b3f70499b02
+   🏷️ 标签: investigation, deepfake, AI
+
+12、🔥 1月27日消息，arXiv:2601.17717v1 Announce Type: new Abstract: Large Language Models (LLMs) have emerged as powerful tools for generating data across various modalities. By transforming data from a scarce resource i
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.17717
+   🏷️ 标签: LLM, large language model, acquisition, valuation, AI
+
+13、🔥 1月27日消息，Cyber Hornet ETFs co-founder and CEO Michael Willis tells Bloomberg his firm’s 75/25 strategy, blending equities with Bitcoin exposure, is designed to give investors a more familiar, stable entry poin
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-26/building-strategy-for-bitcoin-hesitant-investors-willis-video
+   🏷️ 标签: CEO, founder
+
+14、🔥 1月27日消息，Commission investigates Grok and X's recommender systems under the Digital Services Act Anonymous (not verified) Mon, 01/26/2026 - 12:11 The European Commission has launched a new formal investigation
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: EU AI Policy | 🔗 https://digital-strategy.ec.europa.eu/en/news/commission-investigates-grok-and-xs-recommender-systems-under-digital-services-act
+   🏷️ 标签: investigation, AI
+
+15、🔥 1月27日消息，The British AI video company has raised $200 million in fresh funding.
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html
+   🏷️ 标签: valuation, billion, AI
+
+16、🔥 1月27日消息，X is facing an investigation from the European Commission over the sexualized deepfakes generated by its Grok AI chatbot. In its announcement, the Commission says it will evaluate whether X "properly 
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation
+   🏷️ 标签: investigation, deepfake, AI
+
+17、🔥 1月27日消息，Alibaba Group Holding Ltd.-backed Moonshot AI released an upgrade of its flagship model, heating up a domestic arms race ahead of an expected rollout by Chinese sensation DeepSeek.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-27/china-s-moonshot-unveils-new-ai-model-ahead-of-deepseek-release
+   🏷️ 标签: AI, unveils
+
+18、🔥 1月27日消息，French lawmakers passed a bill banning children aged under 15 from accessing social media, the latest government to push forward rules to shield minors from toxic content following the passage of Aust
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-27/french-lawmakers-vote-to-ban-under-15s-from-social-media
+   🏷️ 标签: legislation
+
+19、🔥 1月27日消息，Apple Inc. unveiled an upgraded AirTag accessory, with the $29 item finder now offering longer range, a louder speaker and other improvements.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-26/apple-announces-new-airtag-with-longer-range-louder-speaker
+   🏷️ 标签: announces, AI
+
+20、🔥 1月27日消息，Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/
+   🏷️ 标签: announces, AI, billion
+
+
+======================================================================
+📊 今日总结: 今日从173条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：Deepway深向完成11.77亿元Pre-IPO轮融资，加速重卡电动化与智能化｜36氪独家；上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿｜36氪独家；阿里千问最强模型重磅亮相！性能媲美GPT-5.2、Gemini 3 Pro。
+======================================================================
