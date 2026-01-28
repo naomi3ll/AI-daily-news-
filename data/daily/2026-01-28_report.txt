@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-01-28
+生成时间: 2026-01-28 08:20:25
+数据来源: 从 184 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、1月28日消息，继2024年海洋生产总值突破10万亿元大关，2025年海洋科技被纳入国家顶层设计后，2026年的海洋产业正在加速从“规模扩张”迈向“质效提升”的新阶段。 在政策持续赋能与市场力量共同驱动下，深海科技、海洋新能源、智慧海洋等新兴领域呈现出强劲爆发力，海上风电、海底数据中心、水下机器人等创新应用正不断拓展海洋经济的边界。海域分层立体利用、多能融合开发等模式逐步成熟，推动形成了“海底资源探测—海中能源开
+2、1月28日消息，雷峰网独家获悉，前毫末智行CEO顾维灏创业，成立公司，布局酒店服务机器人赛道，其团队成员主要来自于百度和Momenta，目前顾维灏已接触不少投资方。 顾维灏是知名“老百度人”，自2003年开始在百度工作长达16年，最初负责MP3搜索业务，随着技术发展工作扩展到视频搜索和语音搜索领域。2015年顾维灏的团队转向地图领域，他负责地图业务的大部分研发工作，包括地图数据采集和部分产品开发。 2016年，顾
+3、1月28日消息，据知情人士透露，软银集团正洽谈向OpenAI追加至多300亿美元投资，这家日本综合企业本就持有这家初创公司的大量股份，此次若达成投资，持股规模将进一步扩大。据此前媒体报道，ChatGPT的开发商正寻求从投资者处募集至多1000亿美元新资金；若能足额完成募资，这轮融资将使其估值最高达8300亿美元。目前相关交易洽谈仍在进行，条款仍有可能发生变动。（新浪财经）
+4、1月28日消息，作者 | 谢芸子 编辑 | 张帆 安踏对PUMA彪马的收购终于敲定。 1月26日晚间，安踏体育发布公告，以每股35欧元，约合15.06亿欧元的对价（约124亿元人民币‌‌）与Artémis公司签订购股协议，计划收购PUMA彪马29.06%的股份。 待交割完成后，安踏集团或将以第一大股东的身份，寻求监事会委派合适的代表。值得一提的是，本次交易有望于2026年底前完成，且股权收购资金全部来源于安踏的内
+5、1月28日消息，文｜周鑫雨 编辑｜苏建勋 如果不出意外，一个03年出生的普通学生，大概率会在2026年6月读完本科，紧接着步入社会，成为“牛马” 然而，对03年的李文轩和钟子湫而言，2022年底发布的ChatGPT，成了那个意外——大胆的决定接踵而来：辍学，全职创业。 “大学突然没意义了，我们学的东西ChatGPT基本能搞定。”彼时正在美国加州大学伯克利分校计算机系读大一的李文轩，发现了一个残酷的事实：即便参与大
+
+国际动态：
+1、1月28日消息，arXiv:2601.19193v1 Announce Type: new Abstract: Existing datasets for multimodal table understanding, such as MMTab, primarily provide short factual answers without explicit multi-step reasoning super
+2、1月28日消息，arXiv:2601.19151v1 Announce Type: new Abstract: Recent progress at the intersection of large language models (LLMs) and time series (TS) analysis has revealed both promise and fragility. While LLMs ca
+3、1月28日消息，Dangote Industries, owned by Africa’s richest man, appointed MTN Group Ltd. Chief Executive Officer Ralph Mupita to the board of its fertilizer business as it prepares to expand and list the operation
+4、1月28日消息，Celestial calendar meets high finance, as billionaire’s personal impulses shape plans to raise $50bn in record listing
+5、1月28日消息，Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 1月28日消息，继2024年海洋生产总值突破10万亿元大关，2025年海洋科技被纳入国家顶层设计后，2026年的海洋产业正在加速从“规模扩张”迈向“质效提升”的新阶段。 在政策持续赋能与市场力量共同驱动下，深海科技、海洋新能源、智慧海洋等新兴领域呈现出强劲爆发力，海上风电、海底数据中心、水下机器人等创新应用正不断拓展海洋经济的边界。海域分层立体利用、多能融合开发等模式逐步成熟，推动形成了“海底资源探测—海中能源开
+   📋 入选理由: 影响力评分: 376.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658516751197060?f=rss
+   🏷️ 标签: 突破, CEO, AI, 创新, 人工智能
+
+2、🔥 1月28日消息，雷峰网独家获悉，前毫末智行CEO顾维灏创业，成立公司，布局酒店服务机器人赛道，其团队成员主要来自于百度和Momenta，目前顾维灏已接触不少投资方。 顾维灏是知名“老百度人”，自2003年开始在百度工作长达16年，最初负责MP3搜索业务，随着技术发展工作扩展到视频搜索和语音搜索领域。2015年顾维灏的团队转向地图领域，他负责地图业务的大部分研发工作，包括地图数据采集和部分产品开发。 2016年，顾
+   📋 入选理由: 影响力评分: 335.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/WLbcczGYl2IMAebH.html
+   🏷️ 标签: CEO, 融资, 估值, 投资, 百亿
+
+3、🔥 1月28日消息，据知情人士透露，软银集团正洽谈向OpenAI追加至多300亿美元投资，这家日本综合企业本就持有这家初创公司的大量股份，此次若达成投资，持股规模将进一步扩大。据此前媒体报道，ChatGPT的开发商正寻求从投资者处募集至多1000亿美元新资金；若能足额完成募资，这轮融资将使其估值最高达8300亿美元。目前相关交易洽谈仍在进行，条款仍有可能发生变动。（新浪财经）
+   📋 入选理由: 影响力评分: 307.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3658732400714628?f=rss
+   🏷️ 标签: 融资, AI, 估值, 投资
+
+4、🔥 1月28日消息，作者 | 谢芸子 编辑 | 张帆 安踏对PUMA彪马的收购终于敲定。 1月26日晚间，安踏体育发布公告，以每股35欧元，约合15.06亿欧元的对价（约124亿元人民币‌‌）与Artémis公司签订购股协议，计划收购PUMA彪马29.06%的股份。 待交割完成后，安踏集团或将以第一大股东的身份，寻求监事会委派合适的代表。值得一提的是，本次交易有望于2026年底前完成，且股权收购资金全部来源于安踏的内
+   📋 入选理由: 影响力评分: 307.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3657541274575750?f=rss
+   🏷️ 标签: 发布, 估值, 合作, 收购
+
+5、🔥 1月28日消息，文｜周鑫雨 编辑｜苏建勋 如果不出意外，一个03年出生的普通学生，大概率会在2026年6月读完本科，紧接着步入社会，成为“牛马” 然而，对03年的李文轩和钟子湫而言，2022年底发布的ChatGPT，成了那个意外——大胆的决定接踵而来：辍学，全职创业。 “大学突然没意义了，我们学的东西ChatGPT基本能搞定。”彼时正在美国加州大学伯克利分校计算机系读大一的李文轩，发现了一个残酷的事实：即便参与大
+   📋 入选理由: 影响力评分: 294.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3653542332948608?f=rss
+   🏷️ 标签: 突破, CEO, 发布, AI, 融资
+
+6、🔥 1月28日消息，在教育公益领域，传统的“物质帮扶”模式正在向更深层、更系统的人才支持演进。如何从基础建设延伸至人才培养的软性维度、学科交叉与长期成长，已成为衡量公益创新价值的关键标尺。俞浩慈善基金会通过系统的公益实践，为此提供了具有前瞻性的答卷。 2026年1月27日，俞浩慈善基金会正式推出「天空工场」全球青年创新领袖人才计划，这标志其完成了从基础教育到高等教育的全学龄公益布局，一套以“创新模式”与“人才全程关怀
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/9tUHxAlGKniPZMyI.html
+   🏷️ 标签: 突破, 正式推出, CEO, 创新, 超越
+
+7、🔥 1月28日消息，AI发展”奇点“已至，以AI coding为代表的突破标志着关键拐点的到来
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/373101.html
+   🏷️ 标签: 突破, 创新, AI
+
+8、🔥 1月28日消息，生命科学和医学，正在经历一次深刻而复杂的转变（transformation）：人工智能开始介入生命研究和药物研发的关键环节；基因编辑正在重新定义我们对生物机制与进化边界的理解；在结束不久的新冠疫情之后，社会重新思考如何应对突发性人类灾难。 与此同时，PD-1，CAR-T等革命性治疗方法，将在未来十年内令癌症变成一个完全可治的慢性病；GLP-1药物所带来的糖尿病和减肥的神奇疗效，有可能真正实现“治未
+   📋 入选理由: 影响力评分: 266.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658490547692424?f=rss
+   🏷️ 标签: 突破, AI, 伦理, 人工智能, IPO
+
+9、🔥 1月28日消息，在全球创新格局深度演进的背景下，青年人才的成长环境与发展路径正发生深刻变化。如何为青年在关键阶段提供更加稳定、持续且面向未来的支持，成为社会力量参与人才发展工作的重要课题。 2026年1月27日，俞浩慈善基金会正式发布 「天空工场」全球青年创新领袖人才计划。该计划旨在通过创新公益模式，精准支持已在世界级学术、科研或创新实践中取得突出成果的高校学生，助力他们加速成长，连接全球资源网络，实现从“卓越”
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/cQGxKBxrdND1KF5H.html
+   🏷️ 标签: 突破, CEO, 发布, 创新, 人工智能
+
+10、🔥 1月28日消息，作者｜宋婉心 编辑｜张帆 一众卡牌公司前赴后继冲击资本市场，但至今仍未有公司摘下“卡牌第一股”的桂冠。 最新消息是，潮玩收藏卡牌品牌Suplay正式向港交所递交了招股书。不同于卡游针对青少年受众的低价定位，Suplay定位高端，但营收规模也仅为卡游的不足3%。 继卡游之后，Suplay接棒冲刺也多了几分不确定的意味。 卡牌是被市场认为最有潜质成为下一个“泡泡玛特”的赛道。但这一更为复杂，边界更为模
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658744522711944?f=rss
+   🏷️ 标签: 投资, 上市, 监管
+
+11、🔥 1月28日消息，今日热点导览 面包掉地仍售卖，好利来客服致歉 市场监管总局通报深圳罗马仕公司充电宝案 安踏宣布将成为彪马最大股东 售价超3万，投资银条走红水贝 国投白银LOF，将暂停申购 TOP 3 大新闻 大批中成药将退出市场 中成药淘汰赛序幕拉开，大批中成药将退出市场。距离2026年7月1日仅剩半年时间，国家药监局《中药注册管理专门规定》第七十五条的落地进入最后窗口期。 这一被业内称为中成药“生死条款”的规定
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658332721030022?f=rss
+   🏷️ 标签: 投资, 上市, 监管
+
+12、🔥 1月28日消息，当地时间1月27日，沃尔沃汽车金融服务公司与美国银行宣布，将延长长期合作关系，继续为沃尔沃汽车客户及其在美国的280家经销商提供汽车贷款、租赁业务发起、融资及服务支持。双方合作始于2012年，现确定将延续至2030年。（界面）
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3658732945826439?f=rss
+   🏷️ 标签: 融资, 合作
+
+13、🔥 1月28日消息，2026年1月27日，俞浩慈善基金会正式发起「天空工场」全球青年创新领袖人才计划。首批入选者来自清华、北大、复旦等国内顶尖高校，在人工智能、机器人、人文研究、语言文化、设计创新等多个领域表现卓越。该计划旨在通过“资金+资源+平台”的创新公益模式，精准支持已在世界级学术、科研或创新实践中取得突出成果的高校学生，助力他们加速成长，连接全球资源网络，实现从“卓越”到“引领未来”的跨越。
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/NePb5EYUvGwB7KZq.html
+   🏷️ 标签: 突破, 创新, 人工智能
+
+14、🔥 1月28日消息，
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-28-3
+   🏷️ 标签: 大模型, 创新, 开源
+
+15、🔥 1月28日消息，作者 | 范亮 编辑 | 张帆 2025年四季度财报发布前后的几个交易日，英特尔股价经历了大起大落，振幅接近30%。 涨是因市场消息传出服务器CPU产能供不应求，英特尔与AMD两家巨头均计划将服务器CPU价格上调10%至15%，这被视为存储芯片短缺后可能到来的第二波“缺芯浪潮”。 跌则是英特尔在业绩会的指引点出了CPU涨价之下的尴尬局面：良率偏低导致供应不足，同时会拖累2026年一季度整体的业绩。
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658743480804230?f=rss
+   🏷️ 标签: 发布, 法案, 投资
+
+16、🔥 1月28日消息，要闻提示 1.人均月加班超149小时，当当网旗下公司因27名员工超长加班被罚 2.曝安防巨头取消大小周但要提前上班！网友：隐性加班换了个形式 3.理想汽车内部会曝光：重启人形机器人，要招聘最好的人 4.春节分10亿元现金！马化腾：希望重现当年微信红包盛况 5.阶跃星辰完成超50亿元B+轮融资，印奇出任董事长 6.第三次！宇树科技官宣：上春晚 7.马斯克摊上事！欧盟正式调查X平台：Grok生成虚假色
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/jkpwvpNdlG7PDOsk.html
+   🏷️ 标签: 发布, AI, 马化腾, 融资, 罚款
+
+17、🔥 1月28日消息，36氪获悉，中上协发布2025年12月统计月报。月报显示，截至2025年12月31日，境内股票市场共有上市公司5477家，沪、深、北证券交易所分别为2302、2887、288家。分股份类型统计，仅发A股公司5229家，A+H、A+B等多股份类型的公司241家，仅发B股公司7家。2025年，境内市场新增首发上市公司116家，首发募资总额1341.41亿元，其中创业板、科创板、北交所公司78家；退市公
+   📋 入选理由: 影响力评分: 152.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3658765723771521?f=rss
+   🏷️ 标签: 发布, 上市
+
+18、🔥 1月28日消息，
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-28-5
+   🏷️ 标签: 开源, 超越
+
+19、🔥 1月28日消息，
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-28-4
+   🏷️ 标签: 发布, AI
+
+20、🔥 1月28日消息，联手星海图、松灵完成多机型真机验证
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/373396.html
+   🏷️ 标签: 大模型, 开源
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 1月28日消息，arXiv:2601.19193v1 Announce Type: new Abstract: Existing datasets for multimodal table understanding, such as MMTab, primarily provide short factual answers without explicit multi-step reasoning super
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.19193
+   🏷️ 标签: multimodal, fine, reasoning, AI, AGI
+
+2、🔥 1月28日消息，arXiv:2601.19151v1 Announce Type: new Abstract: Recent progress at the intersection of large language models (LLMs) and time series (TS) analysis has revealed both promise and fragility. While LLMs ca
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.19151
+   🏷️ 标签: multimodal, large language model, reasoning, AI, AGI
+
+3、🔥 1月28日消息，Dangote Industries, owned by Africa’s richest man, appointed MTN Group Ltd. Chief Executive Officer Ralph Mupita to the board of its fertilizer business as it prepares to expand and list the operation
+   📋 入选理由: 影响力评分: 262.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-28/dangote-appoints-mtn-ceo-to-fertilizer-unit-board-with-ipo-plans
+   🏷️ 标签: IPO, appointed, chief, CEO
+
+4、🔥 1月28日消息，Celestial calendar meets high finance, as billionaire’s personal impulses shape plans to raise $50bn in record listing
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122
+   🏷️ 标签: IPO, AI, alignment, billion
+
+5、🔥 1月28日消息，Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.
+   📋 入选理由: 影响力评分: 229.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/
+   🏷️ 标签: Dario Amodei, Sam Altman, AI, CEO
+
+6、🔥 1月28日消息，Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/
+   🏷️ 标签: AI, valuation, billion
+
+7、🔥 1月28日消息，Illicit cryptocurrency laundering climbed above $82 billion in 2025, according to a Chainalysis report, with Chinese-language money laundering networks accounting for $16.1 billion of that total. Chai
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-27/china-drove-crypto-crime-in-2025-chainalysis-video
+   🏷️ 标签: AI, founder, CEO, billion
+
+8、🔥 1月28日消息，arXiv:2601.19306v1 Announce Type: new Abstract: Mobile agents have made progress toward reliable smartphone automation, yet performance in complex applications remains limited by incomplete knowledge 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.19306
+   🏷️ 标签: AI, reasoning, exceeds
+
+9、🔥 1月28日消息，arXiv:2601.19337v1 Announce Type: new Abstract: Modern AI systems increasingly comprise multiple interconnected neural networks to tackle complex inference tasks. Testing such systems for robustness a
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.19337
+   🏷️ 标签: AI, reasoning, neural network, state-of-the-art
+
+10、🔥 1月28日消息，"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: FG Nexus CEO of Digital Assets Maja Vujinovic and Chainalysis Co-Founder 
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-crypto-1-27-2026-video
+   🏷️ 标签: AI, founder, CEO
+
+11、🔥 1月28日消息，Dario Amodei posts 20,000-word essay detailing potentially catastrophic risks from powerful technology in years to come
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/c3098552-7204-4a93-844c-1b8569c9dcb2
+   🏷️ 标签: Dario Amodei, AI, chief
+
+12、🔥 1月28日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss stocks closing in on record highs driven by tech shares with earnings imminent. Plus, Bridgit Mendler, CEO and co-founder of Northwood, discusses the co
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-tech-1-27-2026-video
+   🏷️ 标签: founder, CEO
+
+13、🔥 1月28日消息，Autonomous trucking company Gatik says it has brought in more than $600 million in contracted revenue. Gatik CEO and co-founder Gautam Narang discusses what comes next for the company with Caroline Hy
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-27/driverless-trucking-firm-gatik-signs-major-600m-deal-video
+   🏷️ 标签: founder, CEO
+
+14、🔥 1月28日消息，TikTok is moving to settle a lawsuit with a woman who alleged that the company and other social media giants designed their platforms to addict young users, the first such case to go to trial.
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-27/woman-to-settle-tiktok-social-media-addiction-case-before-trial
+   🏷️ 标签: joins, lawsuit
+
+15、🔥 1月28日消息，When Elon Musk was at Davos last week, an interviewer asked him if he thought aging could be reversed. Musk said he hasn’t put much time into the problem but suspects it is “very solvable” and that wh
+   📋 入选理由: 影响力评分: 157.5
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/
+   🏷️ 标签: Elon Musk, AI, AGI
+
+16、🔥 1月28日消息，Octopus chief adds to debate over critical sector as PM embarks on first trip to Beijing by a British leader since 2018
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0741966d-f5e6-4978-9606-5caa4632ae7d
+   🏷️ 标签: chief, Opus
+
+17、🔥 1月28日消息，University’s K2 Think system ranks alongside best open models from US and China, say researchers
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/465c717b-af26-48c1-a530-e9e6d313f96a
+   🏷️ 标签: AI, launches
+
+18、🔥 1月28日消息，arXiv:2601.19170v1 Announce Type: new Abstract: Automatically extracting workflows as procedural graphs from natural language is promising yet underexplored, demanding both structural validity and log
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.19170
+   🏷️ 标签: fine, large language model, reasoning, AI, alignment
+
+19、🔥 1月28日消息，SoftBank Group Corp. is in discussions to invest as much as $30 billion more in OpenAI, a sharp increase in commitment that reflects founder Masayoshi Son’s ambitions to play a central role in develop
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-28/softbank-in-talks-to-invest-30-billion-more-in-openai-wsj-says
+   🏷️ 标签: AI, artificial intelligence, founder, billion
+
+20、🔥 1月28日消息，Revolut Ltd. launched banking operations in Mexico on Tuesday, offering a 15% interest rate on deposits as it seeks to grab a chunk of the country’s embattled market.
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-28/revolut-launches-15-savings-rate-in-mexico-in-battle-with-banks
+   🏷️ 标签: launches
+
+
+======================================================================
+📊 今日总结: 今日从184条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：重塑海上出行：当船舶装上 “电动心脏” 与 “AI 大脑”｜OpenTalk直播预告；独家丨前毫末智行CEO顾维灏创业，成立机器人新公司；软银正洽谈向OpenAI追加至多300亿美元投资。
+======================================================================
