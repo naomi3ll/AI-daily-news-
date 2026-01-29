@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-01-29
+生成时间: 2026-01-29 08:29:02
+数据来源: 从 183 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、1月29日消息，外资豪华品牌在华销量连年下降，转型与改变已无法避免。 2025年，保时捷在中国市场共卖出42938辆，同比下降幅度达到26%，保时捷在华已连续4年出现下滑。近日，保时捷中国CEO潘励驰与36氪等媒体展开交流，不仅对保时捷中国的销量与反击措施作出详细说明，更是回应了保时捷中国智驾供应商、国产车型与保时捷的设计风云等热门话题。 对于保时捷销量的变化，潘励驰表示，结构性转变通常总是始于客户需求的变化， 
+2、1月29日消息，大公司： 科大讯飞：预计2025年净利润同比增长40%-70% 36氪获悉，科大讯飞公告，公司预计2025年归母净利润为7.85亿元—9.5亿元，较上年同期增长40%-70%，扣非净利润较上年同期增长30%-60%。同时，销售回款总额超过270亿元，较去年同期增长超过40亿元，报告期末经营活动产生的现金流量净额超过30亿元，以上两项均创历史新高。 SK海力士全年营业利润47.2万亿韩元，继续评估美
+3、1月29日消息，文｜邱晓芬 编辑｜苏建勋 1月26日，在腾讯公司年会上，马化腾罕见评价了豆包手机——他直言腾讯反对将用户的手机屏幕传到云端，因为这“极其不安全、不负责任”。 对此评价，豆包手机方面快速做出回应，称将严格遵守用户授权，云端处理遵循“不存储、不训练原则”。 马化腾的评价，也揭开了豆包手机此前的隐痛。2025年12月，字节旗下豆包手机在发布仅一天后，便经历了一场严重“围剿”——其AI Agent由于触及
+4、1月29日消息，元宝里也上线了
+5、1月28日，第二届傅利叶具身智能生态大会暨张江机器人开发者先锋大会在上海正式开幕。此次会议上，傅利叶发布了面向康养场景的具身智能解决方案“脑机具身智能康复港”，对具身智能在康养场景的落地进行探索。 作为国内较早布局康养产业的智能机器人公司，傅利叶于2025年将人形机器人引入康复认知训练。公司围绕“主动交互”理念，已构建了软硬一体的主动交互式智能机器人技术平台。该平台包括从核心传感器、灵巧手到全身遥
+
+国际动态：
+1、1月29日消息，Ross Gerber, president, CEO and co-founder of Gerber Kawasaki, says shareholders have no say in how Tesla CEO Elon Musk runs the company. Gerber reacts to the latest earnings and Tesla planning to inv
+2、1月29日消息，Celestial calendar meets high finance, as billionaire’s personal impulses shape plans to raise $50bn in record listing
+3、1月29日消息，Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.
+4、1月29日消息，arXiv:2601.20305v1 Announce Type: new Abstract: Unified Multimodal Models (UMMs) exhibit strong understanding, yet this capability often fails to effectively guide generation. We identify this as a Co
+5、1月29日消息，Nvidia Corp. hasn’t yet received any orders from Chinese customers for its H200 AI chips as Beijing is still deciding whether to allow imports of the US firm’s components, according to its chief execu
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 1月29日消息，外资豪华品牌在华销量连年下降，转型与改变已无法避免。 2025年，保时捷在中国市场共卖出42938辆，同比下降幅度达到26%，保时捷在华已连续4年出现下滑。近日，保时捷中国CEO潘励驰与36氪等媒体展开交流，不仅对保时捷中国的销量与反击措施作出详细说明，更是回应了保时捷中国智驾供应商、国产车型与保时捷的设计风云等热门话题。 对于保时捷销量的变化，潘励驰表示，结构性转变通常总是始于客户需求的变化， 
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3657372223103109?f=rss
+   🏷️ 标签: 投资, CEO, 上市, 开放, 合作
+
+2、🔥 1月29日消息，大公司： 科大讯飞：预计2025年净利润同比增长40%-70% 36氪获悉，科大讯飞公告，公司预计2025年归母净利润为7.85亿元—9.5亿元，较上年同期增长40%-70%，扣非净利润较上年同期增长30%-60%。同时，销售回款总额超过270亿元，较去年同期增长超过40亿元，报告期末经营活动产生的现金流量净额超过30亿元，以上两项均创历史新高。 SK海力士全年营业利润47.2万亿韩元，继续评估美
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658880359965314?f=rss
+   🏷️ 标签: 监管, 投资, 上市, IPO, 发布
+
+3、🔥 1月29日消息，文｜邱晓芬 编辑｜苏建勋 1月26日，在腾讯公司年会上，马化腾罕见评价了豆包手机——他直言腾讯反对将用户的手机屏幕传到云端，因为这“极其不安全、不负责任”。 对此评价，豆包手机方面快速做出回应，称将严格遵守用户授权，云端处理遵循“不存储、不训练原则”。 马化腾的评价，也揭开了豆包手机此前的隐痛。2025年12月，字节旗下豆包手机在发布仅一天后，便经历了一场严重“围剿”——其AI Agent由于触及
+   📋 入选理由: 影响力评分: 299.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3660039929160576?f=rss
+   🏷️ 标签: AI, 开放, 马化腾, 合作, 发布
+
+4、🔥 1月29日消息，元宝里也上线了
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/373580.html
+   🏷️ 标签: 开源, 上线
+
+5、🔥 1月28日，第二届傅利叶具身智能生态大会暨张江机器人开发者先锋大会在上海正式开幕。此次会议上，傅利叶发布了面向康养场景的具身智能解决方案“脑机具身智能康复港”，对具身智能在康养场景的落地进行探索。 作为国内较早布局康养产业的智能机器人公司，傅利叶于2025年将人形机器人引入康复认知训练。公司围绕“主动交互”理念，已构建了软硬一体的主动交互式智能机器人技术平台。该平台包括从核心传感器、灵巧手到全身遥
+   📋 入选理由: 影响力评分: 266.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658914633228933?f=rss
+   🏷️ 标签: 突破, CEO, 创新, 大模型, 发布
+
+6、🔥 1月29日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海希夕智能科技有限责任公司（SUNSEED，以下简称“希夕智能”）近日完成数千万元天使轮融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： 天使轮 融资金额： 数千万元 投资机构： 宁波北仑商贸物流投资集团领投，荣成荣鑫基金和盛景嘉成跟投 资金用途： 研发投入、产品迭代与业务推广 公司基本信息 成立时间： 2022年 公司
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3659839708259207?f=rss
+   🏷️ 标签: 融资, 投资, AI, CEO
+
+7、🔥 1月29日消息，36氪获悉，中科磁业发布2025年业绩预告。报告显示，预计2025年归属于上市公司股东的净利润为2900万元–3450万元，比上年同期增长75.11%–108.32%。报告期内，募投项目部分达产带动产能释放、产销量提升；公司推进产品与技术迭代，目前公司磁组件产品已顺利通过部分客户的验证，进入小批量供货阶段；深化头部客户合作、拓展新客户，提升市场占有率。
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3660207347426184?f=rss
+   🏷️ 标签: 合作, 发布, 上市
+
+8、🔥 1月29日消息，作者｜宋婉心 编辑｜张帆 一众卡牌公司前赴后继冲击资本市场，但至今仍未有公司摘下“卡牌第一股”的桂冠。 最新消息是，潮玩收藏卡牌品牌Suplay正式向港交所递交了招股书。不同于卡游针对青少年受众的低价定位，Suplay定位高端，但营收规模也仅为卡游的不足3%。 继卡游之后，Suplay接棒冲刺也多了几分不确定的意味。 卡牌是被市场认为最有潜质成为下一个“泡泡玛特”的赛道。但这一更为复杂，边界更为模
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658744522711944?f=rss
+   🏷️ 标签: 监管, 投资, 上市
+
+9、🔥 1月29日消息，12月底，柬埔寨正值一年中最凉爽的时节，但气温仍有30℃上下，空气里弥漫着温润的湿意。波哥山脚下的柬埔寨博格经济特区工业园区里，工人们正将宠物咬胶打包装车，运往65公里外的西哈努克港。几天后，这些产品便会出现在美国各大商超的宠物货架上。 这里是爵味食品有限公司-佩蒂动物营养科技股份有限公司柬埔寨子公司（以下简称“佩蒂”）在境外规模最大的生产基地之一。而像这样的海外生产基地，佩蒂还在越南和新西兰分别
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3659004604965512?f=rss
+   🏷️ 标签: 投资, 上市
+
+10、🔥 1月29日消息，作者 | 范亮 编辑 | 张帆 2025年四季度财报发布前后的几个交易日，英特尔股价经历了大起大落，振幅接近30%。 涨是因市场消息传出服务器CPU产能供不应求，英特尔与AMD两家巨头均计划将服务器CPU价格上调10%至15%，这被视为存储芯片短缺后可能到来的第二波“缺芯浪潮”。 跌则是英特尔在业绩会的指引点出了CPU涨价之下的尴尬局面：良率偏低导致供应不足，同时会拖累2026年一季度整体的业绩。
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658743480804230?f=rss
+   🏷️ 标签: 投资, 法案, 发布
+
+11、🔥 1月29日，NAND闪存主控芯片厂商“慧荣科技”宣布入选了科睿唯安（Clarivate）发布的“2026全球百强创新机构”榜单。该榜单基于德温特强度指数，通过影响力、投资、成功率和稀缺性四大指标，对每项发明的质量进行全球对标分析。据了解，慧荣科技是服务器、PC和其他客户端设备提供的SSD主控芯片的供应商，还为超大规模数据中心、工业系统和车用SSD提供定制的高性能解决方案。
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3660165270414216?f=rss
+   🏷️ 标签: 创新, 投资, 发布
+
+12、🔥 1月29日消息，全球AI竞争新高地
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/373666.html
+   🏷️ 标签: AI, 大模型, 首次
+
+13、🔥 1月29日消息，今日热点导览 31个省份公布2025年经济增速 深铁再出借20余亿元供万科支付展期首付 恒生银行正式从港交所退市 字节禁止员工利用公司资源做号谋利 今年春运多趟火车再现1元低价票 TOP3大新闻 盒马回应将鲜百合误送成水仙球致用户中毒 近日，有消费者反映在盒马平台订购鲜百合，收货后却发现为水仙球，食用后出现呕吐、腹痛等中毒症状。据消费者周女士讲述，1月2日，她为了给感冒的孩子煮汤，在北京一家盒马m
+   📋 入选理由: 影响力评分: 140.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3659745663067011?f=rss
+   🏷️ 标签: CEO, 投资, 首次
+
+14、🔥 1月29日消息，中国AI情感陪伴市场的规模，25年已经爆发至38.66亿元，预计2028年将突破595亿元。数据之下，是如今越来越多的年轻人，开始尝试和AI建立情感联结，开启一场“人机恋”。 消息秒回、24小时陪伴、无条件倾听、无限的情绪支持、伴侣可以被定制……年轻人们似乎在和AI谈一场“完美恋爱”。有人说这是排解孤独的最好慰藉，有人觉得是真实情感的平替，也有人质疑这样的“恋爱”是否真的能有温度？ 你尝试过和AI
+   📋 入选理由: 影响力评分: 140.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3658712689812352?f=rss
+   🏷️ 标签: 突破, AI, 伦理
+
+15、🔥 1月29日消息，“熬不住了，已经忙到极致了”
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/373762.html
+   🏷️ 标签: 开源
+
+16、🔥 1月29日消息，
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-29-2
+   🏷️ 标签: 开源
+
+17、🔥 1月29日消息，
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/373447.html
+   🏷️ 标签: 开源
+
+18、🔥 1月29日消息，36氪获悉，智翔金泰发布2025年业绩预告、报告显示，预计2025年归属于上市公司股东的净利润亏损4.81亿元-5.87亿元。业绩变动主要系首款商业化产品赛立奇单抗注射液销售收入增长，以及确认GR1803注射液授权许可收入；同时因股权激励服务期届满，2025年无股份支付费用，研发费用同比下降。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3660239789663106?f=rss
+   🏷️ 标签: 发布, 上市
+
+19、🔥 1月29日消息，现代汽车1月29日发布财报显示，去年销售额达186.25万亿韩元（约合人民币9065亿元），同比增长6.3%，创历史新高。营业利润为11.47万亿韩元，同比下降19.5%。同期，现代汽车销量为413.84万辆，同比下降0.1%。其中，韩国本土销量71.29万辆，海外销量342.54万辆。此外，电动车销量为27.57万辆，混合动力车型（HEV）销量为63.5万辆，合计达96.18万辆，同比增长27%
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3660236908962435?f=rss
+   🏷️ 标签: 创新, 发布
+
+20、🔥 1月29日消息，36氪获悉，晨曦航空发布2025年业绩预告。报告显示，预计2025年度营业收入1.4亿元-1.6亿元，上年同期营业收入1.41亿元；归母净利润亏损5500万元-7060万元，上年同期亏损2658.51万元。报告期，公司归属于上市公司股东的净利润下降的主要原因系报告期公司受客户回款影响，计提信用减值损失较上年同期大幅增加，增幅约165.08%，从而导致报告期归属于上市公司股东的净利润下降。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3660231385096836?f=rss
+   🏷️ 标签: 发布, 上市
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 1月29日消息，Ross Gerber, president, CEO and co-founder of Gerber Kawasaki, says shareholders have no say in how Tesla CEO Elon Musk runs the company. Gerber reacts to the latest earnings and Tesla planning to inv
+   📋 入选理由: 影响力评分: 277.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-28/shareholders-have-no-say-in-tesla-gerber-says-video
+   🏷️ 标签: founder, billion, CEO, AI, Elon Musk
+
+2、🔥 1月29日消息，Celestial calendar meets high finance, as billionaire’s personal impulses shape plans to raise $50bn in record listing
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122
+   🏷️ 标签: billion, alignment, AI, Elon Musk, IPO
+
+3、🔥 1月29日消息，Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.
+   📋 入选理由: 影响力评分: 229.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/28/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/
+   🏷️ 标签: Dario Amodei, CEO, AI, Sam Altman
+
+4、🔥 1月29日消息，arXiv:2601.20305v1 Announce Type: new Abstract: Unified Multimodal Models (UMMs) exhibit strong understanding, yet this capability often fails to effectively guide generation. We identify this as a Co
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.20305
+   🏷️ 标签: alignment, AI, reasoning, multimodal
+
+5、🔥 1月29日消息，Nvidia Corp. hasn’t yet received any orders from Chinese customers for its H200 AI chips as Beijing is still deciding whether to allow imports of the US firm’s components, according to its chief execu
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-29/nvidia-ceo-says-chinese-government-yet-to-approve-h200-imports
+   🏷️ 标签: H200, chief, AI, CEO
+
+6、🔥 1月29日消息，arXiv:2601.20856v1 Announce Type: new Abstract: Although the capabilities of large language models have been increasingly tested on complex reasoning tasks, their long-horizon planning abilities have 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.20856
+   🏷️ 标签: state-of-the-art, AI, reasoning, large language model
+
+7、🔥 1月29日消息，arXiv:2601.19906v1 Announce Type: cross Abstract: Targeting error-tolerant applications, approximate circuits introduce controlled errors to significantly improve performance, power, and area (PPA) of
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.19906
+   🏷️ 标签: state-of-the-art, AI, AGI
+
+8、🔥 1月29日消息，Japanese flash memory maker Kioxia Holdings Corp. is promoting Executive Vice President Hiroo Oota to chief executive officer and president in a move aimed at expanding its presence in the booming mem
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-29/memory-maker-kioxia-names-new-ceo-in-midst-of-ai-chip-boom
+   🏷️ 标签: chief, AI, CEO
+
+9、🔥 1月29日消息，South Korea’s top diplomat said Donald Trump’s recent threat to raise tariffs on goods from its US ally is not connected to an ongoing investigation into a high-profile data breach at e-commerce compa
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-29/south-korea-says-us-trade-friction-unrelated-to-coupang-probe
+   🏷️ 标签: AI, investigation
+
+10、🔥 1月29日消息，Quantum technologies are rapidly emerging as foundational capabilities for economic competitiveness, national security and scientific leadership in the 21st century. Sustained U.S. leadership in quant
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/national-quantum-initiative/
+   🏷️ 标签: breakthrough, national security, AI
+
+11、🔥 1月29日消息，Elon Musk’s electric-car maker invests $2bn in the billionaire’s xAI
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8
+   🏷️ 标签: Elon Musk, billion, AI
+
+12、🔥 1月29日消息，Elon Musk said Tesla Inc. needs to build and operate what he is calling a “TeraFab” to manufacture semiconductors, a massive undertaking that will cost billions of dollars and mark another expansion b
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-28/musk-says-tesla-needs-to-build-terafab-to-manufacture-chips
+   🏷️ 标签: Elon Musk, billion, AI
+
+13、🔥 1月29日消息，Bloomberg's Ed Ludlow reports on Tesla's plans to invest about $2 billion into xAI, giving Elon Musk’s artificial-intelligence startup a cash infusion despite a shareholder vote last year that failed 
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-28/tesla-plans-2-billion-investment-in-musk-s-xai-video
+   🏷️ 标签: Elon Musk, billion, AI
+
+14、🔥 1月29日消息，The Futurum Group CEO Daniel Newman says Meta Platforms CEO Mark Zuckerberg has "turned the corner" on "Bloomberg The Close." Meta said first-quarter sales will be $53.5 billion to $56.5 billion, beat
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-28/zuckerberg-doing-right-thing-for-meta-futurum-group-ceo-video
+   🏷️ 标签: AI, billion, CEO
+
+15、🔥 1月29日消息，John Belton, Gabelli Funds portfolio manager and managing director for growth portfolios, reacts to Microsoft's second-quarter earnings on "Bloomberg The Close." (Source: Bloomberg)
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-28/microsoft-well-positioned-for-ai-gabelli-s-belton-says-video
+   🏷️ 标签: AI, AGI
+
+16、🔥 1月29日消息，arXiv:2601.20604v1 Announce Type: new Abstract: This paper introduces a methodological framework for empirically testing AI alignment strategies through structured multi-model dialogue. Drawing on Pea
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.20604
+   🏷️ 标签: alignment, large language model, AI, reasoning, introduces
+
+17、🔥 1月29日消息，arXiv:2601.20843v1 Announce Type: new Abstract: This paper introduces a novel Deep Researcher architecture designed to generate detailed research reports on complex PhD level topics by addressing the 
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2601.20843
+   🏷️ 标签: AI, introduces, fine
+
+18、🔥 1月29日消息，STMicroelectronics NV, a chip supplier for Tesla Inc. and Apple Inc., forecast first-quarter revenue that beat analysts’ estimates after demand from consumer electronics customers showed signs of reco
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-29/stmicro-sales-outlook-beats-estimates-on-chip-recovery
+   🏷️ 标签: beats
+
+19、🔥 1月29日消息，US philanthropist on his new partnership with OpenAI
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0ef99a14-2b8d-45ec-86a2-d5fc8c822c10
+   🏷️ 标签: AI, partnership
+
+20、🔥 1月29日消息，Nvidia Corp., Microsoft Corp. and Amazon.com Inc. are in discussions to invest as much as $60 billion in OpenAI as part of a major new funding round, the Information reported, citing people familiar w
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-29/nvidia-others-in-talks-for-openai-investment-information-says
+   🏷️ 标签: AI, billion
+
+
+======================================================================
+📊 今日总结: 今日从183条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：中国区CEO潘励驰：保时捷不会让消费者当小白鼠｜36氪专访；氪星晚报｜字节跳动旗下公司等入股弋途科技；SpaceX考虑于6月中旬进行IPO；曦望发布新一代推理芯片S3；豆包手机卷土重来：从“被围剿”，到“反围剿”丨智能涌现独家。
+======================================================================
