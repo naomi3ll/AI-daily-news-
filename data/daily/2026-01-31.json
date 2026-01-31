@@ -1,0 +1,711 @@
+{
+  "date": "2026-01-31",
+  "generated_at": "2026-01-31 08:19:03",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "开源新标杆！商汤 SenseNova-MARS超 Gemini-3-Pro，模型代码数据全开放",
+      "summary": "1月31日消息，今日，商汤正式开源多模态自主推理模型 SenseNova-MARS（8B/32B 双版本），其在多模态搜索与推理的核心基准测试中以 69.74 分超越Gemini-3-Pro（69.06 分）、GPT-5.2（67.64 分）。 SenseNova-MARS是首个支持动态视觉推理和图文搜索深度融合的 Agentic VLM 模型，它能自己规划步骤、调用工具，轻松搞定各种复杂任务，让AI真正具备“执",
+      "importance": "高",
+      "reason": "影响力评分: 300.0",
+      "tags": [
+        "SOTA",
+        "超越",
+        "GPT-5",
+        "领先",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/academic/PBcDro6PmN9rI6yK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 03:18:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "一家AI玩具公司获数千万元融资，核心产品销量翻五倍｜硬氪首发",
+      "summary": "1月31日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI玩具厂商上海喜梨信息科技有限公司（以下简称“FoloToy”）近日完成数千万元新一轮融资。指数资本担任公司独家财务顾问。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次：Pre-A轮/ Pre-A+轮 融资规模：数千万元 投资方：深创投、南山战新投、老股东火火兔 资金用途：将重点用于加速技术研发与产品端持续迭代，并保障量产落地和规模化市",
+      "importance": "高",
+      "reason": "影响力评分: 286.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "隐私",
+        "AGI",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3654915542130816?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 01:30:00",
+      "impact_score": 286.0
+    },
+    {
+      "index": 3,
+      "title": "阿里发布QoderWork，人人都能拥有能办事的桌面AI助理",
+      "summary": "1月30日，阿里发布旗下首个桌面Agent工具QoderWork，用户无需任何复杂部署工作，输入一句话，QoderWork就能按需调用授权的本地应用，完成文件整理、数据处理、文档生成等任务。目前QoderWork已开启邀测，并将于近日全面开放。 最近一年，大模型的Agent能力快速提升，越来越多的桌面Agent工具涌现，让大模型走出聊天框掌握办事能力，但绝大多数Agent工具需要在云端执行任务，无",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "发布",
+        "开放",
+        "AI",
+        "大模型",
+        "全面开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RqSzE6GDM01WiEzq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 06:03:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "阿里系前高管出任机器人租赁平台“擎天租”总裁、首席战略官，将建设全国合伙人网络丨智能涌现独家",
+      "summary": "1月31日消息，文｜富充 编辑｜苏建勋 具身智能产业的热度蔓延至机器人租赁市场，让互联网老兵们也“坐不住”了。 《智能涌现》独家获悉，阿里“中供铁军”首任校长、阿里B2B销售培训体系参与建立者李立恒，与另一位阿里系“三板斧”负责管理培训业务的王明峰（天相）将入职机器人租赁平台擎天租，分别出任总裁、首席战略官。 擎天租平台发布于2025年12月，并于2026年1月15日披露种子轮融资。该轮次由高瓴创投领投，复星创富",
+      "importance": "高",
+      "reason": "影响力评分: 284.0",
+      "tags": [
+        "上线",
+        "突破",
+        "融资",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3661687880147849?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 09:11:57",
+      "impact_score": 284.0
+    },
+    {
+      "index": 5,
+      "title": "独家丨理想汽车前高管王凯、贾鹏创办的具身智能公司，估值逼近独角兽",
+      "summary": "1月31日消息，2025年7月31日，具身智能公司至简动力正式成立，前理想自动驾驶技术研发负责人贾鹏担任CEO，前理想汽车CTO王凯任董事长。 2025年10月，至简动力陆续完成多轮融资，投资方包括元璟资本，红杉中国和蓝驰创投。 2026年1月16日，至简动力完成新一轮工商变更，投资方包括腾讯投资、阿里巴巴、君联资本、澜峰资本等。随着三轮融资的注入，至简动力注册资本由初始的100万元增至151.9万元。 雷峰网了",
+      "importance": "高",
+      "reason": "影响力评分: 275.0",
+      "tags": [
+        "CEO",
+        "大模型",
+        "估值",
+        "融资",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/THgNTsCu5Eo91xfg.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 13:44:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 6,
+      "title": "2025年全国市场监管部门共查办广告违法案件44521件，罚没金额2.52亿",
+      "summary": "1月31日消息，据央视新闻，记者从市场监管总局了解到，2025年，全国市场监管部门共查办广告违法案件44521件，罚没金额2.52亿元，有力筑牢了消费者权益保护防线。",
+      "importance": "高",
+      "reason": "影响力评分: 260.0",
+      "tags": [
+        "法案",
+        "监管"
+      ],
+      "url": "https://36kr.com/newsflashes/3662767933989505?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-31 06:10:16",
+      "impact_score": 260.0
+    },
+    {
+      "index": 7,
+      "title": "千问C端应用团队一口气四篇论文入选ICLR 2026国际顶会！",
+      "summary": "1月31日消息，在多个前沿领域取得创新突破",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "创新",
+        "突破"
+      ],
+      "url": "https://www.qbitai.com/2026/01/374507.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-30 08:53:50",
+      "impact_score": 255.0
+    },
+    {
+      "index": 8,
+      "title": "华东大厂大规模「叫停」B200租赁订单；上市AI芯片公司曾「险」被收购；国资智算平台组建高管天团或求技术自主",
+      "summary": "1月31日消息，华东大厂大规模「叫停」B200租赁订单，计划切换至B300 雷峰网获悉，算力租赁市场正掀起一场由头部大厂主导的“设备迭代风暴”，此前其签下的B200租赁订单被批量叫停，全口径转向B300机型。 此前，金租公司为B200项目配套的大部分资金已批复到位，如今只能推倒重来。据了解，该大厂的B200相关项目仅1-2个完成落地，其余均已紧急叫停或转投B300。但现实是，B300现货稀缺，即便谈妥订单，供货量",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "AI",
+        "B200",
+        "收购",
+        "上市",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/chips/5SAF0SOTjjRJJsb9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 08:51:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "可灵AI推出全新3.0系列模型",
+      "summary": "1月31日，可灵AI面向全球上线全新的可灵3.0系列模型，目前正在超前内测中。该系列模型是基于All-in-one产品理念打造的多模态输入输出一体化模型，标志着可灵AI正式迈入3.0时代。据了解，此次发布的可灵3.0系列模型包括可灵视频3.0、可灵视频3.0 Omni和可灵图片3.0，覆盖图片生成、视频生成、视频编辑及后期处理等影视制作全流程。",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "上线",
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3662926447436418?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-31 06:01:28",
+      "impact_score": 249.0
+    },
+    {
+      "index": 10,
+      "title": "云巨头2025复盘：穿越「增长失速」的恶性循环",
+      "summary": "1月31日消息，“云计算行业，过去这一年，真的不一样了。”云销售刘琦说。 前几年，他和同行聚会时，话题总绕不开一个沉重的疑问：“是不是该离开了？” 看不到头的下行期，把所有人都卷进了一场无休止的内耗：熬夜改方案的产研、疲于应酬的销售、夹缝求生的合作伙伴，以及背负增长压力的高管，都被同一种焦虑和疲惫笼罩。 更糟的是，大规模的集成项目和无底线的价格战，让云厂商集体陷入“利润黑洞”。当投资者看清这种牺牲利润换规模的模式",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "估值",
+        "投资",
+        "AI",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrycloud/hvuzU1RGLKt6PRMW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 03:22:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "氪星晚报｜苹果收购人工智能初创公司；诺和诺德中国区总裁将离职；SpaceX发布空间态势感知系统Stargaze",
+      "summary": "1月31日消息，大公司： 大唐发电：预计2025年归母净利润约68亿元-78亿元，同比增加约51%-73% 36氪获悉，大唐发电发布2025年业绩预告。报告显示，预计2025年度实现归属于母公司所有者的净利润约为68亿元（人民币，下同）至78亿元，同比增加约51%到73%。预计2025年度实现归属于母公司所有者扣除非经常性损益事项的净利润约为72亿元到82亿元，同比增加约60%到82%。 洽洽食品：预计2025年",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "收购",
+        "上市",
+        "人工智能",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3661493683643272?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 09:52:37",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "8点1氪丨国铁回应“抢票神器诱导加价”：12306是唯一官方售票渠道；iPhone 16成去年全球最畅销智能手机；UC浏览器开发商被罚没126万元",
+      "summary": "1月31日消息，今日热点导览 麦趣尔，被申请破产清算 银河系新发现一颗“潜在宜居”候选行星 白银基金，1月30日全天停牌 2026年春运全社会跨区域人员流动量预计将达95亿人次 好想来回应消费者质疑“称不准” ：新员工操作失误 TOP3大新闻 国铁集团回应“三方平台加价抢票” 1月29日，国铁集团客运部主任朱文忠在国新办新闻发布会上的公开声明：“一些第三方平台以各种‘抢票神器’名目，诱导旅客加价抢票。铁路1230",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "首次",
+        "上市",
+        "合作",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3661162161234566?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 00:10:16",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "英伟达与OpenAI千亿美元合作协议陷入停滞",
+      "summary": "1月31日消息，知情人士透露，英伟达原本计划向OpenAI投资至多1000亿美元，助力其训练和运行最新人工智能模型，但因英伟达内部部分人士对该交易提出质疑，相关计划已陷入停滞。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "投资",
+        "AI",
+        "人工智能",
+        "合作"
+      ],
+      "url": "https://36kr.com/newsflashes/3662689874092936?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-31 02:00:48",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "中建信和在北京栽了",
+      "summary": "1月31日消息，过去两年，北京市场上有约三分之一的地被中建系拿走了。 2024年、2025年，中建系（含中海、中建智地、中建壹品、中建信和、中建玖合、中建方程）累计拿地20宗，总金额1021.64亿元，占到两年市场总金额2981.62亿的 33.8% ，大有瓜分北京之势。 拿地最猛的要数中建一局旗下的中建智地和中建三局旗下的中建壹品，分别拍下7宗、5宗宅地，这两家合计拿地超过了520亿元。 不过，从去年开始形势悄",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "投资",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3661725998523267?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 10:56:05",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "AI To B：巨头争霸遇卡点，金山办公给出「数据」新解法",
+      "summary": "1月31日消息，当前，企业AI应用的卡点在哪？这是大模型从技术跑分进入价值落地后，千行百业最关心的问题。 一个难以忽视的现实是，近三年来，尽管大模型能力飞速发展、算力价格持续下降，但技术层面的进步并未自动转化为企业AI生产力的实质性突破。 另一方面，对企业来说，头部模型的快速迭代让企业在模型侧作出的努力“保鲜期”极短，越来越多的企业选择外部采购模型，这时企业自身在AI时代的护城河又在哪里？ 这两个问题都指向了同一",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AI",
+        "突破",
+        "大模型",
+        "AGI"
+      ],
+      "url": "https://www.leiphone.com/category/CorporateServices/cLBk61DBOZfl1n0g.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 09:48:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 16,
+      "title": "独家｜理想基座模型负责人陈伟将离职，詹锟接棒",
+      "summary": "1月31日消息，在车企智能化竞争进入“模型化”阶段后，理想汽车正在把资源进一步向具身智能集中。多位知情人士透露，理想希望以VLA模型为统一底座推进研发整合，并通过组织调整打通智能驾驶与智能空间的模型协同；詹锟将承接VLA整合研发相关工作并向CTO汇报。与此同时，负责LLM方向的陈伟将于近期离职，交接正在进行。 陈伟在2021年加入理想，是推动理想智能座舱自研的关键人物，让理想同学成为业内明星产品；2023年底他推",
+      "importance": "高",
+      "reason": "影响力评分: 170.0",
+      "tags": [
+        "LLM",
+        "AI",
+        "大模型",
+        "大语言模型",
+        "人工智能"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/7fpCPm45RIlEoG71.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 13:35:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 17,
+      "title": "对话速腾无人车事业部总裁徐钰滨：实现真正的L4，离不开高线数激光雷达丨L4十人谈",
+      "summary": "1月31日消息，“在可见的未来，L3和L4肯定离不开激光雷达，数字化Lidar一定是趋势。” 速腾聚创无人车事业部总裁徐钰滨抛出了这样一个判断。 在自动驾驶领域，视觉派与激光雷达派的争论从未停歇。而在Robotaxi行业从早期探索到规模化落地的演进过程中，不论选择哪一路径，“如何看得更清、更安全”的感知难题始终贯穿始末。 徐钰滨看来，现阶段的Robotaxi发展，安全永远是第一位，而作为能够保障24小时运营的核心",
+      "importance": "高",
+      "reason": "影响力评分: 170.0",
+      "tags": [
+        "超越",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/9pCks5ZxIrEiPGni.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 02:15:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 18,
+      "title": "国内首个！360发布“纳米漫剧流水线”，AI漫剧生成进入工业化时代",
+      "summary": "1月31日消息，成功率直接拉到90%",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "发布"
+      ],
+      "url": "https://www.qbitai.com/2026/01/374618.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-30 13:53:57",
+      "impact_score": 150.0
+    },
+    {
+      "index": 19,
+      "title": "5秒出4张2K大图！阿里提出2步生成方案，拉爆AI生图进度条",
+      "summary": "1月31日消息，新开源「模型蒸馏」技术",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "开源",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/01/374606.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-30 13:23:51",
+      "impact_score": 150.0
+    },
+    {
+      "index": 20,
+      "title": "谷歌开放世界模型一夜刷屏，AI游戏门槛归零时刻来了？",
+      "summary": "1月31日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "开放"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-01-30-9",
+      "source": "机器之心",
+      "original_pub_date": "2026-01-30 10:06:32",
+      "impact_score": 150.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital",
+      "summary": "1月31日消息，Spiraling costs have prompted talk of a Tesla and SpaceX merger as the billionaire looks to use his empire to fund his ambitions.",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "billion",
+        "AI",
+        "merger",
+        "Elon Musk"
+      ],
+      "url": "https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 00:31:57",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "French Health Startup Alan in Funding Talks at €5 Billion Value",
+      "summary": "1月31日消息，Alan is in talks to raise funds at a €5 billion ($5.9 billion) valuation as the French health-insurance startup works to expand its customer base, people familiar with the matter said.",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/french-health-startup-alan-in-funding-talks-at-5-billion-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 16:01:42",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Metal Parts Startup Raises $220M Led By Eclipse, 1789 Capital",
+      "summary": "1月31日消息，Metal parts maker VulcanForms has closed a $220 million funding round, led by existing investor Eclipse and 1789 Capital, where Donald Trump Jr. is a partner. The company, which uses additive manufact",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "CEO",
+        "joins",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-30/metal-parts-startup-closes-a-220-million-funding-round-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 19:05:48",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "BlackBerry Teams Up With BMW on New Vehicle Software",
+      "summary": "1月31日消息，BlackBerry announced its QNX division's software will be integrated into BMW's new vehicle generation \"Neue Klasse.\" CEO John Giamatteo joins \"Bloomberg Open Interest\" to discuss the partnership. (Sou",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "partnership",
+        "CEO",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-30/blackberry-teams-up-with-bmw-on-new-vehicle-software-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 17:42:38",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Apple Has Watched AI From the Stands Says Dan Ives",
+      "summary": "1月31日消息，Apple Inc. enjoyed a sharp rebound in China during the holiday period, when demand for the new iPhone 17 fueled its first $25 billion quarter in the region since the end of 2021. The company generated",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "billion",
+        "AI",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-30/apple-has-watched-ai-from-the-stands-says-dan-ives-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 19:02:05",
+      "impact_score": 142.5
+    },
+    {
+      "index": 6,
+      "title": "Minnesota Woman Says Her Global Entry Nixed After Agent Run-In",
+      "summary": "1月31日消息，A payments director at the Minneapolis-based retail giant Target Corp. said her fast-track credentials for airport security were revoked following an interaction with a federal border patrol agent who",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "SOTA",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/minnesota-woman-says-her-global-entry-nixed-after-agent-run-in",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 15:03:59",
+      "impact_score": 142.5
+    },
+    {
+      "index": 7,
+      "title": "Verizon Posts Big Wireless Gain, Plans $25 Billion Buyback",
+      "summary": "1月31日消息，Verizon Communications Inc. reported its biggest gain in mobile phone subscribers since 2019 and announced plans to buy back as much as $25 billion in shares, signaling turnaround efforts under new Ch",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "billion",
+        "AI",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/verizon-posts-big-gain-in-wireless-customers-under-new-ceo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 11:31:05",
+      "impact_score": 142.5
+    },
+    {
+      "index": 8,
+      "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
+      "summary": "1月31日消息，The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that le",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "introduces",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-01-30 22:45:16",
+      "impact_score": 132.0
+    },
+    {
+      "index": 9,
+      "title": "Federal Trade Commission Chairman Andrew N. Ferguson Appoints Deputy Director for Bureau of Consumer Protection",
+      "summary": "1月31日消息，Federal Trade Commission Chairman Andrew N. Ferguson has appointed Levi Swank as Deputy Director of the agency’s Bureau of Consumer Protection. Swank is an experienced consumer protection litigator wh",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "investigation",
+        "AI",
+        "appointed"
+      ],
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/federal-trade-commission-chairman-andrew-n-ferguson-appoints-deputy-director-bureau-consumer",
+      "source": "FTC Tech",
+      "original_pub_date": "2026-01-30 12:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 10,
+      "title": "Musk Empire Merger Possibility, Memory Costs Weigh on Apple | Bloomberg Tech 1/30/2026",
+      "summary": "1月31日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss how President Trump’s selection of Kevin Warsh to be the next chair of the Federal Reserve is affecting tech markets. Plus, Apple reports record sales b",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "merger"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-30/bloomberg-tech-1-30-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 20:44:11",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "Sandisk Is in 'Uncharted Territory,' Wedbush's Bryson Says",
+      "summary": "1月31日消息，\"Numbers are just going to go higher next quarter,\" Matt Bryson, Wedbush Securities managing director of equity research, says while reacting to Sandisk's strong revenue and earnings outlook on the Ja",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-30/sandisk-in-uncharted-territory-wedbush-s-bryson-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 15:18:46",
+      "impact_score": 127.5
+    },
+    {
+      "index": 12,
+      "title": "Fund Beating 99% of Peers Bought the Dip During Microsoft’s Rout",
+      "summary": "1月31日消息，A French fund that has beaten 99% of its peers over the past three years bought into Microsoft Corp.’s $357 billion rout on Thursday, predicting its heavy investments in artificial intelligence will e",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "artificial intelligence",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/fund-beating-99-of-peers-bought-the-dip-during-microsoft-s-rout",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 15:15:07",
+      "impact_score": 127.5
+    },
+    {
+      "index": 13,
+      "title": "Instacart to Help Costco Take Grocery Orders in Europe in International Push",
+      "summary": "1月31日消息，Costco Wholesale Corp. will use Instacart's technology to power online grocery ordering in Spain and France, extending their partnership beyond North America for the first time as the delivery company",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "partnership",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/instacart-to-help-costco-take-grocery-orders-in-europe",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 13:55:27",
+      "impact_score": 127.5
+    },
+    {
+      "index": 14,
+      "title": "FTC Announces Agenda for Workshop on Informational Injuries",
+      "summary": "1月31日消息，The Federal Trade Commission announced the agenda for its February 26 workshop that will focus on how the agency can better understand and measure consumer injuries and benefits that may result from t",
+      "importance": "高",
+      "reason": "影响力评分: 120.0",
+      "tags": [
+        "AI",
+        "announces",
+        "privacy"
+      ],
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-announces-agenda-workshop-informational-injuries",
+      "source": "FTC Tech",
+      "original_pub_date": "2026-01-30 12:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 15,
+      "title": "The Verizon outage fallout continues: FCC opens direct line for your complaints",
+      "summary": "1月31日消息，As part of its official investigation, the FCC has set up a special email address for customer reports.",
+      "importance": "高",
+      "reason": "影响力评分: 115.0",
+      "tags": [
+        "investigation",
+        "AI"
+      ],
+      "url": "https://www.zdnet.com/article/verizon-outage-fcc-wants-to-hear-from-customers/",
+      "source": "ZDNet AI",
+      "original_pub_date": "2026-01-30 17:31:58",
+      "impact_score": 115.0
+    },
+    {
+      "index": 16,
+      "title": "AI industry super PAC raises $125 million in 2025",
+      "summary": "1月31日消息，Group using midterms to push for single, national AI regulation, rather than individual state laws.",
+      "importance": "高",
+      "reason": "影响力评分: 115.0",
+      "tags": [
+        "AI",
+        "AI regulation"
+      ],
+      "url": "https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-01-30 14:15:01",
+      "impact_score": 115.0
+    },
+    {
+      "index": 17,
+      "title": "FTC Submits Draft ANPRM Related to Rental Housing Fees to OMB for Review",
+      "summary": "1月31日消息，The Federal Trade Commission announced today that it has submitted an Advance Notice of Proposed Rulemaking (ANPRM) related to fees in the rental housing market for review by the Office of Information",
+      "importance": "高",
+      "reason": "影响力评分: 115.0",
+      "tags": [
+        "executive order",
+        "AI"
+      ],
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-submits-draft-anprm-related-rental-housing-fees-omb-review",
+      "source": "FTC Tech",
+      "original_pub_date": "2026-01-30 12:00:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 18,
+      "title": "FTC Submits Draft ANPRM Related to Negative Option Plans to OMB for Review",
+      "summary": "1月31日消息，The Federal Trade Commission announced today that it has submitted a draft Advance Notice of Proposed Rulemaking (ANPRM) concerning the agency’s Rule Concerning the Use of Prenotification Negative Opt",
+      "importance": "高",
+      "reason": "影响力评分: 115.0",
+      "tags": [
+        "executive order",
+        "AI"
+      ],
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-submits-draft-anprm-related-negative-option-plans-omb-review",
+      "source": "FTC Tech",
+      "original_pub_date": "2026-01-30 12:00:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 19,
+      "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
+      "summary": "1月31日消息，Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios",
+      "importance": "高",
+      "reason": "影响力评分: 105.0",
+      "tags": [
+        "large language model",
+        "LLM",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-01-30 21:07:34",
+      "impact_score": 105.0
+    },
+    {
+      "index": 20,
+      "title": "Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models",
+      "summary": "1月31日消息，In this post, we walk through how global cross-Region inference routes requests and where your data resides, then show you how to configure the required AWS Identity and Access Management (IAM) permis",
+      "importance": "高",
+      "reason": "影响力评分: 105.0",
+      "tags": [
+        "AI",
+        "Claude 4"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/scale-ai-in-south-africa-using-amazon-bedrock-global-cross-region-inference-with-anthropic-claude-4-5-models/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-01-30 17:12:02",
+      "impact_score": 105.0
+    }
+  ],
+  "summary": "今日从99条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：开源新标杆！商汤 SenseNova-MARS超 Gemini-3-Pro，模型代码数据全开放；一家AI玩具公司获数千万元融资，核心产品销量翻五倍｜硬氪首发；阿里发布QoderWork，人人都能拥有能办事的桌面AI助理。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 53,
+    "raw_total": 99,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月31日消息，今日，商汤正式开源多模态自主推理模型 SenseNova-MARS（8B/32B 双版本），其在多模态搜索与推理的核心基准测试中以 69.74 分超越Gemini-3-Pro（69.06 分）、GPT-5.2（67.64 分）。 SenseNova-MARS是首个支持动态视觉推理和图文搜索深度融合的 Agentic VLM 模型，它能自己规划步骤、调用工具，轻松搞定各种复杂任务，让AI真正具备“执",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月31日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI玩具厂商上海喜梨信息科技有限公司（以下简称“FoloToy”）近日完成数千万元新一轮融资。指数资本担任公司独家财务顾问。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次：Pre-A轮/ Pre-A+轮 融资规模：数千万元 投资方：深创投、南山战新投、老股东火火兔 资金用途：将重点用于加速技术研发与产品端持续迭代，并保障量产落地和规模化市",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月30日，阿里发布旗下首个桌面Agent工具QoderWork，用户无需任何复杂部署工作，输入一句话，QoderWork就能按需调用授权的本地应用，完成文件整理、数据处理、文档生成等任务。目前QoderWork已开启邀测，并将于近日全面开放。 最近一年，大模型的Agent能力快速提升，越来越多的桌面Agent工具涌现，让大模型走出聊天框掌握办事能力，但绝大多数Agent工具需要在云端执行任务，无",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月31日消息，文｜富充 编辑｜苏建勋 具身智能产业的热度蔓延至机器人租赁市场，让互联网老兵们也“坐不住”了。 《智能涌现》独家获悉，阿里“中供铁军”首任校长、阿里B2B销售培训体系参与建立者李立恒，与另一位阿里系“三板斧”负责管理培训业务的王明峰（天相）将入职机器人租赁平台擎天租，分别出任总裁、首席战略官。 擎天租平台发布于2025年12月，并于2026年1月15日披露种子轮融资。该轮次由高瓴创投领投，复星创富",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月31日消息，2025年7月31日，具身智能公司至简动力正式成立，前理想自动驾驶技术研发负责人贾鹏担任CEO，前理想汽车CTO王凯任董事长。 2025年10月，至简动力陆续完成多轮融资，投资方包括元璟资本，红杉中国和蓝驰创投。 2026年1月16日，至简动力完成新一轮工商变更，投资方包括腾讯投资、阿里巴巴、君联资本、澜峰资本等。随着三轮融资的注入，至简动力注册资本由初始的100万元增至151.9万元。 雷峰网了",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月31日消息，Spiraling costs have prompted talk of a Tesla and SpaceX merger as the billionaire looks to use his empire to fund his ambitions.",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月31日消息，Alan is in talks to raise funds at a €5 billion ($5.9 billion) valuation as the French health-insurance startup works to expand its customer base, people familiar with the matter said.",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月31日消息，Metal parts maker VulcanForms has closed a $220 million funding round, led by existing investor Eclipse and 1789 Capital, where Donald Trump Jr. is a partner. The company, which uses additive manufact",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月31日消息，BlackBerry announced its QNX division's software will be integrated into BMW's new vehicle generation \"Neue Klasse.\" CEO John Giamatteo joins \"Bloomberg Open Interest\" to discuss the partnership. (Sou",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月31日消息，Apple Inc. enjoyed a sharp rebound in China during the holiday period, when demand for the new iPhone 17 fueled its first $25 billion quarter in the region since the end of 2021. The company generated",
+      "importance": "高"
+    }
+  ]
+}
