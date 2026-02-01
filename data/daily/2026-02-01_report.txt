@@ -1,0 +1,198 @@
+======================================================================
+AI每日动态 - 2026-02-01
+生成时间: 2026-02-01 08:22:02
+数据来源: 从 49 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、2月1日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，河南中科清能科技有限公司（以下简称“中科清能”）已完成近5亿元PreA++轮融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： PreA++轮 融资规模： 近5亿元 投资方： 鼎晖百孚领投，蔚来资本、国新基金、鲲鹏资本联合领投，荷塘资本、小雨资本、河南资产、飞图创投、西湖创投等多家知名投资机构共同参与，原股东熔拓资本、中广核资本继续加
+2、2月1日消息，据珠海出入境边防检查总站拱北边检站统计，1月31日，经拱北口岸来往珠澳两地的人员数量超45万人次，创近6年来单日客流最高纪录。这也是今年以来第二次破纪录，提前2天拉开了春运出入境客流高峰的序幕。根据拱北边检站预测，2026年春运期间经拱北口岸来往珠澳两地的出入境人员数量将达到日均39万人次，单日最高客流将突破46万人次，客流总量较去年春运将同比增长36.4%。（央视新闻）
+3、2月1日消息，36氪获悉，中信证券研报认为，证监会拟扩大战略投资者类型，险资作为耐心资本主力，将成为重大受益者，并实现资本市场、上市公司、投资者多方共赢，预计险资将积极参与战略投资，在权益法下新增一个较大品类的稳定收益资产。维持保险板块处于重大机遇期的判断。
+4、2月1日消息，36氪获悉，锋龙股份公告，近日收到优必选关于本次交易的进一步承诺，承诺在收购完成后36个月内，不存在向上市公司注入其持有资产的计划。本次交易尚需履行多项程序，存在不确定性。
+5、2月1日消息，在今日举行的医疗人工智能协同创新论坛 · 医疗人工智能联盟（筹）2026年第一次学术会议上，华为高级副总裁、华为云CEO周跃峰宣布，华为云发布行业AI“梦工厂”的首个专区——智慧医疗专区，面向基层医院和医生，提供业界首个服务基层医院的端云协同智慧病理解决方案，基层医生用PC可实现病理AI推理。同时，华为与瑞金医院联合发布RuiPath智慧病理一体机，预集成RuiPath病理模型，预安装AI软件平台
+
+国际动态：
+1、2月1日消息，Nvidia Corp. supports “every developer” that uses its software, Chief Executive Officer Jensen Huang said, after a US lawmaker accused the chip giant of offering technical support that helped China’s 
+2、2月1日消息，Nvidia Corp. supports “every developer” that uses its software, Chief Executive Officer Jensen Huang said, after a US lawmaker accused the chip giant of offering technical support that helped China’s 
+3、2月1日消息，Nvidia Corp. Chief Executive Officer Jensen Huang said the company will be participating in OpenAI’s latest funding round, describing it as potentially “the largest investment we’ve ever made.”
+4、2月1日消息，Spiraling costs have prompted talk of a Tesla and SpaceX merger as the billionaire looks to use his empire to fund his ambitions.
+5、2月1日消息，Waymo, Alphabet Inc.’s autonomous driving unit, is aiming to raise about $16 billion in a financing round that would value the unit at nearly $110 billion, according to people familiar with the matter
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 2月1日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，河南中科清能科技有限公司（以下简称“中科清能”）已完成近5亿元PreA++轮融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： PreA++轮 融资规模： 近5亿元 投资方： 鼎晖百孚领投，蔚来资本、国新基金、鲲鹏资本联合领投，荷塘资本、小雨资本、河南资产、飞图创投、西湖创投等多家知名投资机构共同参与，原股东熔拓资本、中广核资本继续加
+   📋 入选理由: 影响力评分: 327.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3660098751538053?f=rss
+   🏷️ 标签: 融资, 投资, 突破, 合作
+
+2、🔥 2月1日消息，据珠海出入境边防检查总站拱北边检站统计，1月31日，经拱北口岸来往珠澳两地的人员数量超45万人次，创近6年来单日客流最高纪录。这也是今年以来第二次破纪录，提前2天拉开了春运出入境客流高峰的序幕。根据拱北边检站预测，2026年春运期间经拱北口岸来往珠澳两地的出入境人员数量将达到日均39万人次，单日最高客流将突破46万人次，客流总量较去年春运将同比增长36.4%。（央视新闻）
+   📋 入选理由: 影响力评分: 221.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664226892833664?f=rss
+   🏷️ 标签: 创新, 突破
+
+3、🔥 2月1日消息，36氪获悉，中信证券研报认为，证监会拟扩大战略投资者类型，险资作为耐心资本主力，将成为重大受益者，并实现资本市场、上市公司、投资者多方共赢，预计险资将积极参与战略投资，在权益法下新增一个较大品类的稳定收益资产。维持保险板块处于重大机遇期的判断。
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664403283092099?f=rss
+   🏷️ 标签: 投资, 上市
+
+4、🔥 2月1日消息，36氪获悉，锋龙股份公告，近日收到优必选关于本次交易的进一步承诺，承诺在收购完成后36个月内，不存在向上市公司注入其持有资产的计划。本次交易尚需履行多项程序，存在不确定性。
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664442523918981?f=rss
+   🏷️ 标签: 收购, 上市
+
+5、🔥 2月1日消息，在今日举行的医疗人工智能协同创新论坛 · 医疗人工智能联盟（筹）2026年第一次学术会议上，华为高级副总裁、华为云CEO周跃峰宣布，华为云发布行业AI“梦工厂”的首个专区——智慧医疗专区，面向基层医院和医生，提供业界首个服务基层医院的端云协同智慧病理解决方案，基层医生用PC可实现病理AI推理。同时，华为与瑞金医院联合发布RuiPath智慧病理一体机，预集成RuiPath病理模型，预安装AI软件平台
+   📋 入选理由: 影响力评分: 162.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664185894462088?f=rss
+   🏷️ 标签: 创新, 发布, 人工智能, AI, CEO
+
+6、🔥 2月1日消息，今日热点导览 中国最新富豪榜出炉 金价未来几年有望涨到8000美元至8500美元 iPhone 18 Pro或直连星链 监管通报“某基金产品单日吸金超百亿”事件 特朗普起诉美国财政部和国税局，索赔至少100亿美元 TOP3大新闻 特朗普提名美联储新主席人选 当地时间1月30日上午，美国总统特朗普提名美国联邦储备委员会前理事凯文·沃什出任下一任美联储主席，接替现任美联储主席鲍威尔。沃什2006年加入
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3662644247323264?f=rss
+   🏷️ 标签: 百亿, 监管
+
+7、🔥 2月1日消息，迎接大模型应用爆发，给每个用户配赛博秘书
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/01/375302.html
+   🏷️ 标签: 大模型, SOTA
+
+8、🔥 2月1日消息，香港特区政府财政司司长陈茂波今日（2月1日）表示，海外企业和投资者对投资香港的信心正在加强。去年海内外企业的驻港公司以及香港的初创公司数目均大增逾一成，分别超过11000家和5200家。另据一些外国商会最近所做的调查，其大部分会员企业对香港营商前景感到乐观，正面预期的比例亦创近年新高。在第十九届亚洲金融论坛举行期间，陈茂波先后与来自欧美和中东的政商领袖，以及内地和国际多边组织代表会面，他们都不约而
+   📋 入选理由: 影响力评分: 140.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664267161690753?f=rss
+   🏷️ 标签: 创新, 投资, 风险
+
+9、🔥 2月1日消息，36氪获悉，中信证券研报认为，沃什重返美联储或代表货币主义的回归，以及美联储改革的推进，预计将在监管、货币和改革三个维度发力，但是大力推进“缩表+降息”的组合存在一定掣肘。沃什的提名对市场短期存在较大冲击，但部分资产长期逻辑难因沃什而发生改变。
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664403767059073?f=rss
+   🏷️ 标签: 监管
+
+10、🔥 2月1日消息，
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-01-31-3
+   🏷️ 标签: 融资, AI
+
+11、🔥 2月1日消息，本周全球贵金属市场经历了一场罕见的波动周期。短短六天内，国际金价从历史峰值断崖式回落，受其影响，国内期货、股票、基金和消费市场都剧烈震荡。卓创资讯贵金属分析师黄加奇表示，短期来看，贵金属价格或将继续波动震荡。从长期来看，避险需求、“去美元化”、全球的购金潮等影响贵金属涨跌的核心逻辑依然存在。对于投资者而言，要高度警惕金价银价的波动风险，更多把握贵金属价格变化的长期趋势，树立理性的投资心态 。（央视
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664233674154882?f=rss
+   🏷️ 标签: 投资, 风险
+
+12、🔥 2月1日消息，据Choice数据统计，包括紫金矿业、中金黄金、山东黄金、赤峰黄金、湖南黄金和西部黄金在内的6家黄金上市公司披露2025年度业绩预告。其中，紫金矿业2025年净利润同比预增59%-62%；中金黄金Q4净利预计环比增长14%-75%。（财联社）
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664268404990592?f=rss
+   🏷️ 标签: 上市
+
+13、🔥 2月1日消息，市场消息：由KKR牵头的财团将以超100亿美元的价格收购新加坡数据中心公司ST Telemedia Global Data Centres。（新浪财经）
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664214389121928?f=rss
+   🏷️ 标签: 收购
+
+14、🔥 2月1日消息，英国《金融时报》周六援引知情人士报道称，福特汽车曾与小米就合作事宜举行谈判，探讨在美国成立合资企业制造电动汽车。对此小米方面回应称，有关小米正与福特汽车公司商谈合资企业的报道是虚假的。小米目前未在美国销售其产品和服务，也未就此进行谈判。（新浪财经）
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3664166232122243?f=rss
+   🏷️ 标签: 合作
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 2月1日消息，Nvidia Corp. supports “every developer” that uses its software, Chief Executive Officer Jensen Huang said, after a US lawmaker accused the chip giant of offering technical support that helped China’s 
+   📋 入选理由: 影响力评分: 262.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-31/nvidia-ceo-supports-all-developers-amid-deepseek-claims-video
+   🏷️ 标签: chief, Jensen Huang, artificial intelligence, AI, CEO
+
+2、🔥 2月1日消息，Nvidia Corp. supports “every developer” that uses its software, Chief Executive Officer Jensen Huang said, after a US lawmaker accused the chip giant of offering technical support that helped China’s 
+   📋 入选理由: 影响力评分: 262.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-31/nvidia-ceo-say-it-supports-all-developers-amid-deepseek-claims
+   🏷️ 标签: chief, Jensen Huang, artificial intelligence, AI, CEO
+
+3、🔥 2月1日消息，Nvidia Corp. Chief Executive Officer Jensen Huang said the company will be participating in OpenAI’s latest funding round, describing it as potentially “the largest investment we’ve ever made.”
+   📋 入选理由: 影响力评分: 262.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says
+   🏷️ 标签: chief, CEO, Jensen Huang, AI
+
+4、🔥 2月1日消息，Spiraling costs have prompted talk of a Tesla and SpaceX merger as the billionaire looks to use his empire to fund his ambitions.
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital
+   🏷️ 标签: billion, AI, Elon Musk, merger
+
+5、🔥 2月1日消息，Waymo, Alphabet Inc.’s autonomous driving unit, is aiming to raise about $16 billion in a financing round that would value the unit at nearly $110 billion, according to people familiar with the matter
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation
+   🏷️ 标签: billion, AI, valuation
+
+6、🔥 2月1日消息，Nvidia CEO Jensen Huang spoke to press in Taipei, Taiwan on OpenAI financing saying "we'll definitely participate in the next round of financing because it's such a good investment." (Source: Bloomber
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-31/jensen-huang-speaks-on-openai-financing-video
+   🏷️ 标签: AI, CEO, Jensen Huang
+
+7、🔥 2月1日消息，Nvidia CEO Jensen Huang spoke to press in Taipei, Taiwan saying their investment in OpenAI will probably be the "largest investment we've ever made". (Source: Bloomberg)
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-01-31/jensen-huang-speaks-on-openai-investment-video
+   🏷️ 标签: AI, CEO, Jensen Huang
+
+8、🔥 2月1日消息，Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a "huge" investment in the ChatGPT firm. NVIDIA announced in September that it would
+   📋 入选理由: 影响力评分: 173.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai
+   🏷️ 标签: billion, AI, CEO, Jensen Huang
+
+9、🔥 2月1日消息，Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/
+   🏷️ 标签: AI, CEO, Jensen Huang
+
+10、🔥 2月1日消息，Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0
+   🏷️ 标签: artificial intelligence, AI, LLM
+
+11、🔥 2月1日消息，Google’s robotaxi start-up brings in new investors amid global roll out and competition from Elon Musk’s Tesla
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/94663caf-6c98-4883-b3f0-cc763a3b95ff
+   🏷️ 标签: Elon Musk, valuation
+
+12、🔥 2月1日消息，Shares of India’s electronics manufacturing services companies rose on Sunday after the finance minister set aside 400 billion rupees ($4.3 billion) to boost the sector and position the country as a g
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-01/india-electronics-manufacturing-shares-jump-on-budget-boost
+   🏷️ 标签: billion
+
+13、🔥 2月1日消息，Deal would open US market to Chinese carmakers
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/678a173f-0387-46a0-a1c2-b28c4f8a64d4
+   🏷️ 标签: partnership
+
+14、🔥 2月1日消息，ChatGPT is using Grokipedia as a source, and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mod
+   📋 入选理由: 影响力评分: 108.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia
+   🏷️ 标签: misinformation, AI, Elon Musk
+
+15、🔥 2月1日消息，Indonesia has permitted the artificial intelligence tool Grok to resume service after Elon Musk’s X provided assurances to the government following its ban for producing sexualized content.
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-01/indonesia-permits-elon-musk-s-grok-to-resume-service-after-ban
+   🏷️ 标签: artificial intelligence, Elon Musk
+
+16、🔥 2月1日消息，If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he need
+   📋 入选理由: 影响力评分: 86.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/
+   🏷️ 标签: AI, founder
+
+17、🔥 2月1日消息，Every consumer electronics company should follow Bose's lead with how it's handled its aging SoundTouch speaker.
+   📋 入选理由: 影响力评分: 85.0
+   📰 来源: ZDNet AI | 🔗 https://www.zdnet.com/article/bose-soundtouch-speaker-open-source-lifeline/
+   🏷️ 标签: AGI
+
+18、🔥 2月1日消息，Maker of gym equipment is mining data to track fitness and flag potential health problems
+   📋 入选理由: 影响力评分: 82.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/5b6a9a4c-ec65-4cb9-9d15-1afae2725150
+   🏷️ 标签: CEO
+
+
+======================================================================
+📊 今日总结: 今日从49条原始信息中精选出14条国内动态和18条国际动态，其中32条为高重要性。 重点关注：一家深低温技术公司完成近5亿元融资，已获得核聚变等领域客户数亿元订单｜硬氪首发；提前拉开“春运”序幕，拱北口岸单日客流再创新高；中信证券：维持保险板块处于重大机遇期判断。
+======================================================================
