@@ -1,0 +1,178 @@
+======================================================================
+AI每日动态 - 2026-02-08
+生成时间: 2026-02-08 08:22:07
+数据来源: 从 48 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、2月8日消息，文｜钟楚笛‍‍ 编辑｜周鑫雨 时隔三年，2026年2月7日凌晨，王慧文（美团联合创始人）又发了一封英雄帖。 这次，他不再组局做大模型，而是瞄准了当下最火热的赛道：Clawdbot（现改名为“OpenClaw”）。投资、攒聚，甚至当“猎头”，在Clawdbot身上，王慧文倾注了不亚于对大模型的热情。 王慧文英雄帖。图源：王慧文即刻 毫无疑问，Clawdbot是2026开年最性感的AI应用故事。这个由
+2、2月8日消息，今日热点导览 欣旺达与吉利系达成和解 米哈游发布反舞弊通报，涉及原神 司美格鲁肽降糖药中国销售首次下滑 英伟达据悉今年或将不推出任何新游戏显卡 继腾讯元宝、百度文心助手后，阿里千问红包分享链接被微信屏蔽 TOP 3 大新闻 千问回应“春节30亿免单”页面崩了：正在紧急加资源，全力保障顺畅 2月6日，千问APP“春节30亿免单”活动上线后，有用户反馈，出现服务器卡顿问题。部分用户分享的页面显示，“活
+3、2月8日消息，作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，星空梦屋（重庆）科技有限公司（以下简称“星空梦屋”）连续完成天使轮及Pre-A轮合计8000万元融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： 天使轮、Pre-A轮 融资规模： 8000万元 投资方： 狮城资本、天空工场创投基金 资金用途： 主要用于产品研发与团队建设，加速推动新能源智能房车的量产进程与全球布局 公司基本信
+4、2月8日消息，加密货币交易网站Crypto.com的创始人以7000万美元收购了互联网域名“AI.com”。据悉，这是迄今披露的域名交易中价格最高的一笔。Crypto.com的联合创始人兼首席执行官克里斯·马萨莱克（Kris Marszalek）计划在本周末的超级碗广告中正式推出AI.com，该网站将提供个人“AI智能体”服务，用户将可用它发送消息、使用应用程序并进行股票交易。马萨莱克表示，“去年
+5、2月8日消息，OpenClaw实在太火了
+
+国际动态：
+1、2月8日消息，Greg Hart, President and CEO of Coursera, joins Bloomberg Businessweek Daily to discuss the firm's plans to merge with fellow online learning platform Udemy. Hart says he will remain CEO of the newly 
+2、2月8日消息，Igor Babuschkin, co-founder of Elon Musk’s xAI, said he is “not planning to purchase any property in the UK,” responding to a Bloomberg report that he had agreed to buy a penthouse overlooking London’
+3、2月8日消息，Gregory Daco, Chief Economist at EY, joins Bloomberg Businessweek Daily to discuss the state of the US economy, saying that he currently sees a "paradox" of strong growth paired with underlying weakne
+4、2月8日消息，Nvidia shares soared Friday as investors snapped up shares of companies positioned to benefit from the vast sum of money that big technology firms have said they’ll spend on artificial intelligence in
+5、2月8日消息，New chief Josh D’Amaro takes over as group faces pressing challenges
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 2月8日消息，文｜钟楚笛‍‍ 编辑｜周鑫雨 时隔三年，2026年2月7日凌晨，王慧文（美团联合创始人）又发了一封英雄帖。 这次，他不再组局做大模型，而是瞄准了当下最火热的赛道：Clawdbot（现改名为“OpenClaw”）。投资、攒聚，甚至当“猎头”，在Clawdbot身上，王慧文倾注了不亚于对大模型的热情。 王慧文英雄帖。图源：王慧文即刻 毫无疑问，Clawdbot是2026开年最性感的AI应用故事。这个由
+   📋 入选理由: 影响力评分: 411.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3673532021105283?f=rss
+   🏷️ 标签: AI, 风险, 大模型, 发布, 开源
+
+2、🔥 2月8日消息，今日热点导览 欣旺达与吉利系达成和解 米哈游发布反舞弊通报，涉及原神 司美格鲁肽降糖药中国销售首次下滑 英伟达据悉今年或将不推出任何新游戏显卡 继腾讯元宝、百度文心助手后，阿里千问红包分享链接被微信屏蔽 TOP 3 大新闻 千问回应“春节30亿免单”页面崩了：正在紧急加资源，全力保障顺畅 2月6日，千问APP“春节30亿免单”活动上线后，有用户反馈，出现服务器卡顿问题。部分用户分享的页面显示，“活
+   📋 入选理由: 影响力评分: 294.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3672535692059273?f=rss
+   🏷️ 标签: AI, 罚款, 风险, 首次, 发布
+
+3、🔥 2月8日消息，作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，星空梦屋（重庆）科技有限公司（以下简称“星空梦屋”）连续完成天使轮及Pre-A轮合计8000万元融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及投资机构 融资轮次： 天使轮、Pre-A轮 融资规模： 8000万元 投资方： 狮城资本、天空工场创投基金 资金用途： 主要用于产品研发与团队建设，加速推动新能源智能房车的量产进程与全球布局 公司基本信
+   📋 入选理由: 影响力评分: 230.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3667627986133638?f=rss
+   🏷️ 标签: AI, 投资, 融资
+
+4、🔥 2月8日消息，加密货币交易网站Crypto.com的创始人以7000万美元收购了互联网域名“AI.com”。据悉，这是迄今披露的域名交易中价格最高的一笔。Crypto.com的联合创始人兼首席执行官克里斯·马萨莱克（Kris Marszalek）计划在本周末的超级碗广告中正式推出AI.com，该网站将提供个人“AI智能体”服务，用户将可用它发送消息、使用应用程序并进行股票交易。马萨莱克表示，“去年
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674116581565057?f=rss
+   🏷️ 标签: 正式推出, 投资, 收购, AI
+
+5、🔥 2月8日消息，OpenClaw实在太火了
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/377564.html
+   🏷️ 标签: 投资, 融资
+
+6、🔥 2月8日，赛力斯公告称，公司于2月8日与重庆市沙坪坝区人民政府签署《合作协议》，公司以蓝电汽车相关存量资产剥离出资设立标的公司，沙坪坝区政府组建或引入有限合伙企业（或基金）与其他投资人及经营团队以现金对标的公司增资。各方出资后，沙坪坝区政府持股约33.5%，公司及公司指定主体持股约32%，标的公司搭建员工持股平台持股约16%。（每日经济新闻）
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674352403653249?f=rss
+   🏷️ 标签: 投资, 合作
+
+7、🔥 2月8日消息，两条命令完成安装
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/377893.html
+   🏷️ 标签: 开源, AI
+
+8、🔥 2月8日消息，让机器人学会了预测未来
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/377835.html
+   🏷️ 标签: 开源, 超越
+
+9、🔥 2月8日消息，据珠免集团官微消息，2月8日，珠海免税拱北口岸进境免税店苹果Apple专区正式启幕。这不仅标志着苹果首次进驻中国口岸进境免税渠道，也标志着智能电子产品首次正式进入口岸进境免税销售场景。这是财政部等五部门发布《关于完善免税店政策支持提振消费的通知》后，全国首个实现智能电子产品落地开业的口岸进境免税项目。（每日经济新闻）
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674309235188361?f=rss
+   🏷️ 标签: 首次, 发布
+
+10、🔥 2月8日消息，记者8日从广西壮族自治区农业农村厅获悉，2025年广西与越南农产品进出口额达182.3亿元(人民币，下同)，其中进口额120.9亿元，同比增长10.8%，智慧农业合作获多点突破。（中国新闻网）
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674311024337798?f=rss
+   🏷️ 标签: 突破, 合作
+
+11、🔥 2月8日消息，北京航空航天大学教授、智友·雅瑞科创平台发起人王田苗表示，“AI成为技术突破的主线，AI大模型、软体技术、电子感官分别赋予机器人理解力、安全性与感知力，推动机器人适应不同环境。”王田苗认为，机器人将学习并完成人类在工业、商业与家庭场景布置的任务，实现技术与应用相互促进的螺旋式上升。未来，机器人还能自主学会并完成新任务，能高效应对大规模生产，也能灵活适应小批量、多品种的动态需求，更有望在危险环境下的
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674090750272133?f=rss
+   🏷️ 标签: 突破, 大模型, AI
+
+12、🔥 2月8日消息，36氪获悉，“i茅台”发布公告称，近日，由于i茅台APP平台流量较大，用户在使用i茅台APP时出现了页面卡顿等现象。为持续优化使用体验，提升系统稳定性与服务质量，i茅台APP计划于2026年2月8日14:00-2月9日07:00进行维护升级。在此期间，用户登录或使用i茅台APP时，部分功能可能出现短暂异常。如遇特殊情况导致维护时间延长，将另行通知。（i茅台）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674315770552966?f=rss
+   🏷️ 标签: 发布
+
+13、🔥 2月8日消息，澳门特区政府治安警察局2月8日发布消息称，7日澳门单日总出入境客流量达到86.7万人次，再创历史新高。其中澳门居民占36.7%、外地雇员占21.6%，而访澳旅客占39.1%，达到17.4万人次。从口岸来看，关闸口岸出入境客流量近46.3万人次，刷新该口岸近5年单日总出入境客流量最高纪录。（证券时报）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674101524751233?f=rss
+   🏷️ 标签: 发布
+
+14、🔥 2月8日消息，中国邮政、顺丰速运、京东物流、德邦快递等多家快递企业在官网陆续发布公告，今年春节期间将全力保障快件收发需求，积极调配运力、人力资源，服务“不打烊”。不过有些将收取“资源调节费”，时效性也会稍微变慢。调配临时运输资源产生的合理成本，且所有收费标准均通过官网提前公示，做到明码标价。（财联社）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674042900013705?f=rss
+   🏷️ 标签: 发布
+
+15、🔥 2月8日消息，中国科学院精密测量科学与技术创新研究院表示，囚禁离子物理研究团队成功研制出第二代液氮低温钙离子光钟，总系统不确定度达到4.4E-19(E-19表示千亿亿分之一)，相当于连续计时约720亿年误差不超过1秒，是目前报道的不确定度指标最高的光钟。相关成果于近日发表于国际期刊《物理评论快报》（澎湃新闻）
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674241787765637?f=rss
+   🏷️ 标签: 创新
+
+16、🔥 2月7日，千问APP宣布，「免单卡」可以在千问APP里买天猫超市的酒水零食、米面粮油、家居日用、生鲜水果等，一句话下单就能送到家门口。 天猫超市是首个覆盖全国的AI超市，用户只需对千问说一句“帮我在天猫超市买洗衣液”、“帮我在天猫超市买箱纸巾”，千问就可以从天猫超市的海量商品中挑出适合的商品，在用户下单后即时配送。 昨天上线至今，用户对千问“春节30亿大免单”活动的热情还在继续。千问APP多次提示
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/1s4y8NSYCaBF0Bnr.html
+   🏷️ 标签: AI, 上线
+
+17、🔥 2月8日，瑞立科密公告称，公司正在筹划发行股份购买程毅持有的公司控股子公司武汉瑞立科德斯汽车电子有限责任公司16%股权暨关联交易事项。本次交易完成后，武汉科德斯将成为公司的全资子公司。根据相关规定，本次交易预计不构成重大资产重组，不构成重组上市。公司股票自2026年2月9日起停牌，预计在不超过10个交易日的时间内披露本次交易方案。（财联社）
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3674350343299715?f=rss
+   🏷️ 标签: 上市
+
+18、🔥 2月7日上午，记者发现，千问将春节免单卡的有效使用期限从2月23日延长至28日。据千问官方公告，春节免单活动上线后，参与热度远超预期，为给用户预留更充裕的使用时间，将免单卡有效期延长至2月28日。 千问同时提示，25元免单卡不仅支持购买奶茶，还可支持早中晚餐、鸡蛋、青菜等生鲜百货零食，以及天猫超市和线下商超的年货。据悉，全国盒马门店已接入千问APP，正在为用户提供更丰富的商品免单体验。
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/bbcvKXoTLcGc40En.html
+   🏷️ 标签: 上线
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 2月8日消息，Greg Hart, President and CEO of Coursera, joins Bloomberg Businessweek Daily to discuss the firm's plans to merge with fellow online learning platform Udemy. Hart says he will remain CEO of the newly 
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-07/coursera-udemy-merger-to-boost-online-ai-education-video
+   🏷️ 标签: AI, merger, CEO, joins
+
+2、🔥 2月8日消息，Igor Babuschkin, co-founder of Elon Musk’s xAI, said he is “not planning to purchase any property in the UK,” responding to a Bloomberg report that he had agreed to buy a penthouse overlooking London’
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-08/xai-s-babuschkin-says-he-has-not-purchased-london-penthouse
+   🏷️ 标签: Elon Musk, AI, founder
+
+3、🔥 2月8日消息，Gregory Daco, Chief Economist at EY, joins Bloomberg Businessweek Daily to discuss the state of the US economy, saying that he currently sees a "paradox" of strong growth paired with underlying weakne
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-07/us-economy-is-paradox-of-strong-growth-ey-s-daco-video
+   🏷️ 标签: AI, chief, joins
+
+4、🔥 2月8日消息，Nvidia shares soared Friday as investors snapped up shares of companies positioned to benefit from the vast sum of money that big technology firms have said they’ll spend on artificial intelligence in
+   📋 入选理由: 影响力评分: 172.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-07/big-tech-s-650-billion-ai-plans-spark-chip-rally-video
+   🏷️ 标签: AI, artificial intelligence, joins, billion, AGI
+
+5、🔥 2月8日消息，New chief Josh D’Amaro takes over as group faces pressing challenges
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/ad4578de-3d23-41d5-a992-8c896389577c
+   🏷️ 标签: chief, AGI
+
+6、🔥 2月8日消息，The salespeople on the front line of a private-markets push to win over the world’s wealthy are quite adept at fielding questions on opacity, liquidity and valuation. Their list of tricky talking poin
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-07/private-markets-push-for-world-s-wealthy-runs-into-ai-meltdown
+   🏷️ 标签: valuation, AI
+
+7、🔥 2月8日消息，Anthropic PBC is ironing out the final details on a funding round likely to raise more than $20 billion and slated to close as soon as next week, according to people familiar with the matter.
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-07/anthropic-s-more-than-20-billion-funding-to-close-as-soon-as-next-week
+   🏷️ 标签: AI, billion
+
+8、🔥 2月8日消息，Elon Musk's net worth soared past $800 billion this week after he merged SpaceX with xAI in a deal that valued the combined entity at $1.25 trillion.
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/02/07/elon-musk-wants-to-be-a-trillionaire-how-spacex-xai-tesla-can-get-him-there.html
+   🏷️ 标签: Elon Musk, AI, billion
+
+9、🔥 2月8日消息，The biggest tech companies are gearing up to spend even more on artificial intelligence than investors had anticipated, and money managers increasingly fear that whatever happens, credit markets will 
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl
+   🏷️ 标签: artificial intelligence, AI
+
+10、🔥 2月8日消息，Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.
+   📋 入选理由: 影响力评分: 86.5
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/
+   🏷️ 标签: Elon Musk, AI
+
+
+======================================================================
+📊 今日总结: 今日从48条原始信息中精选出18条国内动态和10条国际动态，其中28条为高重要性。 重点关注：王慧文“点将”Clawdbot，我们和一位「中国Clawdbot」创业者聊了聊；9点1氪丨千问回应“春节30亿免单”页面崩了；英伟达据悉今年或将不推出任何新游戏显卡；董事长被指疑为“骗保”精神病院实控人，爱尔眼科声明；头部车企高管创业智能房车、获8000万融资，已拿下数亿元订单｜硬氪首发。
+======================================================================
