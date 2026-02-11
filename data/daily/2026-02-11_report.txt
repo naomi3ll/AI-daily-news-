@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-02-11
+生成时间: 2026-02-11 08:37:45
+数据来源: 从 169 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、2月11日消息，文｜富充 编辑｜苏建勋 《智能涌现》独家获悉，具身智能创业公司「星海图」已于近日完成10亿元B轮融资。 截至本轮，星海图累计融资额近30亿元。本轮融资后估值将进入百亿级别。此前，国内具身智能创企仅有宇树、智元、银河通用估值突破百亿元。 本次B轮融资的投资方，包括产业资本金鼎资本、北汽产投、碧鸿投资，以及正心谷资本、前海方舟、毅峰资本等机构。凯辉基金、美团龙珠、今日资本、襄禾资本、高瓴创投等老股东持
+2、2月11日消息，今日热点导览 瑞幸回应杯套出现错别字：将反馈给相关业务部门 苹果一季度在华销售额暴增38%，分析称“爱马仕橙”成最大“功臣” 日本2025年底国家债务达1342万亿日元，创历史新高 索尼将停止蓝光录像机出货 摩尔线程开源TileLang-MUSA项目 TOP 3 大新闻 米哈游永久拉黑常年法律顾问：律所帮对方收集证据 2月10日，米哈游法务部发布声明，表示将拉黑公司常年法务顾问上海市汇业律师事务所
+3、2月11日消息，大晓机器人已于近期完成天使轮融资。本轮融资由蚂蚁集团领投，启明创投、金景资本、弘毅投资、联想创投、上海交大母基金菡源资产等机构跟投，老股东商汤国香资本持续增资。 本轮募资金额将用于大晓机器人推进“以人为中心”的ACE具身全栈研发范式的技术迭代，加速环境式数据采集、开悟世界模型3.0（Kairos 3.0）的研发，推动具身超级大脑模组规模化落地，积极拓展能源、交通、文旅等更多商业场景。 首创“以人为
+4、2月11日消息，文｜李小霞 任彩茹 编辑｜乔芊 2025年，消费赛道在经历过一段时长的冰冻后，重回火热。 上市，是热闹之源。消费IP领域，递表者不乏TOPTOY、52TOYS、卡游等公司；餐饮公司，蜜雪、古茗、霸王茶姬、沪上阿姨、绿茶、COMMUNE、比格披萨等成功上市或递表。 其中消费IP最受瞩目。泡泡玛特缔造了属于自己的商业传奇，4000亿市值，点燃行业一把火。名创优品叶国富将孵化自有IP视为重任，并将旗下T
+5、2月11日消息，要闻提示 1.走路还是开车去洗车？看似简单的“洗车问题”难倒一众AI，Gemini 3表现最佳 2.米哈游法务部：终止与汇业律所合作，远景能源撤诉 3.网友爆料某北方大厂25年终奖比24年还高，会超40亿 4.AI周星驰视频大量传播引热议，经纪人质疑：平台不管吗 5.百度发布春节AI数据：文心助手月活同比增长4倍，AI生图功能使用量增长50倍 6.中芯国际最新业绩公布：去年全年销售收入为93.27
+
+国际动态：
+1、2月11日消息，Valuations soar as venture capital flows to groups tied to continent’s security and economic sovereignty
+2、2月11日消息，Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.
+3、2月11日消息，arXiv:2602.09341v1 Announce Type: new Abstract: Multi-agent systems (MAS) can substantially extend the reasoning capacity of large language models (LLMs), yet most frameworks still aggregate agent out
+4、2月11日消息，arXiv:2602.09485v1 Announce Type: new Abstract: Long chains of thought (Long CoTs) are widely employed in multimodal reasoning models to tackle complex tasks by capturing detailed visual information. 
+5、2月11日消息，arXiv:2602.10004v1 Announce Type: new Abstract: Large reasoning models (LRMs) achieve state-of-the-art performance by generating long chains-of-thought, but often waste computation on redundant reason
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 2月11日消息，文｜富充 编辑｜苏建勋 《智能涌现》独家获悉，具身智能创业公司「星海图」已于近日完成10亿元B轮融资。 截至本轮，星海图累计融资额近30亿元。本轮融资后估值将进入百亿级别。此前，国内具身智能创企仅有宇树、智元、银河通用估值突破百亿元。 本次B轮融资的投资方，包括产业资本金鼎资本、北汽产投、碧鸿投资，以及正心谷资本、前海方舟、毅峰资本等机构。凯辉基金、美团龙珠、今日资本、襄禾资本、高瓴创投等老股东持
+   📋 入选理由: 影响力评分: 455.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3678199520846464?f=rss
+   🏷️ 标签: 开源, 估值, 百亿, 投资, 突破
+
+2、🔥 2月11日消息，今日热点导览 瑞幸回应杯套出现错别字：将反馈给相关业务部门 苹果一季度在华销售额暴增38%，分析称“爱马仕橙”成最大“功臣” 日本2025年底国家债务达1342万亿日元，创历史新高 索尼将停止蓝光录像机出货 摩尔线程开源TileLang-MUSA项目 TOP 3 大新闻 米哈游永久拉黑常年法律顾问：律所帮对方收集证据 2月10日，米哈游法务部发布声明，表示将拉黑公司常年法务顾问上海市汇业律师事务所
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3678148865368960?f=rss
+   🏷️ 标签: 发布, 合作, 首次, 开源, 投资
+
+3、🔥 2月11日消息，大晓机器人已于近期完成天使轮融资。本轮融资由蚂蚁集团领投，启明创投、金景资本、弘毅投资、联想创投、上海交大母基金菡源资产等机构跟投，老股东商汤国香资本持续增资。 本轮募资金额将用于大晓机器人推进“以人为中心”的ACE具身全栈研发范式的技术迭代，加速环境式数据采集、开悟世界模型3.0（Kairos 3.0）的研发，推动具身超级大脑模组规模化落地，积极拓展能源、交通、文旅等更多商业场景。 首创“以人为
+   📋 入选理由: 影响力评分: 315.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/n05a59ofUOIjId1Z.html
+   🏷️ 标签: 领先, 创新, 融资, 发布, 合作
+
+4、🔥 2月11日消息，文｜李小霞 任彩茹 编辑｜乔芊 2025年，消费赛道在经历过一段时长的冰冻后，重回火热。 上市，是热闹之源。消费IP领域，递表者不乏TOPTOY、52TOYS、卡游等公司；餐饮公司，蜜雪、古茗、霸王茶姬、沪上阿姨、绿茶、COMMUNE、比格披萨等成功上市或递表。 其中消费IP最受瞩目。泡泡玛特缔造了属于自己的商业传奇，4000亿市值，点燃行业一把火。名创优品叶国富将孵化自有IP视为重任，并将旗下T
+   📋 入选理由: 影响力评分: 307.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3677588941693573?f=rss
+   🏷️ 标签: 上市, AI, 融资, 投资
+
+5、🔥 2月11日消息，要闻提示 1.走路还是开车去洗车？看似简单的“洗车问题”难倒一众AI，Gemini 3表现最佳 2.米哈游法务部：终止与汇业律所合作，远景能源撤诉 3.网友爆料某北方大厂25年终奖比24年还高，会超40亿 4.AI周星驰视频大量传播引热议，经纪人质疑：平台不管吗 5.百度发布春节AI数据：文心助手月活同比增长4倍，AI生图功能使用量增长50倍 6.中芯国际最新业绩公布：去年全年销售收入为93.27
+   📋 入选理由: 影响力评分: 300.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/h9l9qn0qQgmekwzW.html
+   🏷️ 标签: Grok 3, 发布, 大模型, 合作, AI
+
+6、🔥 2月11日消息，
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-02-11-6
+   🏷️ 标签: 发布, 超越, 开源
+
+7、🔥 2月11日消息，
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-02-11-4
+   🏷️ 标签: 大模型, Gemini 2, 开源
+
+8、🔥 2月11日消息，据路透社报道，当地时间10日，欧盟反垄断机构正式宣布，批准美国谷歌公司以320亿美元（约合人民币2212亿元）的价格收购网络安全初创公司Wiz。谷歌公司于2025年3月宣布此项全现金收购交易，旨在加强该公司在云计算和网络安全领域的布局，助力其在云计算领域追赶其他主要竞争对手。此前，美国监管机构已批准这笔交易。（央视财经）
+   📋 入选理由: 影响力评分: 275.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3678636291498632?f=rss
+   🏷️ 标签: 收购, 反垄断, 监管
+
+9、🔥 2月11日消息，作者丨邱晓芬 编辑丨苏建勋 投资人对机器人的热情，从机器人本体、具身智能模型，一步步导入到上游的灵巧手领域。 《智能涌现》独家获悉，灵巧手公司「临界点」（AGILINK） 已完成新一轮数亿元融资，由头部互联网大厂领投、BV百度风投、云锋基金等顶级资本共同参与， Synstellation Capital 、均胜电子、龙旗科技、上汽金控等产业资本联合投资，引入C Capital、沃赋、慕华等多家财务
+   📋 入选理由: 影响力评分: 271.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3678179258425990?f=rss
+   🏷️ 标签: 领先, AGI, 发布, 投资, 融资
+
+10、🔥 2月11日消息，36氪获悉，侵入式脑机接口公司「智冉医疗」获3亿元A+轮融资，由中科创星领投，老股东君联资本、北京市医药健康产业投资基金、IDG资本、顺为资本、联想创投、元生创投、红杉中国、美团龙珠、BV百度风投、杏泽资本、佳银资本持续跟投。 本轮融资主要用于推进大规模临床试验、高通量柔性脑机接口产品迭代，加速侵���式脑机接口技术的临床应用落地。 去年8月，智冉医疗刚获得超3亿元A轮融资。时隔半年再次拿到大额融
+   📋 入选理由: 影响力评分: 260.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3677251288654473?f=rss
+   🏷️ 标签: 发布, 投资, 突破, CEO, 融资
+
+11、🔥 2月11日消息，“透视图”是36氪新推出的轻量化数据图文栏目——以数据透视趋势，以图片呈现要点。"Talk is Cheap. Show me the data." 作者丨邱晓芬 GitHub上的开源项目OpenClaw近期迅速走红。在与Y Combinator的访谈中，创始人Peter Steinberger抛出一句话：“未来的操作系统不再需要图标，只需要意图。”他甚至激进地判断，80%的App将因为不再被主动
+   📋 入选理由: 影响力评分: 249.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3678305845437065?f=rss
+   🏷️ 标签: AI, 开放, 开源
+
+12、🔥 2月11日消息，文｜胡香赟 编辑｜海若镜 36氪获悉，近日，再生医疗领域企业吉美瑞生（Regend Therapeutics Limited）已完成3.5亿人民币C轮融资。本轮融资新引入投资方包括禹泽资本、合肥高投、洪泰基金、合肥产投、共青城富汇等7家公司及机构，老股东冷杉溪资本、天士力资本等5家投资方持续追加投资；募集资金将用于推进干细胞/前体细胞(stem/progenitor cell)等核心产品的临床应用
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3677602224841353?f=rss
+   🏷️ 标签: 投资, CEO, 融资, 创新
+
+13、🔥 2月11日消息，随着2025年“漫剧”市场迎来史诗级爆发，内容消费需求呈指数级增长。 近日，腾讯云联合DataEyeL!NK在深圳南山举办AI漫剧生态交流会，并推出一站式AI漫剧解决方案。该方案深度融合了腾讯云领先的AIGC生成能力与媒体处理MPS技术，旨在解决漫剧行业普遍面临的生产和运营痛点，助力企业实现从剧本创作、视频生成到全球化宣发的全链路提质增效。 DataEye副总裁庄雅云介绍，据DataEye研究院发
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/eg9ICcxBoEQgW0b1.html
+   🏷️ 标签: 领先, 发布, AI, 突破, 开放
+
+14、🔥 2月11日消息，36氪获悉，针对投资者关于“有消息称，公司将通过步步高投资公司引入为特斯拉的Cybercab车型的代工合作，请问该消息是否属实，如属实，将在哪个基地开展代工生产？”的提问，众泰汽车在互动平台回应称，公司暂无相关计划。
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3678627710411654?f=rss
+   🏷️ 标签: 投资, 合作
+
+15、🔥 2月11日消息，微信互联和目的地服务上线
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/378503.html
+   🏷️ 标签: 合作, 上线, 首次
+
+16、🔥 2月11日消息，
+   📋 入选理由: 影响力评分: 155.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-02-11-5
+   🏷️ 标签: 发布
+
+17、🔥 2月10日，豆包宣布“豆包过年”新春活动正式开启，活动期间将为用户发放新春红包。此外，除夕夜的中央广播电视总台2026年春晚期间，豆包还将为全国观众送出超过10万份接入豆包大模型的科技好礼，以及现金红包。 据介绍，今年的豆包新春活动分为两个阶段。第一阶段将于2月13日20点正式启动，用户可进入豆包App新春活动页面，体验AI生成拜年祝福等AI过年玩法，即可参与抽奖赢取红包，中奖后可提现。 2月16
+   📋 入选理由: 影响力评分: 155.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/qdImO200Km3VCjJx.html
+   🏷️ 标签: 创新, 大模型, 大语言模型, LLM, AI
+
+18、🔥 2月11日消息，
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-02-11-7
+   🏷️ 标签: 发布, AI
+
+19、🔥 2月11日消息，36氪获悉，网易发布2025年第四季度及全年财报。财报显示，2025年网易全年总营收1126亿元，第四季度营收275亿元，上年同期营收267亿元。全年营业利润358亿元，同比增长21%；Q4营业利润83亿元，同比增长6%。年研发投入177亿元，连续六年研发投入突破百亿。游戏及相关增值服务净收入921亿元，同比增长10%；其中在线游戏净收入达896亿元，同比增长11%。
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3678648218739337?f=rss
+   🏷️ 标签: 发布, 突破, 百亿
+
+20、🔥 2月11日消息，蚂蚁技术研究院开源LLaDA2.1
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/378442.html
+   🏷️ 标签: 开源
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 2月11日消息，Valuations soar as venture capital flows to groups tied to continent’s security and economic sovereignty
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/523ee7a9-489a-4f68-8aae-3f98c336b479
+   🏷️ 标签: billion, valuation, AI
+
+2、🔥 2月11日消息，Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/
+   🏷️ 标签: billion, valuation, AI
+
+3、🔥 2月11日消息，arXiv:2602.09341v1 Announce Type: new Abstract: Multi-agent systems (MAS) can substantially extend the reasoning capacity of large language models (LLMs), yet most frameworks still aggregate agent out
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.09341
+   🏷️ 标签: bias, reasoning, LLM, large language model, outperforms
+
+4、🔥 2月11日消息，arXiv:2602.09485v1 Announce Type: new Abstract: Long chains of thought (Long CoTs) are widely employed in multimodal reasoning models to tackle complex tasks by capturing detailed visual information. 
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.09485
+   🏷️ 标签: AI, reasoning, alignment, multimodal
+
+5、🔥 2月11日消息，arXiv:2602.10004v1 Announce Type: new Abstract: Large reasoning models (LRMs) achieve state-of-the-art performance by generating long chains-of-thought, but often waste computation on redundant reason
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.10004
+   🏷️ 标签: fine, reasoning, state-of-the-art, AI
+
+6、🔥 2月11日消息，India tightened rules governing social media content and platforms, particularly targeting artificially generated and manipulated material, in a bid to crack down on the rapid spread of misinformation
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-10/india-cracks-down-on-ai-generated-content-on-social-media
+   🏷️ 标签: deepfake, AI, misinformation
+
+7、🔥 2月11日消息，arXiv:2602.09443v1 Announce Type: new Abstract: The transition from symbolic manipulation to science-grade reasoning represents a pivotal frontier for Large Language Models (LLMs), with physics servin
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.09443
+   🏷️ 标签: reasoning, LLM, AI, large language model, multimodal
+
+8、🔥 2月11日消息，arXiv:2602.09463v1 Announce Type: new Abstract: Large Vision-Language Models (LVLMs) have demonstrated strong reasoning capabilities in geo-localization, yet they often struggle in real-world scenario
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.09463
+   🏷️ 标签: AI, reasoning, AGI
+
+9、🔥 2月11日消息，Daniel Perez, co-founder and CEO of Hinge Health, discusses the company’s latest earnings, performance and outlook following the results. He speaks with Scarlet Fu and Katie Greifeld on “The Close.” (
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-11/hinge-health-ceo-on-earnings-ai-s-impact-on-business-video
+   🏷️ 标签: founder, CEO, AI
+
+10、🔥 2月11日消息，As market volatility hits the crypto industry, crypto-native funds are gravitating toward better-performing corners of the market, including stablecoin infrastructure and on-chain prediction markets, 
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-10/crypto-crashes-rattle-venture-capitalists-video
+   🏷️ 标签: AI, joins, chief
+
+11、🔥 2月11日消息，Jimmy Ba and Tony Wu, two of the co-founders of Elon Musk’s artificial intelligence startup xAI, both said they were leaving the company after less than three years, meaning half of its founding membe
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-10/tony-wu-becomes-latest-xai-co-founder-to-leave-musk-s-startup
+   🏷️ 标签: founder, artificial intelligence, AI, Elon Musk
+
+12、🔥 2月11日消息，ECJ overturns decision of lower court in legal victory for Meta-owned messaging app
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/1f283670-27da-4579-9111-658d0498e4dc
+   🏷️ 标签: fine, AGI, privacy
+
+13、🔥 2月11日消息，According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fli
+   📋 入选理由: 影响力评分: 173.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/
+   🏷️ 标签: Elon Musk, founder, AI, IPO
+
+14、🔥 2月11日消息，If your instant message requires immediate attention, fine. But many don’t — they’re just inconsiderate
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/6d3ec9ed-248c-4cc5-9834-e0a0db533c6e
+   🏷️ 标签: fine, AI
+
+15、🔥 2月11日消息，Gracy Chen, CEO of crypto exchange Bitget, joins "Bloomberg Crypto" to discuss the recent volatility in digital asset prices. She talks with Bloomberg's Scarlet Fu and Tim Stenovec about bitcoin price
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-10/seeing-cascading-declines-in-crypto-trading-bitget-ceo-video
+   🏷️ 标签: CEO, joins
+
+16、🔥 2月11日消息，"Bitcoin is so much better than gold". David Marcus, co-founder and CEO of Lightspark and former PayPal executive, talks with Bloomberg's Scarlet Fu and Tim Stenovec on "Bloomberg Crypto". (Source: Bl
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-10/need-to-have-long-term-bitcoin-belief-david-marcus-video
+   🏷️ 标签: founder, CEO
+
+17、🔥 2月11日消息，Commission launches Action Plan Against Cyberbullying to protect young people online dumimar Tue, 02/10/2026 - 10:33 The European Commission's Action Plan Against Cyberbullying aims to protect the men
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: EU AI Policy | 🔗 https://digital-strategy.ec.europa.eu/en/news/commission-launches-action-plan-against-cyberbullying-protect-young-people-online
+   🏷️ 标签: AGI, AI, launches
+
+18、🔥 2月11日消息，Autodesk, a company known for its suite of 3D design software, is suing Google over claims that it infringed on its "Flow" trademark, as reported earlier by Reuters. The lawsuit, filed in a California
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit
+   🏷️ 标签: lawsuit, AI
+
+19、🔥 2月11日消息，A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/openai-drops-io-branding-hardware-devices/
+   🏷️ 标签: lawsuit, AI
+
+20、🔥 2月11日消息，Ooredoo Group reported Ebitda for the full year of 10.49 billion riyals vs. 10.03 billion riyals y/y. Ooredoo Group CEO Aziz Aluthman Fakhroo spoke to Bloomberg’s Horizons Middle East and Africa ancho
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-11/ooredoo-ceo-region-powerhouse-for-ai-digital-economy-video
+   🏷️ 标签: billion, CEO, AI
+
+
+======================================================================
+📊 今日总结: 今日从169条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：星海图完成10亿元B轮融资，成第四家估值百亿具身智能创企｜智能涌现独家；8点1氪丨米哈游宣布解雇常年法律顾问；绝味鸭脖旗下十余家企业已注销；周大福拟年后调价；大晓机器人完成天使轮融资。
+======================================================================
