@@ -1,0 +1,729 @@
+{
+  "date": "2026-02-13",
+  "generated_at": "2026-02-13 08:32:35",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+      "summary": "2月13日消息，大公司： 支付宝AI付笔数超1.2亿 36氪获悉，2月12日，支付宝“AI付”一周累计支付笔数已超1.2亿笔，成为全球首个支付笔数破亿的AI原生支付产品。“AI付”是面向AI时代推出的安全便捷支付服务，已在千问、Rokid、瑞幸等多个AI场景上线服务。 赛诺菲任命Belén Garijo为新任首席执行官 赛诺菲宣布，不再续聘保罗·哈德森（Paul Hudson）的董事职务。因此，哈德森的首席执行官",
+      "importance": "高",
+      "reason": "影响力评分: 450.0",
+      "tags": [
+        "上线",
+        "突破",
+        "监管",
+        "反垄断",
+        "雷军"
+      ],
+      "url": "https://36kr.com/p/3680069763313539?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-12 10:13:23",
+      "impact_score": 450.0
+    },
+    {
+      "index": 2,
+      "title": "36氪首发｜农业具身智能企业拿到新融资，估值达5亿元",
+      "summary": "2月13日消息，作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，农业具身智能企业「禾芯动力」已于近日完成数千万元天使轮融资，投后估值达5亿元人民币。本轮投资由宜宾高新前沿科技产业创业投资基金与厦门国升追创机器人产业创业投资基金联合完成。本轮融资资金将主要用于核心产品迭代、全球场景拓展及人才引进。 禾芯动力成立于2025年，公司主攻“农业具身智能”方向，通过研发无人机、机器人及智能终端，解决农业劳动力短缺及作业标准化",
+      "importance": "高",
+      "reason": "影响力评分: 327.5",
+      "tags": [
+        "估值",
+        "投资",
+        "融资",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3679698824179586?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-12 02:23:50",
+      "impact_score": 327.5
+    },
+    {
+      "index": 3,
+      "title": "德国公司Stark在一轮融资中估值超10亿欧元",
+      "summary": "2月13日消息，据媒体周五报道，德国无人机制造初创企业Stark Defence数周前获得投资者新一轮融资，公司整体估值升至10亿欧元以上（12亿美元）。该杂志未透露消息来源，称Peter Thiel旗下的Founders Fund出资数千万欧元，欧洲投资者也参与了本轮融资。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 307.5",
+      "tags": [
+        "founder",
+        "估值",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3681430492475014?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 07:59:39",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "《互联网平台反垄断合规指引》发布，明确多个新型垄断风险",
+      "summary": "2月13日消息，从市场监管总局了解到，为支持和引导互联网平台经营者有效防范反垄断合规风险，促进平台经济创新和健康发展，《互联网平台反垄断合规指引》今天发布。《指引》重点规定了垄断协议、滥用市场支配地位、经营者集中和滥用行政权力排除、限制竞争等4类垄断风险。为平台经营者划出清晰明确的“红线”。《指引》将《中华人民共和国反垄断法》的系列核心条款转化为具体可识别的行为边界。根据平台经济行业特点、经营模式、竞争规律等，指",
+      "importance": "高",
+      "reason": "影响力评分: 305.0",
+      "tags": [
+        "监管",
+        "反垄断",
+        "创新",
+        "风险",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3681453825666694?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 08:08:29",
+      "impact_score": 305.0
+    },
+    {
+      "index": 5,
+      "title": "蚂蚁集团开源Ring-2.5-1T，全球首个混合线性架构万亿参数思考模型来了",
+      "summary": "2月13日消息，全模态大模型Ming-Flash-Omni 2.0，性能对标 Gemini 2.5 Pro",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "大模型",
+        "Gemini 2",
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/02/379431.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-13 05:32:40",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "创新Transformer！面壁基于稀疏-线性混合架构SALA训练9B模型，端侧跑通百万上下文",
+      "summary": "2月13日消息，众所周知，Transformer 及其核心的全注意力机制（Full Attention）虽长期占据大模型架构的核心地位，但平方级计算复杂度、高额显存占用的瓶颈，早已成为实现超长上下文处理与模型规模化应用的 “拦路虎”。敢于挑战这一固有权威，需要的不仅是实现 AGI 长远目标勇于创新的魄力，更需要有独到的技术视野以及突破技术壁垒的硬实力。从 DeepSeek 的稀疏注意力（DSA）、MiniMax ",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "AGI",
+        "突破",
+        "大模型",
+        "创新",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TAip6YTSYdfNdo6b.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 01:50:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "元气森林唐彬森九周年内部信：2025 虽有进步，市场依旧严峻｜独家",
+      "summary": "2月13日消息，文｜李小霞 编辑｜乔芊 2 月 13 日，元气森林创始人唐彬森发布九周年内部信，全面复盘 2025 年经营成果，并明确 2026 年发展方向。 信中指出，2025 年公司盈利能力持续提升，增长质量与效率较往年明显改善。唐彬森表示， 2024 年公司初步验证盈利可能性，2025 年则在高质量增长上实现关键突破，核心���益于 “控费用、控价盘、控 SKU” 的战略聚焦 ，通过主动优化资源配置、集中发",
+      "importance": "高",
+      "reason": "影响力评分: 271.0",
+      "tags": [
+        "突破",
+        "创新",
+        "风险",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3681124596690822?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 04:58:01",
+      "impact_score": 271.0
+    },
+    {
+      "index": 8,
+      "title": "这个春节P图不求人！小红书开源图像编辑新SOTA",
+      "summary": "2月13日消息，创新OCR奖励机制，海报改字再也不崩了",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "创新",
+        "SOTA",
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/02/379263.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-12 12:12:43",
+      "impact_score": 270.0
+    },
+    {
+      "index": 9,
+      "title": "四年三款爆品，LiberLive U1发布、C系列累计出货超50万台｜最前线",
+      "summary": "2月13日消息，作者｜黄楠 编辑｜袁斯来 音乐消费市场横亘着一道不易察觉的供需断层。 一边是庞大的潜在用户池，中国乐器消费年增速保持在12%以上；另一边是陡峭的转化断层，一把传统民谣吉他的完整学习曲线需要跨越和弦记忆、指法训练、节奏把控三道门槛，任何节点都足以让多数用户在购入设备的两个月内，将其归向闲鱼或床底。 乐器行业的设备供给长期瞄准专业玩家，以考级体系为路径开展入门教学，但对于那个更庞大、只想在某个瞬间用音",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "上线",
+        "发布",
+        "突破",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3681146132836226?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 03:15:54",
+      "impact_score": 264.0
+    },
+    {
+      "index": 10,
+      "title": "圆桌｜世界模型的“前世今生”与终局猜想",
+      "summary": "2月13日消息，至今，科技圈对“世界模型”仍未给出一个标准定义。但这不妨碍它成为当下最性感的叙事： 在VC眼中，它是验证商业闭环的终极沙盘；在具身智能赛道，它是让机器人学会“走一步看三步”的预判大脑；而在元宇宙的废墟之上，它被视为信息载体从2D视频向3D交互世界跃迁的最后一块拼图。 就在1月23日，据彭博社报道，李飞飞正在就其创办的初创公司 World Labs 进行新一轮融资洽谈，目标估值约为 50 亿美元。 ",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "估值",
+        "融资",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/MQZOj6i8uY6IsqzY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 07:39:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 11,
+      "title": "畜牧业具身智能公司完成千万元融资，天空工场创投基金孵化｜硬氪首发",
+      "summary": "2月13日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，女娲农业科技（深圳）有限公司（以下简称“女娲农业科技”）近日完成数千万元融资，投资方为厦门国升基金。本轮融资将主要用于核心技术研发、产品工程化升级及规模化落地。 女娲农业科技成立于2025年12月，由天空工场创投基金孵化，聚焦畜牧业智能化升级，致力于以具身智能机器人切入传统畜牧养殖场景，通过“清洁+健康监测”的一体化解决方案，提升养殖效率、优化人工结构",
+      "importance": "高",
+      "reason": "影响力评分: 245.0",
+      "tags": [
+        "风险",
+        "AI",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3681060245581448?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 01:31:34",
+      "impact_score": 245.0
+    },
+    {
+      "index": 12,
+      "title": "百度卡位AI入口 文心助手率先跑出四倍增速",
+      "summary": "2月13日消息，2026年春节前夕，围绕AI展开的“红包大战”持续升温。流量高峰之下，真正的胜负开始体现在用户规模与使用深度上。最新数据显示，百度文心凭借四倍增长的月活，率先确立AI入口优势。 2月10日，百度文心公布数据：自春节红包活动启动以来，文心助手MAU同比增长4倍；其中，生图功能调用量同比增长50倍，生视频功能同比增长40倍，AI打电话功能增长近4倍。多项核心能力的同步爆发，意味着用户使用正从节日驱动的",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "领先",
+        "大模型",
+        "AI",
+        "风险",
+        "开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/AsunOC82fTgy8Ngt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 02:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 13,
+      "title": "商业航天核心硬件供应商获近亿元融资，团队来自中科院｜硬氪首发",
+      "summary": "2月13日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，济南感知起源信息科技有限公司（下称“感知起源”）近日完成新一轮数千万元融资。本轮融资由山东财金领投，厦门高新创臻、苏州里奥未来、济南财鑫股权投资共同参与。该笔融资后，感知起源完成其天使轮及天使+轮融资。公司累计融资额近亿元，资金用于首台套自研商业合成孔径雷达（SAR）载荷的研发及入轨验证、更新型谱产品预研以及商业拓展工作。 济南感知起源成立于2023年",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "创新",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3681056499642245?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 01:25:44",
+      "impact_score": 230.0
+    },
+    {
+      "index": 14,
+      "title": "腾讯混元 x MBZUAI 港中文新研究：将纠错纳入策略空间，Search-R2 重构搜索增强推理学习方式",
+      "summary": "2月13日消息，过去几年，大语言模型的能力提升主要依赖参数和数据规模的扩张。但当模型逐步被用于研究助理、网页搜索和复杂决策支持等真实任务时，这条路径开始显露边界。 这类场景往往要求模型在开放环境中进行多轮搜索与推理，使搜索增强推理成为主流范式，同时也暴露出一个核心问题：模型在长链搜索推理中的失败，往往不是因为推理能力不足，而是无法有效处理错误在推理过程中的出现与传播。 在现实任务中，搜索结果不可避免地包含噪声，一",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "首次",
+        "reasoning",
+        "AI",
+        "开放",
+        "fine"
+      ],
+      "url": "https://www.leiphone.com/category/ai/j63DPVTV25liaRhc.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 06:02:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 15,
+      "title": "拼多多“春节不打烊”持续保供给，全面提升食品安全保障",
+      "summary": "2月13日消息，春节前夕，继“年货节”之后，拼多多接棒上线“春节不打烊”活动，加大对水果生鲜、粮油米面、肉禽蛋奶、零食滋补、酒水饮料、日用百货等春节必需品的补贴力度，联合商家确保消费者在春节期间也可以正常收货，持续为春节“菜篮子”“年夜饭”保价稳供。 为了确保消费者可以“买的安心，吃的放心”，平台密集推出了多项食品安全治理的举措，主要包括经营资质合规审查、食品广告治理，食品直播管控、未成年人保护、知识产权保护、食",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "上线",
+        "AI",
+        "风险",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ivfww7GDxbyG5U12.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-13 02:57:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 16,
+      "title": "灭霸带着复联放烟花！16秒，让手搓 AI 视频拥有大片即视感",
+      "summary": "2月13日消息，快过春节了，来整一个花活儿，想看灭霸和复仇者联盟成员一起放烟花。 这段视频是在 Vidu Q3 中，仅用一段 Prompt 一次生成得来，不仅能够声画同步，高清直出，而且还能转换多个镜头，完成一个场景叙事。 Sora 之后，AI 视频生成在拼命卷时长。Sora 刚发布的时候，只能生成 5 秒左右的视频，而 Vidu 最近发布了全球首个支持音视频直出的模型 Vidu Q3 ，能实现16秒声画同出，并",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "突破",
+        "Sora",
+        "AI",
+        "发布",
+        "超越"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/P9PEw6RQURI2ERzn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 01:43:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 17,
+      "title": "春晚前夕霸屏央视！追觅扫地机以王者之姿引领新年风向",
+      "summary": "2月11日，中央广播电视总台举办CMG“保姆机器人大会”新春直播特别节目，为全国用户带来一场机器人年货大集。2026央视春晚官方合作产品追觅扫地机强势登场，并以硬核创新生动诠释科技赋能美好生活的图景，为全国观众送上“解放双手，轻松过年” 的智能年货。 活动现场，追觅的仿生多关节机械手Cyber10 Ultra和致净大师 X60 Pro扫地机成为全场焦点。追觅Cyber10 Ultra扫地机以灵巧的",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "突破",
+        "创新",
+        "大模型",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/awpSHzK536ec5hnb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-13 02:54:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 18,
+      "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航\"双SOTA\"",
+      "summary": "2月13日消息，近日，阿里巴巴集团旗下高德正式发布具身操作基座模型ABot-M0与具身导航基座模型ABot-N0，补齐了具身机器人规模化落地的两块核心能力——操作的通用性和导航的长程性，并刷新了全球多项权威评测纪录，高德也成为全球首个在具身导航与具身操作上同步达到SOTA（目前最好、最先进的模型）的厂商。 ABot-M0：全球首个统一架构的机器人基础模型，让机器人拥有\"通用大脑\" 长期以来，机器人技术的规模化应用",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "发布",
+        "开源",
+        "SOTA"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Md6FbG7BkzMzmjIf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 07:09:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 19,
+      "title": "LiberLive无弦吉他问世以来累计出货超50万台，产品覆盖40余国",
+      "summary": "2月13日消息，LiberLive 无弦吉他作为“智造优品”范例，不仅持续进入主流媒体的报道视野，在市场端同样跑出了亮眼成绩。1 月 10 日刚上线的 LiberLive 新品 U1 无弦吉他，首发当天即登顶平台榜首，上市首月便与同门 C2 系列包揽该品类热销榜前三，多款产品在短时间内形成销量梯队。 这背后，是 LiberLive 对“音乐使用场景”与“用户心理门槛”的长期洞察。相较于强调技术参数本身，Liber",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "上线",
+        "发布",
+        "上市"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KccsgSWNBfiXWQke.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 01:58:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 20,
+      "title": "小米车主遭特斯拉车主恶意别车、持续辱骂，「母亲吓得脸色发白」，小米发声；曝字节拟年产10万颗自研AI芯片；曝魅族手机业务即将解散",
+      "summary": "2月13日消息，要闻提示 1.车圈鄙视链？小米车主遭特斯拉车主恶意别车、持续辱骂，「母亲吓得脸色发白」，小米发声 2.瞒不住了！曝字节拟年产10万颗自研 AI 芯片，与三星洽谈代工合作 3.或体面离场？曝魅族手机业务即将解散，前员工：不想捅破窗户纸 4.阿里将继续大投入淘宝闪购，三年内“不担心亏损” 5.1年净赚3782亿元！台积电发钱了：8万员工人均58万、449亿美元扩产 6.国产AI大模型杀疯了：不止Dee",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "IPO",
+        "合作",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/GQeyXJ0eaR1tit6v.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 01:24:00",
+      "impact_score": 180.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "GDS-Backed DayOne Said to Pick Banks for $5 Billion US IPO",
+      "summary": "2月13日消息，DayOne Data Centers Ltd. has selected banks to help arrange a US initial public offering that may raise about $5 billion, according to people familiar with the matter.",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "IPO",
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/gds-backed-dayone-is-said-to-pick-banks-for-5-billion-us-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 03:02:50",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation",
+      "summary": "2月13日消息，arXiv:2602.11635v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have achieved strong performance on perception-oriented tasks, yet their ability to perform mathematical spatia",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "large language model",
+        "multimodal",
+        "reasoning",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2602.11635",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 3,
+      "title": "Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning",
+      "summary": "2月13日消息，arXiv:2602.11455v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs),",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "large language model",
+        "multimodal",
+        "reasoning",
+        "AI",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2602.11455",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "Learning to Configure Agentic AI Systems",
+      "summary": "2月13日消息，arXiv:2602.11574v1 Announce Type: new Abstract: Configuring LLM-based agent systems involves choosing workflows, tools, token budgets, and prompts from a large combinatorial design space, and is typic",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AI",
+        "reasoning",
+        "LLM",
+        "outperforms"
+      ],
+      "url": "https://arxiv.org/abs/2602.11574",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "MAPLE: Modality-Aware Post-training and Learning Ecosystem",
+      "summary": "2月13日消息，arXiv:2602.11596v1 Announce Type: new Abstract: Multimodal language models now integrate text, audio, and video for unified reasoning. Yet existing RL post-training pipelines treat all input signals a",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "reasoning",
+        "multimodal",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2602.11596",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "NatWest CEO on Earnings, AI in Finance, UK Economy",
+      "summary": "2月13日消息，Paul Thwaite, chief executive officer of NatWest Group Plc, discusses the lender’s fourth-quarter earnings which beat estimates with a 30% jump in pretax income. Speaking on Bloomberg Television, he a",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "chief",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-13/natwest-ceo-on-earnings-ai-in-finance-uk-economy-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 07:52:16",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
+      "summary": "2月13日消息，arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-bas",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "large language model",
+        "multimodal",
+        "AI",
+        "valuation",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2602.11340",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 8,
+      "title": "The surprising case for AI judges",
+      "summary": "2月13日消息，Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My g",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "AI",
+        "chief",
+        "CEO"
+      ],
+      "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-12 16:22:33",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "Wall Street hunts next casualty from AI threat to white-collar work",
+      "summary": "2月13日消息，Stocks from insurance to property and wealth management punished after new tech launches",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "launches",
+        "AI"
+      ],
+      "url": "https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-13 05:00:20",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "summary": "2月13日消息，Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "Gemini 3",
+        "reasoning"
+      ],
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-02-12 16:15:09",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI Claims DeepSeek Distilled US Models to Gain an Edge",
+      "summary": "2月13日消息，OpenAI has warned US lawmakers that its Chinese rival DeepSeek is using unfair and increasingly sophisticated methods to extract results from leading US AI models to train the next generation of its b",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "breakthrough"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-12/openai-accuses-deepseek-of-distilling-us-models-to-gain-an-edge",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-12 21:39:28",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "What’s next for Chinese open-source AI",
+      "summary": "2月13日消息，MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. The past year has marked a turn",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "reasoning",
+        "AI"
+      ],
+      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-02-12 10:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+      "summary": "2月13日消息，A diagnostic insight in healthcare. A character’s dialogue in an interactive game. An autonomous resolution from a customer service agent. Each of these AI-powered interactions is built on the same un",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "Blackwell"
+      ],
+      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-02-12 16:00:46",
+      "impact_score": 132.0
+    },
+    {
+      "index": 14,
+      "title": "Human-Inspired Continuous Learning of Internal Reasoning Processes: Learning How to Think for Adaptive AI Systems",
+      "summary": "2月13日消息，arXiv:2602.11516v1 Announce Type: new Abstract: Learning internal reasoning processes is crucial for developing AI systems capable of sustained adaptation in dynamic real-world environments. However, ",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "reasoning",
+        "fine",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2602.11516",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 15,
+      "title": "InsuranceDekho Owner Is Said to Plan $250 Million India IPO",
+      "summary": "2月13日消息，Girnar Insurance Brokers Pvt., which operates insurance tech startup InsuranceDekho, is weighing an initial public offering in Mumbai that could raise as much as $250 million, according to people fami",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/insurancedekho-owner-is-said-to-plan-250-million-india-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 07:13:52",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "Zhipu’s 120% Surge Highlights China’s New AI Market Favorites",
+      "summary": "2月13日消息，Shares of Chinese AI model developer Zhipu have more than doubled this week, underscoring investor appetite for the country’s emerging generative-AI firms even as established players elsewhere face a ",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/zhipu-s-120-surge-highlights-china-s-new-ai-market-favorites",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 04:06:31",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "Thailand’s Minor International Is Said to Explore Hong Kong IPO for Restaurant Unit",
+      "summary": "2月13日消息，Thailand’s Minor International Pcl, one of Asia’s largest hospitality groups, is considering a Hong Kong initial public offering for its restaurant business, people familiar with the matter said, at a",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/thailand-s-minor-international-said-to-explore-hong-kong-ipo-of-restaurant-unit",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 04:02:57",
+      "impact_score": 127.5
+    },
+    {
+      "index": 18,
+      "title": "Broker Clear Street postpones IPO as AI fears roil US stocks",
+      "summary": "2月13日消息，Shelved public offering comes after the company slashed the amount it expected to raise",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.ft.com/content/e0c71b94-b761-496c-a251-f106cbb9353a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-13 02:54:07",
+      "impact_score": 127.5
+    },
+    {
+      "index": 19,
+      "title": "China Is Snapping Up Overseas Assets Again From Puma to Metals",
+      "summary": "2月13日消息，After Beijing slammed them shut about a decade ago, the gates have flung open again for Chinese firms to go on overseas acquisition sprees.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "acquisition",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/china-is-snapping-up-overseas-assets-again-from-puma-to-metals",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 02:31:19",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "Anthropic raises $30bn at a $350bn valuation in latest funding round",
+      "summary": "2月13日消息，Latest haul comes as it prepares for an initial public offering as early as this year",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-12 19:00:03",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从185条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台；36氪首发｜农业具身智能企业拿到新融资，估值达5亿元；德国公司Stark在一轮融资中估值超10亿欧元。",
+  "statistics": {
+    "raw_domestic": 52,
+    "raw_international": 133,
+    "raw_total": 185,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月13日消息，大公司： 支付宝AI付笔数超1.2亿 36氪获悉，2月12日，支付宝“AI付”一周累计支付笔数已超1.2亿笔，成为全球首个支付笔数破亿的AI原生支付产品。“AI付”是面向AI时代推出的安全便捷支付服务，已在千问、Rokid、瑞幸等多个AI场景上线服务。 赛诺菲任命Belén Garijo为新任首席执行官 赛诺菲宣布，不再续聘保罗·哈德森（Paul Hudson）的董事职务。因此，哈德森的首席执行官",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月13日消息，作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，农业具身智能企业「禾芯动力」已于近日完成数千万元天使轮融资，投后估值达5亿元人民币。本轮投资由宜宾高新前沿科技产业创业投资基金与厦门国升追创机器人产业创业投资基金联合完成。本轮融资资金将主要用于核心产品迭代、全球场景拓展及人才引进。 禾芯动力成立于2025年，公司主攻“农业具身智能”方向，通过研发无人机、机器人及智能终端，解决农业劳动力短缺及作业标准化",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月13日消息，据媒体周五报道，德国无人机制造初创企业Stark Defence数周前获得投资者新一轮融资，公司整体估值升至10亿欧元以上（12亿美元）。该杂志未透露消息来源，称Peter Thiel旗下的Founders Fund出资数千万欧元，欧洲投资者也参与了本轮融资。（新浪财经）",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月13日消息，从市场监管总局了解到，为支持和引导互联网平台经营者有效防范反垄断合规风险，促进平台经济创新和健康发展，《互联网平台反垄断合规指引》今天发布。《指引》重点规定了垄断协议、滥用市场支配地位、经营者集中和滥用行政权力排除、限制竞争等4类垄断风险。为平台经营者划出清晰明确的“红线”。《指引》将《中华人民共和国反垄断法》的系列核心条款转化为具体可识别的行为边界。根据平台经济行业特点、经营模式、竞争规律等，指",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月13日消息，全模态大模型Ming-Flash-Omni 2.0，性能对标 Gemini 2.5 Pro",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月13日消息，DayOne Data Centers Ltd. has selected banks to help arrange a US initial public offering that may raise about $5 billion, according to people familiar with the matter.",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月13日消息，arXiv:2602.11635v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have achieved strong performance on perception-oriented tasks, yet their ability to perform mathematical spatia",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月13日消息，arXiv:2602.11455v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capabilities of Multimodal Large Language Models (MLLMs),",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月13日消息，arXiv:2602.11574v1 Announce Type: new Abstract: Configuring LLM-based agent systems involves choosing workflows, tools, token budgets, and prompts from a large combinatorial design space, and is typic",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月13日消息，arXiv:2602.11596v1 Announce Type: new Abstract: Multimodal language models now integrate text, audio, and video for unified reasoning. Yet existing RL post-training pipelines treat all input signals a",
+      "importance": "高"
+    }
+  ]
+}
