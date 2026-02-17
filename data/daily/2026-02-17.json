@@ -1,0 +1,707 @@
+{
+  "date": "2026-02-17",
+  "generated_at": "2026-02-17 08:34:13",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+      "summary": "2月16日除夕当天，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，性能媲美Gemini 3 Pro，登顶全球最强开源模型。千问3.5实现了底层模型架构的全面革新，此次发布的Qwen3.5-Plus版本总参数为3970亿，激活仅170亿，以小胜大，性能超过万亿参数的Qwen3-Max模型，部署显存占用降低60%，推理效率大幅提升，最大推理吞吐量可提升至19倍。Qwen3.5-Plus的AP",
+      "importance": "高",
+      "reason": "影响力评分: 480.0",
+      "tags": [
+        "大语言模型",
+        "GPT-5",
+        "Gemini 3",
+        "超越",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/UeoaNe55m7Rc8fOm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-16 09:10:00",
+      "impact_score": 480.0
+    },
+    {
+      "index": 2,
+      "title": "今年已有143家企业递表港股IPO",
+      "summary": "2月17日消息，Wind数据显示，2026年以来，已有143家企业完成了港股IPO递表，其中120家为首次递表。截至2月16日，港股市场仍有401宗新股申请仍在处理之中，包括4家已通过聆讯的企业。德勤中国资本市场服务部预测，2026年香港新股市场或更胜去年，料约160只新股融资不少于3000亿港元。一个值得关注的趋势是，近期在港股上市的科技类企业正在受到国内外长线资金追捧。例如澜起科技17家基石投资者共认购约4.",
+      "importance": "高",
+      "reason": "影响力评分: 405.0",
+      "tags": [
+        "上市",
+        "IPO",
+        "投资",
+        "融资",
+        "首次"
+      ],
+      "url": "https://36kr.com/newsflashes/3686791569469060?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 03:43:25",
+      "impact_score": 405.0
+    },
+    {
+      "index": 3,
+      "title": "最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛",
+      "summary": "2月17日消息，这还只是阿里春节档第一弹",
+      "importance": "高",
+      "reason": "影响力评分: 300.0",
+      "tags": [
+        "超越",
+        "开源",
+        "大模型",
+        "Gemini 3"
+      ],
+      "url": "https://www.qbitai.com/2026/02/380433.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-16 11:15:22",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "千问：1.3亿人春节首次体验AI购物",
+      "summary": "2月17日大年初一凌晨，千问发布的数据显示，春节活动期间，全国超过1.3亿人第一次体验AI购物，说了50亿次“千问帮我”。过去两天，用户用AI买门票的订单环比增长22倍，AI订机票等交通票务单量增长超7倍。随着春节档电影上线，用户用AI买电影票的订单环比增长372倍，其中来自三四线城市的AI订单量更是暴涨782倍。所有AI订单中，近一半订单来自县城，近400万60岁以上用户体验了AI购物。",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "上线",
+        "发布",
+        "AI",
+        "首次"
+      ],
+      "url": "https://36kr.com/newsflashes/3686837110828674?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 03:24:39",
+      "impact_score": 264.0
+    },
+    {
+      "index": 5,
+      "title": "Kimi连续融资超12亿美元，估值翻倍突破100亿美元",
+      "summary": "2月17日消息，在完成上一轮5亿美元融资仅一个多月后，月之暗面Kimi新一轮超7亿美元的融资即将完成交割，本轮由阿里、腾讯、五源、九安等老股东联合领投。此外，其新一轮100-120亿美元估值的融资亦已经开启，照此计算，Kimi最新估值直接翻倍并突破100亿美元大关，总额超12亿美元的连续两轮融资也是近一年来大模型行业的最高融资金额。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "估值",
+        "突破",
+        "融资",
+        "大模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3687027061091977?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 06:37:52",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "豆包除夕AI互动19亿次 Seedance2.0为春晚提供技术支持",
+      "summary": "2月16日，字节跳动旗下AI助手豆包与央视总台春晚联动，面向全国观众送出10万份科技好礼，并推出多项AI互动玩法。豆包方面披露，除夕当天豆包AI互动总数达19亿。春节场景下的AI图片生成、拜年祝福等玩法吸引用户参与。数据显示，“豆包过年”活动在除夕帮助用户生成超过5000万张新春主题头像、生成超过1亿条新春祝福。 今年是总台春晚历史上第一次用 AI 驱动全民实时创作互动。据字节跳动统计，除夕当天，",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "上线",
+        "AI",
+        "发布",
+        "合作",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/c1dBJmII8svTBsTC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-17 04:54:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "MOVA TPEAK登春晚、获黄仁勋点赞：Clip Pro耳机两个月完成“三级跳”",
+      "summary": "2月17日消息，从深圳到硅谷，从春晚舞台到用户耳边，新兴科技音频品牌MOVA TPEAK正在上演一场现象级的“加速跑”。 在刚刚过去的2026年央视春晚中，MOVA TPEAK完成了其在主流国民舞台的重磅首秀。春晚喜剧短剧《你准喜欢》，张小婉、周铁男、常诚等凭借精湛演技带火了剧情，出现在短剧中的MOVA TPEAK Clip Pro开放式耳夹耳机，则成为镜头之外观众目光的焦点。这款凭借时尚设计精准捕捉当代青年审美",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "创新",
+        "发布",
+        "开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KtAg1mRX2HLfYDo5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-17 04:45:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "追觅全智能生态亮相春晚《智造未来》，共同唱响中国智造时代强音",
+      "summary": "2月17日消息，2026年除夕夜，追觅科技以“智能科技生态战略合作伙伴”身份正式登陆央视春晚舞台。作为春晚历史上首个以完整智能生态亮相的智能科技生态品牌，追觅携全场景高端智能生态产品矩阵，向亿万家庭呈现中国新质生产力的时代图景。 在播出的歌曲节目《智造未来》中，陈小春、言承旭、罗嘉豪、易烊千玺四位来自大陆及港澳台的歌手，将追觅汽车、扫地机器人、智能空调、空气净化器、智能手表、智能眼镜等追觅全智能科技生态融入歌舞编",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "创新",
+        "合作",
+        "首次"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cQPxBzS8tWmTcSkb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-16 13:27:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "单个LLM已不够？华盛顿大学开源多模型协同框架MoCo",
+      "summary": "2月17日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "开源",
+        "LLM"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-16",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-16 02:10:17",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "印孚瑟斯与Anthropic合作推出高端企业级人工智能解决方案",
+      "summary": "2月17日消息，据印度科技公司印孚瑟斯（Infosys）向证券交易所发布的公告显示，该公司将与Anthropic合作，为电信、金融服务、制造业及软件开发领域的企业开发并提供高端企业级人工智能解决方案。双方合作将首先从电信行业启动，由Anthropic设立专门中心，用于构建和部署适配行业特定业务的人工智能智能体。随后，合作范围将扩展至其他行业。印孚瑟斯的Topaz 平台与Anthropic的Claude大模型将实现",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "发布",
+        "合作",
+        "人工智能",
+        "大模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3686903793921922?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 06:29:15",
+      "impact_score": 147.0
+    },
+    {
+      "index": 11,
+      "title": "2026春节档票房破10亿",
+      "summary": "2月17日消息，36氪获悉，据大麦娱乐旗下灯塔专业版数据，截至2月17日13时04分，2026春节档（2月15日-2月23日），档期总票房（含预售）突破10亿。千问发布的数据显示，过去两天，用户通过AI在大麦买电影票的订单环比增长372倍，其中来自三四线城市的AI订单量暴涨782倍。",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "AI",
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3686950368112257?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 05:19:51",
+      "impact_score": 147.0
+    },
+    {
+      "index": 12,
+      "title": "消息称英国监管机构考虑调整规则以吸引中国企业上市",
+      "summary": "2月17日消息，英国审计监管机构正在考虑调整会计规则，以鼓励中国公司赴伦敦上市。Financial Reporting Council周一表示，将就是否允许在中国注册的公司在伦敦发行全球存托凭证（GDR）时遵循中国的会计规则征询意见。全球存托凭证（GDR）是由银行发行、代表外国公司股票的凭证。根据该拟议的规则调整，中国公司在发行GDR时，将被允许在限定的一段时间内遵循中国的审计准则。根据现行规定，在伦敦发行GDR",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "上市",
+        "监管"
+      ],
+      "url": "https://36kr.com/newsflashes/3686789316701827?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 03:11:06",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "高盛称对冲基金对亚洲股票买入规模创十年来最高",
+      "summary": "2月17日消息，上周，对冲基金对亚洲新兴和发达市场的净买入规模创下高盛Prime Services交易台自2016年开始追踪该数据以来的最高纪录，该地区受益于市场对人工智能基础设施企业的乐观预期。该交易部门报告显示，上周对冲基金成为全球股票净买方，这是三周以来的首次，资金涌入所有主要市场 —— 但亚洲尤为突出。随着投资者轮换退出动量趋势，同时对美元走弱作出反应，新兴市场持续跑赢。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 140.5",
+      "tags": [
+        "投资",
+        "人工智能",
+        "首次"
+      ],
+      "url": "https://36kr.com/newsflashes/3686842102263682?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 04:34:45",
+      "impact_score": 140.5
+    },
+    {
+      "index": 14,
+      "title": "央行报告：2025年资管产品规模快速增长，主要投向同业存款和存单",
+      "summary": "2月17日消息，中国人民银行日前发布的报告显示，2025年末资管总资产余额合计120万亿元，同比增长13.1%。资管产品规模快速增长，新增资产主要投向同业存款和存单。根据报告，2025年末，资管产品配置同业存款和存单共计28.7万亿元，同比增长18.9%，全年累计增加4.6万亿元，占资管各类新增底层资产的五成左右，比重较上年同期提升超过20个百分点。报告强调，随着我国金融市场不断深化，直接融资加快发展，融资渠道更",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "发布",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3686786170253192?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 02:53:53",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "揭秘春晚“两个蔡明”背后，这家机器人公司的百日奋战",
+      "summary": "2月17日消息，文｜邱晓芬 编辑｜苏建勋 2026年马年央视春晚，当著名表演艺术家蔡明在小品《奶奶的最爱》中，缓缓推出一台和她一模一样的机器人时，中年观众集体梦回30年前的春晚小品《机器人趣话》。 △1996年，蔡明和郭达在春晚上演小品《机器人趣话》，蔡明自己扮演被送上门的“机器人”。图片来源：央视新闻视频截图 但蔡明终于不再扮演机器人了，30年后，蔡明只需做回“毒舌奶奶”。 “整活儿”的戏份，都交给真正的机器人",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "上线",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3686768807243401?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 02:16:47",
+      "impact_score": 132.0
+    },
+    {
+      "index": 16,
+      "title": "联合利华与谷歌云达成五年合作",
+      "summary": "2月17日消息，联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据及平台服务。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 112.5",
+      "tags": [
+        "合作",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3687131697131393?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 08:24:19",
+      "impact_score": 112.5
+    },
+    {
+      "index": 17,
+      "title": "对话王兴兴：搜遍全世界武术招式，宇树如何超越宇树",
+      "summary": "2月17日消息，文｜ 邱晓芬 编辑｜ 苏建勋 除夕之夜，2026年马年春晚还没结束，我们在北京大兴星光影视园的机器人训练基地里，见到了刚从总台录制现场匆匆赶回的宇树科技创始人王兴兴。 时间已接近午夜，但王兴兴依旧兴奋，他对宇树当晚的节目《武术BOT》的演出效果很满意——交流中，当王兴兴聊到技术细节时，平时内向的他，不断用肢体动作演示机器人打斗，语气也亢奋了许多。 宇树科技创始人王兴兴 ；“智能涌现”拍摄 “演出结",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "超越"
+      ],
+      "url": "https://36kr.com/p/3687105642737545?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 07:59:34",
+      "impact_score": 110.5
+    },
+    {
+      "index": 18,
+      "title": "宇树科技王兴兴：今年宇树科技的目标出货量在1-2万台左右",
+      "summary": "2月17日消息，宇树科技创始人王兴兴表示，此次参演的G1与H2人形机器人，其核心亮点在于全自主集群控制技术的首次亮相，实现全球第一次集群快速跑位，最快任意跑位速度可达4m/s。王兴兴预计，今年全世界人形机器人的出货量至少达到几万台，宇树科技的目标出货量在1-2万台左右。但他也指出，受限于具身智能大脑等技术瓶颈，人形机器人还处于应用早期。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "首次"
+      ],
+      "url": "https://36kr.com/newsflashes/3686814564151177?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 03:01:42",
+      "impact_score": 110.5
+    },
+    {
+      "index": 19,
+      "title": "英国2025年年底的薪资增长速度有所放缓",
+      "summary": "2月17日消息，36氪获悉，英国国家统计局周二表示，2025年最后三个月，剔除奖金后的年度工资增长率降至4.2%，低于前一年同期的水平。英国央行正在关注薪资情况，以此作为衡量英国高于目标水平的通胀状况会持续多久的一个指标。周一，投资者几乎完全定价英国央行将在今年年底前两次降息25个基点的预期，因为对通胀的担忧已让位于对就业市场和整体经济的忧虑。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 97.5",
+      "tags": [
+        "投资"
+      ],
+      "url": "https://36kr.com/newsflashes/3687101827100553?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 07:53:56",
+      "impact_score": 97.5
+    },
+    {
+      "index": 20,
+      "title": "丹纳赫接近以100亿美元收购迈心诺",
+      "summary": "2月17日消息，据英国金融时报援引未具名知情人士消息，美国医疗设备制造商丹纳赫（Danaher）即将达成一项近100亿美元的交易，收购医疗科技公司迈心诺（Masimo）。若不出现最后时刻意外，收购协议最早可能于周二宣布。丹纳赫与迈心诺均未立即回应媒体置评请求。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 97.5",
+      "tags": [
+        "收购"
+      ],
+      "url": "https://36kr.com/newsflashes/3686902150950536?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 06:00:38",
+      "impact_score": 97.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "DPBench: Large Language Models Struggle with Simultaneous Coordination",
+      "summary": "2月17日消息，arXiv:2602.13255v1 Announce Type: new Abstract: Large language models are increasingly deployed in multi-agent systems, yet we lack benchmarks that test whether they can coordinate under resource cont",
+      "importance": "高",
+      "reason": "影响力评分: 300.0",
+      "tags": [
+        "AI",
+        "LLM",
+        "GPT-5",
+        "Grok 4",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2602.13255",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "Variation is the Key: A Variation-Based Framework for LLM-Generated Text Detection",
+      "summary": "2月17日消息，arXiv:2602.13226v1 Announce Type: new Abstract: Detecting text generated by large language models (LLMs) is crucial but challenging. Existing detectors depend on impractical assumptions, such as white",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "LLM",
+        "AGI",
+        "large language model",
+        "outperforms",
+        "state-of-the-art"
+      ],
+      "url": "https://arxiv.org/abs/2602.13226",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "China AI Startup Moonshot Targets $10 Billion Valuation",
+      "summary": "2月17日消息，Moonshot is targeting a valuation of $10 billion in an expansion of a funding round already backed by Alibaba Group Holding Ltd. and Tencent Holdings Ltd., seeking to tap strong interest in Chinese st",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-17/china-ai-startup-moonshot-seeks-10-billion-value-in-new-funding",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-17 05:21:35",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "ProMoral-Bench: Evaluating Prompting Strategies for Moral Reasoning and Safety in LLMs",
+      "summary": "2月17日消息，arXiv:2602.13274v1 Announce Type: new Abstract: Prompt design significantly impacts the moral competence and safety alignment of large language models (LLMs), yet empirical comparisons remain fragment",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "AI",
+        "LLM",
+        "reasoning",
+        "alignment",
+        "AGI"
+      ],
+      "url": "https://arxiv.org/abs/2602.13274",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "NL2LOGIC: AST-Guided Translation of Natural Language into First-Order Logic with Large Language Models",
+      "summary": "2月17日消息，arXiv:2602.13237v1 Announce Type: new Abstract: Automated reasoning is critical in domains such as law and governance, where verifying claims against facts in documents requires both accuracy and inte",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AI",
+        "AGI",
+        "large language model",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2602.13237",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Musk’s X Probed by Irish Data Watchdog Over Grok Sexual Images",
+      "summary": "2月17日消息，Ireland’s data protection watchdog has launched an investigation into X over concerns about sexualized images created and published using the Grok AI chatbot.",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "investigation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-17/musk-s-x-probed-by-irish-data-watchdog-over-grok-sexual-images",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-17 00:01:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "Ukraine’s Graft Probe Engulfs Ex-Minister After Failed Escape",
+      "summary": "2月17日消息，A former Ukrainian energy minister has become a suspect in a far-reaching corruption investigation that shook the administration of President Volodymyr Zelenskiy and forced out his top aide last year.",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "investigation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-16/ukraine-s-graft-probe-engulfs-ex-minister-after-failed-escape",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-16 09:02:20",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "Large-Scale Pilots of AI and GenAI for Medical Imaging",
+      "summary": "2月17日消息，Large-Scale Pilots of AI and GenAI for Medical Imaging Anonymous (not verified) Mon, 02/16/2026 - 09:04 Opening: 21 April 2026 Closing: 01 October 2026 Commission launches call for proposals to fund l",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "launches",
+        "AGI"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/funding/large-scale-pilots-ai-and-genai-medical-imaging",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-02-16 08:04:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "KPMG partner fined over using AI to pass AI test",
+      "summary": "2月17日消息，Accounting firm has caught several staff members in recent months using the technology for internal exams",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "fine"
+      ],
+      "url": "https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-16 03:21:25",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation",
+      "summary": "2月17日消息，arXiv:2602.13280v1 Announce Type: new Abstract: Simulating student learning behaviors in open-ended problem-solving environments holds potential for education research, from training adaptive tutoring",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "AI",
+        "privacy",
+        "LLM",
+        "bias",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2602.13280",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+      "summary": "2月17日消息，The NVIDIA Blackwell platform has been widely adopted by leading inference providers such as Baseten, DeepInfra, Fireworks AI and Together AI to reduce cost per token by up to 10x. Now, the NVIDIA Bla",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "Blackwell"
+      ],
+      "url": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-02-16 17:00:40",
+      "impact_score": 132.0
+    },
+    {
+      "index": 12,
+      "title": "Lang2Act: Fine-Grained Visual Reasoning through Self-Emergent Linguistic Toolchains",
+      "summary": "2月17日消息，arXiv:2602.13235v1 Announce Type: new Abstract: Visual Retrieval-Augmented Generation (VRAG) enhances Vision-Language Models (VLMs) by incorporating external visual documents to address a given query.",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "fine",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2602.13235",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 13,
+      "title": "Contrastive explanations of BDI agents",
+      "summary": "2月17日消息，arXiv:2602.13323v1 Announce Type: new Abstract: The ability of autonomous systems to provide explanations is important for supporting transparency and aiding the development of (appropriate) trust. Pr",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "fine",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2602.13323",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 14,
+      "title": "Adani Plans to Invest $100 Billion in AI-Ready Data Centers",
+      "summary": "2月17日消息，Adani Group plans to invest $100 billion by 2035 to develop green-powered, AI-ready data centers as billionaire Gautam Adani seeks to capitalize on India’s bid to emerge as a hub for artificial intell",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-17/adani-plans-to-invest-100-billion-in-ai-data-centers-by-2035",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-17 07:24:27",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "AI Scare’s $56 Billion Hit Tests Resilience of India’s IT Stocks",
+      "summary": "2月17日消息，For investors bullish on India’s technology services industry, the “AI scare trade” has created an opportunity to buy shares of companies that are able to survive the doomsday predictions.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-16/ai-scare-s-56-billion-hit-tests-resilience-of-india-s-it-stocks",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-16 23:30:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+      "summary": "2月17日消息，The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "founder",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-16 17:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "Tuning into the future of collaboration",
+      "summary": "2月17日消息，When work went remote, the sound of business changed. What began as a scramble to make home offices functional has evolved into a revolution in how people hear and are heard. From education to enterpr",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AGI"
+      ],
+      "url": "https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-02-16 15:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 18,
+      "title": "Aberdeen Says €7.8 Billion InPost Buyout Bid Undervalues Company",
+      "summary": "2月17日消息，Aberdeen Group Plc will vote against a consortium’s buyout offer for InPost SA, saying the proposal fails to reflect the Polish parcel locker operator’s intrinsic value or long-term growth trajectory.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-16/aberdeen-says-7-8-billion-inpost-buyout-bid-undervalues-company",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-16 13:51:23",
+      "impact_score": 127.5
+    },
+    {
+      "index": 19,
+      "title": "Musk Merger Puts New Twist on X as Everything App",
+      "summary": "2月17日消息，Social platform in different position after combination of SpaceX-xAI",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "merger"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-16/musk-s-spacex-xai-merger-puts-new-twist-on-x-as-an-everything-app",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-16 12:02:01",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "Mubadala, Saudi Billionaire Family Invest in Egypt’s Breadfast",
+      "summary": "2月17日消息，The United Arab Emirates’ $330 billion sovereign wealth fund, a Saudi billionaire family and Japan’s SBI Investment Co. have backed Egyptian startup Breadfast in its latest financing round, as the e-c",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-16/mubadala-saudi-billionaire-family-invest-in-egypt-s-breadfast",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-16 10:02:32",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从123条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18；今年已有143家企业递表港股IPO；最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 97,
+    "raw_total": 123,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月16日除夕当天，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，性能媲美Gemini 3 Pro，登顶全球最强开源模型。千问3.5实现了底层模型架构的全面革新，此次发布的Qwen3.5-Plus版本总参数为3970亿，激活仅170亿，以小胜大，性能超过万亿参数的Qwen3-Max模型，部署显存占用降低60%，推理效率大幅提升，最大推理吞吐量可提升至19倍。Qwen3.5-Plus的AP",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月17日消息，Wind数据显示，2026年以来，已有143家企业完成了港股IPO递表，其中120家为首次递表。截至2月16日，港股市场仍有401宗新股申请仍在处理之中，包括4家已通过聆讯的企业。德勤中国资本市场服务部预测，2026年香港新股市场或更胜去年，料约160只新股融资不少于3000亿港元。一个值得关注的趋势是，近期在港股上市的科技类企业正在受到国内外长线资金追捧。例如澜起科技17家基石投资者共认购约4.",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月17日消息，这还只是阿里春节档第一弹",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月17日大年初一凌晨，千问发布的数据显示，春节活动期间，全国超过1.3亿人第一次体验AI购物，说了50亿次“千问帮我”。过去两天，用户用AI买门票的订单环比增长22倍，AI订机票等交通票务单量增长超7倍。随着春节档电影上线，用户用AI买电影票的订单环比增长372倍，其中来自三四线城市的AI订单量更是暴涨782倍。所有AI订单中，近一半订单来自县城，近400万60岁以上用户体验了AI购物。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月17日消息，在完成上一轮5亿美元融资仅一个多月后，月之暗面Kimi新一轮超7亿美元的融资即将完成交割，本轮由阿里、腾讯、五源、九安等老股东联合领投。此外，其新一轮100-120亿美元估值的融资亦已经开启，照此计算，Kimi最新估值直接翻倍并突破100亿美元大关，总额超12亿美元的连续两轮融资也是近一年来大模型行业的最高融资金额。（财联社）",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月17日消息，arXiv:2602.13255v1 Announce Type: new Abstract: Large language models are increasingly deployed in multi-agent systems, yet we lack benchmarks that test whether they can coordinate under resource cont",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月17日消息，arXiv:2602.13226v1 Announce Type: new Abstract: Detecting text generated by large language models (LLMs) is crucial but challenging. Existing detectors depend on impractical assumptions, such as white",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月17日消息，Moonshot is targeting a valuation of $10 billion in an expansion of a funding round already backed by Alibaba Group Holding Ltd. and Tencent Holdings Ltd., seeking to tap strong interest in Chinese st",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月17日消息，arXiv:2602.13274v1 Announce Type: new Abstract: Prompt design significantly impacts the moral competence and safety alignment of large language models (LLMs), yet empirical comparisons remain fragment",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月17日消息，arXiv:2602.13237v1 Announce Type: new Abstract: Automated reasoning is critical in domains such as law and governance, where verifying claims against facts in documents requires both accuracy and inte",
+      "importance": "高"
+    }
+  ]
+}
