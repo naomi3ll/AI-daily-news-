@@ -1,0 +1,693 @@
+{
+  "date": "2026-02-20",
+  "generated_at": "2026-02-20 08:31:09",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B",
+      "summary": "2月20日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "SOTA",
+        "AI",
+        "超越"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-19-4",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-19 12:57:26",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "智谱 、MINIMAX市值突破3000亿港元，超越快手、携程",
+      "summary": "2月20日，港股开盘后，大模型公司智谱和MINIMAX股价均大幅上涨，创上市以来新高。截至发稿，智谱股价上涨36%至 691港元，MiniMax股价上涨12%至957港元，两家大模型企业市值均突破3000亿，接连超越携程、快手和京东市值，逼近泡泡玛特（3273亿港元）与百度（3500亿港元）。（第一财经）",
+      "importance": "高",
+      "reason": "影响力评分: 251.0",
+      "tags": [
+        "大模型",
+        "突破",
+        "上市",
+        "超越"
+      ],
+      "url": "https://36kr.com/newsflashes/3691371949878915?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 08:17:43",
+      "impact_score": 251.0
+    },
+    {
+      "index": 3,
+      "title": "港交所主席唐家成：排队等候上市的还有488家",
+      "summary": "2月20日，港交所主席唐家成在致辞中分享了一组数据：2026年以来，香港已有24只IPO（首次公开募股）上市，集资额突破870亿港元。“整个马年，以2026年来说，我们已经开了一个好头。”唐家成感叹道：“排队等候上市的还有488家。大家从来没有这么忙过，但忙得开心，因为这代表市场活跃、货如轮转。”唐家成强调，在追求“量”的同时，港交所对“质”的把控绝不松懈。审核过程中的严格把关，旨在确保香港持续作",
+      "importance": "高",
+      "reason": "影响力评分: 236.0",
+      "tags": [
+        "首次",
+        "突破",
+        "IPO",
+        "上市"
+      ],
+      "url": "https://36kr.com/newsflashes/3691380916186753?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 08:26:50",
+      "impact_score": 236.0
+    },
+    {
+      "index": 4,
+      "title": "突破2.7万车次，港珠澳大桥春节单日车流量创历史新高",
+      "summary": "2月20日消息，据广东省交通运输厅消息，2月19日（正月初三），港珠澳大桥双向车流量突破2.7万车次，刷新大桥通车以来单日历史纪录、再创新高（此前纪录为2025年正月初四2.66万车次）。今年春节假期前五天（腊月廿八至年初三）大桥车流量达10.46万车次，日均约2.1万车次，与去年春节同期相比增长24.49%。（央视新闻）",
+      "importance": "高",
+      "reason": "影响力评分: 221.0",
+      "tags": [
+        "突破",
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3691194789801860?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 05:17:30",
+      "impact_score": 221.0
+    },
+    {
+      "index": 5,
+      "title": "本土咖啡机制造商格米莱申请港交所IPO：中国市占率第二，自有品牌收入占比达83.3%",
+      "summary": "2月20日消息，近日，本土咖啡机制造商格米莱控股有限公司（下称“格米莱”）正式向港交所递交主板上市申请，中信证券担任独家保荐人。官网及招股书信息显示，这家成立于广东顺德的咖啡机企业，历史可追溯至2011年，公司历经代工、贸易、品牌三个阶段，现已建立起涵盖产品设计、制造、销售及售后服务等综合业务模式。（澎湃新闻）",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "IPO",
+        "上市"
+      ],
+      "url": "https://36kr.com/newsflashes/3691373028175494?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 08:18:49",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
+      "summary": "2月20日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 170.0",
+      "tags": [
+        "Gemini 3",
+        "首次"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381460.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-20 01:25:54",
+      "impact_score": 170.0
+    },
+    {
+      "index": 7,
+      "title": "太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地",
+      "summary": "2月20日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "大模型",
+        "上线"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381415.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-19 06:11:38",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "奥尔特曼预言：超级智能将超越人类CEO与顶尖科学家，“包括我自己”",
+      "summary": "2月20日消息，OpenAI CEO 山姆·奥尔特曼在印度AI影响力峰会上表示，我们可能距离真正超级智能的早期版本只有几年时间了。到2028年底，全球更多的智力资源可能会存储在数据中心内，而不是数据中心外。他还预计，在某种程度上，超级智能将能够胜任一家大型公司的CEO，比任何高管都做得更好，当然也包括他自己，或者能比人类最顶尖的科学家做出更好的研究。（第一财经）",
+      "importance": "高",
+      "reason": "影响力评分: 140.5",
+      "tags": [
+        "AI",
+        "CEO",
+        "超越"
+      ],
+      "url": "https://36kr.com/newsflashes/3691109924990851?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 03:51:11",
+      "impact_score": 140.5
+    },
+    {
+      "index": 9,
+      "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
+      "summary": "2月20日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "Gemini 3"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-20",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-20 00:53:39",
+      "impact_score": 135.0
+    },
+    {
+      "index": 10,
+      "title": "懂人性更懂执行，蚂蚁这个万亿开源模型把情商和Agent战斗力都给拉满了",
+      "summary": "2月20日消息，万亿参数的大块头也能身轻如燕",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381300.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-19 04:47:47",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "AMD英伟达都投了！李飞飞创业公司官宣10亿新融资",
+      "summary": "2月20日消息，李飞飞开年访谈信息量好大",
+      "importance": "高",
+      "reason": "影响力评分: 132.5",
+      "tags": [
+        "融资"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381378.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-19 04:49:30",
+      "impact_score": 132.5
+    },
+    {
+      "index": 12,
+      "title": "微软CEO：很高兴能将Grok 4.1 Fast添加到多模型产品系列中",
+      "summary": "2月20日，微软CEO萨提亚·纳德拉发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "Grok 4",
+        "CEO"
+      ],
+      "url": "https://36kr.com/newsflashes/3691306569969285?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 07:11:13",
+      "impact_score": 132.0
+    },
+    {
+      "index": 13,
+      "title": "恒生科技指数跌近3%，智谱及MiniMax市值双双逆势突破3000亿港元",
+      "summary": "2月20日，香港恒生指数收跌1.10%，恒生科技指数收跌2.91%。互联网科技股普跌，百度跌超6%，阿里巴巴跌近5%。半导体股走弱，华虹半导体跌近6%，中芯国际跌超3%。国产AI大模型板块逆势收涨，智谱涨近43%，MiniMax涨超14%，两者市值双双冲破3000亿港元。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 125.5",
+      "tags": [
+        "大模型",
+        "AI",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3691369055530889?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 08:14:47",
+      "impact_score": 125.5
+    },
+    {
+      "index": 14,
+      "title": "希腊启动“灯塔”项目推动人工智能发展",
+      "summary": "2月20日消息，希腊政府官员19日表示，希腊人工智能平台项目“灯塔”将于2026年第一季度全面投入运行，旨在为初创企业、大学和科研机构等提供算力、数据和技术支持，推动人工智能创新发展。（新华社）",
+      "importance": "高",
+      "reason": "影响力评分: 125.5",
+      "tags": [
+        "人工智能",
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3691337788993411?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 07:42:58",
+      "impact_score": 125.5
+    },
+    {
+      "index": 15,
+      "title": "美航空航天局认定“星际客机”载人试飞为最高等级事故",
+      "summary": "2月20日消息，美国航空航天局19日发布针对波音公司“星际客机”载人试飞任务的调查报告，认定此次因飞船故障导致宇航员滞留国际空间站的试飞为严重程度等级最高的“A类”事故。美航空航天局表示，由于“星际客机”飞船在搭载宇航员接近国际空间站时失去机动能力，并造成相关经济损失，因此认定此次试飞为A类事故。根据美航空航天局的事故分类，A类事故包括导致人员死亡或永久性完全残疾、任务失败导致直接财产损失达到或超过200万美元、",
+      "importance": "高",
+      "reason": "影响力评分: 117.0",
+      "tags": [
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3691303160901505?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 07:07:45",
+      "impact_score": 117.0
+    },
+    {
+      "index": 16,
+      "title": "Swift：1月人民币全球支付占比为3.13% 升至全球第五大活跃货币",
+      "summary": "2月20日消息，环球银行金融电信协会（Swift）当地时间2月19日发布的人民币月度报告和数据统计显示，2026年1月，在基于金额统计的全球支付货币排名中，人民币以3.13%的占比，在全球支付领域排名第五，较2025年12月向前一位。与2025年12月相比，人民币支付金额总体增加了11.44%，同时所有货币支付金额总体减少了2.68%。若以欧元区以外的国际支付作为统计口径，2026年1月，人民币位列第六，占比2.",
+      "importance": "高",
+      "reason": "影响力评分: 117.0",
+      "tags": [
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3691188195978886?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 05:10:48",
+      "impact_score": 117.0
+    },
+    {
+      "index": 17,
+      "title": "智谱尾盘涨幅一度扩大至37%，总市值突破3000亿港元",
+      "summary": "2月20日，智谱尾盘涨幅一度扩大至37%，总市值突破3000亿港元。（每日经济新闻）",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3691360624750466?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 08:06:12",
+      "impact_score": 110.5
+    },
+    {
+      "index": 18,
+      "title": "2026春节档票房突破35亿",
+      "summary": "2月20日消息，36氪获悉，2月20日，据猫眼专业版数据，2026年春节档档期总票房（含预售）破35亿，《飞驰人生3》《惊蛰无声》《熊出没·年年有熊》分列前三位。",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3691329417506437?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 07:34:27",
+      "impact_score": 110.5
+    },
+    {
+      "index": 19,
+      "title": "2026年度电影总票房突破60亿",
+      "summary": "2月20日消息，据网络平台数据，截至2月20日15时07分，2026年年度电影总票房（含预售）突破60亿。截至目前，春节档电影总票房（含预售）已突破34亿元。其中，《飞驰人生3》《惊蛰无声》《熊出没·年年有熊》位列前三。 (央视新闻)",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3691308578893696?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 07:13:15",
+      "impact_score": 110.5
+    },
+    {
+      "index": 20,
+      "title": "2026春节档总票房（含预售）突破33亿",
+      "summary": "2月20日，据网络平台数据，截至2月20日12时24分，2026春节档（2月15日-2月23日）档期总票房（含预售）突破33亿。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3691190858657672?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 05:13:30",
+      "impact_score": 110.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+      "summary": "2月20日消息，Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "Gemini 3",
+        "Gemini Pro",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-20 00:55:22",
+      "impact_score": 249.0
+    },
+    {
+      "index": 2,
+      "title": "From integration chaos to digital clarity: Nutrien Ag Solutions’ post-acquisition reset",
+      "summary": "2月20日消息，Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Sriram Kalyan, head of applications and data at Nutrien Ag Sol",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "merger",
+        "AI",
+        "acquisition"
+      ],
+      "url": "https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-02-19 08:48:53",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "LLM-WikiRace: Benchmarking Long-term Planning and Reasoning over Real-World Knowledge Graphs",
+      "summary": "2月20日消息，arXiv:2602.16902v1 Announce Type: new Abstract: We introduce LLM-Wikirace, a benchmark for evaluating planning, reasoning, and world knowledge in large language models (LLMs). In LLM-Wikirace, models ",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "reasoning",
+        "AI",
+        "large language model",
+        "GPT-5",
+        "Opus"
+      ],
+      "url": "https://arxiv.org/abs/2602.16902",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-20 05:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+      "summary": "2月20日消息，OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "valuation",
+        "AI",
+        "billion"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-19 15:35:58",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Figma Gains on Strong Growth Outlook That Eases AI Fears",
+      "summary": "2月20日消息，Figma gave an annual revenue outlook that topped estimates, easing Wall Street anxiety that the business is threatened by the emergence of rival artificial intelligence products. Sales will be about $",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "artificial intelligence",
+        "AI",
+        "billion",
+        "CEO",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/figma-gains-on-strong-growth-outlook-that-eases-ai-fears-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 22:39:53",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "India AI-Linked Plays Surge as Modi Hobnobs With Altman, Amodei",
+      "summary": "2月20日消息，Indian data center–related shares rallied this week, as the country’s Prime Minister Narendra Modi reiterated its ambition to emerge as a global hub for AI in the presence of OpenAI’s Sam Altman and A",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "Dario Amodei",
+        "AI",
+        "Sam Altman"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-20/india-ai-linked-plays-surge-as-modi-hobnobs-with-altman-amodei",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 06:16:18",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI and Anthropic’s rivalry on display as CEOs avoid holding hands at AI summit",
+      "summary": "2月20日消息，OpenAI’s Sam Altman and Anthropic’s Dario Amodei had an awkward moment at a major AI summit, with the two CEOs of competing AI giants opting not to link hands.",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "Dario Amodei",
+        "AI",
+        "CEO",
+        "Sam Altman"
+      ],
+      "url": "https://www.cnbc.com/2026/02/19/openai-sam-altman-anthropic-dario-amodei-india-ai-summit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-20 05:39:45",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Zuckerberg Says ‘Difficult’ to Enforce Instagram Age Limits",
+      "summary": "2月20日消息，Meta CEO Mark Zuckerberg told a jury it is ‘difficult’ to enforce age restrictions on teens using Instagram. Mary Anne Franks, George Washington University Law School Professor in Intellectual Propert",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/zuckerberg-difficult-to-enforce-instagram-age-limits-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 19:42:31",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "\"The CEO Club\" Stars Including Winnie Harlow on Premiere",
+      "summary": "2月20日消息，Winnie Harlow, supermodel and founder of Cay Skin; Dee Ocleppo Hilfiger, former model and designer; Loren Ridinger, CEO of Market America; and Isabela Grutman, founder of ISA Grutman, discuss The CEO ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "founder",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/-the-ceo-club-stars-including-winnie-harlow-on-premiere-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 23:35:45",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "Narrow fine-tuning erodes safety alignment in vision-language agents",
+      "summary": "2月20日消息，arXiv:2602.16931v1 Announce Type: new Abstract: Lifelong multimodal agents must continuously adapt to new tasks through post-training, but this creates fundamental tension between acquiring capabiliti",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "fine",
+        "AI",
+        "valuation",
+        "multimodal",
+        "alignment"
+      ],
+      "url": "https://arxiv.org/abs/2602.16931",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-20 05:00:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 11,
+      "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
+      "summary": "2月20日消息，When Prime Minister Narendra Modi prompted speakers at the event to join hands and raise them in a show of unity, all executives onstage obliged, except OpenAI's Sam Altman and Anthropic's Dario Amode",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "Dario Amodei",
+        "AI",
+        "Sam Altman"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-19 13:49:06",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "Bitcoin Will Make the World Wealthier, Tim Draper Says",
+      "summary": "2月20日消息，Draper Associates founder and Managing Partner Tim Draper says Bitcoin is \"the greatest thing to happen to humanity\" while discussing the recent selloff in crypto with Katie Greifeld and Romaine Bosti",
+      "importance": "高",
+      "reason": "影响力评分: 157.5",
+      "tags": [
+        "AI",
+        "founder",
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/bitcoin-will-make-the-world-wealthier-tim-draper-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 22:30:26",
+      "impact_score": 157.5
+    },
+    {
+      "index": 13,
+      "title": "DeepContext: Stateful Real-Time Detection of Multi-Turn Adversarial Intent Drift in LLMs",
+      "summary": "2月20日消息，arXiv:2602.16935v1 Announce Type: new Abstract: While Large Language Model (LLM) capabilities have scaled, safety guardrails remain largely stateless, treating multi-turn dialogues as a series of disc",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "neural network",
+        "fine",
+        "AI",
+        "large language model",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2602.16935",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-20 05:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+      "summary": "2月20日消息，AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "SOTA",
+        "AI"
+      ],
+      "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-02-19 16:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "Software Rout Wipes $7.2 Billion Off Atlassian Founders’ Wealth",
+      "summary": "2月20日消息，Michael Cannon-Brookes became a billionaire in his 30s and one of Australia’s richest tech executives with the initial public offering of software-as-a-service firm Atlassian Corp. just over a decade ",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "founder",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/software-rout-wipes-7-2-billion-off-atlassian-founders-wealth",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 07:39:18",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "summary": "2月20日消息，arXiv:2602.16763v1 Announce Type: new Abstract: Artificial Intelligence (AI) benchmarks play a central role in measuring progress in model development and guiding deployment decisions. However, many b",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "artificial intelligence",
+        "AI",
+        "large language model",
+        "valuation",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2602.16763",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-20 05:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 17,
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "summary": "2月20日消息，3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "Gemini 3"
+      ],
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-02-19 16:06:14",
+      "impact_score": 135.0
+    },
+    {
+      "index": 18,
+      "title": "Reload wants to give your AI agents a shared memory",
+      "summary": "2月20日消息，Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "announces",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-19 15:00:00",
+      "impact_score": 132.0
+    },
+    {
+      "index": 19,
+      "title": "Freeform raises $67M Series B to scale up laser AI manufacturing",
+      "summary": "2月20日消息，“I think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "H200",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-19 13:00:00",
+      "impact_score": 132.0
+    },
+    {
+      "index": 20,
+      "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+      "summary": "2月20日消息，Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "unveils",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-19 11:39:17",
+      "impact_score": 132.0
+    }
+  ],
+  "summary": "今日从157条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B；智谱 、MINIMAX市值突破3000亿港元，超越快手、携程；港交所主席唐家成：排队等候上市的还有488家。",
+  "statistics": {
+    "raw_domestic": 24,
+    "raw_international": 133,
+    "raw_total": 157,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月20日消息，",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月20日，港股开盘后，大模型公司智谱和MINIMAX股价均大幅上涨，创上市以来新高。截至发稿，智谱股价上涨36%至 691港元，MiniMax股价上涨12%至957港元，两家大模型企业市值均突破3000亿，接连超越携程、快手和京东市值，逼近泡泡玛特（3273亿港元）与百度（3500亿港元）。（第一财经）",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月20日，港交所主席唐家成在致辞中分享了一组数据：2026年以来，香港已有24只IPO（首次公开募股）上市，集资额突破870亿港元。“整个马年，以2026年来说，我们已经开了一个好头。”唐家成感叹道：“排队等候上市的还有488家。大家从来没有这么忙过，但忙得开心，因为这代表市场活跃、货如轮转。”唐家成强调，在追求“量”的同时，港交所对“质”的把控绝不松懈。审核过程中的严格把关，旨在确保香港持续作",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月20日消息，据广东省交通运输厅消息，2月19日（正月初三），港珠澳大桥双向车流量突破2.7万车次，刷新大桥通车以来单日历史纪录、再创新高（此前纪录为2025年正月初四2.66万车次）。今年春节假期前五天（腊月廿八至年初三）大桥车流量达10.46万车次，日均约2.1万车次，与去年春节同期相比增长24.49%。（央视新闻）",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月20日消息，近日，本土咖啡机制造商格米莱控股有限公司（下称“格米莱”）正式向港交所递交主板上市申请，中信证券担任独家保荐人。官网及招股书信息显示，这家成立于广东顺德的咖啡机企业，历史可追溯至2011年，公司历经代工、贸易、品牌三个阶段，现已建立起涵盖产品设计、制造、销售及售后服务等综合业务模式。（澎湃新闻）",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月20日消息，Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月20日消息，Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Sriram Kalyan, head of applications and data at Nutrien Ag Sol",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月20日消息，arXiv:2602.16902v1 Announce Type: new Abstract: We introduce LLM-Wikirace, a benchmark for evaluating planning, reasoning, and world knowledge in large language models (LLMs). In LLM-Wikirace, models ",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月20日消息，OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月20日消息，Figma gave an annual revenue outlook that topped estimates, easing Wall Street anxiety that the business is threatened by the emergence of rival artificial intelligence products. Sales will be about $",
+      "importance": "高"
+    }
+  ]
+}
