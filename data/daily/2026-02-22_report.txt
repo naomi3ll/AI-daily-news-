@@ -1,0 +1,178 @@
+======================================================================
+AI每日动态 - 2026-02-22
+生成时间: 2026-02-22 08:21:30
+数据来源: 从 52 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、2月22日消息，一个“最赛博朋克”的春节，互联网巨头押注“AI新世界”。 文 ｜章航英 2026年春节，手机微信群被持续轰炸。 从2月初至今，很多人不是在元宝抢红包，就是在千问买年货、点奶茶，或者在豆包里忙抽奖，一轮轮持续升级的春节“红包大战”，将元宝、千问和豆包等AI应用，轮番送上应用榜单下载榜首。 中国互联网巨头正“集体加码”，阿里、腾讯、百度、字节跳动、京东等在春节档投下的预算合计或将超过80亿元。 其中，
+2、2月22日消息，AI的造富效应，的确惊人。 作者丨王满华 编辑丨王庆武 来源丨投中网 港股市场的AI热潮从节前一路燃烧至节后，而在这场狂欢中，MiniMax与智谱无疑是最耀眼的主角。 2月20日，马年港股迎来首个交易日，国产AI大模型“双子星”股价双双冲高。截至收盘，智谱大涨42.72%，报725港元/股；MiniMax亦涨超14%，报970港元/股，两家公司市值携手突破3000亿港元大关。 3000亿港元是什么
+3、2月22日消息，硅谷创始人与公司之间的“生死同盟”正在瓦解 硅谷，曾以“改变世界”为信仰的科技乌托邦，如今已沦为赤裸裸的人才角斗场。创始人与公司之间的“生死同盟”正在瓦解，取而代之的是一份份价值数亿美元的报价单和永不停歇的“转会”闹剧。 自2025年中期以来，Meta、谷歌、英伟达三大巨头已经在所谓“收购性招聘”的游戏中豪掷超过360亿美元，这不是传统收购，而是对顶尖人才的直接掠夺。与此同时，OpenAI与Ant
+4、2月22日，阿里云Coding Plan订阅服务新增支持Qwen3.5-Plus、Qwen3-Coder-Next、GLM-4.7、Kimi-K2.5共4款顶尖编程模型，用户无需更改订阅和配置即可自由切换。阿里云Coding Plan还上线了优惠活动，即日起，新用户首购可享2折优惠，首月18000次请求额度仅需7.9元，90000次请求仅需39.9元。 AI Agent是目前大模型的主要应用载体，
+5、2月22日消息，编辑：元宇 KingHZ 【新智元导读】硅谷最离谱宫斗：Ilya因嫉妒Jakub的「震撼突破」而点燃OpenAI火药桶，奥特曼被董事会踢出，引发高管离职潮。算力不足和预算挤压是根源，2026年文件曝光后，Ilya「塌房」。 2023年，OpenAI上演了硅谷版「权力的游戏」：奥特曼在一无所知的情况，被当时的首席技术官Mira Murati 和首席科学家Ilya联手踢出OpenAI。 山姆·奥特曼被
+
+国际动态：
+1、2月22日消息，The founder of Wikipedia said he isn’t worried about the threat posed to the free online encyclopedia from AI-generated content, including from Elon Musk’s Grokipedia, because of how error-prone the i
+2、2月22日消息，The Justice Department’s investigation of Netflix Inc.’s proposed $72 billion takeover of Warner Bros. Discovery Inc. includes scrutiny of the streaming giant’s behavior and whether it wields anticomp
+3、2月22日消息，Sarvam's Indus chat app is currently available in beta.
+4、2月22日消息，Vietnam said US President Donald Trump told Communist Party chief To Lam he will remove the nation from the US’s list of restrictions on advanced technologies and welcomed Hanoi’s efforts to narrow th
+5、2月22日消息，Research that shows LLMs memorise more training data than previously thought raises questions about copyright infringement
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 2月22日消息，一个“最赛博朋克”的春节，互联网巨头押注“AI新世界”。 文 ｜章航英 2026年春节，手机微信群被持续轰炸。 从2月初至今，很多人不是在元宝抢红包，就是在千问买年货、点奶茶，或者在豆包里忙抽奖，一轮轮持续升级的春节“红包大战”，将元宝、千问和豆包等AI应用，轮番送上应用榜单下载榜首。 中国互联网巨头正“集体加码”，阿里、腾讯、百度、字节跳动、京东等在春节档投下的预算合计或将超过80亿元。 其中，
+   📋 入选理由: 影响力评分: 381.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3693887791459976?f=rss
+   🏷️ 标签: 开源, 合作, 发布, AI, 上线
+
+2、🔥 2月22日消息，AI的造富效应，的确惊人。 作者丨王满华 编辑丨王庆武 来源丨投中网 港股市场的AI热潮从节前一路燃烧至节后，而在这场狂欢中，MiniMax与智谱无疑是最耀眼的主角。 2月20日，马年港股迎来首个交易日，国产AI大模型“双子星”股价双双冲高。截至收盘，智谱大涨42.72%，报725港元/股；MiniMax亦涨超14%，报970港元/股，两家公司市值携手突破3000亿港元大关。 3000亿港元是什么
+   📋 入选理由: 影响力评分: 279.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3693876116844424?f=rss
+   🏷️ 标签: 开源, 突破, 上市, 发布, 超越
+
+3、🔥 2月22日消息，硅谷创始人与公司之间的“生死同盟”正在瓦解 硅谷，曾以“改变世界”为信仰的科技乌托邦，如今已沦为赤裸裸的人才角斗场。创始人与公司之间的“生死同盟”正在瓦解，取而代之的是一份份价值数亿美元的报价单和永不停歇的“转会”闹剧。 自2025年中期以来，Meta、谷歌、英伟达三大巨头已经在所谓“收购性招聘”的游戏中豪掷超过360亿美元，这不是传统收购，而是对顶尖人才的直接掠夺。与此同时，OpenAI与Ant
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3693790818267011?f=rss
+   🏷️ 标签: CEO, 投资, AI, 反垄断, 收购
+
+4、🔥 2月22日，阿里云Coding Plan订阅服务新增支持Qwen3.5-Plus、Qwen3-Coder-Next、GLM-4.7、Kimi-K2.5共4款顶尖编程模型，用户无需更改订阅和配置即可自由切换。阿里云Coding Plan还上线了优惠活动，即日起，新用户首购可享2折优惠，首月18000次请求额度仅需7.9元，90000次请求仅需39.9元。 AI Agent是目前大模型的主要应用载体，
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/YcpxNqf22S9oxi7j.html
+   🏷️ 标签: 上线, Gemini 3, AI, 大模型
+
+5、🔥 2月22日消息，编辑：元宇 KingHZ 【新智元导读】硅谷最离谱宫斗：Ilya因嫉妒Jakub的「震撼突破」而点燃OpenAI火药桶，奥特曼被董事会踢出，引发高管离职潮。算力不足和预算挤压是根源，2026年文件曝光后，Ilya「塌房」。 2023年，OpenAI上演了硅谷版「权力的游戏」：奥特曼在一无所知的情况，被当时的首席技术官Mira Murati 和首席科学家Ilya联手踢出OpenAI。 山姆·奥特曼被
+   📋 入选理由: 影响力评分: 155.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3693861726826112?f=rss
+   🏷️ 标签: 突破, CEO, AI, AI安全
+
+6、🔥 2月22日消息，
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-02-21-3
+   🏷️ 标签: 开源, 大模型
+
+7、🔥 2月22日消息，据美国消费者新闻与商业频道网站2月19日报道，美国开放人工智能研究中心（OpenAI）首席执行官萨姆·奥尔特曼表示，中国科技公司在全栈式技术所取得的进步“令人瞩目”。奥尔特曼发表此番言论正值中国正与美国比拼开发通用人工智能，并将其推广至社会各领域之际。报道称，奥尔特曼说，包括人工智能在内，中国在“许多领域”的技术进步速度“快得惊人”。他还说，在某些领域，中国科技公司已接近前沿水平。（参考消息）
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3694067607809927?f=rss
+   🏷️ 标签: 人工智能, 开放, AI, 通用人工智能
+
+8、🔥 2月22日消息，美国最高法院2月20日裁定特朗普政府大规模关税政策违法后，美国政府并未放弃征收关税的措施。在20日宣布对来自所有国家和地区的商品加征10%的关税后，21日，美国总统特朗普再次发文称，他将把对全球范围输美商品加征的关税税率从10%提高到15%。对此，多国政府21日相继表态，称正研究应对方案。法国对外贸易部长级代表尼古拉•福里西耶表示，欧盟拥有反制手段，必要时欧盟可动用包括反胁迫工具在内的措施。此外，
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3693874515848841?f=rss
+   🏷️ 标签: 反制
+
+9、🔥 2月22日消息，Alphabet CEO桑达尔·皮查伊 如果采用之前对互联网的估值方式对AI大模型公司进行估值，那么很有可能会错失一个时代。 但这并不意味着，所有的大模型公司都能获配超溢价估值。 过去很长一段时间，对于创业型科技企业我们习惯找一家头部公司进行对标，然后贴上相应的标签。例如在芯片领域，一些创业型芯片企业很容易被对标英伟达，然后给予超出公司实际营收水平且梦幻般的估值。 实际上，从公司本身的质地而言，差
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3693821399084937?f=rss
+   🏷️ 标签: 估值, CEO, 大模型, AI
+
+10、🔥 2月22日消息，据HuggingFace官网最新数据显示，截至2月22日，Boss直聘南北阁实验室最新开源模型Nanbeige4.1-3B已进入全球模型总趋势榜前三，并位列文本模型趋势榜第一。公开资料显示，Nanbeige4.1-3B 仅具备 30 亿参数规模，却在通用问答、复杂推理、代码生成与深度搜索等多项核心任务中展现出突出的跨任务泛化能力与综合能力表现。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3694196677111684?f=rss
+   🏷️ 标签: 开源
+
+11、🔥 2月22日，韩国金融监督院发布的数据显示，浦项制铁去年实现营业收入35.011万亿韩元，同比下降6.8%；现代制铁营业收入为22.7332万亿韩元，同比减少2.1%；东国制钢去年营业收入为3.2034万亿韩元，同比下降9.2%；世亚制钢去年营业收入为1.4848万亿韩元，同比减少17.9%。（界面）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3694068967075458?f=rss
+   🏷️ 标签: 发布
+
+12、🔥 2月22日消息，今天（22日），全球在建规模最大的混合式抽水蓄能电站——四川雅砻江两河口抽蓄电站迎来关键节点双突破，地下厂房开挖完成、下游水库开启混凝土浇筑。在海拔3000米的川西高原，千余名建设者春节坚守一线，抢抓枯水期施工“黄金窗口”，地下洞室、引水隧洞等核心工程稳步推进。这座高原绿色能源“超级充电宝”正加速成型，将为我国清洁能源保供与电网调节提供重要支撑。（央视新闻）
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3693885455330944?f=rss
+   🏷️ 标签: 突破
+
+13、🔥 2月22日消息，县城咖啡馆 在县城卖30元一杯的咖啡，还是好生意吗？ 见习作者 | 王汉星 编辑 | 魏佳 大年初二上午10点，浦江一家精品咖啡店的老板陈婷穿着一件灰白色格子衫，还没来得及套上工作服，第一批人客人就已经走入店中。 春节放假期间，店里的生意格外好。“火爆程度超出了我们的预期”，陈婷告诉「定焦One」。 人均消费超过50元、一杯咖啡30元左右、一份薯条35元……这样和一线城市基本持平的物价在浙江金华浦
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3693801778114182?f=rss
+   🏷️ 标签: 首次
+
+14、🔥 2月22日消息，据美国方面2月21日消息，在美国总统特朗普宣布将新一轮全球关税提高至15%后，美国洛杉矶港负责人表示，美国企业面临更大的不确定性。洛杉矶港执行董事吉恩·塞罗卡表示，在政策走向不明的情况下，企业难以进行人才、投资和技术方面的长期战略规划。他预计，未来美国经济将面临一段“颠簸之路”，消费者可能会感受到价格上涨带来的压力。（央视新闻）
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3694077739921286?f=rss
+   🏷️ 标签: 投资
+
+15、🔥 2月22日消息，我国今年继续推进大规模设备更新，多个领域的设备更新项目加快落地。为激发假日消费活力、保障社会民生提供更加有力的支撑。线下消费商业设施的设备更新，在今年被首度纳入设备更新政策当中。在这个春节假期，上海、浙江、四川等地的一批商业综合体，在完成设备更新后首度与消费者见面。商场里的老化电子屏被换成新的LED屏，卫生间和客梯进行了无障碍改造，通风、照明、配电等设备也都焕然一新。目前，2026年新一轮设备更新
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3693884082876292?f=rss
+   🏷️ 标签: 投资
+
+16、🔥 2月22日消息，从国家开发银行获悉，2025年，国开行发放公路基础设施贷款超3600亿元，同比增长10%。“十四五”以来，国开行对“十四五”规划102项重大工程项目中公路领域项目的融资覆盖率超过65%。（新华社）
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3693881635270534?f=rss
+   🏷️ 标签: 融资
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 2月22日消息，The founder of Wikipedia said he isn’t worried about the threat posed to the free online encyclopedia from AI-generated content, including from Elon Musk’s Grokipedia, because of how error-prone the i
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-21/wikipedia-founder-sees-no-threat-from-musk-s-grokipedia
+   🏷️ 标签: Elon Musk, founder, AI
+
+2、🔥 2月22日消息，The Justice Department’s investigation of Netflix Inc.’s proposed $72 billion takeover of Warner Bros. Discovery Inc. includes scrutiny of the streaming giant’s behavior and whether it wields anticomp
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-21/doj-probes-netflix-s-power-over-filmmakers-in-warner-deal-review
+   🏷️ 标签: billion, investigation
+
+3、🔥 2月22日消息，Sarvam's Indus chat app is currently available in beta.
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/
+   🏷️ 标签: launches, AI
+
+4、🔥 2月22日消息，Vietnam said US President Donald Trump told Communist Party chief To Lam he will remove the nation from the US’s list of restrictions on advanced technologies and welcomed Hanoi’s efforts to narrow th
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-21/vietnam-says-trump-will-let-nation-access-restricted-technology
+   🏷️ 标签: AI, chief
+
+5、🔥 2月22日消息，Research that shows LLMs memorise more training data than previously thought raises questions about copyright infringement
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/e4b7a54c-90ec-490a-b0b1-f5991294f52a
+   🏷️ 标签: LLM, AI
+
+6、🔥 2月22日消息，Companies are seeking advice on how to provide energy to data centres and profit from artificial intelligence
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/3cd94803-909c-4617-99b0-a1b5061f93ad
+   🏷️ 标签: artificial intelligence, AI
+
+7、🔥 2月22日消息，US markets are gripped by the “AI scare trade,” with investors selling software firms and wealth managers on concern that rapid advances in artificial intelligence will erode established business mode
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-22/china-defies-global-ai-scare-trade-as-investors-chase-winners
+   🏷️ 标签: artificial intelligence, AI
+
+8、🔥 2月22日消息，India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html
+   🏷️ 标签: AI, billion
+
+9、🔥 2月22日消息，Tech and world leaders flocked to New Delhi for the India AI Impact Summit
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html
+   🏷️ 标签: AI, billion
+
+10、🔥 2月22日消息，"It also takes a lot of energy to train a human."
+   📋 入选理由: 影响力评分: 86.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/
+   🏷️ 标签: Sam Altman, AI
+
+11、🔥 2月22日消息，Is Microsoft's gaming division doubling down on AI?
+   📋 入选理由: 影响力评分: 86.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/
+   🏷️ 标签: CEO, AI
+
+12、🔥 2月22日消息，A heavyweight of Japan’s ruling Liberal Democratic Party called US tariffs “a real mess” after President Donald Trump hiked levies in response to a Supreme Court decision that his previous tariffs wer
+   📋 入选理由: 影响力评分: 82.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-22/japan-s-ruling-party-tax-chief-calls-us-tariff-situation-messy
+   🏷️ 标签: chief
+
+
+======================================================================
+📊 今日总结: 今日从52条原始信息中精选出16条国内动态和12条国际动态，其中28条为高重要性。 重点关注：狂掷80亿 , 节AI大战谁赢了？；马年第一涨，AI股杀疯了；硅谷的忠诚已死：只要价码足够高，任何人都可以被挖走。
+======================================================================
