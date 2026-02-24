@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-02-24
+生成时间: 2026-02-24 08:35:44
+数据来源: 从 141 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、2月24日消息，
+2、2月24日消息，联手宁德时代&京东落地
+3、2月24日消息，总部位于香港的加密支付金融科技公司RedotPay据悉考虑赴美进行10亿美元的IPO。消息人士称RedotPay可能最早今年在美国上市，可能在IPO中寻求超过40亿美元的估值。（华尔街见闻）
+4、2月24日消息，文｜胡香赟 编辑｜海若镜 36氪获悉， 科诺美（北京）科技有限公司 （Chromai）已完成数千万元人民币战略融资，由北京市医药健康产业投资基金独家出资，募集资金将用于扩大经营、加速市场布局，推进高端装备自主生产与供应链安全建设。 此前，科诺美已获得华盖资本、元��创投、爱博清石等资本投资近亿元投资，近期完成九安医疗投资的数千万元A+轮融资。 科诺美成立于2019年，深耕高端液相色谱领域的产品研发
+5、2月24日，马年春节假期后开工第一天，小鹏汽车CEO何小鹏向全体员工发布了一封开工信，主题为“稳进破局，2026共赴物理AI新十年”，在信里，何小鹏称要在2026年“把梦想量产”，全新一代 IRON 机器人将在年底年底启动量产， 要成为“全球第一个规模量产的高阶人形机器人”。今年Iron将率先落地导览 、导购等场景，并向全球开发者开放 SDK。何小鹏希望小鹏汽车能够率先在中国抓住属于自动驾驶的“D
+
+国际动态：
+1、2月24日消息，arXiv:2602.18731v1 Announce Type: new Abstract: Chart summarization is crucial for enhancing data accessibility and the efficient consumption of information. However, existing methods, including those
+2、2月24日消息，Anthropic PBC Chief Executive Officer Dario Amodei will meet with US Defense Secretary Pete Hegseth on Tuesday, according to a senior Pentagon official, as contract talks with the artificial intellige
+3、2月24日消息，Billionaire Elon Musk planning the largest initial public offering of all time for SpaceX is great news for existing backers and banks that would reap astronomical fees.
+4、2月24日消息，Anthropic is offering some current and former employees the ability to sell shares in the company at a valuation of about $350 billion, according to people familiar with the matter — allowing them to 
+5、2月24日消息，arXiv:2602.18884v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs), particularly smaller, deployable variants, exhibit a critical deficiency in understanding temporal and procedu
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 2月24日消息，
+   📋 入选理由: 影响力评分: 337.5
+   📰 来源: 机器之心 | 🔗 https://www.jiqizhixin.com/articles/2026-02-24-3
+   🏷️ 标签: 百亿, 融资, 估值
+
+2、🔥 2月24日消息，联手宁德时代&京东落地
+   📋 入选理由: 影响力评分: 337.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/381766.html
+   🏷️ 标签: 百亿, 融资, 估值
+
+3、🔥 2月24日消息，总部位于香港的加密支付金融科技公司RedotPay据悉考虑赴美进行10亿美元的IPO。消息人士称RedotPay可能最早今年在美国上市，可能在IPO中寻求超过40亿美元的估值。（华尔街见闻）
+   📋 入选理由: 影响力评分: 292.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696933869858694?f=rss
+   🏷️ 标签: 上市, IPO, 估值
+
+4、🔥 2月24日消息，文｜胡香赟 编辑｜海若镜 36氪获悉， 科诺美（北京）科技有限公司 （Chromai）已完成数千万元人民币战略融资，由北京市医药健康产业投资基金独家出资，募集资金将用于扩大经营、加速市场布局，推进高端装备自主生产与供应链安全建设。 此前，科诺美已获得华盖资本、元��创投、爱博清石等资本投资近亿元投资，近期完成九安医疗投资的数千万元A+轮融资。 科诺美成立于2019年，深耕高端液相色谱领域的产品研发
+   📋 入选理由: 影响力评分: 271.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3695920709381765?f=rss
+   🏷️ 标签: AI, 融资, 创新, 突破, 投资
+
+5、🔥 2月24日，马年春节假期后开工第一天，小鹏汽车CEO何小鹏向全体员工发布了一封开工信，主题为“稳进破局，2026共赴物理AI新十年”，在信里，何小鹏称要在2026年“把梦想量产”，全新一代 IRON 机器人将在年底年底启动量产， 要成为“全球第一个规模量产的高阶人形机器人”。今年Iron将率先落地导览 、导购等场景，并向全球开发者开放 SDK。何小鹏希望小鹏汽车能够率先在中国抓住属于自动驾驶的“D
+   📋 入选理由: 影响力评分: 264.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696897479372420?f=rss
+   🏷️ 标签: CEO, 发布, 开放, AI
+
+6、🔥 2月24日消息，据一位知情人士透露， Anthropic公司周一启动了一项股票出售计划，面向在该公司工作至少12个月的现任和前任员工。该知情人士还表示，此次股票出售基于公司最新的3800亿美元估值。 据报道，现任和前任员工将有机会出售总额高达60亿美元的股票。知情人士透露，最终规模取决于参与出售的员工人数以及他们各自计划出售的股票数量。 本月初，Anthropic宣布已完成300亿美元的融资，由新加坡GIC公司和
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696963359403655?f=rss
+   🏷️ 标签: founder, 融资, 估值
+
+7、🔥 2月24日消息，作者丨吴优 编辑丨余快 如果以众筹金额来评估一款AI硬件产品的市场认可度，百万美金是一个门槛，突破百万美金意味着PMF基本可行，又一爆款产品诞生了。 CES2026上备受关注的AI卡片手机MindOne，去年7月在Kickstarter众筹平台上推出，以299美金起的价格吸引3,411名全球Backers的支持，上线30天，斩获了约148万美金，支持者表示对其便捷性、AI功能和复古设计感兴趣。 M
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/gUXN3rX6arMUUocK.html
+   🏷️ 标签: 上线, 创新, 突破, AI
+
+8、🔥 2月24日消息，作者丨吴优 编辑丨刘伟 2025年AI陪伴硬件赛道究竟有多火？用两个小故事就足以说明。 故事之一是，某头部投资机构内部有9个团队先后考察过同一家AI陪伴硬件公司，项目还在内部评审时，该机构的第10个团队得知这家公司跟其他投资机构签了SPA，于是越级将项目汇报给了老板。老板当即跳过立项直接给了TS，并亲自联系了这家公司的高层致歉，表示因身体原因差点错过了这个项目，是自己的过失。靠着真诚的态度，该投资
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/fh1zkG1ZAJb51mx3.html
+   🏷️ 标签: 大模型, AI, 上市, 创新, 投资
+
+9、🔥 2月24日消息，今日热点导览 智谱就GLM Coding Plan问题致歉并公布补偿方案 问界M9起火声明，配合调查呼吁不信谣 泡泡玛特官宣新IP 美国电影协会致函字节跳动 Kimi近20天收入超去年全年 TOP 3 大新闻 三亚飞北上广深机票逼近万元，官方出手 2月23日，春节假期进入尾声。海南三大机场将迎来整个春运期间客流峰值日，预计运送旅客将突破23.2万人次。记者查询 多家在线旅游平台发现，2月22日至2
+   📋 入选理由: 影响力评分: 167.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3696545311403904?f=rss
+   🏷️ 标签: 监控, 发布, 突破
+
+10、🔥 2月24日消息，小米集团董事长兼CEO雷军表示，小米计划未来五年重点攻坚芯片、AI、操作系统等底层核心技术，向着成为全球硬核科技公司的目标不断努力。（华尔街见闻）
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696964057001858?f=rss
+   🏷️ 标签: AI, 雷军, CEO
+
+11、🔥 2月24日消息，作者丨吴优 编辑丨余快 2026年央视春晚的“含科量”创下历史新高，AI、机器人、消费电子三大赛道企集体抢滩。不仅有火山引擎、豆包、B站和小红书的频繁露面，还能看到魔法原子、松延动力、银河通用、宇树等具身智能的深度参与。 春晚正在从一场全民文艺盛宴，变成了品牌商们的必争之地。 央视新闻数据显示，2025年春节联欢晚会在播出一天后，全媒体累计触达168亿人次，总台春晚几乎是唯一能够实现全年龄、全地域
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/AGYCRhkwpMBCPuVL.html
+   🏷️ 标签: CEO, 合作, 开放, AI
+
+12、🔥 2月24日消息，36氪获悉，据湖北发布，2月24日，农历新春首个工作日，湖北省加快建成中部地区崛起的重要战略支点推进大会举行。省委书记、省人大常委会主任王忠林出席大会并强调，强化内需主导，在转换经济增长动力上取得新进展。积极适应消费趋势新变化，坚持供需两端发力，大力优化消费供给，培育壮大多元化消费新场景，做强“神武峡”“赤黄红”两大文旅主轴，深入推进国际化消费环境建设试点、消费新业态新模式新场景试点，更加有效地提
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696937388420744?f=rss
+   🏷️ 标签: 发布, 投资
+
+13、🔥 2月24日消息，雷峰网消息，vivo内部近期发布公告称：公司首席执行官（CEO）沈炜，不再兼任公司总裁；公司执行副总裁胡柏山晋升为公司总裁并仍兼任首席运营官（COO），向公司首席执行官（CEO）沈炜汇报。公司高级副总裁程刚（主管中国区）、谢小林（主管公共行政领域），调整为向公司总裁胡柏山汇报。公司高级副总裁兼首席财务官（CFO）罗福泰（主管财务领域），仍向沈炜汇报。（雷峰网）
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696878360374920?f=rss
+   🏷️ 标签: CEO, 发布
+
+14、🔥 2月24日消息，
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/381820.html
+   🏷️ 标签: 创新
+
+15、🔥 2月24日消息，在医疗人工智能的发展历程中，能力评估方式在很大程度上塑造了技术演进的方向。 过去相当长一段时间里，医疗 AI 的进步主要围绕医学知识获取与推理展开，模型是否“足够聪明”通常通过医学考试题、临床问答数据集等静态基准来衡量。在这一评价框架下，模型只需在信息完整、问题封闭的条件下给出正确答案，便被视为具备较高的医疗能力。 随着大语言模型的兴起，这一路径迅速取得突破性进展，多种系统在 MedQA 等测试中
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/sZPwXzUOWftMoAQk.html
+   🏷️ 标签: 大语言模型, 人工智能, AI, 风险, 突破
+
+16、🔥 2月23日大年初七，千问发布数据显示，春节期间，用户在千问上“一句话下单”近2亿次，全国平均每10人就有1人在千问下单，让“千问帮我”买餐饮奶茶、订机票酒店、买电影票和景点门票，正在成为马年春节的新年俗。 备年货、喝奶茶成为“一句话下单”的主要消费场景。据统计，春节期间，用户让千问下单购买了超3000吨鸡蛋，相当于一个中等县城居民一年的鸡蛋消耗量；同时，用户总计下单了5500万杯奶茶和3516万杯
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/gMCPcsJE8VXuUzbu.html
+   🏷️ 标签: AI, 发布, 并购
+
+17、🔥 2月24日消息，名创优品发布公告，于2026年2月23日该公司斥资1.63万美元回购3352股，回购价格为每股4.8675-4.875美元。（新浪财经）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696879977885318?f=rss
+   🏷️ 标签: 发布
+
+18、🔥 2月24日消息，36氪获悉，恒指收跌1.82%，恒生科技指数跌2.13%；石油及天然气、咨询科技器材、半导体板块领涨，域高国际控股涨15.68%，普天通信集团涨46.07%，兆易创新涨11.91%；软件服务、保险、药品及生物科技板块跌幅居前，中国信息科技跌25.53%，亚洲金融跌0.21%，MIRXES-B跌21.67%。
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3697031156575874?f=rss
+   🏷️ 标签: 创新
+
+19、🔥 2月24日消息，据国家能源局公众号消息，通过对纳入国家充电设施监测服务平台的5.33万台高速公路充电桩进行统计分析，自腊月二十八（2月15日）至正月初七（2月23日），高速公路电动汽车充电次数共计602.10万次，充电量达到14976.75万千瓦时，日均充电量1664.08万千瓦时，较去年春节日均增长52.01%，创历史新高。（每经网）
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696941537504901?f=rss
+   🏷️ 标签: 创新
+
+20、🔥 2月24日消息，据36氪获悉，爱企查App显示，近日，南昌娃哈哈食品有限公司发生工商变更，企业名称变更为南昌宏胜食品有限公司。该公司成立于2006年9月，法定代表人为王斌，注册资本1800万美元，经营范围包括饮料生产、乳制品生产、食品生产等，由荣辉投资有限公司、丽水盛佳饮料有限公司共同持股。 值得一提的是，近期，南昌宏胜恒枫饮料有限公司、山西宏胜食品有限公司、潍坊宏胜饮料有限公司、潍坊宏胜乳品有限公司均完成更名。
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3696786946355073?f=rss
+   🏷️ 标签: 投资
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 2月24日消息，arXiv:2602.18731v1 Announce Type: new Abstract: Chart summarization is crucial for enhancing data accessibility and the efficient consumption of information. However, existing methods, including those
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.18731
+   🏷️ 标签: reasoning, multimodal, AI, large language model, LLM
+
+2、🔥 2月24日消息，Anthropic PBC Chief Executive Officer Dario Amodei will meet with US Defense Secretary Pete Hegseth on Tuesday, according to a senior Pentagon official, as contract talks with the artificial intellige
+   📋 入选理由: 影响力评分: 262.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-23/anthropic-s-ceo-to-meet-hegseth-amid-feud-over-pentagon-work
+   🏷️ 标签: chief, AI, artificial intelligence, Dario Amodei, CEO
+
+3、🔥 2月24日消息，Billionaire Elon Musk planning the largest initial public offering of all time for SpaceX is great news for existing backers and banks that would reap astronomical fees.
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-24/spacex-s-mega-ipo-redraws-2026-road-map-for-listing-hopefuls
+   🏷️ 标签: AI, billion, IPO, Elon Musk
+
+4、🔥 2月24日消息，Anthropic is offering some current and former employees the ability to sell shares in the company at a valuation of about $350 billion, according to people familiar with the matter — allowing them to 
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-23/anthropic-kicks-off-share-sale-for-staffers-of-up-to-6-billion
+   🏷️ 标签: AI, billion, valuation
+
+5、🔥 2月24日消息，arXiv:2602.18884v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs), particularly smaller, deployable variants, exhibit a critical deficiency in understanding temporal and procedu
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.18884
+   🏷️ 标签: reasoning, multimodal, AI, large language model, LLM
+
+6、🔥 2月24日消息，Paul Desmarais III, chairman, CEO and co-founder of Sagard, says AI is one of the firm’s three strategic pillars. He tells Romaine Bostick and Kristine Aquino on "The Close" that AI represents a signi
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-24/sagard-ceo-bullish-on-software-tech-ai-s-impact-video
+   🏷️ 标签: AI, CEO, founder
+
+7、🔥 2月24日消息，The success of Anthropic's Claude Code helped turn the startup into an AI juggernaut, and its popularity took even the company’s CEO by surprise. Bloomberg’s Shirin Ghaffary joins Caroline Hyde and Ed
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-23/claude-code-popularity-took-anthropic-ceo-by-surprise-video
+   🏷️ 标签: joins, CEO, AI
+
+8、🔥 2月24日消息，Investors weigh new tariff uncertainty along with fears of AI’s impact during a busy week of tech earnings, with Nvidia and Salesforce in focus. Shanti Kelemen, co-chief investment officer at 7IM, joi
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-02-23/ai-adoption-will-be-rewarded-7im-s-kelemen-video
+   🏷️ 标签: chief, joins, AI
+
+9、🔥 2月24日消息，Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a "supply
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/
+   🏷️ 标签: AI, Dario Amodei, CEO
+
+10、🔥 2月24日消息，The transaction will see the company hit a $1.8 billion valuation.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/02/23/finlands-iqm-listing-quantum-computing.html
+   🏷️ 标签: billion, valuation
+
+11、🔥 2月24日消息，Nassim Taleb has a warning for investors: brace for escalating volatility and potential bankruptcies in the software sector as the artificial intelligence-driven rally enters a more fragile phase.
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-23/black-swan-s-taleb-warns-on-software-bankruptcies-more-volatility
+   🏷️ 标签: artificial intelligence, AGI
+
+12、🔥 2月24日消息，Anthropic does not want its AI models to be used for autonomous weapons or to spy on Americans.
+   📋 入选理由: 影响力评分: 140.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/02/23/anthropic-ai-dario-defense-secretary-pete-hegseth.html
+   🏷️ 标签: AI, Dario Amodei, CEO, autonomous weapons
+
+13、🔥 2月24日消息，App says new operation will boost commercialisation of AVs
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0c0902f6-f6d8-421d-8767-fe3aaf9a3ce4
+   🏷️ 标签: launches
+
+14、🔥 2月24日消息，arXiv:2602.18843v1 Announce Type: new Abstract: We introduce ABD, a benchmark for default-exception abduction over finite first-order worlds. Given a background theory with an abnormality predicate an
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.18843
+   🏷️ 标签: AI, LLM, valuation, fine
+
+15、🔥 2月24日消息，arXiv:2602.18940v1 Announce Type: new Abstract: Deep Research Agents generate analyst-grade reports, yet evaluating them remains challenging due to the absence of a single ground truth and the multidi
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.18940
+   🏷️ 标签: reasoning, valuation, AI, alignment
+
+16、🔥 2月24日消息，arXiv:2602.18968v1 Announce Type: new Abstract: Tool invocation is a core capability of agentic systems, yet failures often arise not from individual tool calls but from how multiple tools are organiz
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.18968
+   🏷️ 标签: reasoning, AI, fine
+
+17、🔥 2月24日消息，Quiñenco SA, the publicly traded holding company for Chile’s wealthiest family, is continuing to reduce its stake in French cable maker Nexans SA to raise funds for “new strategic investments.”
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-23/luksic-clan-sells-more-nexans-shares-for-strategic-investments
+   🏷️ 标签: AI, strategic investment
+
+18、🔥 2月24日消息，Agencies rush to rate the debt of projects still under construction to reflect ‘astronomical growth’
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/e0d9d5f2-c09d-426e-af03-193b488b7b1e
+   🏷️ 标签: AI, billion
+
+19、🔥 2月24日消息，Two-billion-year-old rocks in China suggest mountain building from Earth’s first supercontinent led to a planetwide burst of erosion
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Science Magazine | 🔗 https://www.science.org/content/article/ancient-rocks-point-early-start-great-unconformity-biggest-gap-earth-s-rock-record
+   🏷️ 标签: AI, billion
+
+20、🔥 2月24日消息，Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/
+   🏷️ 标签: AI, AGI
+
+
+======================================================================
+📊 今日总结: 今日从141条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿；20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道；REDOTPAY据悉考虑赴美进行10亿美元的IPO。
+======================================================================
