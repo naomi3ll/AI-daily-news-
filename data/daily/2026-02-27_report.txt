@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-02-27
+生成时间: 2026-02-27 08:31:21
+数据来源: 从 179 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、2月27日消息，作者 | 肖思佳 编辑 | 乔芊 在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。 2025年底，抖音上线长图文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。 作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更
+2、2月27日消息，文｜富充 编辑｜苏建勋 在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。 第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。 第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-
+3、2月26日，百度发布2025年第四季度及全年财报，显示2025年总营收达1291亿元，AI业务营收达400亿元；四季度，百度总营收327亿元，AI业务收入占百度一般性业务收入的43%，超出市场预期。 ﻿ “2025年是AI成为百度新核心的关键一年。AI云势头强劲，我们凭借差异化的全栈端到端AI能力赢得越来越多的企业认可。我们的AI应用组合持续扩展，满足了企业和个人的多样化需求。萝卜快跑进一步巩固了
+4、2月27日消息，要闻提示 1.新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主 2.国产厂商团结对外！DeepSeek已向华为等提供V4模型测试：无视英伟达、AMD 3.三只羊否认借壳美股上市：仅为海外直播运营业务合作 4.字节跳动最新估值飙升至5500亿美元 5.前阿里高管任庚已经从新奥离职 6.努比亚倪飞：三星Galaxy S26系列只实现豆包手机局部能力 7.庞若鸣跳槽OpenAI！放弃14亿年薪，
+5、2月27日消息，在中国家电与消费电子产业规模优势持续巩固的背景下，行业正站在向结构升级和技术跃迁转变的关键节点。AWE2026选择在上海新国际博览中心这一高度成熟、产业密度最高的核心展区内，开辟一个全新的“特区型”板块——创新科技展区，以此响应产业新增长动能的需求。 创新科技展区落地于上海新国际博览中心W3馆内，展示面积达到半个馆约5000余平方米。创新科技展区是在传统优势品类云集、头部品牌集中的产业平台上，为具
+
+国际动态：
+1、2月27日消息，arXiv:2602.22425v1 Announce Type: new Abstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems h
+2、2月27日消息，After four years of taking a cautious approach to deals, Engie SA Chief Executive Officer Catherine MacGregor made her biggest acquisition yet with a £10.5 billion ($14.2 billion) bet on UK electricit
+3、2月27日消息，arXiv:2602.22557v1 Announce Type: new Abstract: Current safety mechanisms for Large Language Models (LLMs) rely heavily on static, fine-tuned classifiers that suffer from adaptation rigidity, the inab
+4、2月27日消息，arXiv:2602.22508v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) often exhibit structural fragility in complex reasoning tasks, failing to produce correct answers even after successfully 
+5、2月27日消息，arXiv:2602.22583v1 Announce Type: new Abstract: Example-based guidance is widely used to improve mathematical reasoning at inference time, yet its effectiveness is highly unstable across problems and 
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 2月27日消息，作者 | 肖思佳 编辑 | 乔芊 在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。 2025年底，抖音上线长图文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。 作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更
+   📋 入选理由: 影响力评分: 381.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3700444303814536?f=rss
+   🏷️ 标签: AI, 创新, 发布, 上线, 开放
+
+2、🔥 2月27日消息，文｜富充 编辑｜苏建勋 在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。 第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。 第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3700919151538052?f=rss
+   🏷️ 标签: 融资, 突破, CEO, 投资, 合作
+
+3、🔥 2月26日，百度发布2025年第四季度及全年财报，显示2025年总营收达1291亿元，AI业务营收达400亿元；四季度，百度总营收327亿元，AI业务收入占百度一般性业务收入的43%，超出市场预期。 ﻿ “2025年是AI成为百度新核心的关键一年。AI云势头强劲，我们凭借差异化的全栈端到端AI能力赢得越来越多的企业认可。我们的AI应用组合持续扩展，满足了企业和个人的多样化需求。萝卜快跑进一步巩固了
+   📋 入选理由: 影响力评分: 300.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/Ebw8wdpE2nrWY4rw.html
+   🏷️ 标签: AI, 创新, 发布, 大模型, 李彦宏
+
+4、🔥 2月27日消息，要闻提示 1.新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主 2.国产厂商团结对外！DeepSeek已向华为等提供V4模型测试：无视英伟达、AMD 3.三只羊否认借壳美股上市：仅为海外直播运营业务合作 4.字节跳动最新估值飙升至5500亿美元 5.前阿里高管任庚已经从新奥离职 6.努比亚倪飞：三星Galaxy S26系列只实现豆包手机局部能力 7.庞若鸣跳槽OpenAI！放弃14亿年薪，
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/UEWuNjSuqKPVPACM.html
+   🏷️ 标签: AI, 估值, 首次, CEO, 合作
+
+5、🔥 2月27日消息，在中国家电与消费电子产业规模优势持续巩固的背景下，行业正站在向结构升级和技术跃迁转变的关键节点。AWE2026选择在上海新国际博览中心这一高度成熟、产业密度最高的核心展区内，开辟一个全新的“特区型”板块——创新科技展区，以此响应产业新增长动能的需求。 创新科技展区落地于上海新国际博览中心W3馆内，展示面积达到半个馆约5000余平方米。创新科技展区是在传统优势品类云集、头部品牌集中的产业平台上，为具
+   📋 入选理由: 影响力评分: 266.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3700996120915848?f=rss
+   🏷️ 标签: AI, 创新, 大模型, 突破, 开放
+
+6、🔥 2月27日消息，雷峰网独家获悉，星海图孵化首席科学家许华哲创业，新公司将会切入具身智能C端应用赛道。据悉，许华哲的新公司已获得星海图种子轮投资。 作为具身智能领域的明星创业公司，星海图自2023年9月成立以来，获得了资本市场的持续关注。2025年7月，星海图连续完成A4 轮及A5 轮战略融资，合计融资金额超过1亿美元。2026年1月，公开信息披露星海图已经完成股份制改造。 另据可靠消息透露，星海图已于近期完成新一
+   📋 入选理由: 影响力评分: 260.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/vZ1kKdmdP0efTsSX.html
+   🏷️ 标签: 融资, 投资, 突破, 估值
+
+7、🔥 2月27日消息，大公司： 英伟达黄仁勋：年内将寻机进行资本运作 美东时间周三盘后，在英伟达财报电话会上，公司CEO黄仁勋表示，公司仍在持续开展股票回购和股息分红，并将在年内寻找合适的时机，把握独特的投资机会，推进相关资本运作。他还指出，生态系统投资将始终是公司资本配置的核心环节，同时我们也会持续推进战略投资。（财联社） 消息称三星电子将停产2DNAND 闪存，原有产线用于1c nm DRAM内存制程 据TheEl
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3699924181134984?f=rss
+   🏷️ 标签: AI, 发布, CEO, 投资, 人工智能
+
+8、🔥 2月27日消息，今日热点导览 德国总理默茨参访宇树科技 魅族被曝大量欠款成坏账 特斯拉中国官宣5年0息方案 携程集团总裁、董事双双辞职 微信上线新功能：同一文件多聊转发不重复占存储 TOP3大新闻 巨亏1800亿元，玛莎拉蒂母公司业绩爆雷 全球第四大汽车制造商Stellantis在2025年经历了一场代价沉重的战略转身。该公司2月26日发布的财报显示，全年净亏损高达223亿欧元（以当前汇率计算约为1802亿人民币
+   📋 入选理由: 影响力评分: 234.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3700794963193734?f=rss
+   🏷️ 标签: 上线, 发布
+
+9、🔥 2月27日消息，36氪获悉，日前，AI运动科技公司“致敬未知”宣布完成超亿元Pre-A轮融资。本轮融资由创维投资、博裕创投、联想创投、广发乾和等多家机构联合投资，创瓴资本担任本轮独家财务顾问。本次募集资金将主要用于全球化市场拓展、新产品研发及核心技术创新。
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3701240114720390?f=rss
+   🏷️ 标签: 融资, 投资, AI, 创新
+
+10、🔥 2月27日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，高精度微米级金属3D打印企业——云耀深维（江苏）科技有限公司（以下简称“云耀深维”）完成了天使轮及Pre-A轮数千万元融资。 其天使轮投资方为红杉种子基金、深圳高新投及璞跃中国。Pre-A轮融资由博远资本领投，蓝郡资本跟投。资金主要用于核心技术的迭代研发、产能提升、团队扩充以及市场拓展等。 云耀深维成立于2021年，总部及产研基地位于江苏苏州太仓，是一家专注于金
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3700876701642374?f=rss
+   🏷️ 标签: 融资, 投资
+
+11、🔥 2月27日消息，2026年3月12-15日，以“AI科技、慧享未来”为主题的2026年中国家电及消费电子博览会（AWE2026）将以“一展双区”的全新格局，在上海新国际博览中心与上海东方枢纽国际商务合作区两地同步举行。作为国家扩大内需战略和消费品以旧换新政策的积极响应者和坚定践行者，AWE主办方中国家用电器协会将深入贯彻落实党的二十届四中全会和中央经济工作会议精神，于AWE2026期间再度联合京东、天猫、抖音商城
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3699754370854786?f=rss
+   🏷️ 标签: 投资, AI, 合作
+
+12、🔥 2月27日，有市场消息称字节跳动旗下懂车帝正考虑在香港进行IPO，筹资10亿至15亿美元。对此，记者向懂车帝和字节跳动方面求证，双方均称“暂时不回应”。（21财经）
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3701282393026437?f=rss
+   🏷️ 标签: 上市, IPO
+
+13、🔥 2月27日，Rapidus公司宣布，已完成总额2676亿日元（约合17亿美元）的融资，资金来自日本政府及私营企业，其中日本经济产业省下属独立行政机构注资1000亿日元，该战略融资计划将助力Rapidus公司稳步推进研发进程，于2027年前实现2纳米逻辑半导体的量产目标。Rapidus同时宣布获得来自32家企业的私募融资，总额达1676亿日元，投资方包括佳能、日本政策投资银行、富士通、NTT、软银集
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3701233970900617?f=rss
+   🏷️ 标签: 融资, 投资
+
+14、🔥 2月27日消息，SHEIN在可持续发展方面取得新进展。近日，国际独立第三方机构TÜV莱茵向其颁发了“废弃物零填埋”管理体系评价证书，覆盖其8家仓储物流园区。此前，包括希音服装制造创新研究中心和多个仓储物流园区在内的7家场所已获该项认证，并已全部顺利通过年度审核。至此，希音通过“废弃物零填埋”评价认证的场所总数已增加至15家。 “此次获证，不仅是希音自身可持续发展战略的重要成果，也为整个时尚行业树立了标杆。”TÜV
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/O7HqwY5ez4BhL34l.html
+   🏷️ 标签: 投资, 领先, 创新, 百亿
+
+15、🔥 2月27日消息，要闻提示 1.传魅族手机停摆，3月正式退市，魅友刷屏：加油 2.元宝AI除夕夜辱骂用户，官方回应 3.苹果阴间Bug！网友称iPhone深夜自动拨打电话，官方回应 4.刘强东称已接到5条大型游艇订单，每艘平均卖6000万欧元 5.比亚迪跟进7年低息超长贷！超20家汽车品牌力推七年低息贷款 6.被判赔小米500万元的自媒体实控人是李斌？回应来了 7.苹果股东大会曝光库克年薪，超7400万美元，未释放
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/uUhp0brmvyVfXhQQ.html
+   🏷️ 标签: 上市, AI, IPO, 发布
+
+16、🔥 2月27日消息，累计下载量超10亿，衍生模型超20万
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/382732.html
+   🏷️ 标签: 大模型, 开源
+
+17、🔥 2月27日消息，开启OCR 3.0时代
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/382682.html
+   🏷️ 标签: 大模型, 发布
+
+18、🔥 2月27日消息，比OpenClaw“更安全”
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/02/382647.html
+   🏷️ 标签: Opus, AI
+
+19、🔥 2月27日消息，文 | 贝果树 编辑 | 果脯 对于熟悉三国历史的玩家来说，《我的三国》的游玩体验，可能类似于主角拿到剧本的穿越文学。 公元264年，离陈寿写下《三国志》还有十余年，这时的陈寿，在官场上还资历尚浅。但你看重陈寿的才能，打算提拔他为官职太常。重臣董厥出来劝阻，说这恐难服众。不过，你知道自己不会看错人，便在对话框里自信地打下：“此子将来必能名留青史”。 此子将来必能写就《三国志》 这是《我的三国》在1
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3698585488764553?f=rss
+   🏷️ 标签: AI, 超越, 发布
+
+20、🔥 2月27日消息，36氪获悉，天猫“3·8焕新周”期间，老铺黄金于2月26日正式开启品牌大促。当日下午两点，开卖仅1秒，其天猫旗舰店成交额即突破3亿元，全天单店成交破10亿，同比实现百倍增长。据了解，2月18日，老铺发布调价公告，预计在2月28日进行产品价格调整。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3701220852592521?f=rss
+   🏷️ 标签: 突破, 发布
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 2月27日消息，arXiv:2602.22425v1 Announce Type: new Abstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems h
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.22425
+   🏷️ 标签: AI, AGI, state-of-the-art, SOTA, fine
+
+2、🔥 2月27日消息，After four years of taking a cautious approach to deals, Engie SA Chief Executive Officer Catherine MacGregor made her biggest acquisition yet with a £10.5 billion ($14.2 billion) bet on UK electricit
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-27/engie-tries-to-catch-peers-with-14-billion-uk-power-grid-bet
+   🏷️ 标签: billion, chief, acquisition
+
+3、🔥 2月27日消息，arXiv:2602.22557v1 Announce Type: new Abstract: Current safety mechanisms for Large Language Models (LLMs) rely heavily on static, fine-tuned classifiers that suffer from adaptation rigidity, the inab
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.22557
+   🏷️ 标签: LLM, AI, AGI, large language model, state-of-the-art
+
+4、🔥 2月27日消息，arXiv:2602.22508v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) often exhibit structural fragility in complex reasoning tasks, failing to produce correct answers even after successfully 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.22508
+   🏷️ 标签: AGI, AI, reasoning, large language model
+
+5、🔥 2月27日消息，arXiv:2602.22583v1 Announce Type: new Abstract: Example-based guidance is widely used to improve mathematical reasoning at inference time, yet its effectiveness is highly unstable across problems and 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.22583
+   🏷️ 标签: AGI, AI, reasoning
+
+6、🔥 2月27日消息，Rightmove Plc and its property portal peers will survive the artificial intelligence wave, with the technology presenting more of an opportunity than a threat for the sector, according to Chief Execut
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-27/rightmove-ceo-sees-ai-opportunities-says-peers-will-survive
+   🏷️ 标签: AI, artificial intelligence, chief, CEO
+
+7、🔥 2月27日消息，Chief executive Jensen Huang dismisses concerns over how chipmaker’s customers will fund their spending
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6
+   🏷️ 标签: AI, chief, Jensen Huang
+
+8、🔥 2月27日消息，Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dr
+   📋 入选理由: 影响力评分: 171.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei
+   🏷️ 标签: AI, autonomous weapons, surveillance
+
+9、🔥 2月27日消息，arXiv:2602.22500v1 Announce Type: new Abstract: Integration of artificial intelligence (AI) into life cycle assessment (LCA) has accelerated in recent years, with numerous studies successfully adaptin
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.22500
+   🏷️ 标签: LLM, AI, artificial intelligence, AGI, large language model
+
+10、🔥 2月27日消息，CEO Dario Amodei says start-up ‘cannot in good conscience’ agree to US government’s terms
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f
+   🏷️ 标签: Dario Amodei, CEO
+
+11、🔥 2月27日消息，Anthropic CEO Dario Amodei said Thursday that he "cannot in good conscience accede" to the Pentagon's demands to give the military unrestricted access to its AI systems.
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/
+   🏷️ 标签: AI, Dario Amodei, CEO
+
+12、🔥 2月27日消息，Google won conditional approval from South Korea to offer high-precision maps in the country after a nearly two-decade battle, securing a major concession in a sign that Seoul is ready to temper natio
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-27/google-wins-conditional-nod-from-seoul-over-map-data-request
+   🏷️ 标签: national security
+
+13、🔥 2月27日消息，Poland is moving ahead with a new legislation that would ban social media for children under 15 years old, setting the stage for a potential battle with some of the biggest US tech companies.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-27/poland-plans-social-media-ban-for-kids-in-challenge-to-us-tech
+   🏷️ 标签: legislation
+
+14、🔥 2月27日消息，Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html
+   🏷️ 标签: billion, acquisition
+
+15、🔥 2月27日消息，Days after back-flipping AI humanoids dazzled China with a new year performance alongside dancers, a small research firm jolted US markets with a stark warning about how automation could trigger an ec
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-02-27/xi-s-ai-ambitions-collide-with-china-s-fragile-employment-market
+   🏷️ 标签: AGI, AI
+
+16、🔥 2月27日消息，When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced las
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/
+   🏷️ 标签: AI, breakthrough
+
+17、🔥 2月27日消息，arXiv:2602.22539v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) is emerging as a key enabler for autonomous radio access networks (RANs), where multiple large language model (LLM)
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.22539
+   🏷️ 标签: LLM, AI, artificial intelligence, large language model, fine
+
+18、🔥 2月27日消息，Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/
+   🏷️ 标签: launches, AI
+
+19、🔥 2月27日消息，Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Go
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch
+   🏷️ 标签: Gemini 3, AI
+
+20、🔥 2月27日消息，Google is making Nano Banana 2 a default model in Gemini app and in AI mode.
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/
+   🏷️ 标签: launches, AI
+
+
+======================================================================
+📊 今日总结: 今日从179条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：从短视频到长文：当抖音把资讯也交给AI；给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了；百度四季度AI业务收入占比43% 超预期。
+======================================================================
