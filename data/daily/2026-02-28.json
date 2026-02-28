@@ -1,0 +1,728 @@
+{
+  "date": "2026-02-28",
+  "generated_at": "2026-02-28 08:18:10",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世",
+      "summary": "2月28日消息，今日热点导览 豆包手机回应存在安全漏洞 影石创新：所涉337调查已终结 米哈游多款未公开角色遭泄露，3名“00后”被刑拘 中国邮政称已叫停《尘白禁区》联名活动 蜜雪冰城要在河南老家建“雪王乐园” TOP 3 大新闻 语音误关大灯致车祸，领克致歉 近日，一车主驾驶领克Z20夜间在高速上行驶时，语音操作误关大灯致车辆撞上护栏一事引发网友广泛关注。针对此事，领克汽车销售有限公司副总经理穆军通过社交平台进",
+      "importance": "高",
+      "reason": "影响力评分: 420.0",
+      "tags": [
+        "创新",
+        "融资",
+        "AI",
+        "合作",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3702272216543360?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 01:09:10",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "从短视频到长文：当抖音把资讯也交给AI",
+      "summary": "2月28日消息，作者 | 肖思佳 编辑 | 乔芊 在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。 2025年底，抖音上线长图文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。 作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更",
+      "importance": "高",
+      "reason": "影响力评分: 381.0",
+      "tags": [
+        "创新",
+        "发布",
+        "上线",
+        "开放",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3700444303814536?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 03:48:42",
+      "impact_score": 381.0
+    },
+    {
+      "index": 3,
+      "title": "外媒：OpenAI获1100亿美元融资，英伟达投资300亿美元",
+      "summary": "2月28日消息，据美国消费者新闻与商业频道(CNBC)报道，OpenAI周五宣布了一轮1100亿美元的融资，这一融资规模是其一年前上一轮融资的两倍多，创下私营科技公司的纪录。 OpenAI周五发布的声明称，亚马逊、英伟达和软银在该轮融资中分别投资了500亿美元、300亿美元和300亿美元。这笔投资使OpenAI的估值达到7300亿美元(未计入投资前)，相较于其10月份在二级融资中的5000亿美元估值，实现了大幅增",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "融资",
+        "发布",
+        "AI",
+        "投资",
+        "估值"
+      ],
+      "url": "https://36kr.com/newsflashes/3702448565186945?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 04:45:19",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "氪星晚报｜蜜雪冰城要在河南老家建“雪王乐园”；DHL集团与京东签署谅解备忘录；日本芯片公司Rapidus获佳能、软银、索尼等公司投资",
+      "summary": "2月28日消息，大公司： 特斯拉无人驾驶技术在阿布扎比完成道路实测 阿布扎比综合交通中心（ITC）周四宣布，在有驾驶员监督条件下，该局已监督特斯拉完成了其最新无人驾驶技术在当地的道路测试。特斯拉在阿布扎比的测试项目致力于在批准的监管框架内推进出行方式革新，为阿联酋建立一个先进驾驶辅助及自动驾驶技术的测试模型，同时寻求在安全要求与鼓励采用现代创新之间保持谨慎平衡。（财联社） 蜜雪冰城要在河南老家建“雪王乐园” 从接",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "创新",
+        "上市",
+        "合作",
+        "投资",
+        "监管"
+      ],
+      "url": "https://36kr.com/p/3701306699017862?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 11:15:36",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
+      "summary": "2月28日消息，文｜富充 编辑｜苏建勋 在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。 第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。 第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "融资",
+        "CEO",
+        "合作",
+        "突破",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3700919151538052?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 02:11:09",
+      "impact_score": 322.5
+    },
+    {
+      "index": 6,
+      "title": "新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主；三只羊否认借壳美股上市：仅为海外直播运营业务合作；字节估值飙升至5500亿美元",
+      "summary": "2月28日消息，要闻提示 1.新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主 2.国产厂商团结对外！DeepSeek已向华为等提供V4模型测试：无视英伟达、AMD 3.三只羊否认借壳美股上市：仅为海外直播运营业务合作 4.字节跳动最新估值飙升至5500亿美元 5.前阿里高管任庚已经从新奥离职 6.努比亚倪飞：三星Galaxy S26系列只实现豆包手机局部能力 7.庞若鸣跳槽OpenAI！放弃14亿年薪，",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "CEO",
+        "上市",
+        "AI",
+        "首次",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/UEWuNjSuqKPVPACM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 01:13:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "千问将发布AI眼镜、耳机、指环，巨头抢占AI新入口丨智能涌现独家",
+      "summary": "2月28日消息，文｜邱晓芬 编辑｜苏建勋 过去的一个月，当千问用“一句话下单”带来2亿订单之后，阿里还希望将这套玩法走出手机屏幕，下放到更多形态的硬件上。 《智能涌现》从阿里内部人士处获悉，阿里旗下个人AI助手“千问”将进入AI硬件领域，其在2026年规划的硬件形态包括AI眼镜、AI耳机、AI指环，将面向全球市场发售。 其中，千问AI眼镜将在即将在2026年世界移动通信大会（MWC）上发布，将在3月2日开启预约。",
+      "importance": "高",
+      "reason": "影响力评分: 269.0",
+      "tags": [
+        "大模型",
+        "开源",
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3702628151751046?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 07:09:00",
+      "impact_score": 269.0
+    },
+    {
+      "index": 8,
+      "title": "创新“新特区”，AWE2026上海新国际博览中心W3馆创新科技展区正式亮相",
+      "summary": "2月28日消息，在中国家电与消费电子产业规模优势持续巩固的背景下，行业正站在向结构升级和技术跃迁转变的关键节点。AWE2026选择在上海新国际博览中心这一高度成熟、产业密度最高的核心展区内，开辟一个全新的“特区型”板块——创新科技展区，以此响应产业新增长动能的需求。 创新科技展区落地于上海新国际博览中心W3馆内，展示面积达到半个馆约5000余平方米。创新科技展区是在传统优势品类云集、头部品牌集中的产业平台上，为具",
+      "importance": "高",
+      "reason": "影响力评分: 266.0",
+      "tags": [
+        "创新",
+        "开放",
+        "AI",
+        "合作",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3700996120915848?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 03:30:50",
+      "impact_score": 266.0
+    },
+    {
+      "index": 9,
+      "title": "独家 | 星海图孵化首席科学家许华哲创业，新公司已获得星海图投资",
+      "summary": "2月28日消息，雷峰网独家获悉，星海图孵化首席科学家许华哲创业，新公司将会切入具身智能C端应用赛道。据悉，许华哲的新公司已获得星海图种子轮投资。 作为具身智能领域的明星创业公司，星海图自2023年9月成立以来，获得了资本市场的持续关注。2025年7月，星海图连续完成A4 轮及A5 轮战略融资，合计融资金额超过1亿美元。2026年1月，公开信息披露星海图已经完成股份制改造。 另据可靠消息透露，星海图已于近期完成新一",
+      "importance": "高",
+      "reason": "影响力评分: 260.0",
+      "tags": [
+        "投资",
+        "突破",
+        "融资",
+        "估值"
+      ],
+      "url": "https://www.leiphone.com/category/robot/vZ1kKdmdP0efTsSX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 06:18:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 10,
+      "title": "仅补贴3万元？曝36岁程序员复工当晚猝死，米哈游回应；哈啰招聘运营要求「98后，能力强放宽至97后」，客服回应；多家车企回应语音关大灯",
+      "summary": "2月28日消息，要闻提示 1.仅补贴3万元？曝36岁程序员复工当晚猝死，米哈游回应：不存在春节加班，已成立专项小组 2.多品牌车主尝试语音关闭大灯：特斯拉、小米均有安全提示，深蓝、极氪或存在领克同款 Bug！车企回应 3.知名共享车品牌哈啰招聘运营管理人员，要求“98后，能力强放宽至97后”，客服回应 4.魅族暂停手机研发！李楠曝光原因：当年我想办法促成阿里入股，但一手对A最终失效 5.小米汽车：将重建安全顾问委",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "IPO",
+        "上市",
+        "AI",
+        "首次",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/C4kW7EtUqrcMQkUd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-28 01:14:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 11,
+      "title": "8点1氪丨玛莎拉蒂母公司全年净亏损1800亿元人民币；男童发育不良新药引爆股价，长春高新回应；德国总理默茨参访宇树科技",
+      "summary": "2月28日消息，今日热点导览 德国总理默茨参访宇树科技 魅族被曝大量欠款成坏账 特斯拉中国官宣5年0息方案 携程集团总裁、董事双双辞职 微信上线新功能：同一文件多聊转发不重复占存储 TOP3大新闻 巨亏1800亿元，玛莎拉蒂母公司业绩爆雷 全球第四大汽车制造商Stellantis在2025年经历了一场代价沉重的战略转身。该公司2月26日发布的财报显示，全年净亏损高达223亿欧元（以当前汇率计算约为1802亿人民币",
+      "importance": "高",
+      "reason": "影响力评分: 234.0",
+      "tags": [
+        "上线",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3700794963193734?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 00:05:50",
+      "impact_score": 234.0
+    },
+    {
+      "index": 12,
+      "title": "OpenAI与亚马逊宣布建立战略合作伙伴关系",
+      "summary": "2月28日消息，36氪获悉，2月28日 OpenAI与亚马逊宣布达成一项多年期战略合作伙伴关系，旨在为全球企业、初创企业和终端消费者加速AI创新。亚马逊还将向OpenAI投资500亿美元，首期投入150亿美元，并在未来数月满足特定条件后再追加350亿美元。",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "创新",
+        "投资",
+        "合作",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3702447658479744?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 04:30:25",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "去年出货10万件、降低打印成本80%，这家高精度金属3D打印公司连融两轮丨36氪首发",
+      "summary": "2月28日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，高精度微米级金属3D打印企业——云耀深维（江苏）科技有限公司（以下简称“云耀深维”）完成了天使轮及Pre-A轮数千万元融资。 其天使轮投资方为红杉种子基金、深圳高新投及璞跃中国。Pre-A轮融资由博远资本领投，蓝郡资本跟投。资金主要用于核心技术的迭代研发、产能提升、团队扩充以及市场拓展等。 云耀深维成立于2021年，总部及产研基地位于江苏苏州太仓，是一家专注于金",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3700876701642374?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 01:37:02",
+      "impact_score": 215.0
+    },
+    {
+      "index": 14,
+      "title": "美国政府多部门对马斯克旗下Grok 聊天机器人发出安全警告",
+      "summary": "2月28日消息，据知情人士透露，近几个月来，美国多个联邦机构的官员对埃隆・马斯克旗下 xAI 公司的人工智能工具的安全性与可靠性表示担忧，这凸显出美国政府内部就在部署哪些 AI 模型问题上持续存在分歧。这些警告发出后，五角大楼于本周做出决定，允许 xAI 的聊天机器人Grok用于机密场景，将其纳入美国部分最高敏感、最高机密行动的核心。一份美国总务管理局（GSA）1 月 15 日的报告摘要指出，Grok-4 “不符",
+      "importance": "高",
+      "reason": "影响力评分: 171.0",
+      "tags": [
+        "风险",
+        "人工智能",
+        "对齐",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3702540414103945?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 06:14:17",
+      "impact_score": 171.0
+    },
+    {
+      "index": 15,
+      "title": "业绩快报 | 爱奇艺2025全年营收272.9亿元，海外会员收入同比激增超30%",
+      "summary": "2月26日，爱奇艺（NASDAQ:IQ）发布2025年第四季度及全年财报。受益于高品质多元化内容的持续供给，爱奇艺交出一份稳健的成绩单。数据显示，公司2025年全年实现总收入272.9亿元（人民币，下同），Non-GAAP运营利润6.4亿元，连续四年运营盈利。其中，第四季度总收入为67.9亿元，实现同环比双增长。 内容是爱奇艺发展的基石。2025年爱奇艺高品质内容接连涌现，云合年度剧集总有效播放市",
+      "importance": "高",
+      "reason": "影响力评分: 162.0",
+      "tags": [
+        "发布",
+        "CEO",
+        "AI",
+        "人工智能",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3701287910895495?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 08:37:01",
+      "impact_score": 162.0
+    },
+    {
+      "index": 16,
+      "title": "扬州爱奇艺乐园新年开门红 龚宇预计单日峰值收入还有1-2倍增长空间",
+      "summary": "2月26日，爱奇艺发布2025年第四季度及全年财报。数据显示，该财年爱奇艺Non-GAAP运营利润达6.4亿元，连续四年实现运营盈利。财报电话会上，爱奇艺创始人、CEO龚宇公布了首家爱奇艺乐园在扬州开业后的运营进展：自2月8日开业以来，游客入园数持续攀升，春节假期迎来首个客流高峰，整体效果符合预期。同时，园内IP消费品售卖活跃，衍生品客单价突破100元。龚宇还透露，开封、北京两家爱奇艺乐园预计将于",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "CEO",
+        "突破",
+        "发布",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/zQqvojc5bk0p17BL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 06:43:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 17,
+      "title": "中基协：2026年1月末私募基金规模达22.44万亿元",
+      "summary": "2月28日，中国证券投资基金业协会官微发布的私募基金管理人登记及产品备案月报显示，截至2026年1月末，存续私募基金管理人19163家，管理基金数量139153只，管理基金规模22.44万亿元。1月，新备案私募基金数量1235只，新备案规模640.62亿元。（每经网）",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "投资",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3702497020866952?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 05:15:36",
+      "impact_score": 132.0
+    },
+    {
+      "index": 18,
+      "title": "英伟达计划推出全新芯片 OpenAI是大客户",
+      "summary": "2月28日消息，英伟达计划发布一款专为OpenAI及其他客户定制的全新处理器，助力打造更快、更高效的工具。这是其业务的重大调整，或将重新定义 AI 竞赛格局。据知情人士透露，该公司正在为AI 推理计算设计全新系统 —— 这类计算负责让 AI 模型响应用户请求。这款新平台将于下月在圣何塞举办的英伟达 GTC 开发者大会上正式公布，将整合初创公司Groq设计的芯片。部分知情人士称，OpenAI 已同意成为这款新处理器",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3702396292526208?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 04:14:09",
+      "impact_score": 132.0
+    },
+    {
+      "index": 19,
+      "title": "OpenAI最新融资1100亿美元！英伟达亚马逊软银都抢到船票了",
+      "summary": "2月28日消息，",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "融资",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/02/382934.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-28 03:50:45",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "对话原力灵机范浩强：评判机器人好坏，只有一个指标",
+      "summary": "2月28日消息，范浩强是个很幽默的人。我们问他下一个十年，具身智能要解决的问题是什么，他说可能机器人觉醒把人类灭了，就没有下一个十年了。 这当然是一个玩笑，探讨行业的发展，难免要做一些科幻性的想象。在他看来，AI 应该是一生的事业。毕竟他高一就拿到了国际信息奥赛金牌，高二起就是一个真正的 AI 研究员了。 原力灵机的名字很陌生，但来头可不小，因为这是从旷视出来的具身智能公司。它的创始人便是旷视的联合创始人以及最早",
+      "importance": "高",
+      "reason": "影响力评分: 120.0",
+      "tags": [
+        "融资",
+        "发布",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/robot/sN3CJJLdL8Oj8afj.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 06:44:00",
+      "impact_score": 120.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic Is in a Lose-Lose Situation, Opinion's Lee Says",
+      "summary": "2月28日消息，Dave Lee of Bloomberg Opinion says Anthropic co-founder and CEO Dario Amodei is in a \"lose-lose\" situation and faces a real problem when it comes to a battle with the Pentagon over how to use AI produ",
+      "importance": "高",
+      "reason": "影响力评分: 262.5",
+      "tags": [
+        "Dario Amodei",
+        "CEO",
+        "AI",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/anthropic-in-a-lose-lose-situation-opinion-s-lee-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 17:56:53",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Raises $110B From Amazon, Nvidia, Others | Bloomberg Tech 2/27/2026",
+      "summary": "2月28日消息，Bloomberg’s Caroline Hyde discusses OpenAI’s $110 billion fundraise at a $730 billion valuation with key backing from Amazon. Plus, the feud between Anthropic and the Pentagon over AI use by the milit",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/bloomberg-tech-2-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 21:47:53",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "summary": "2月28日消息，The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 14:13:01",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup",
+      "summary": "2月28日消息，OpenAI has agreed to deploy its own artificial intelligence models within the Defense Department’s classified network after rival Anthropic PBC saw its relationship with the Pentagon implode over surv",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "autonomous weapons",
+        "surveillance"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-28/openai-gives-pentagon-access-to-models-after-anthropic-dustup",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-28 04:14:43",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "Private Credit Cracks Worry Investors | Open Interest 2/27/2026",
+      "summary": "2月28日消息，Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" OpenAI shatters fundraising records. The ChatGPT maker closes a staggering $110 billion round, bac",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "CEO",
+        "joins",
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/open-interest-2-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 18:23:35",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+      "summary": "2月28日消息，Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar",
+      "importance": "高",
+      "reason": "影响力评分: 186.0",
+      "tags": [
+        "AI",
+        "autonomous weapons",
+        "national security",
+        "surveillance"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 19:11:04",
+      "impact_score": 186.0
+    },
+    {
+      "index": 7,
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "summary": "2月28日消息，In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "AI",
+        "AI safety",
+        "lawsuit"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 19:42:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 8,
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "summary": "2月28日消息，On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CE",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "Dario Amodei",
+        "CEO",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-27 21:30:47",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "Former Netflix Executive on The WBD-PSKY Merger",
+      "summary": "2月28日消息，Simon Gallagher, Managing Director at SPG Global, says Netflix’s outlook remains strong even without Warner Bros. Discovery content. He speaks with Romaine Bostick and Bailey Lipschultz on “The Close.",
+      "importance": "高",
+      "reason": "影响力评分: 157.5",
+      "tags": [
+        "merger",
+        "AGI",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/former-netflix-executive-on-the-wbd-psky-merger-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 23:50:50",
+      "impact_score": 157.5
+    },
+    {
+      "index": 10,
+      "title": "Anthropic to sue Trump administration after AI lab is labelled security risk",
+      "summary": "2月28日消息，Pentagon bans start-up from government contracts, as OpenAI announces deal to deploy models in classified networks",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "announces",
+        "AI"
+      ],
+      "url": "https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-28 03:12:16",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+      "summary": "2月28日消息，Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "artificial intelligence",
+        "blacklist",
+        "AI"
+      ],
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-02-28 03:30:41",
+      "impact_score": 145.0
+    },
+    {
+      "index": 12,
+      "title": "Inside CoreWeave's $8.5B Buildout Raise",
+      "summary": "2月28日消息，Bloomberg's Bailey Lipschultz joins Matt Miller and Emily Graffeo on \"Bloomberg Real Yield\" to discuss CoreWeave, which is looking to raise about $8.5 billion to help finance a buildout of cloud compu",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "joins",
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/inside-coreweave-s-8-5b-buildout-raise-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 19:06:53",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+      "summary": "2月28日消息，OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models.",
+      "importance": "高",
+      "reason": "影响力评分: 140.0",
+      "tags": [
+        "Sam Altman",
+        "CEO",
+        "blacklist",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-28 04:25:34",
+      "impact_score": 140.0
+    },
+    {
+      "index": 14,
+      "title": "SpaceX Said to Target Confidential IPO Filing as Soon as March",
+      "summary": "2月28日消息，SpaceX is targeting filing confidentially for an initial public offering as soon as next month, according to people familiar with the matter. Bailey Lipschultz has more on \"Bloomberg The Close.\" (Sour",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "IPO",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/spacex-said-to-target-ipo-filing-as-soon-as-march-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 21:04:26",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "Blackstone Plans Public Company for AI Data-Center Buying Spree",
+      "summary": "2月28日消息，Blackstone Inc. is launching a publicly traded acquisition company that will snap up data centers, giving millions of mom-and-pop investors a chance to bet on the artificial intelligence boom.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "acquisition"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/blackstone-plans-public-company-for-ai-data-center-buying-spree",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 20:38:24",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "The Cold War Era Law at the Center of Hegseth’s Anthropic Threat",
+      "summary": "2月28日消息，The Pentagon is poised to take unprecedented steps in its standoff with Anthropic PBC that risk touching off a massive legal fight with the $380 billion company and threaten to undermine Pentagon effo",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/the-cold-war-era-law-at-the-center-of-hegseth-s-anthropic-threat",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 17:05:18",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+      "summary": "2月28日消息，While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "partnership",
+        "AI",
+        "surveillance"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 16:23:58",
+      "impact_score": 127.5
+    },
+    {
+      "index": 18,
+      "title": "We don&#8217;t have to have unsupervised killer robots",
+      "summary": "2月28日消息，It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potent",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "billion",
+        "surveillance"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-27 16:18:26",
+      "impact_score": 127.5
+    },
+    {
+      "index": 19,
+      "title": "OpenAI Finalizes $110 Billion Funding at $730 Billion Value",
+      "summary": "2月28日消息，OpenAI has raised $110 billion in a deal that values the startup at $730 billion, representing the ChatGPT maker’s largest funding round to date and bolstering its costly push to secure more computing",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/openai-finalizes-110-billion-funding-at-730-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 13:34:22",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "Suspended small business research programs derail development of gene therapies, hip implants, and more",
+      "summary": "2月28日消息，Congressional impasse has halted billions in research funding for innovative technologies",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.science.org/content/article/suspended-small-business-research-programs-derail-development-gene-therapies-hip",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-02-27 12:42:00",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从121条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世；从短视频到长文：当抖音把资讯也交给AI；外媒：OpenAI获1100亿美元融资，英伟达投资300亿美元。",
+  "statistics": {
+    "raw_domestic": 33,
+    "raw_international": 88,
+    "raw_total": 121,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月28日消息，今日热点导览 豆包手机回应存在安全漏洞 影石创新：所涉337调查已终结 米哈游多款未公开角色遭泄露，3名“00后”被刑拘 中国邮政称已叫停《尘白禁区》联名活动 蜜雪冰城要在河南老家建“雪王乐园” TOP 3 大新闻 语音误关大灯致车祸，领克致歉 近日，一车主驾驶领克Z20夜间在高速上行驶时，语音操作误关大灯致车辆撞上护栏一事引发网友广泛关注。针对此事，领克汽车销售有限公司副总经理穆军通过社交平台进",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月28日消息，作者 | 肖思佳 编辑 | 乔芊 在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。 2025年底，抖音上线长图文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。 作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月28日消息，据美国消费者新闻与商业频道(CNBC)报道，OpenAI周五宣布了一轮1100亿美元的融资，这一融资规模是其一年前上一轮融资的两倍多，创下私营科技公司的纪录。 OpenAI周五发布的声明称，亚马逊、英伟达和软银在该轮融资中分别投资了500亿美元、300亿美元和300亿美元。这笔投资使OpenAI的估值达到7300亿美元(未计入投资前)，相较于其10月份在二级融资中的5000亿美元估值，实现了大幅增",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月28日消息，大公司： 特斯拉无人驾驶技术在阿布扎比完成道路实测 阿布扎比综合交通中心（ITC）周四宣布，在有驾驶员监督条件下，该局已监督特斯拉完成了其最新无人驾驶技术在当地的道路测试。特斯拉在阿布扎比的测试项目致力于在批准的监管框架内推进出行方式革新，为阿联酋建立一个先进驾驶辅助及自动驾驶技术的测试模型，同时寻求在安全要求与鼓励采用现代创新之间保持谨慎平衡。（财联社） 蜜雪冰城要在河南老家建“雪王乐园” 从接",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月28日消息，文｜富充 编辑｜苏建勋 在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。 第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。 第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月28日消息，Dave Lee of Bloomberg Opinion says Anthropic co-founder and CEO Dario Amodei is in a \"lose-lose\" situation and faces a real problem when it comes to a battle with the Pentagon over how to use AI produ",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月28日消息，Bloomberg’s Caroline Hyde discusses OpenAI’s $110 billion fundraise at a $730 billion valuation with key backing from Amazon. Plus, the feud between Anthropic and the Pentagon over AI use by the milit",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月28日消息，The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月28日消息，OpenAI has agreed to deploy its own artificial intelligence models within the Defense Department’s classified network after rival Anthropic PBC saw its relationship with the Pentagon implode over surv",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月28日消息，Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" OpenAI shatters fundraising records. The ChatGPT maker closes a staggering $110 billion round, bac",
+      "importance": "高"
+    }
+  ]
+}
