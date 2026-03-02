@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-02
+生成时间: 2026-03-02 08:33:58
+数据来源: 从 86 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月2日消息，走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明的2025年。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，恒瑞医药、百济神州等、百利天恒、信达生物等14家企业市值破千亿
+2、3月2日消息，雷峰网《新智驾》独家获悉，蔚来芯片子公司安徽神玑即将官宣首轮融资，投资方为多家产业资本和行业头部机构。投后估值接近百亿元人民币。 有接近交易过程的人士表示，业内比较看好蔚来的芯片项目，投资竞争较为激烈，多家机构表现出较高参与意愿，“但未来还有很长的路要走。” 2025年6月，蔚来成立安徽神玑技术有限公司，统筹芯片研发、量产及技术授权业务。蔚来智能硬件高级副总裁白剑为公司法定代表人。公司注册地址与蔚
+3、3月2日消息，走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明的2025年。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，中国生物制药、恒瑞医药、百济神州等、百利天恒、信达生物等14家
+4、3月2日消息，AWE2026“入境指南”。 如果“懂生活的科技”有形状，它会是什么样？ 是一台比你更懂你情绪的智能音箱，还是一个能自动除湿、还会用卡通云朵卖萌的空调？是一台见到木地板就静音、遇到地毯就发力的扫地机器人，还是一台会提醒你“该吃水果了”的智能冰箱？ 如果你在去年的AWE现场逛过36氪打造的“未来+机器人展区”，你可能已经触摸过这个问题的答案。那一次，我们联手五家顶尖机器人公司，把人形机器人、仿生宠物
+5、3月2日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳市零差云控科技有限公司（以下简称“零差云控”）近日完成C+轮融资，源式资本担任本轮融资独家财务顾问。零差云控是硬氪持续关注的企业【详细可见报道： 估值超10亿，这家机器人关节公司销售额全球第一｜潜伏独角兽 】。本轮融资信息和企业定位如下： 融资金额及投资机构 融资轮次： C+轮 融资规模： 数千万元 投资方： 华控基金、创东方投资 资金用途： 研发投入、产能
+
+国际动态：
+1、3月2日消息，Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Teleco
+2、3月2日消息，arXiv:2602.23632v1 Announce Type: new Abstract: Synthesizing high-quality training data is crucial for enhancing domain models' reasoning abilities. Existing methods face limitations in long-tail know
+3、3月2日消息，arXiv:2602.23668v1 Announce Type: new Abstract: Large language model (LLM) agents typically rely on reactive decision-making paradigms such as ReAct, selecting actions conditioned on growing execution
+4、3月2日消息，arXiv:2602.23777v1 Announce Type: new Abstract: This paper addresses the domain generalization (DG) problem in deep learning. While most DG methods focus on enforcing visual feature invariance, we lev
+5、3月2日消息，arXiv:2602.23802v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have shown remarkable progress in visual reasoning and understanding tasks but still struggle to capture the co
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月2日消息，走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明的2025年。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，恒瑞医药、百济神州等、百利天恒、信达生物等14家企业市值破千亿
+   📋 入选理由: 影响力评分: 517.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3702755208622469?f=rss
+   🏷️ 标签: 创新, IPO, 十亿, 百亿, 发布
+
+2、🔥 3月2日消息，雷峰网《新智驾》独家获悉，蔚来芯片子公司安徽神玑即将官宣首轮融资，投资方为多家产业资本和行业头部机构。投后估值接近百亿元人民币。 有接近交易过程的人士表示，业内比较看好蔚来的芯片项目，投资竞争较为激烈，多家机构表现出较高参与意愿，“但未来还有很长的路要走。” 2025年6月，蔚来成立安徽神玑技术有限公司，统筹芯片研发、量产及技术授权业务。蔚来智能硬件高级副总裁白剑为公司法定代表人。公司注册地址与蔚
+   📋 入选理由: 影响力评分: 440.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/6TEQgG94ZVlTc9Os.html
+   🏷️ 标签: 融资, 突破, 十亿, 估值, CEO
+
+3、🔥 3月2日消息，走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明的2025年。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，中国生物制药、恒瑞医药、百济神州等、百利天恒、信达生物等14家
+   📋 入选理由: 影响力评分: 420.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3702758570488193?f=rss
+   🏷️ 标签: 创新, 收购, IPO, 并购, 发布
+
+4、🔥 3月2日消息，AWE2026“入境指南”。 如果“懂生活的科技”有形状，它会是什么样？ 是一台比你更懂你情绪的智能音箱，还是一个能自动除湿、还会用卡通云朵卖萌的空调？是一台见到木地板就静音、遇到地毯就发力的扫地机器人，还是一台会提醒你“该吃水果了”的智能冰箱？ 如果你在去年的AWE现场逛过36氪打造的“未来+机器人展区”，你可能已经触摸过这个问题的答案。那一次，我们联手五家顶尖机器人公司，把人形机器人、仿生宠物
+   📋 入选理由: 影响力评分: 401.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3705249084895369?f=rss
+   🏷️ 标签: 创新, 突破, 合作, 首次, AI
+
+5、🔥 3月2日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳市零差云控科技有限公司（以下简称“零差云控”）近日完成C+轮融资，源式资本担任本轮融资独家财务顾问。零差云控是硬氪持续关注的企业【详细可见报道： 估值超10亿，这家机器人关节公司销售额全球第一｜潜伏独角兽 】。本轮融资信息和企业定位如下： 融资金额及投资机构 融资轮次： C+轮 融资规模： 数千万元 投资方： 华控基金、创东方投资 资金用途： 研发投入、产能
+   📋 入选理由: 影响力评分: 342.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3590663070384392?f=rss
+   🏷️ 标签: 融资, 突破, 估值, 发布, 投资
+
+6、🔥 3月2日消息，走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，恒瑞医药、百济神州等、百利天恒、信达生物等14家企业市值破千亿，TOP10
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3702746899198087?f=rss
+   🏷️ 标签: 创新, IPO, 突破, 合作, 发布
+
+7、🔥 3月2日消息，36氪获悉，「质肽生物」近日获超5亿元人民币C轮融资，由奥博资本（OrbiMed）领投，启明创投、知名产业基金、五源资本、杏泽资本、华盖资本跟投，老股东泰福资本、蓝驰创投、泰煜投资持续加码，浩悦资本担任本轮融资的独家财务顾问。 质肽生物成立于2018年，主要从事重组蛋白质药物开发（ 36氪此前进行过多次详细报道 ），在慢性代谢病领域，布局了超长效、口服多肽、多靶点创新药。 图源：质肽生物官网 近年
+   📋 入选理由: 影响力评分: 256.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3705039542710665?f=rss
+   🏷️ 标签: 创新, 融资, 投资, 领先
+
+8、🔥 3月2日消息，要闻提示 1.万人大厂因AI一夜爆裁4000人，“留下的压力也很大” 2.网友晒椰树广告图被指低俗：“女员工胸这么大”引争议 3.BOSS直聘回应网传伊朗急招炮兵图：是假的，P图 4.传腾讯天美裁员数百人？接近人士：系项目调整，百余名员工正在活水 5.不排除出售可能！魅族StarV AR品牌被曝寻求独立融资 6.宗馥莉砍掉娃哈哈机器人业务，精机公司解散清算 7.OpenAI踩着Anthropic拿
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/S0M0F81kA1NsOqdA.html
+   🏷️ 标签: 融资, IPO, 人工智能, 估值, CEO
+
+9、🔥 3月2日消息，“十五五”规划建议中，“加快建设新型能源体系”“加快形成绿色生产生活方式”已被确立为核心战略目标。相较“十四五”规划建议，这是首次对能源和电力系统做出具体的规划。 与此同时，产业侧也开始行动。根据国家电网公布的信息，“十五五”期间其固定资产投资预计将高达4万亿元，较“十四五”时期大幅跃升40%。 政策与资金的交汇，意味着构建涵盖“源、网、荷、储”的综合性电力体系，已经成为国家产业发展的核心诉求。对
+   📋 入选理由: 影响力评分: 251.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3705242771845249?f=rss
+   🏷️ 标签: 创新, 首次, 投资, AI
+
+10、🔥 3月2日消息，文｜胡香赟 编辑｜海若镜 36氪获悉，精神心理数字诊疗平台「望里科技」已完成数千万元B+轮融资。本轮融资由远毅资本独家投资，募集资金主要用于产品研发。此外，望里科技的新一轮融资也已开启，指数资本任财务顾问。 望里科技 专注于精神心理领域，自建的该领域数据库已积累30万真实世界患者数据。此外，望里科技已在精神病学国际权威期刊发表十多篇论文，并承接多项国家级、省部级科研课题；在应用方面，公司可针对不同
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3670040712094601?f=rss
+   🏷️ 标签: 融资, 大模型, CEO, 投资, AI
+
+11、🔥 3月2日消息，本文约1400字，建议阅读3分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，大载重全地形机器人企业觉物科技（深圳）有限公司（下称“觉物科技”）近日宣布完成亿元级A轮融资。本轮融资由华创资本、江西金控资本等投资机构参与。此前，公司已获得包括日初资本、安克创新在内的多家机构投资。 据了解，觉物科技的机器人产品在真实农田环境中完成初步验证后，公司于去年年初完成了Pre-A轮融资。而去年年底落地的新一
+   📋 入选理由: 影响力评分: 230.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3705358618407300?f=rss
+   🏷️ 标签: 创新, 融资, 投资
+
+12、🔥 3月2日消息，作者丨胡家铭 编辑丨董子博 春节期间，由AI技术公司奇点摄动自主研发的 3D 二次元 AI 伴侣应用《星夜颂歌》开启封闭技术内测。产品预计于2026年内全球上线。 《星夜颂歌》的 AI 伴侣，主角名为蕾伊，设定上是一位来自公元7000年的未来少女。蕾伊一开始的性格偏冷峻，但经常脱线，思维比较跳跃，有时内心戏丰富，有点小内耗，目前喜欢收集这个时代的"赛博古董"。 此前，《星夜颂歌》的B站官方账号曾先
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/FTmRsHq0c99LHDsW.html
+   🏷️ 标签: 融资, 上线, 大模型, CEO, 发布
+
+13、🔥 3月2日，记者获悉，阿里巴巴集团内部将 AI 的总称和核心品牌统一为千问，千问大模型（Qwen）涵盖基础大模型和专业领域模型，千问APP是阿里巴巴在C端的旗舰AI应用。据悉，此举是为了避免之前千问、通义千问、Qwen 等多个名称导致的混淆问题，统一名称之后，阿里巴巴大模型品牌中文为“千问大模型”，英文为“Qwen”，“通义实验室”为阿里巴巴集团旗下AI机构的组织名称。 据了解，今年除夕，千问3.5
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/LfXLlB2VZCGxBk6W.html
+   🏷️ 标签: 开源, AI, 发布, 大模型
+
+14、🔥 3月2日消息，随着自动驾驶技术路线从端到端向VLA和世界模型进化，2026年的智驾竞赛如烈火烹油，推动市场格局的新一轮洗牌。 老牌车企长城汽车通过多元化的供应体系，快速追平行业进度——2025年末，发布VLA大模型，成为行业内唯二实现VLA落地的车企。 有知情人士告诉雷峰网《新智驾》，长城汽车并未放松自研力度，内部已成立一支上千人的自研团队，整合座舱与智驾两大板块，继续攻坚自研项目。 在新一轮的智驾竞争中，长城
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/3dHN6bjpaogtpTlp.html
+   🏷️ 标签: 突破, 大模型, 合作, 发布, 上市
+
+15、🔥 3月2日消息，小鹏第二代VLA智驾发布会举行，小鹏汽车董事长、CEO何小鹏发表演讲。何小鹏在现场宣布，大众将成为小鹏第二代VLA首发客户。（新浪科技）
+   📋 入选理由: 影响力评分: 152.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3705479503769992?f=rss
+   🏷️ 标签: CEO, 发布
+
+16、🔥 3月2日消息，36氪获悉，爱企查App显示，近日，北京面壁智能科技有限责任公司发生工商变更，新增中国电信集团有限公司旗下公司：中国电信集团投资有限公司、广西人工智能产业投资基金合伙企业（有限合伙）等为股东，同时注册资本增至71.3万元人民币。该公司成立于2022年8月，经营范围包括人工智能公共数据平台、人工智能通用应用系统、智能机器人的研发、智能机器人销售等。公开信息显示，壁智能是一家人工智能大模型技术创新与应
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3705488880021896?f=rss
+   🏷️ 标签: 创新, 人工智能, 大模型, 投资, AI
+
+17、🔥 3月2日消息，不仅复现，还多找出10个0day漏洞
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/383016.html
+   🏷️ 标签: 超越, AI
+
+18、🔥 3月2日消息，2月28日，成都市住房和城乡建设局等四部门联合发布《成都市人才优租行动实施细则》，针对符合条件的六类市级人才，给予相应的人才补贴，补贴比例从50%到100%不等，而补贴面积最高为50平方米。 该《细则》自2026年4月1日起实施，有效期5年。 从人才惠及范围看，首先是在成都市行政区域范围租住保障性租赁住房（不含纳入保障性租赁住房管理的居民自有住房）的市级A、B、C、D、E类人才。 另外，还有人才认
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3705502776652168?f=rss
+   🏷️ 标签: 发布
+
+19、🔥 3月2日消息，在西班牙巴塞罗那世界移动通信大会（MWC）上，小米汽车工业设计总经理、首席设计师李田原代表小米集团，发布Xiaomi Vision Gran Turismo（简称Xiaomi Vision GT）。针对网友询问VGT在未来会不会量产？ 小米科技对此表示否认，明确不会量产。（财联社）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3705530664792457?f=rss
+   🏷️ 标签: 发布
+
+20、🔥 3月2日消息，36氪获悉，2026年2月，市场调研机构CIC灼识发布的中国速冻食品行业调研报告中刊载的最新结论显示，截止2025年年底，皇家小虎烤肠、皇家小虎蛋挞连续五年全国销量第一，皇家小虎披萨2025年全国销量第一。据了解，皇家小虎2025年全渠道终端零售额超40亿元。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3705419977994628?f=rss
+   🏷️ 标签: 发布
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月2日消息，Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Teleco
+   📋 入选理由: 影响力评分: 251.0
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/
+   🏷️ 标签: reasoning, fine, AI, AGI
+
+2、🔥 3月2日消息，arXiv:2602.23632v1 Announce Type: new Abstract: Synthesizing high-quality training data is crucial for enhancing domain models' reasoning abilities. Existing methods face limitations in long-tail know
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23632
+   🏷️ 标签: fine, multimodal, reasoning, valuation, AI
+
+3、🔥 3月2日消息，arXiv:2602.23668v1 Announce Type: new Abstract: Large language model (LLM) agents typically rely on reactive decision-making paradigms such as ReAct, selecting actions conditioned on growing execution
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23668
+   🏷️ 标签: reasoning, large language model, introduces, AGI, LLM
+
+4、🔥 3月2日消息，arXiv:2602.23777v1 Announce Type: new Abstract: This paper addresses the domain generalization (DG) problem in deep learning. While most DG methods focus on enforcing visual feature invariance, we lev
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23777
+   🏷️ 标签: fine, multimodal, deep learning, reasoning, large language model
+
+5、🔥 3月2日消息，arXiv:2602.23802v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have shown remarkable progress in visual reasoning and understanding tasks but still struggle to capture the co
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23802
+   🏷️ 标签: fine, multimodal, reasoning, large language model, LLM
+
+6、🔥 3月2日消息，arXiv:2602.24110v1 Announce Type: new Abstract: Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as a powerful paradigm for enhancing the complex reasoning capabilities of Large Reaso
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.24110
+   🏷️ 标签: reasoning, fine, AI, AGI
+
+7、🔥 3月2日消息，arXiv:2602.23643v1 Announce Type: new Abstract: Everyone from AI executives and researchers to doomsayers, politicians, and activists is talking about Artificial General Intelligence (AGI). Yet, they 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23643
+   🏷️ 标签: artificial general intelligence, AI, AGI
+
+8、🔥 3月2日消息，arXiv:2602.23730v1 Announce Type: new Abstract: Recent advancements in Multimodal Large Language Models (MLLMs) pursue omni-perception capabilities, yet integrating robust sensory grounding with compl
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23730
+   🏷️ 标签: multimodal, reasoning, large language model, LLM, AI
+
+9、🔥 3月2日消息，Download purchasers over past decade could be eligible for compensation if class action succeeds
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/264e27d9-04bc-4e99-b66b-f3838835d7c3
+   🏷️ 标签: lawsuit, AI
+
+10、🔥 3月2日消息，By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/
+   🏷️ 标签: Sam Altman, AI, CEO
+
+11、🔥 3月2日消息，arXiv:2602.23605v1 Announce Type: new Abstract: We present SleepLM, a family of sleep-language foundation models that enable human sleep alignment, interpretation, and interaction with natural languag
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23605
+   🏷️ 标签: AI, fine, multimodal, alignment
+
+12、🔥 3月2日消息，arXiv:2602.23701v1 Announce Type: new Abstract: LLM-powered Multi-Agent Systems (MAS) have demonstrated remarkable capabilities in complex domains but suffer from inherent fragility and opaque failure
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23701
+   🏷️ 标签: chief, fine, AGI, LLM, AI
+
+13、🔥 3月2日消息，AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/software-defined-ai-ran/
+   🏷️ 标签: fine, AI
+
+14、🔥 3月2日消息，arXiv:2602.24288v1 Announce Type: new Abstract: The fast-growing demands in using Large Language Models (LLMs) to tackle complex multi-step data science tasks create an emergent need for accurate benc
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.24288
+   🏷️ 标签: machine learning, valuation, LLM, large language model, AI
+
+15、🔥 3月2日消息，Islamic republic launches constant barrages at Israel while targeting civilian sites around the Gulf
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2
+   🏷️ 标签: launches
+
+16、🔥 3月2日消息，arXiv:2602.24080v1 Announce Type: new Abstract: The pursuit of human-like conversational agents has long been guided by the Turing test. For modern speech-to-speech (S2S) systems, a critical yet unans
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.24080
+   🏷️ 标签: state-of-the-art, fine, AI
+
+17、🔥 3月2日消息，arXiv:2602.24273v1 Announce Type: new Abstract: We propose a minimal agentic baseline that enables systematic comparison across different AI-based theorem prover architectures. This design implements 
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.24273
+   🏷️ 标签: state-of-the-art, fine, AI
+
+18、🔥 3月2日消息，Australian artificial-intelligence startup Firmus Technologies Pty. has signed a new agreement with a global technology firm for a new data center in Melbourne, as the company prepares for an expected
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-02/nvidia-backed-ai-startup-firmus-signs-new-contract-ahead-of-ipo
+   🏷️ 标签: IPO, AI
+
+19、🔥 3月2日消息，China kicks off its most important annual political meeting next week, with investors seeking clarity on how Beijing intends to press ahead with its tech ambitions while reviving a fragile consumer ec
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-01/china-s-policy-summit-puts-tech-stimulus-in-focus-for-investors
+   🏷️ 标签: AGI
+
+20、🔥 3月2日消息，arXiv:2602.23720v1 Announce Type: new Abstract: The field of Artificial Intelligence is undergoing a transition from Generative AI -- probabilistic generation of text and images -- to Agentic AI, in w
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2602.23720
+   🏷️ 标签: artificial intelligence, LLM, AI, large language model
+
+
+======================================================================
+📊 今日总结: 今日从86条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：阿斯利康陈冰：创新药大额BD仍会出现，关键看“互补性”｜2026医疗展望；新智驾独家｜蔚来芯片子公司完成首轮融资，投后估值近百亿元；中国生物制药谢炘：医疗IPO将分化，资金流向BD、商业化预期明确标的｜2026医疗展望。
+======================================================================
