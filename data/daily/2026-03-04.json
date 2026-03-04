@@ -1,0 +1,707 @@
+{
+  "date": "2026-03-04",
+  "generated_at": "2026-03-04 08:28:31",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线",
+      "summary": "3月4日消息，小鹏汽车董事长 何小鹏 文｜肖漫 编辑｜李勤 “通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。 智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。 在何小鹏看来，",
+      "importance": "高",
+      "reason": "影响力评分: 376.5",
+      "tags": [
+        "通用人工智能",
+        "发布",
+        "AGI",
+        "CEO",
+        "领先"
+      ],
+      "url": "https://36kr.com/p/3707327485505672?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 02:04:43",
+      "impact_score": 376.5
+    },
+    {
+      "index": 2,
+      "title": "智元灵渠OS开源上线",
+      "summary": "3月4日消息，36氪获悉，据智元机器人消息，灵渠OS Alpha版本，现已正式开源发布。据介绍，本次发布的灵渠OS Alpha版本，是基于量产实践的全尺寸智元远征A2本体，开源跨平台具身软件框架、基于强化学习的双足运控框架与双足运控仿真训练部署一站式工具链。",
+      "importance": "高",
+      "reason": "影响力评分: 351.0",
+      "tags": [
+        "开源",
+        "发布",
+        "上线"
+      ],
+      "url": "https://36kr.com/newsflashes/3708210559545735?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 05:46:50",
+      "impact_score": 351.0
+    },
+    {
+      "index": 3,
+      "title": "阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发",
+      "summary": "3月4日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，临阁能源科技（苏州）有限公司（以下简称“临阁能源”）近日完成数千万元天使轮融资，本轮投资方为天空工场创投，融资资金将重点投入核心技术研发、持续丰富产品矩阵，推进产品的规模化化生产交付，并加快全球渠道布局。 作为MOVA的生态链企业，临阁能源是一家聚焦家庭阳台储能场景的智能硬件与能源方案服务商，专注阳台储能产品的研发与生产，集成磷酸铁锂电池、智能逆变器与AI能源算",
+      "importance": "高",
+      "reason": "影响力评分: 299.0",
+      "tags": [
+        "融资",
+        "突破",
+        "投资",
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3706785150546307?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 02:00:00",
+      "impact_score": 299.0
+    },
+    {
+      "index": 4,
+      "title": "数字支付应用程序PhonePe寻求在印度IPO中实现高达105亿美元的估值",
+      "summary": "3月4日消息，沃尔玛支持的数字支付应用程序PhonePe寻求在印度IPO中实现高达105亿美元的估值，目标在2026年4月前完成公开上市。（财联社）",
+      "importance": "高",
+      "reason": "影响力评分: 292.5",
+      "tags": [
+        "上市",
+        "IPO",
+        "估值"
+      ],
+      "url": "https://36kr.com/newsflashes/3708264684187777?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 06:41:54",
+      "impact_score": 292.5
+    },
+    {
+      "index": 5,
+      "title": "大会发言人：中国必将是外商理想、安全、有为的投资目的地",
+      "summary": "3月4日消息，十四届全国人大四次会议今天（3月4日）在人民大会堂举行新闻发布会，大会发言人娄勤俭就大会议程和人大工作相关问题回答中外记者提问。娄勤俭介绍，只有开放的中国才会成为现代化的中国。中国过去是、现在是、将来也必将是外商理想、安全、有为的投资目的地。（央视新闻）",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "投资",
+        "发布",
+        "开放"
+      ],
+      "url": "https://36kr.com/newsflashes/3708220795990401?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 05:57:15",
+      "impact_score": 249.0
+    },
+    {
+      "index": 6,
+      "title": "莱芒生物完成近2亿元新增融资，加速推进代谢增强型免疫细胞疗法临床转化｜36氪首发",
+      "summary": "3月4日消息，文｜胡香赟 编辑｜海若镜 36氪获悉，莱芒生物近期已完成近2亿元新增融资。本轮融资由粤财控股旗下机构粤财中垠联合晶泰科技领投，矿世之星、Mony Valley、泰珑投资、中山创投、以及个人财务投资者跟投，老股东富汇创投持续加注。募集资金将重点用于推进极低剂量代谢增强型CAR-T细胞药物的注册I期临床研究，并加速推进自动化生产工艺研发与验证，以及启动代谢增强型实体瘤细胞治疗药物的临床转化。 莱芒生物",
+      "importance": "高",
+      "reason": "影响力评分: 245.0",
+      "tags": [
+        "投资",
+        "创新",
+        "融资",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3707151883382917?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 00:00:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 7,
+      "title": "前大疆工程师创业，宇树天使投资人出手，仿生柔性机器人公司完成新融资｜硬氪首发",
+      "summary": "3月4日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳擎羽科技有限公司（以下简称“擎羽科技”）近日完成数千万元天使轮融资。本轮领投方为德迅投资，作为宇树科技的天使投资人，这也是其继极壳科技、首形科技、若创科技后，在硬件领域出手布局的又一项目。老股东奇绩创坛本轮持续加注。融资资金将用于技术研发投入、产品迭代及多场景商业化探索。 擎羽科技成立于2025年3月，专注仿生柔性机器人研发，其采用自适应柔驱技术，可以实现接",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "投资",
+        "融资",
+        "CEO"
+      ],
+      "url": "https://36kr.com/p/3701222224817801?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 01:30:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 8,
+      "title": "8点1氪丨油价或涨超70%；黄金白银出现断崖式下跌；iPhone 17使用一个月后橙色变粉色，苹果官方拒绝保修申请",
+      "summary": "3月4日消息，今日热点导览 周大福珠宝集团：金条类产品正常在售 霍尔木兹海峡受阻，国际油价暴涨，国内成品油将迎上调 “紫薯精”带火刘文祥麻辣烫：门店爆单，品牌方暂停接收新合作 舍得酒业副总裁王勇因工作原因辞职 华为在海外发布多个型号超节点产品及解决方案 TOP3大新闻 历史数据显示：主要产油国政权更迭，油价或涨超70% 中东局势持续紧张导致国际油价波动加剧。摩根大通预测，如果当前美以与伊朗的军事冲突持续超过三周",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "投资",
+        "发布",
+        "风险",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3707876236931461?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 00:09:22",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
+      "summary": "3月4日消息，大公司： 亚马逊花逾4亿美元购美知名高校校区用于AI建设 美国乔治·华盛顿大学2日说，美国亚马逊公司斥资4.27亿美元，收购该校弗吉尼亚科学与技术校区，以加快人工智能（AI）基础设施建设。 红果短剧已为多款小说相关软件登记著作权 36氪获悉，3月3日，爱企查App显示，红果短剧关联公司北京笔墨留香科技有限公司成已为“小说快应用”“笔墨留香”“红果官网”网站进行备案。值得一提的是，该公司已为“最看小",
+      "importance": "高",
+      "reason": "影响力评分: 190.0",
+      "tags": [
+        "发布",
+        "AI",
+        "监管",
+        "人工智能",
+        "首次"
+      ],
+      "url": "https://36kr.com/p/3707029227499651?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-03 09:57:08",
+      "impact_score": 190.0
+    },
+    {
+      "index": 10,
+      "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
+      "summary": "3月4日消息，作者丨邱晓芬 编辑丨苏建勋 在2026世界移动通信大会（MWC 2026）上，荣耀发布的人形机器人、Robot Phone吸引了大量观众的目光。 在Robot Phone上，荣耀打破了过去“黑色方块”的设计，将微型相机和云台系统塞进了手机里。 据介绍，Robot Phone最大的技术挑战之一在于，如何在有限的手机空间中塞进机械臂和电机，这意味着，其上的微型电机必须同时满足高强度和轻量化。 为此，荣",
+      "importance": "高",
+      "reason": "影响力评分: 162.0",
+      "tags": [
+        "合作",
+        "发布",
+        "大模型",
+        "领先",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3705522207289479?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-03 05:24:59",
+      "impact_score": 162.0
+    },
+    {
+      "index": 11,
+      "title": "大钲资本收购蓝瓶咖啡，后者尚在亏损中｜独家",
+      "summary": "3月4日消息，作者 | 钟艺璇 彭倩 编辑 | 乔芊 36氪获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。 值得注意的是，蓝瓶咖啡目前仍在亏损中。 36氪独家了解到，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿",
+      "importance": "高",
+      "reason": "影响力评分: 160.5",
+      "tags": [
+        "首次",
+        "CEO",
+        "收购"
+      ],
+      "url": "https://36kr.com/p/3708291149148288?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 07:10:36",
+      "impact_score": 160.5
+    },
+    {
+      "index": 12,
+      "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
+      "summary": "3月4日消息，骁龙可穿戴平台至尊版正式发布",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "发布",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/03/383878.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-04 03:11:45",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+      "summary": "3月4日消息，并不是第一次发现GPT-5.4的踪迹了",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "GPT-5",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/03/383592.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-03 10:55:37",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
+      "summary": "3月4日消息，历史上最大规模的单一目的Lean形式化项目",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "首次"
+      ],
+      "url": "https://www.qbitai.com/2026/03/383368.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-03 10:28:48",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
+      "summary": "3月4日消息，作者丨邱晓芬 编辑丨苏建勋 在2026世界移动通信大会（MWC 2026）中偌大的1号馆里，华为几乎占据了一半以上的位置。这么大的空间和篇幅，华为想重点传递的关键词是U6GHz。 为了实现6G这一遥远的蓝图，近期，全球已掀起了一场U6GHz（6.425-7.125 GHz）的探索热潮，阿联酋、巴西及欧洲等多国各大运营商近期纷纷完成了相应的万兆体验速率验证。 简单理解，U6GHz就像是一个“黄金频段",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3705512345170309?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-03 05:25:28",
+      "impact_score": 132.0
+    },
+    {
+      "index": 16,
+      "title": "龙虾再进化！强化飞书表格技能，25.2万星登顶超越React/Linux",
+      "summary": "3月4日消息，龙虾官方也开通了微博账号",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "超越"
+      ],
+      "url": "https://www.qbitai.com/2026/03/383367.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-03 10:57:09",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "现货钯金突破1700美元/盎司",
+      "summary": "3月4日消息，36氪获悉，现货钯金突破1700美元/盎司，日内涨3.43%。",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3708328132063362?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 07:46:26",
+      "impact_score": 110.5
+    },
+    {
+      "index": 18,
+      "title": "智元机器人新专利可提高智能体行为表达的实时性",
+      "summary": "3月4日消息，36氪获悉，爱企查App显示，近日，智元创新（上海）科技股份有限公司一项名为“智能体的行为控制方法、电子设备、存储介质以及产品”的发明专利公开。",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3708306478100610?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 07:24:25",
+      "impact_score": 110.5
+    },
+    {
+      "index": 19,
+      "title": "沪深两市成交额突破2万亿元",
+      "summary": "3月4日消息，36氪获悉，沪深两市成交额突破2万亿元。",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3708231937257856?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 06:08:35",
+      "impact_score": 110.5
+    },
+    {
+      "index": 20,
+      "title": "沪深京三市成交额突破2万亿",
+      "summary": "3月4日消息，36氪获悉，沪深京三市成交额突破2万亿，较上日此时缩量超5300亿。",
+      "importance": "高",
+      "reason": "影响力评分: 110.5",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3708225007186051?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 06:01:32",
+      "impact_score": 110.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Lin to Buy Miami Dolphins Stake At $12.5 Billion Valuation",
+      "summary": "3月4日消息，Lin Bin, the billionaire co-founder of Chinese consumer electronics company Xiaomi Corp., has reached an agreement to buy a 1% stake in the Miami Dolphins football team at a $12.5 billion valuation, a",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/lin-bin-to-buy-miami-dolphins-stake-at-12-5-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 20:13:40",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "Kushner’s Thrive, Andreessen Lead $4 Billion Anduril Round",
+      "summary": "3月4日消息，Josh Kushner’s Thrive Capital and venture firm Andreessen Horowitz are coleading a fundraising round for Anduril Industries Inc. that could nearly double the defense tech startup’s valuation.",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/thrive-capital-andreessen-to-lead-4-billion-anduril-round",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 17:46:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Altman Tells Staff OpenAI Has No Say Over Pentagon Decisions",
+      "summary": "3月4日消息，OpenAI Chief Executive Officer Sam Altman told employees that the company doesn’t get to make the call about what the Defense Department does with its artificial intelligence software and suggested th",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "chief",
+        "AI",
+        "artificial intelligence",
+        "Sam Altman"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/altman-tells-staff-openai-has-no-say-over-pentagon-decisions",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 00:22:50",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "Pantera's Morehead discusses Crypto Prices, Firm's Investments",
+      "summary": "3月4日消息，Bitcoin edged lower, surrendering a short-lived rally past $70,000, as a broader selloff in risk assets deepened amid mounting fears that the Iran war will continue to escalate. Dan Morehead, founder ",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "founder",
+        "AGI",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-03/pantera-s-morehead-discusses-crypto-prices-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 19:44:06",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
+      "summary": "3月4日消息，A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "billion",
+        "AI",
+        "AI regulation"
+      ],
+      "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-03 21:44:09",
+      "impact_score": 160.0
+    },
+    {
+      "index": 6,
+      "title": "Estimating Visual Attribute Effects in Advertising from Observational Data: A Deepfake-Informed Double Machine Learning Approach",
+      "summary": "3月4日消息，arXiv:2603.02359v1 Announce Type: new Abstract: Digital advertising increasingly relies on visual content, yet marketers lack rigorous methods for understanding how specific visual attributes causally",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "machine learning",
+        "deepfake",
+        "AI",
+        "founder",
+        "bias"
+      ],
+      "url": "https://arxiv.org/abs/2603.02359",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
+      "summary": "3月4日消息，Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "billion",
+        "strategic investment"
+      ],
+      "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-03 14:47:09",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "NeuroProlog: Multi-Task Fine-Tuning for Neurosymbolic Mathematical Reasoning via the Cocktail Effect",
+      "summary": "3月4日消息，arXiv:2603.02504v1 Announce Type: new Abstract: Large Language Models (LLMs) achieve strong performance on natural language tasks but remain unreliable in mathematical reasoning, frequently generating",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "reasoning",
+        "fine",
+        "LLM",
+        "alignment",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2603.02504",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 9,
+      "title": "UK bets £40mn on frontier AI research lab in push for tech independence",
+      "summary": "3月4日消息，New state-backed body seeks AI breakthroughs in science, healthcare and transport",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "breakthrough"
+      ],
+      "url": "https://www.ft.com/content/41f522fc-10f5-4e5e-b64a-eb515799c265",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-04 05:00:23",
+      "impact_score": 142.5
+    },
+    {
+      "index": 10,
+      "title": "Nvidia Invests $2B in Photonics Firm Coherent",
+      "summary": "3月4日消息，Nvidia will invest $2 billion in the photonics firm Coherent as the AI leader bets on continued demand for advanced optical components used in data centers. Coherent CEO Jim Anderson speaks with Carol",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "billion",
+        "AI",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-03/nvidia-invests-2b-in-photonics-firm-coherent-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 19:10:01",
+      "impact_score": 142.5
+    },
+    {
+      "index": 11,
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "summary": "3月4日消息，Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "Gemini 3"
+      ],
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-03-03 16:35:55",
+      "impact_score": 135.0
+    },
+    {
+      "index": 12,
+      "title": "SAE as a Crystal Ball: Interpretable Features Predict Cross-domain Transferability of LLMs without Training",
+      "summary": "3月4日消息，arXiv:2603.02908v1 Announce Type: new Abstract: In recent years, pre-trained large language models have achieved remarkable success across diverse tasks. Besides the pivotal role of self-supervised pr",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "fine",
+        "LLM",
+        "introduces",
+        "AI",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2603.02908",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 13,
+      "title": "Why AI startups are selling the same equity at two different prices",
+      "summary": "3月4日消息，Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "founder",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-04 00:31:25",
+      "impact_score": 127.5
+    },
+    {
+      "index": 14,
+      "title": "Anthropic Nears $20 Billion Revenue Run Rate Amid Pentagon Feud",
+      "summary": "3月4日消息，Anthropic PBC is on track to generate annual revenue of almost $20 billion, a projection based on current performance, more than doubling its run rate from late last year — a sign of the AI company’s ",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 23:18:23",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "Iran Conflict Selloff Rattles Tech Stocks | Bloomberg Tech 3/3/2026",
+      "summary": "3月4日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss the market selloff as concerns about the Middle East conflict hit equities and bonds. Plus, a look at the math of military projectiles as the US uses co",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-03/bloomberg-tech-3-3-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 22:22:39",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "Kushner's Thrive, Andreessen Lead Anduril Fundraising Round",
+      "summary": "3月4日消息，Josh Kushner’s Thrive Capital and venture firm Andreessen Horowitz are coleading a $4 billion fundraising round for defense contractor Anduril Industries that could wind up valuing the startup at abou",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-03/thrive-andreessen-lead-anduril-fundraising-round-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 19:12:54",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "Ro Khanna’s Wealth Tax Support Fuels Primary Challenge in Silicon Valley",
+      "summary": "3月4日消息，Representative Ro Khanna is facing backlash from billionaires for supporting a California wealth tax. Now a tech entrepreneur wants to turn that anger into a June primary challenge for Khanna’s Silico",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/ro-khanna-s-wealth-tax-support-fuels-ethan-agarwal-s-primary-challenge",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 13:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 18,
+      "title": "Stem cell therapies ‘come of age’ with two conditional approvals in Japan",
+      "summary": "3月4日消息，Induced pluripotent stem cells could help treat diseased hearts and brains",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.science.org/content/article/stem-cell-therapies-come-age-two-conditional-approvals-japan",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-03-03 03:15:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 19,
+      "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+      "summary": "3月4日消息，In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology.",
+      "importance": "高",
+      "reason": "影响力评分: 125.0",
+      "tags": [
+        "AI",
+        "Sam Altman",
+        "CEO"
+      ],
+      "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-04 00:03:59",
+      "impact_score": 125.0
+    },
+    {
+      "index": 20,
+      "title": "A Neuropsychologically Grounded Evaluation of LLM Cognitive Abilities",
+      "summary": "3月4日消息，arXiv:2603.02540v1 Announce Type: new Abstract: Large language models (LLMs) exhibit a unified \"general factor\" of capability across 10 benchmarks, a finding confirmed by our factor analysis of 156 mo",
+      "importance": "高",
+      "reason": "影响力评分: 120.0",
+      "tags": [
+        "reasoning",
+        "LLM",
+        "AI",
+        "valuation",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2603.02540",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 120.0
+    }
+  ],
+  "summary": "今日从129条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线；智元灵渠OS开源上线；阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发。",
+  "statistics": {
+    "raw_domestic": 29,
+    "raw_international": 100,
+    "raw_total": 129,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月4日消息，小鹏汽车董事长 何小鹏 文｜肖漫 编辑｜李勤 “通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。 智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。 在何小鹏看来，",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月4日消息，36氪获悉，据智元机器人消息，灵渠OS Alpha版本，现已正式开源发布。据介绍，本次发布的灵渠OS Alpha版本，是基于量产实践的全尺寸智元远征A2本体，开源跨平台具身软件框架、基于强化学习的双足运控框架与双足运控仿真训练部署一站式工具链。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月4日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，临阁能源科技（苏州）有限公司（以下简称“临阁能源”）近日完成数千万元天使轮融资，本轮投资方为天空工场创投，融资资金将重点投入核心技术研发、持续丰富产品矩阵，推进产品的规模化化生产交付，并加快全球渠道布局。 作为MOVA的生态链企业，临阁能源是一家聚焦家庭阳台储能场景的智能硬件与能源方案服务商，专注阳台储能产品的研发与生产，集成磷酸铁锂电池、智能逆变器与AI能源算",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月4日消息，沃尔玛支持的数字支付应用程序PhonePe寻求在印度IPO中实现高达105亿美元的估值，目标在2026年4月前完成公开上市。（财联社）",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月4日消息，十四届全国人大四次会议今天（3月4日）在人民大会堂举行新闻发布会，大会发言人娄勤俭就大会议程和人大工作相关问题回答中外记者提问。娄勤俭介绍，只有开放的中国才会成为现代化的中国。中国过去是、现在是、将来也必将是外商理想、安全、有为的投资目的地。（央视新闻）",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月4日消息，Lin Bin, the billionaire co-founder of Chinese consumer electronics company Xiaomi Corp., has reached an agreement to buy a 1% stake in the Miami Dolphins football team at a $12.5 billion valuation, a",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月4日消息，Josh Kushner’s Thrive Capital and venture firm Andreessen Horowitz are coleading a fundraising round for Anduril Industries Inc. that could nearly double the defense tech startup’s valuation.",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月4日消息，OpenAI Chief Executive Officer Sam Altman told employees that the company doesn’t get to make the call about what the Defense Department does with its artificial intelligence software and suggested th",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月4日消息，Bitcoin edged lower, surrendering a short-lived rally past $70,000, as a broader selloff in risk assets deepened amid mounting fears that the Iran war will continue to escalate. Dan Morehead, founder ",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月4日消息，A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
+      "importance": "高"
+    }
+  ]
+}
