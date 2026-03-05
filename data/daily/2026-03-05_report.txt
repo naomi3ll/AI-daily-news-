@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-05
+生成时间: 2026-03-05 08:30:10
+数据来源: 从 161 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月5日消息，雷峰网讯 据悉，具身智能企业星动纪元在近日完成10亿元战略轮融资，估值破百亿。本轮融资由三星、高成投资、新加坡电信、友利资本（隶属韩国友利金融集团）、中金保时捷、中芯聚源、峰和资本、锡创投、广发乾和、鸿瑞集团等等新机构联合投资，鼎晖VGC、清控天诚等老股东超额追加投资。 至此，星动纪元累计吸引16家国内外产业投资方，为具身智能行业之最，资方包括 吉利资本、阿里巴巴、联想、海尔、北汽、世纪金源等国内
+2、3月5日消息，小鹏汽车董事长 何小鹏 文｜肖漫 编辑｜李勤 “通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。 智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。 在何小鹏看来，
+3、3月5日消息，
+4、3月5日消息，36氪获悉，YuanLab.ai团队今日正式开源发布Yuan3.0 Ultra多模态基础大模型。据了解，Yuan3.0 Ultra将MoE大模型的训练效率优化系统性引入模型结构设计之中，并围绕企业应用及智能体工具调用等方面开展了深度优化，在多模态文档理解、检索增强生成（RAG）、表格数据分析、内容摘要与工具调用等企业级任务中表现突出。
+5、3月5日消息，在游戏手机市场长期陷入“性能与厚重绑定”的困局时，红魔11 AIR的登场打破了行业惯性。作为红魔2026年主打的新生代性能旗舰，它以“不妥协”的极致追求重新定义AIR机型，既保留了旗舰级游戏性能，又将机身重量控制在可日常单手握持的范围，精准击中“想玩游戏但讨厌厚重机身”的用户需求，兼顾手感、战力与颜值，目标成为同档最强、颜值最高的新生代性能旗舰。 外观与手感上，红魔11 AIR颠覆了传统游戏手机的
+
+国际动态：
+1、3月5日消息，arXiv:2603.03295v1 Announce Type: cross Abstract: As large language models (LLMs) get integrated into human decision-making, they are increasingly choosing goals autonomously rather than only completi
+2、3月5日消息，A bipartisan group of six US senators pressed Intel Corp. for more information about its relationship with ACM Research Inc., a maker of semiconductor equipment whose subsidiaries remain on a Commerce
+3、3月5日消息，Nvidia Corp. Chief Executive Officer Jensen Huang doesn’t see his company’s investments in OpenAI reaching $100 billion — the maximum amount that the chipmaking giant had once pledged to spend on the 
+4、3月5日消息，A defense-technology startup born out of Ukraine’s battlefield is emerging with a valuation topping $1 billion, according to people familiar with the matter, as Western and Gulf militaries scramble fo
+5、3月5日消息，Pasqal Holding SAS agreed to merge with a blank-check firm in a deal that values the combined company at $2 billion pre-money, joining the growing number of quantum startups choosing to go public thro
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月5日消息，雷峰网讯 据悉，具身智能企业星动纪元在近日完成10亿元战略轮融资，估值破百亿。本轮融资由三星、高成投资、新加坡电信、友利资本（隶属韩国友利金融集团）、中金保时捷、中芯聚源、峰和资本、锡创投、广发乾和、鸿瑞集团等等新机构联合投资，鼎晖VGC、清控天诚等老股东超额追加投资。 至此，星动纪元累计吸引16家国内外产业投资方，为具身智能行业之最，资方包括 吉利资本、阿里巴巴、联想、海尔、北汽、世纪金源等国内
+   📋 入选理由: 影响力评分: 405.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/kD45xqCWplSIf5HF.html
+   🏷️ 标签: 投资, 百亿, 首次, 创新, 融资
+
+2、🔥 3月5日消息，小鹏汽车董事长 何小鹏 文｜肖漫 编辑｜李勤 “通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。 智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。 在何小鹏看来，
+   📋 入选理由: 影响力评分: 376.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3707327485505672?f=rss
+   🏷️ 标签: 通用人工智能, AI, 发布, AGI, 领先
+
+3、🔥 3月5日消息，
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/383974.html
+   🏷️ 标签: GPT-5, 上线
+
+4、🔥 3月5日消息，36氪获悉，YuanLab.ai团队今日正式开源发布Yuan3.0 Ultra多模态基础大模型。据了解，Yuan3.0 Ultra将MoE大模型的训练效率优化系统性引入模型结构设计之中，并围绕企业应用及智能体工具调用等方面开展了深度优化，在多模态文档理解、检索增强生成（RAG）、表格数据分析、内容摘要与工具调用等企业级任务中表现突出。
+   📋 入选理由: 影响力评分: 249.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3709725882003841?f=rss
+   🏷️ 标签: 开源, 大模型, AI, 发布
+
+5、🔥 3月5日消息，在游戏手机市场长期陷入“性能与厚重绑定”的困局时，红魔11 AIR的登场打破了行业惯性。作为红魔2026年主打的新生代性能旗舰，它以“不妥协”的极致追求重新定义AIR机型，既保留了旗舰级游戏性能，又将机身重量控制在可日常单手握持的范围，精准击中“想玩游戏但讨厌厚重机身”的用户需求，兼顾手感、战力与颜值，目标成为同档最强、颜值最高的新生代性能旗舰。 外观与手感上，红魔11 AIR颠覆了传统游戏手机的
+   📋 入选理由: 影响力评分: 236.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3708807719317892?f=rss
+   🏷️ 标签: 突破, AI, 首次
+
+6、🔥 3月5日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，安徽枡水新能源科技有限公司（以下简称“枡水科技”）已完成超亿元A轮融资，云道资本担任长期独家财务顾问。以下为本轮融资及公司的主要信息： 融资金额及投资机构 融资轮次： A轮 融资规模： 超亿元 投资方： 蔚来资本领投，联想创投、中安资本跟投，合肥创新投追投 资金用途： 主要用于大订单交付，增加研发储备、新工厂建设及日常运营，以推动产业链的整合与升级 公司基本信息
+   📋 入选理由: 影响力评分: 230.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3698479751769989?f=rss
+   🏷️ 标签: 融资, 创新, 投资
+
+7、🔥 3月5日消息，本次监测周期内，茅台，五粮液和伊利分别以1.91、1.75和1.55的综合热度指数位列榜单前三。 世研指数 零食赛道品牌扎堆马年礼盒创新，IP联名和健康创新成营销关键 从上榜品牌动态来看，食品生鲜消费迎来马年春节旺季，整体呈现“礼盒领跑、品质升级、场景细分、营销破圈”的核心特征，各细分赛道竞争激烈且分化明显，品牌新春战略精准贴合节日需求，用户消费从基础刚需转向情感价值与品质体验的双重追求。 其中，
+   📋 入选理由: 影响力评分: 221.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3708380553507209?f=rss
+   🏷️ 标签: 突破, 创新
+
+8、🔥 3月5日消息，要闻提示 1.越骂越火？山姆一冰块卖37.9元，多门店已售罄！网友两派吵翻天 2.拼多多一招商经理受贿208万被抓，含劳力士手表一块，被判三年五个 3.贵了但值！字节Seedance2.0公布定价标准：平均1秒钟1块钱 4.淘宝 3.8 App图标换粉被吐槽！网友：你怎么褪色了，官方：改 5.累计交付量超28万台！问界M9：销量/质量/安全/口碑/保值率均第一 6.千问核心负责人林俊旸凌晨宣布卸任
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/t9UYHWpaMuhVRMfi.html
+   🏷️ 标签: GPT-5, AI, 发布
+
+9、🔥 3月5日消息，作者 | 赵之齐 编辑 | 包永刚 上周，寒武纪、沐曦与摩尔线程在同一天发布了业绩快报。 寒武纪率先破局盈利，沐曦亏损持续收窄，摩尔线程营收高速增长。 然而，市场对三家公司此次交出的成绩单，并不能算满意。 “二级市场对寒武纪的预期，是他们公开数据的三四倍”“沐曦和摩尔线程如果还没有新的大订单出来，股价也就基本这样了”，有分析师指出。 三家公司业绩快报信息整理 三份业绩快报，正是几家国产AI芯片公司
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/mu8V7pbuWbD4avC9.html
+   🏷️ 标签: 首次, AI, 发布, 合作, 上市
+
+10、🔥 3月5日消息，雷峰网《新智驾》独家获悉，原宁德时代执行总裁朱威将出任地平线总裁，原地平线总裁陈黎明将转任副董事长。 朱威本科毕业于中国科学技术大学精密仪器专业，拥有耶鲁大学商学院MBA学位。在宁德时代任职8年，负责公司乘用车以及海外储能业务。 朱威（右） 加入宁德时代前，朱威曾任法雷奥中国区副总裁，负责汽车舒适及辅助驾驶业务。其职业经历横跨智能驾驶和新能源，并在国内和国际业务上都有丰富的经验。 宁德时代与地平线
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/9QzOPZYEiNisvYVr.html
+   🏷️ 标签: 融资, AI, 合作
+
+11、🔥 3月5日消息，作者 | 邓咏仪 编辑 | 苏建勋 杨轩 “我应该要更早知道这些。” 北京时间3月4日下午约13:00，通义实验室紧急召开了All Hands会议，阿里集团CEO吴泳铭向千问员工坦诚表示。 12个小时前（北京时间3月4日凌晨0点11分），阿里千问大模型技术负责人林俊旸在X上突然宣布离职——林俊旸是阿里AI开源模型的核心推手，也是阿里最年轻的P10之一——行业一片哗然之时，Qwen的很多成员也无法接
+   📋 入选理由: 影响力评分: 182.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3708425301749891?f=rss
+   🏷️ 标签: 大模型, AI, 开源, 超越, CEO
+
+12、🔥 3月4日凌晨，因阿里云Coding Plan订阅火爆导致模型API调用量暴涨，阿里云发布公告称，将阶段性调整Coding Plan优惠活动，以保障用户体验。调整后，其首购优惠额度将于每日9：30-11：30、14:30-16:30两个时间段限量供应。 据悉，阿里云Coding Plan于2月22日上线优惠活动，新用户首购可享2折优惠，其中每月18000次请求的Lite版仅需7.9元，每月90000
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ys8CpW5WySx6uUGG.html
+   🏷️ 标签: 上线, 发布
+
+13、🔥 3月5日消息，仿生柔性机器人公司「擎羽科技」近日完成数千万人民币天使轮融资。本轮融资由德迅投资领投，老股东奇绩创坛持续加注。资金将主要用于技术研发投入，加快产品迭代更新。 擎羽科技成立于 2025 年 3 月，聚焦新一代仿生柔性机器人，试图解决机器人进入真实世界时长期存在的非标环境适配难、部署成本高、人机协作不自然等问题。与传统强调刚性结构与高确定性的技术路径不同，擎羽选择从柔性执行与人机共生切入，探索机器人在
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/1uKAuRYu562APkJt.html
+   🏷️ 标签: 开放, 创新, 融资, 投资
+
+14、🔥 3月5日消息，作者 | 钟艺璇 彭倩 编辑 | 乔芊 36氪获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。 值得注意的是，蓝瓶咖啡目前仍在亏损中。 36氪独家了解到，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿
+   📋 入选理由: 影响力评分: 160.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3708291149148288?f=rss
+   🏷️ 标签: CEO, 首次, 收购
+
+15、🔥 3月5日消息，骁龙可穿戴平台至尊版正式发布
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/383878.html
+   🏷️ 标签: AI, 发布
+
+16、🔥 3月5日消息，今日热点导览 建议提高个税起征点至8000或1万，并同步优化税率结构 苹果公司宣布推出MacBook Neo TOP 3 大新闻 大钲资本收购蓝瓶咖啡 36氪独家获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。值得注意的是，蓝瓶咖啡目前仍在亏损中。据
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3709304754614662?f=rss
+   🏷️ 标签: CEO, 风险, 收购, AI
+
+17、🔥 3月5日消息，36氪获悉，3月4日，鸿蒙智行举办技术焕新发布会，正式发布新一代双光路图像级激光雷达。时代旗舰尊界S800与全景智慧旗舰SUV问界M9，同步首发搭载全球量产最高规格高达896线激光雷达。
+   📋 入选理由: 影响力评分: 137.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3709734827225479?f=rss
+   🏷️ 标签: 发布
+
+18、🔥 3月5日消息，《政府工作报告》起草组成员、国务院研究室副主任陈昌盛3月5日在国新办吹风会上表示，下一步要加快空域资源的开放和低空经济飞行审批程序的优化简化，去打开场景，使得很多地方低空物流、城市治理这些场景都可以打开，这样的新场景还有很多，包括服务机器人等，这些也可以为民间投资打开新的空间。（中国网）
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3709723997761928?f=rss
+   🏷️ 标签: 开放, 投资
+
+19、🔥 3月5日消息，定义AI时代世界创作的基础设施
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/383998.html
+   🏷️ 标签: 融资, AI
+
+20、🔥 3月5日，外骨骼机器人公司程天科技宣布又拿到一笔亿元级B+轮融资。这是一年间的第二笔钱，由农银资本领投，汇川产投、杭州资本跟投。 过去一年，在具身智能热潮带动下，C端市场对外骨骼机器人有了更强的期待和热情。外骨骼可穿戴产品也走出医院和康复机构，零星出现在景点、田径场、以及家庭场景中。 四年前，程天科技创始人、CEO王天曾告诉36氪，他认为外骨骼机器人未来会成为独立产业，能对标手机。手机像人的一个器
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3706881778069893?f=rss
+   🏷️ 标签: 融资, CEO, AI, 人工智能
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月5日消息，arXiv:2603.03295v1 Announce Type: cross Abstract: As large language models (LLMs) get integrated into human decision-making, they are increasingly choosing goals autonomously rather than only completi
+   📋 入选理由: 影响力评分: 315.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.03295
+   🏷️ 标签: large language model, LLM, fine, AI, state-of-the-art
+
+2、🔥 3月5日消息，A bipartisan group of six US senators pressed Intel Corp. for more information about its relationship with ACM Research Inc., a maker of semiconductor equipment whose subsidiaries remain on a Commerce
+   📋 入选理由: 影响力评分: 315.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-04/us-senators-press-intel-over-ties-to-firm-with-sanctioned-units
+   🏷️ 标签: AI, national security, blacklist
+
+3、🔥 3月5日消息，Nvidia Corp. Chief Executive Officer Jensen Huang doesn’t see his company’s investments in OpenAI reaching $100 billion — the maximum amount that the chipmaking giant had once pledged to spend on the 
+   📋 入选理由: 影响力评分: 277.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment
+   🏷️ 标签: chief, Jensen Huang, AI, billion, CEO
+
+4、🔥 3月5日消息，A defense-technology startup born out of Ukraine’s battlefield is emerging with a valuation topping $1 billion, according to people familiar with the matter, as Western and Gulf militaries scramble fo
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-05/ukraine-battlefield-tech-firm-uforce-nears-1-billion-valuation
+   🏷️ 标签: AI, billion, valuation
+
+5、🔥 3月5日消息，Pasqal Holding SAS agreed to merge with a blank-check firm in a deal that values the combined company at $2 billion pre-money, joining the growing number of quantum startups choosing to go public thro
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-04/quantum-startup-pasqal-to-list-via-spac-at-2-billion-valuation
+   🏷️ 标签: billion, valuation
+
+6、🔥 3月5日消息，Elon Musk testified he had to pay full price to buy Twitter Inc. in 2022 because the Delaware judge in the company’s lawsuit to make him consummate the $44 billion deal was “biased” against him.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-05/musk-says-judge-s-bias-forced-him-to-pay-full-price-for-twitter
+   🏷️ 标签: Elon Musk, AI, lawsuit, bias, billion
+
+7、🔥 3月5日消息，Anthropic PBC chief Dario Amodei has resumed discussions with the Pentagon about the way its AI models are used by the US military, raising the possibility that the two sides can resolve a feud that’s
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-05/anthropic-s-amodei-reopens-ai-discussions-with-pentagon-ft-says
+   🏷️ 标签: Dario Amodei, AI safety, chief, AI
+
+8、🔥 3月5日消息，Broadcom Inc. Chief Executive Officer Hock Tan said the company expects its AI chip sales to top $100 billion next year, marking major inroads into territory dominated by Nvidia Corp.
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-04/broadcom-forecast-underwhelms-investors-in-sign-of-ai-angst
+   🏷️ 标签: CEO, chief, billion, AI
+
+9、🔥 3月5日消息，Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.
+   📋 入选理由: 影响力评分: 188.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
+   🏷️ 标签: AI safety, Dario Amodei, AI, AGI, CEO
+
+10、🔥 3月5日消息，arXiv:2603.03975v1 Announce Type: new Abstract: We present Phi-4-reasoning-vision-15B, a compact open-weight multimodal reasoning model, and share the motivations, design choices, experiments, and lea
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.03975
+   🏷️ 标签: multimodal, AI, reasoning
+
+11、🔥 3月5日消息，Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b
+   🏷️ 标签: Dario Amodei, chief, AI
+
+12、🔥 3月5日消息，Billionaire says tweet that sparked lawsuit ‘may not have been my wisest’
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/c75ec647-4fc9-44d0-9396-256dac8142cc
+   🏷️ 标签: billion, AI, lawsuit
+
+13、🔥 3月5日消息，Tech groups representing major companies including Alphabet Inc.’s Google and Apple Inc. are urging President Donald Trump to reconsider designating Anthropic PBC a national security risk, arguing the
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-05/tech-groups-urge-trump-to-drop-anthropic-supply-chain-risk-label
+   🏷️ 标签: AI, national security
+
+14、🔥 3月5日消息，Alphabet Inc.’s Google unveiled a new system for apps on its Android phones and tablets Wednesday, agreeing to easier access for rivals and lower fees for developers in a bid to resolve US antitrust l
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case
+   🏷️ 标签: AI, antitrust
+
+15、🔥 3月5日消息，Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/
+   🏷️ 标签: Jensen Huang, CEO, AI
+
+16、🔥 3月5日消息，Drop-off in firing of weapons may be a result of US and Israeli attacks on launchers and stockpiles
+   📋 入选理由: 影响力评分: 155.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/bc7b386f-23e9-4b97-8613-9f7abe985be1
+   🏷️ 标签: launches
+
+17、🔥 3月5日消息，arXiv:2603.03291v1 Announce Type: cross Abstract: Reward Models (RMs) are crucial for online alignment of language models (LMs) with human preferences. However, RM-based preference-tuning is vulnerabl
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.03291
+   🏷️ 标签: bias, AI, alignment, state-of-the-art
+
+18、🔥 3月5日消息，Apple Inc. rolled out the $599 MacBook Neo in its biggest push yet into low-end laptops, aiming to challenge Windows PCs and Chromebooks for budget-minded shoppers. Bloomberg's Samantha Kelly reports.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-04/apple-unveils-the-599-macbook-neo-video
+   🏷️ 标签: AI, unveils
+
+19、🔥 3月5日消息，A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a "collapsing reality" that involved a series of violent missions, ultimately ending with hi
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit
+   🏷️ 标签: AI, lawsuit
+
+20、🔥 3月5日消息，Bitcoin surged past $73,000 as cryptocurrency markets built on recent resilience, drawing momentum from ETF inflows and rising open interest even as Wall Street steadied itself against an unresolved M
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-04/bitcoin-climbs-above-71-000-in-broad-crypto-advance
+   🏷️ 标签: AI, surpasses
+
+
+======================================================================
+📊 今日总结: 今日从161条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：登顶全球第一后再融10亿，星动纪元估值破百亿，最多产业方加持的具身企业；何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线；GPT-5.3 Instant上线：ChatGPT终于不说教了。
+======================================================================
