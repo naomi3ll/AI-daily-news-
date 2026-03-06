@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-06
+生成时间: 2026-03-06 08:27:17
+数据来源: 从 173 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月6日消息，雷峰网讯 据悉，具身智能企业星动纪元在近日完成10亿元战略轮融资，估值破百亿。本轮融资由三星、高成投资、新加坡电信、友利资本（隶属韩国友利金融集团）、中金保时捷、中芯聚源、峰和资本、锡创投、广发乾和、鸿瑞集团等等新机构联合投资，鼎晖VGC、清控天诚等老股东超额追加投资。 至此，星动纪元累计吸引16家国内外产业投资方，为具身智能行业之最，资方包括 吉利资本、阿里巴巴、联想、海尔、北汽、世纪金源等国内
+2、3月6日消息，文 | 张冰冰 编辑 | 阿至 36氪获悉，蔚复来（浙江）科技股份有限公司（以下简称「蔚复来」）近日宣布 完成数千万元C2轮融资，投资方为博将资本。这是博将资本第二次向蔚复来追投注资，与此前C1轮累计投资规模超亿元。 本次资金将主要用于高端智能装备的迭代升级、新场景应用的拓展以及绿色数字化解决方案的优化，「蔚复来」将与博将资本开启“AI绿色循环+智能制造”合作模式，加速技术生态和产业链布局。 「蔚
+3、3月6日，在十四届全国人大四次会议经济主题记者会上，中国证券监督管理委员会主席吴清表示，在持续狠抓上市公司真实性的基础上，进一步提升可投性，完善激励约束机制，促进上市公司提升治理水平，加强分红回购，不断提升投资价值和投资者回报，活跃并购重组市场��促进资源高效配置，助力培育更多的世界一流企业。（证券时报）
+4、3月6日消息，Agent任务成本骤降47%
+5、3月6日消息，预训练算力效率提升49%
+
+国际动态：
+1、3月6日消息，Get a jump start on the US trading day with Matt Miller and Dani Burger on "Bloomberg Open Interest." The Iran war enters its sixth day with officials warning attacks will intensify as oil spikes. Bro
+2、3月6日消息，Concerns have been bubbling up over the $1.8 trillion private credit market in recent weeks, with investors spooked in part by the risk of artificial intelligence on some borrowers and worries about v
+3、3月6日消息，arXiv:2603.04837v1 Announce Type: new Abstract: We introduce the Dynamic Behavioral Constraint (DBC) benchmark, the first empirical framework for evaluating the efficacy of a structured, 150-control b
+4、3月6日消息，Industrial software startup Nominal raised an $80 million Series B extension led by Founders Fund. That brings the company's valuation to $1 billion, at a time when the US is increasingly focused on m
+5、3月6日消息，GPT-5.4 is billed as "our most capable and efficient frontier model for professional work."
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月6日消息，雷峰网讯 据悉，具身智能企业星动纪元在近日完成10亿元战略轮融资，估值破百亿。本轮融资由三星、高成投资、新加坡电信、友利资本（隶属韩国友利金融集团）、中金保时捷、中芯聚源、峰和资本、锡创投、广发乾和、鸿瑞集团等等新机构联合投资，鼎晖VGC、清控天诚等老股东超额追加投资。 至此，星动纪元累计吸引16家国内外产业投资方，为具身智能行业之最，资方包括 吉利资本、阿里巴巴、联想、海尔、北汽、世纪金源等国内
+   📋 入选理由: 影响力评分: 405.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/kD45xqCWplSIf5HF.html
+   🏷️ 标签: 合作, 融资, 百亿, 估值, 创新
+
+2、🔥 3月6日消息，文 | 张冰冰 编辑 | 阿至 36氪获悉，蔚复来（浙江）科技股份有限公司（以下简称「蔚复来」）近日宣布 完成数千万元C2轮融资，投资方为博将资本。这是博将资本第二次向蔚复来追投注资，与此前C1轮累计投资规模超亿元。 本次资金将主要用于高端智能装备的迭代升级、新场景应用的拓展以及绿色数字化解决方案的优化，「蔚复来」将与博将资本开启“AI绿色循环+智能制造”合作模式，加速技术生态和产业链布局。 「蔚
+   📋 入选理由: 影响力评分: 327.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3709819839443333?f=rss
+   🏷️ 标签: 合作, 融资, 投资, AI
+
+3、🔥 3月6日，在十四届全国人大四次会议经济主题记者会上，中国证券监督管理委员会主席吴清表示，在持续狠抓上市公司真实性的基础上，进一步提升可投性，完善激励约束机制，促进上市公司提升治理水平，加强分红回购，不断提升投资价值和投资者回报，活跃并购重组市场��促进资源高效配置，助力培育更多的世界一流企业。（证券时报）
+   📋 入选理由: 影响力评分: 292.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3711167494910345?f=rss
+   🏷️ 标签: 上市, 投资, 并购
+
+4、🔥 3月6日消息，Agent任务成本骤降47%
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/384345.html
+   🏷️ 标签: 发布, GPT-5, AI
+
+5、🔥 3月6日消息，预训练算力效率提升49%
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/384330.html
+   🏷️ 标签: 发布, 开源, 大模型
+
+6、🔥 3月6日消息，
+   📋 入选理由: 影响力评分: 285.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/384296.html
+   🏷️ 标签: 发布, 开源, 大模型
+
+7、🔥 3月6日消息，
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/383974.html
+   🏷️ 标签: 上线, GPT-5
+
+8、🔥 3月6日消息，36氪获悉，3月6日，网易有道“7X24小时全场景个人助理” Agent LobsterAI宣布迎来更新——正式上线技能商店（Skill Store），并全面支持MCP协议（Model Context Protocol）。此次更新旨在进一步降低智能体的使用门槛，让用户通过自然语言即可轻松扩展LobsterAI的能力边界，同时借助开放标准与全球开发者共建Agent生态，加速国产智能体的创新与应用。
+   📋 入选理由: 影响力评分: 264.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3711197233115528?f=rss
+   🏷️ 标签: 上线, 开放, AI, 创新
+
+9、🔥 3月6日消息，2026年3月5日，由无问智科主办的长三角（德清）具身智能数据采集训练场暨业界首个物理AI数据基座平台 “无垠” 发布会在德清国际会议中心圆满落幕。本次大会以“无垠拓界・基筑未来”为主题，汇聚具身智能领域顶尖专家学者、头部产业伙伴、知名投资机构代表及省市区县各级政府领导，通过主题致辞、产品发布、技术分享、圆桌对话、实地参观等环节，共同探讨具身智能数据破局与场景落地的新路径。 图 无垠拓界 基筑未来
+   📋 入选理由: 影响力评分: 260.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/LU1hS4DVxHroyDBn.html
+   🏷️ 标签: 开放, AI, 突破, 领先, 发布
+
+10、🔥 3月6日消息，大公司： 阿里巴巴旗下公司在杭州成立智能科技新公司 36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全资持股。 谷歌DeepMind向千问团队抛橄榄枝
+   📋 入选理由: 影响力评分: 249.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3709831706374531?f=rss
+   🏷️ 标签: 发布, 开放, 人工智能, AI
+
+11、🔥 3月6日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，安徽枡水新能源科技有限公司（以下简称“枡水科技”）已完成超亿元A轮融资，云道资本担任长期独家财务顾问。以下为本轮融资及公司的主要信息： 融资金额及投资机构 融资轮次： A轮 融资规模： 超亿元 投资方： 蔚来资本领投，联想创投、中安资本跟投，合肥创新投追投 资金用途： 主要用于大订单交付，增加研发储备、新工厂建设及日常运营，以推动产业链的整合与升级 公司基本信息
+   📋 入选理由: 影响力评分: 230.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3698479751769989?f=rss
+   🏷️ 标签: 融资, 投资, 创新
+
+12、🔥 3月6日，在十四届全国人大四次会议经济主题记者会上，中国证券监督管理委员会主席吴清表示，近年来，一批创新企业高效完成IPO和并购重组，A股市场的科技叙事逻辑更加清晰和具象化。这背后是经济高质量发展带来的机遇和经济高质量发展的韧性。（证券时报）
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3711199075741825?f=rss
+   🏷️ 标签: 并购, IPO, 创新
+
+13、🔥 3月6日，在十四届全国人大四次会议经济主题记者会上，中国证券监督管理委员会主席吴清表示，当前，国际投资者资产配置多元化的需求日益增强，中国资产吸引力明显提高，证监会将以打造一流市场化、法治化、国际化营商环境为抓手，以提升跨境投融资便利服务为方向，进一步推动市场、产品、服务、机构方面的双向开放迈上新的台阶。（证券时报）
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3711174151156105?f=rss
+   🏷️ 标签: 开放, 融资, 投资
+
+14、🔥 3月6日消息，要闻提示 1.莲花CEO穿西装头顶摄像头炮轰激光雷达：放在车顶不好看 2.阿里CEO发内部信批准林俊旸离职！谷歌DeepMind向千问团队抛橄榄枝 3.虎鲸文娱组织升级！董事长樊路远：积极拥抱AI，加速“线上+线下”全场景融合 4.参加春晚后，魔法原子创始人吴长征被曝离职创业 5.二代刀片电池、后轮转向上车！比亚迪海豹08全球首秀：车长超5.1米 6.价格上调5000元！今年国内车市首个官宣涨价的
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/c94KIpPbhKgQmseL.html
+   🏷️ 标签: 发布, AI, GPT-5, CEO
+
+15、🔥 3月6日消息，昨日全面开源后，阶跃星辰新一代基座模型 Step 3.5 Flash 的全球热度进一步攀升，模型调用量在 OpenClaw （被网友称为“小龙虾”的全球知名开源项目）上已迅速攀升至全球第一。前五名中，紧随其后的是 MiniMax M2.5、Trinity Large Preview（free）、Kimi K2.5，以及 Claude Sonnet 4.6——来自中国大模型创业公司的基座模型占据了过
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/GJoPqXF7Ss2429cj.html
+   🏷️ 标签: 开源, AI, 创新, Sonnet, 大模型
+
+16、🔥 3月6日消息，要闻提示 1.越骂越火？山姆一冰块卖37.9元，多门店已售罄！网友两派吵翻天 2.拼多多一招商经理受贿208万被抓，含劳力士手表一块，被判三年五个 3.贵了但值！字节Seedance2.0公布定价标准：平均1秒钟1块钱 4.淘宝 3.8 App图标换粉被吐槽！网友：你怎么褪色了，官方：改 5.累计交付量超28万台！问界M9：销量/质量/安全/口碑/保值率均第一 6.千问核心负责人林俊旸凌晨宣布卸任
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/t9UYHWpaMuhVRMfi.html
+   🏷️ 标签: 发布, GPT-5, AI
+
+17、🔥 3月6日消息，中国证券监督管理委员会主席吴清介绍，在防风险稳信心方面，去年面对复杂严峻的市场运行的形势，证监会会同各相关方面健全稳市机制，打出了一系列组合拳。健全程序化交易监管的制度，依法全面暂停了转融券，优化了北向信息披露的机制，严惩违规减持，包括对技术性离婚、绕道减持、闪电套现等一些违规行为进行了处理。同时，还积极推动更多的增量资金入市，公募基金的注册发行明显提速，权益类的ETF规模突破了3万亿元，公募基金
+   📋 入选理由: 影响力评分: 175.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3711156797796742?f=rss
+   🏷️ 标签: 风险, 突破, 监管, 投资
+
+18、🔥 3月6日消息，填补了行业物理AI数据基座的空白
+   📋 入选理由: 影响力评分: 170.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/384449.html
+   🏷️ 标签: 发布, AI
+
+19、🔥 3月6日消息，今年1月底，奔驰管理层开始不断出现在吉利杭州湾研发中心，36氪从多位产业人士处了解到，两家车企巨头正在商谈一场整车电子电气级别的合作。 电子电气架构，也叫EE架构，是汽车智能化、数字化、网联化的基础，也是支撑辅助驾驶、智能座舱的核心。或者说，它就是智能汽车时代，车企口中的“灵魂”部分。 2月初，吉利管理层又带着翻译人员前往上海金桥，与奔驰进一步敲定了合作方向。 目前，双方已经初步达成共识，奔驰将基
+   📋 入选理由: 影响力评分: 145.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3709965457240197?f=rss
+   🏷️ 标签: 合作, 首次
+
+20、🔥 3月6日消息，今日热点导览 魔法原子回应创始人离职：确有此事，目前技术团队稳定 伊朗：禁止美以欧船只通过霍尔木兹海峡 现货白银向下跌破81美元/盎司 MacBook Neo国补后低至3000多元 亚马逊在机器人部门裁员约100人 TOP 3 大新闻 消费者称在寿司郎吃出寄生虫卵，当地市监局通报 3月2日，有网友发视频称，3月1日他排了三个小时队吃寿司郎，不料却吃到一块全是寄生虫卵的金枪鱼。视频中，一名自称是寿司
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3710693707166083?f=rss
+   🏷️ 标签: 发布, 监管
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月6日消息，Get a jump start on the US trading day with Matt Miller and Dani Burger on "Bloomberg Open Interest." The Iran war enters its sixth day with officials warning attacks will intensify as oil spikes. Bro
+   📋 入选理由: 影响力评分: 360.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-05/open-interest-3-5-2026-video
+   🏷️ 标签: founder, chief, surveillance, AI, joins
+
+2、🔥 3月6日消息，Concerns have been bubbling up over the $1.8 trillion private credit market in recent weeks, with investors spooked in part by the risk of artificial intelligence on some borrowers and worries about v
+   📋 入选理由: 影响力评分: 277.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-05/private-credit-concerns-grow-execs-expect-volatility-video
+   🏷️ 标签: chief, AI, valuation, artificial intelligence, joins
+
+3、🔥 3月6日消息，arXiv:2603.04837v1 Announce Type: new Abstract: We introduce the Dynamic Behavioral Constraint (DBC) benchmark, the first empirical framework for evaluating the efficacy of a structured, 150-control b
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.04837
+   🏷️ 标签: large language model, LLM, AI, alignment, bias
+
+4、🔥 3月6日消息，Industrial software startup Nominal raised an $80 million Series B extension led by Founders Fund. That brings the company's valuation to $1 billion, at a time when the US is increasingly focused on m
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-05/founders-fund-leads-80-million-bet-on-ai-unicorn-video
+   🏷️ 标签: founder, AI, valuation, billion, CEO
+
+5、🔥 3月6日消息，GPT-5.4 is billed as "our most capable and efficient frontier model for professional work."
+   📋 入选理由: 影响力评分: 249.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/
+   🏷️ 标签: launches, GPT-5, AI
+
+6、🔥 3月6日消息，"They're on the cutting edge and they're still motivated to work. Thank goodness." Former Goldman Sachs CEO Lloyd Blankfein joins Joe Weisenthal and Tracy Alloway on this live recording of the Odd Lot
+   📋 入选理由: 影响力评分: 247.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-05/why-lloyd-blankfein-is-happy-elon-musk-is-backing-the-us-video
+   🏷️ 标签: joins, Elon Musk, CEO
+
+7、🔥 3月6日消息，Elon Musk testified he had to pay full price to buy Twitter Inc. in 2022 because the Delaware judge in the company’s lawsuit to make him consummate the $44 billion deal was “biased” against him.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-05/musk-says-judge-s-bias-forced-him-to-pay-full-price-for-twitter
+   🏷️ 标签: AI, bias, billion, lawsuit, Elon Musk
+
+8、🔥 3月6日消息，arXiv:2603.04868v1 Announce Type: new Abstract: Generating realistic and diverse trajectories is a critical challenge in autonomous driving simulation. While Large Language Models (LLMs) show promise,
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.04868
+   🏷️ 标签: large language model, reasoning, LLM, multimodal, AI
+
+9、🔥 3月6日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Broadcom’s results as the CEO predicts AI chip sales will top $100 billion next year. Plus, Anthropic has restarted talks with the Pentagon following th
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-05/bloomberg-tech-3-5-2026-video
+   🏷️ 标签: founder, billion, CEO, AI
+
+10、🔥 3月6日消息，Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Barclays’ Venu Krishna, Mo
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-05/the-close-3-5-2026-video
+   🏷️ 标签: founder, chief, AI
+
+11、🔥 3月6日消息，Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b
+   🏷️ 标签: chief, Dario Amodei, AI
+
+12、🔥 3月6日消息，Chief executive Dario Amodei says defence department’s move will not affect the ‘vast majority’ of its customers
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/9ab91d10-e1f9-4142-a11e-efcc319d00e8
+   🏷️ 标签: chief, Dario Amodei
+
+13、🔥 3月6日消息，Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/
+   🏷️ 标签: investigation, privacy, AI
+
+14、🔥 3月6日消息，Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/
+   🏷️ 标签: Dario Amodei, CEO, AI
+
+15、🔥 3月6日消息，Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/
+   🏷️ 标签: Dario Amodei, CEO, AI
+
+16、🔥 3月6日消息，Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal
+   🏷️ 标签: Dario Amodei, CEO, AI
+
+17、🔥 3月6日消息，Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/
+   🏷️ 标签: Jensen Huang, CEO, AI
+
+18、🔥 3月6日消息，arXiv:2603.04822v1 Announce Type: new Abstract: Aligning Large Language Models (LLMs) with nuanced human values remains a critical challenge, as existing methods like Reinforcement Learning from Human
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.04822
+   🏷️ 标签: large language model, LLM, AI, alignment, bias
+
+19、🔥 3月6日消息，OpenAI is releasing a new flagship artificial intelligence model and a suite of financial-services tools that are meant to be better at tackling office work, ramping up competition with Anthropic PBC 
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-05/openai-releases-new-financial-services-tools-rivaling-anthropic
+   🏷️ 标签: artificial intelligence, releases, AI
+
+20、🔥 3月6日消息，OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentat
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents
+   🏷️ 标签: reasoning, GPT-5, AI
+
+
+======================================================================
+📊 今日总结: 今日从173条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：登顶全球第一后再融10亿，星动纪元估值破百亿，最多产业方加持的具身企业；AI+生命科技实现废弃物循环利用，国家级专精特新“重点小巨人”「蔚复来」完成数千万元C2轮融资 | 36氪首发；吴清：在持续狠抓上市公司真实性的基础上进一步提升可投性。
+======================================================================
