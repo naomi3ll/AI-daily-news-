@@ -1,0 +1,736 @@
+{
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10 08:30:45",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "氪星晚报｜国家超算互联网OpenClaw服务接入飞书、企业微信；WPS发布iPadOS首款原生桌面级Office；“红房子・启元”AI妇产科垂直大模型发布",
+      "summary": "3月10日消息，大公司： 由菜鸟运营的全国首个跨境电商零售出口“前置监管仓”正式启用 36氪获悉，近日，由菜鸟运营的全国首个跨境电商零售出口“前置监管仓”在山东威海正式启用，服务于速卖通平台。在与海关部门深度协同下，海关监管首次深度嵌入电商仓库生产作业流程，出口货物通关实现秒级申报放行，就地装箱后当晚即可搭乘班轮出海。 国家超算互联网OpenClaw服务接入飞书、企业微信 36氪获悉，国家超算互联网宣布，其Ope",
+      "importance": "高",
+      "reason": "影响力评分: 352.5",
+      "tags": [
+        "融资",
+        "首次",
+        "监管",
+        "AI",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3715472798527617?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-09 11:43:00",
+      "impact_score": 352.5
+    },
+    {
+      "index": 2,
+      "title": "独家丨直指2000 Tokens/s，北大系「流式推理芯片」公司完成数千万元融资",
+      "summary": "3月10日消息，雷峰网独家获悉，国内一家专注超快流式推理芯片的创业公司——「寒序科技」宣布完成数千万元融资，投资方为启高资本、赛意产业基金，源合资本担任本轮独家财务顾问。 此前，寒序科技一直较为低调，其AI推理系列（SpinPU-E Series）产品的相关进展在过去两年间并未对外系统披露。 知情人士透露，寒序科技首颗芯片样片回片测试结果“非常理想”，关键指标中，其「单位面积带宽」与Groq LPU（Langua",
+      "importance": "高",
+      "reason": "影响力评分: 350.0",
+      "tags": [
+        "LLM",
+        "融资",
+        "估值",
+        "AI",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/chips/SMIG5HNXO304w3np.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-09 10:06:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 3,
+      "title": "光帆科技董红光：把AI耳机做成“第二台主机”，很难，却正确",
+      "summary": "3月10日消息，文｜邱晓芬 编辑｜苏建勋 2026年，AI硬件热到发烫。 OpenAI、Meta、苹果、阿里千问、字节等大厂都加入了入口争夺战，通过自研或重金外部收购团队，补上他们在AI上最后一块短板。而AI可穿戴设备，毫无疑问成为所有大厂们“补入口”的集体选择。 中国的公司也在快速吸收粮草弹药。作为全球第一家发布带摄像头AI耳机的公司，近期《智能涌现》获悉，「光帆科技」连续完成种子++轮和种子+++轮两轮融资。",
+      "importance": "高",
+      "reason": "影响力评分: 337.5",
+      "tags": [
+        "融资",
+        "收购",
+        "AI",
+        "创新",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3716670530106761?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 05:14:13",
+      "impact_score": 337.5
+    },
+    {
+      "index": 4,
+      "title": "前vivo手机明星产品经理宋紫薇创办「薇光点亮」，获红杉、蓝驰、蚂蚁、鼎晖超亿元融资丨智能涌现独家",
+      "summary": "3月10日消息，作者丨邱晓芬 编辑丨苏建勋 AI硬件的创业风潮正席卷整个消费电子领域，前小米中国区市场部总经理王腾、小米互联网业务部总经理马骥等手机圈高管纷纷下场创业，产品形态包括AI睡眠硬件、AI耳机、AI影像硬件等等。 2024年10月，vivo明星手机产品经理宋紫薇也在微博宣布投身AI智能硬件领域创业 。此后，关于其创业方向一直众说纷纭。 《智能涌现》从知情人士处获悉，宋紫薇的创业公司「薇光点亮」 将打造以",
+      "importance": "高",
+      "reason": "影响力评分: 327.5",
+      "tags": [
+        "投资",
+        "AI",
+        "融资",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3714480200085633?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-09 01:30:00",
+      "impact_score": 327.5
+    },
+    {
+      "index": 5,
+      "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
+      "summary": "3月10日消息，文｜邓咏仪 编辑｜苏建勋 Nodesk AI创始人宋健和他的创业公司NoDesk AI，在过去两周里，完成了一场极限AI竞赛： 2025年春节前，OpenClaw开始爆火。NoDesk AI创始人宋健带着团队，用两周时间开发了新产品DeskClaw。 最初，NoDesk只是为了内部使用，让自己的电商Agent业务团队基于OpenClaw提升效率。但开发完成后，团队感受到外界喷涌的需求，马上决定对外",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "上线",
+        "融资",
+        "并购",
+        "AI",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3714634245009800?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-09 02:00:21",
+      "impact_score": 322.5
+    },
+    {
+      "index": 6,
+      "title": "OpenClaw创始人点赞！深圳千人「龙虾聚会」，藏着 AI 硬件 5 大潜在趋势",
+      "summary": "3月10日消息，作者 | 吴优 编辑 | 余快 2026 年开年，AI 圈的核心战场，正悄然从大模型算力比拼，转向能真正落地执行的 AI 智能体。OpenClaw（业内昵称「龙虾」）凭借颇具颠覆性的体验持续升温，热度超过了基础大模型。 这款开源 AI 数字员工框架，被业内形象地比作一位全天候主动型「超级实习生」—— 与 ChatGPT、Claude「问一句、动一下」的被动应答模式不同，OpenClaw 理论上可 ",
+      "importance": "高",
+      "reason": "影响力评分: 300.0",
+      "tags": [
+        "突破",
+        "开源",
+        "AI",
+        "大模型",
+        "AGI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/1u8xeRYB2T6RfWdu.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-09 10:06:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 7,
+      "title": "提前披露中东美军动向，这家AI卫星情报公司完成新一轮融资｜硬氪首发",
+      "summary": "3月10日消息，本文约1300字，建议阅读3分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，地理空间情报分析公司觅熵科技（杭州）有限公司（MizarVision）（以下简称“觅熵科技”）近日宣布完成pre-A轮融资，本轮融资由现象资本独家投资，融资金额超千万元人民币，资金将主要用于业务拓展。 觅熵科技成立于2021年，总部位于杭州，是国内首家专注于将商业卫星遥感与AI深度融合，服务实时地理情报的创新企业。公司",
+      "importance": "高",
+      "reason": "影响力评分: 260.0",
+      "tags": [
+        "人工智能",
+        "融资",
+        "AI",
+        "大模型",
+        "CEO"
+      ],
+      "url": "https://36kr.com/p/3715205580058756?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-09 04:24:09",
+      "impact_score": 260.0
+    },
+    {
+      "index": 8,
+      "title": "「微光点亮」获红杉、蓝驰、蚂蚁、鼎晖等超亿元融资，宋紫薇入局AI时尚硬件",
+      "summary": "3月10日消息，近日，新锐 AI 硬科技企业薇光点亮完成超 1 亿元人民币 Pre-A 轮融资。本轮融资由红杉中国、蓝驰创投联合领投，蚂蚁战投、鼎晖投资、鞍羽资本跟投，老股东九合创投持续追投，所筹资金将重点用于核心人才梯队建设、新型智能硬件研发、垂类模型训练及时尚 Agent 关键应用场景落地，以此构建“硬件+模型 +场景”一体化的 AI 原生产品创新体系，加速时尚 AI 硬件的场景化商业化落地。 薇光点亮创始人",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "融资",
+        "突破",
+        "AI",
+        "上市",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/xb78XJ6ie0mQCARn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-09 08:31:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "搭乘人形机器人概念，首开股份再涨停",
+      "summary": "3月10日，随着人形机器人概念持续走强，因为投资了宇树科技等机器人公司，作为地产企业的首开股份也迎来了股价大涨，以9.94%的涨幅涨停。 首开股份的主营业务为地产开发，近年来受地产市场下行拖累，公司业绩持续下滑。据首开股份1月24日发布的业绩数据，其2025年1-12月共实现签约金额178.45亿元，预计2025年实现归属于母公司所有者的净利润为-55亿元至-69亿元。虽然相比2024年81.4亿",
+      "importance": "高",
+      "reason": "影响力评分: 251.0",
+      "tags": [
+        "首次",
+        "创新",
+        "投资",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3716851288241541?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 08:17:16",
+      "impact_score": 251.0
+    },
+    {
+      "index": 10,
+      "title": "从“平替”到“价值领跑”：国货运动品牌全面突破｜世研消费指数品牌榜Vol.158",
+      "summary": "3月10日消息，本次监测周期内，安踏、骆驼和李宁以1.95、1.91、1.82的综合热度位列榜单综合热度前三。 图源：世研大消费指数 国货运动品牌全面领跑，文化与科技突破双轮驱动赢得市场认可 从品牌分布来看，安踏、骆驼、李宁包揽前三，国产品牌在TOP10中占据七席，与耐克、阿迪达斯等国际巨头形成有力抗衡。 这一格局的深层动因，在于国货品牌完成了从“性价比竞争”到“价值竞争”的战略跃迁。 安踏儿童1月携手专业篮球俱",
+      "importance": "高",
+      "reason": "影响力评分: 251.0",
+      "tags": [
+        "创新",
+        "合作",
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3716518378993281?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 02:41:02",
+      "impact_score": 251.0
+    },
+    {
+      "index": 11,
+      "title": "用智能吉他起家后，这家公司又用AI音乐工作站拿下百万美元众筹，营收数亿｜Insight全球",
+      "summary": "3月10日消息，作者｜黄楠 编辑｜袁斯来 编者按： 当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。 这是我们专栏第61期——拿火音乐从广州起步，以“材料创新+智能交互”模式，2017年推出全球首款一体成",
+      "importance": "高",
+      "reason": "影响力评分: 251.0",
+      "tags": [
+        "AI",
+        "创新",
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3715521730933127?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 01:59:02",
+      "impact_score": 251.0
+    },
+    {
+      "index": 12,
+      "title": "联想开天推出全场景“开天Claw”信创AI一体机方案",
+      "summary": "3月10日消息，36氪获悉，联想开天正式推出全面覆盖“个人、团队、企业”三大核心场景的全矩阵“开天Claw”信创AI一体机解决方案。该方案以银河麒麟等主流国产操作系统为基础，深度适配了包括DeepSeek、千问、智谱等头部国产开源大模型，以阶梯式的国产化算力底座满足不同规模的落地需求。",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "AI",
+        "开源",
+        "正式推出",
+        "大模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3716811528844676?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 07:42:01",
+      "impact_score": 249.0
+    },
+    {
+      "index": 13,
+      "title": "上海交大教授创业，用AI研发新材料，交大系基金投资｜36氪首发",
+      "summary": "3月10日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，AI for Materials（人工智能赋能新材料研发）领域的初创企业——索格智算宣布完成超千万元种子轮融资。本轮融资由启高资本领投，交大菡源资产、紫竹小苗和紫竹科投跟投。资金将主要用于原创AI计算引擎的持续研发、研发团队扩充以及算力基础设施建设。 索格智算成立于2025年9月，创始团队源自上海交通大学，由数学学院特聘教授、人工智能新材料研究中心主任徐振礼领衔",
+      "importance": "高",
+      "reason": "影响力评分: 245.0",
+      "tags": [
+        "人工智能",
+        "融资",
+        "突破",
+        "AI",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3716450088793732?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 01:28:52",
+      "impact_score": 245.0
+    },
+    {
+      "index": 14,
+      "title": "有人上门安装龙虾几天赚26万！马化腾：没想到能火成这样；伊朗客户失联了！价值6000万的500台中国车被困海上；路虎揽胜回应魏建军致歉",
+      "summary": "3月10日消息，要闻提示 1.有人上门安装龙虾几天赚26万！马化腾感慨：没想到能火成这样！官方预警来了 2.伊朗客户失联了！价值6000万的500台中国车被困在海上 3.“AI短剧《霍去病》爆火播放量5亿”，导演澄清：3000元制作80集严重失实 4.雷军：过去10年智驾进步很快但都是L2，属于人机共驾的阶段 5.魏建军承认抄袭！路虎揽胜回应：真诚和担当是最好的代言 6.原豆包PC端负责人齐俊元创业，押注GUI ",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "上线",
+        "马化腾",
+        "雷军",
+        "AI",
+        "上市"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/wjRWFyHbXjkbGyCJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-09 01:19:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 15,
+      "title": "江苏：到2027年，建设不少于两个省级脑机接口产业集聚区",
+      "summary": "3月10日消息，36氪获悉，江苏省工业和信息化厅等九部门印发《江苏省脑机接口产业创新发展行动方案》。其中提出，到2027年，在电极、芯片、算法等方面取得新突破，脑机接口感知、调控、交互等技术实现融合发展。推动一批脑机接口相关医疗器械完成注册审批，认定一批脑机接口创新产品，在工业制造、医疗康养、生活消费等领域加快应用。加快推动产业集聚发展，建设不少于2个省级脑机接口产业集聚区。到2030年，产业发展体系初步完善，打",
+      "importance": "高",
+      "reason": "影响力评分: 221.0",
+      "tags": [
+        "创新",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3716855405032840?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 08:20:50",
+      "impact_score": 221.0
+    },
+    {
+      "index": 16,
+      "title": "江苏：引导有条件的地区设立脑机接口产业投资基金，吸引社会资本参与，助力种子期、初创期企业发展壮大",
+      "summary": "3月10日消息，36氪获悉，江苏省工信厅等九部门印发《江苏省脑机接口产业创新发展行动方案》，其中提到，强化金融支持。发挥省战略性新兴产业母基金引导作用，支持相关产业专项基金及子基金投向应用场景广阔、成长性强的脑机接口项目。引导有条件的地区设立脑机接口产业投资基金，吸引社会资本参与，助力种子期、初创期企业发展壮大。依托省科技金融综合服务平台，汇聚“苏科贷”“专精特新贷”等政银合作信贷产品，鼓励金融机构开发服务脑机接",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "创新",
+        "投资",
+        "合作"
+      ],
+      "url": "https://36kr.com/newsflashes/3716857752106369?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 08:23:13",
+      "impact_score": 210.0
+    },
+    {
+      "index": 17,
+      "title": "前Meta首席AI科学家杨立昆创立的AI初创公司筹资超过10亿美元",
+      "summary": "3月10日消息，Meta前首席人工智能科学家杨立昆（Yann LeCun） 在欧洲有史以来最大规模的种子融资轮中为他的新初创公司筹集了超过10亿美元。该新企业的预值估值为35亿美元。该委员会将由法国初创公司Nabla前首席执行官Alexandre LeBrun领导， LeCun担任执行主席。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "人工智能",
+        "AI",
+        "融资",
+        "估值"
+      ],
+      "url": "https://36kr.com/newsflashes/3716790619846022?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-10 07:17:45",
+      "impact_score": 210.0
+    },
+    {
+      "index": 18,
+      "title": "微软、亚马逊市值蒸发8千亿美元，透露了什么？",
+      "summary": "3月10日消息，“美股AI的风向变了。”面对微软、亚马逊一个月以来的暴跌，多位投资者向雷峰网表示，如果说过去几年全球科技巨头们在AI竞赛中豪掷千金是“战略前瞻”，那么财报季过后的这一波暴跌， 是资本市场对AI定价逻辑的一次大转向。 不久前，微软、亚马逊相继发布最新季度财报，两份看似亮眼的业绩答卷，却引发了资本市场的剧烈震荡。财报发布至今，微软股价跌幅接近18%，亚马逊下跌约 6%， 市值蒸发合计约8千亿美元，折合",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "估值",
+        "风险",
+        "AI",
+        "AGI",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrycloud/25KixfmrSBFG6YeH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-10 02:17:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 19,
+      "title": "突发！薪资谈判破裂，芯片巨头8.9万人要罢工；养龙虾的第一批受害者出现了！OpenClaw给装惨用户自动转了笔钱；腾讯视频回应收视率造假",
+      "summary": "3月10日消息，要闻提示 1.突发！薪资谈判破裂，芯片巨头8.9万人要罢工：内存供货或遭重创 2.养龙虾的第一批受害者出现了！OpenClaw给装惨用户自动转了笔钱 3.曝一加将于今日宣布涨价，多品牌手机3月拟启动调价 4.网友举报收视率造假，腾讯视频回应 5.Qwen管理调整出炉：周靖人代管千问模型一号位 6.蔚来CEO李斌：快充再快也快不过换电，多用损害电池寿命 7.叮咚买菜梁昌霖辞任CEO，王松接任 8.约",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "CEO",
+        "投资",
+        "AI",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/Qv1K7AeGqwTPvqlL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-10 04:01:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 20,
+      "title": "机器人主持发布会，海信把话语权交给用户",
+      "summary": "3月5日，青岛，一场发布会的主持台上，站着一个机器人。 这一幕放在十年前，大概会被当成科幻片的片场。但在2026年的春天，它只是海信世界杯营销暨定制产品发布会的一个开场注脚。 机器人站上C位，本身就是一种表态：当AI技术开始渗透到产品的每一个角落，品牌与用户之间的对话方式，也在悄然改变。 用户深度参与，产品从“定义”走向“共创” 整场发布会看下来，最强烈的感受是，海信这次的产品思路，呈现出一种与用",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "开放",
+        "AI",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/smarthome/6cC74UXgODIndKCG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-09 07:13:00",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "summary": "3月10日消息，AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "billion",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-10 05:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 2,
+      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
+      "summary": "3月10日消息，Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "billion",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-09 15:09:35",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic sues Trump administration over Pentagon blacklist",
+      "summary": "3月10日消息，The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "blacklist",
+        "lawsuit"
+      ],
+      "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-10 04:24:01",
+      "impact_score": 200.0
+    },
+    {
+      "index": 4,
+      "title": "The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI",
+      "summary": "3月10日消息，arXiv:2603.06290v1 Announce Type: new Abstract: Personal Artificial Intelligence is currently hindered by the fragmentation of user data across isolated silos. While Retrieval-Augmented Generation off",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "multimodal",
+        "AI",
+        "reasoning",
+        "artificial intelligence"
+      ],
+      "url": "https://arxiv.org/abs/2603.06290",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-10 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "Can LLM Aid in Solving Constraints with Inductive Definitions?",
+      "summary": "3月10日消息，arXiv:2603.03668v1 Announce Type: cross Abstract: Solving constraints involving inductive (aka recursive) definitions is challenging. State-of-the-art SMT/CHC solvers and first-order logic provers pro",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "LLM",
+        "large language model",
+        "state-of-the-art",
+        "reasoning",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2603.03668",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-10 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
+      "summary": "3月10日消息，Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition.",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "acquisition",
+        "CEO",
+        "Elon Musk",
+        "chief"
+      ],
+      "url": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-10 04:16:18",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Harvey Adds AI Agent Builder for Law Firms",
+      "summary": "3月10日消息，Harvey, an AI provider for legal services, unveiled a tool allowing law firms to build custom agents. Harvey CEO Winston Weinberg explains why the startup is betting it can win the legal market by sta",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "CEO",
+        "joins",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-09/harvey-adds-ai-agent-builder-for-law-firms-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-09 18:35:46",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round",
+      "summary": "3月10日消息，Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "launches",
+        "AI",
+        "chief"
+      ],
+      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-10 05:00:28",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue",
+      "summary": "3月10日消息，Start-up launches legal challenge against the decision to designate it a risk to US military supply chains",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "launches",
+        "AI",
+        "billion"
+      ],
+      "url": "https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-09 23:14:11",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "Nuclear Power in the Spotlight as Energy Prices Climb",
+      "summary": "3月10日消息，The conflict in the Middle East has pushed oil prices above $100 a barrel. That has some calling for greater investment in nuclear plants in the US and Europe. Juliann Edwards, chief development offic",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "national security",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-09/nuclear-power-in-the-spotlight-as-energy-prices-climb-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-09 18:26:31",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Vlad Tenev’s Favorite Bet on Prediction Markets. It’s Not What You Think",
+      "summary": "3月10日消息，Are prediction markets poised to win over big institutional players? Robinhood CEO Vlad Tenev joins Tracy Alloway and Joe Weisenthal on the Odd Lots podcast to discuss where the company stands in the ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "CEO",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-09/vlad-tenev-s-favorite-bet-on-prediction-markets-it-s-not-what-you-think",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-09 13:37:08",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Nothing CEO: Low Cost Players Most Impacted By Memory Chip Shortages",
+      "summary": "3月10日消息，Nothing CEO Carl Pei, says 'consumers will be shocked' when prices rise as a result of memory shortages. Pei joins Bloomberg's Anna Edwards, Tom Mackenzie and Lizzy Burden on 'The Opening Trade'. This",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "CEO",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-09/nothing-ceo-on-memory-chip-shortages-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-09 13:17:06",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+      "summary": "3月10日消息，Nscale has become a key player in the AI infrastructure buildout",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "billion",
+        "valuation"
+      ],
+      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-09 12:25:11",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+      "summary": "3月10日消息，On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Go",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "chief",
+        "AI",
+        "lawsuit"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-09 20:45:24",
+      "impact_score": 160.0
+    },
+    {
+      "index": 15,
+      "title": "Tencent, Zhipu Shares Jump on Launches of AI Agents Tapping Into OpenClaw",
+      "summary": "3月10日消息，China’s enthusiasm for OpenClaw is igniting a stock rally in local technology firms moving swiftly to embrace the open-source artificial intelligence program.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "launches",
+        "AI",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-10/tencent-zhipu-shares-jump-on-launches-of-ai-agents-tapping-into-openclaw",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-10 03:36:46",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+      "summary": "3月10日消息，More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, accord",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "AI",
+        "lawsuit"
+      ],
+      "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-09 21:15:17",
+      "impact_score": 145.0
+    },
+    {
+      "index": 17,
+      "title": "Startup ElevenLabs Aims to Be IPO-Ready Within Three Years",
+      "summary": "3月10日消息，AI voice startup ElevenLabs plans to be ready for an initial public offering in two to three years, according to Chief Executive Officer Mati Staniszewski, potentially making it one of the first artif",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "artificial intelligence",
+        "AI",
+        "chief",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-09/ai-startup-elevenlabs-aims-to-be-ipo-ready-in-two-or-three-years",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-09 18:31:12",
+      "impact_score": 142.5
+    },
+    {
+      "index": 18,
+      "title": "U.S. agency will devote $144 million to studies that slow aging, extend quality of life",
+      "summary": "3月10日消息，ARPA-H will “build the train tracks” for first large clinical studies of aging interventions",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AGI",
+        "AI"
+      ],
+      "url": "https://www.science.org/content/article/u-s-agency-will-devote-144-million-studies-slow-aging-extend-quality-life",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-03-09 01:48:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 19,
+      "title": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
+      "summary": "3月10日消息，ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor. By integrating NVIDIA Omniverse libraries directly into its RobotStudi",
+      "importance": "高",
+      "reason": "影响力评分: 140.5",
+      "tags": [
+        "partnership",
+        "AI",
+        "breakthrough"
+      ],
+      "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-03-09 15:00:34",
+      "impact_score": 140.5
+    },
+    {
+      "index": 20,
+      "title": "Reasoning Models Struggle to Control their Chains of Thought",
+      "summary": "3月10日消息，arXiv:2603.05706v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, ",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "AI",
+        "Sonnet",
+        "reasoning",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2603.05706",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-10 04:00:00",
+      "impact_score": 135.0
+    }
+  ],
+  "summary": "今日从157条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：氪星晚报｜国家超算互联网OpenClaw服务接入飞书、企业微信；WPS发布iPadOS首款原生桌面级Office；“红房子・启元”AI妇产科垂直大模型发布；独家丨直指2000 Tokens/s，北大系「流式推理芯片」公司完成数千万元融资；光帆科技董红光：把AI耳机做成“第二台主机”，很难，却正确。",
+  "statistics": {
+    "raw_domestic": 39,
+    "raw_international": 118,
+    "raw_total": 157,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月10日消息，大公司： 由菜鸟运营的全国首个跨境电商零售出口“前置监管仓”正式启用 36氪获悉，近日，由菜鸟运营的全国首个跨境电商零售出口“前置监管仓”在山东威海正式启用，服务于速卖通平台。在与海关部门深度协同下，海关监管首次深度嵌入电商仓库生产作业流程，出口货物通关实现秒级申报放行，就地装箱后当晚即可搭乘班轮出海。 国家超算互联网OpenClaw服务接入飞书、企业微信 36氪获悉，国家超算互联网宣布，其Ope",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月10日消息，雷峰网独家获悉，国内一家专注超快流式推理芯片的创业公司——「寒序科技」宣布完成数千万元融资，投资方为启高资本、赛意产业基金，源合资本担任本轮独家财务顾问。 此前，寒序科技一直较为低调，其AI推理系列（SpinPU-E Series）产品的相关进展在过去两年间并未对外系统披露。 知情人士透露，寒序科技首颗芯片样片回片测试结果“非常理想”，关键指标中，其「单位面积带宽」与Groq LPU（Langua",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月10日消息，文｜邱晓芬 编辑｜苏建勋 2026年，AI硬件热到发烫。 OpenAI、Meta、苹果、阿里千问、字节等大厂都加入了入口争夺战，通过自研或重金外部收购团队，补上他们在AI上最后一块短板。而AI可穿戴设备，毫无疑问成为所有大厂们“补入口”的集体选择。 中国的公司也在快速吸收粮草弹药。作为全球第一家发布带摄像头AI耳机的公司，近期《智能涌现》获悉，「光帆科技」连续完成种子++轮和种子+++轮两轮融资。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月10日消息，作者丨邱晓芬 编辑丨苏建勋 AI硬件的创业风潮正席卷整个消费电子领域，前小米中国区市场部总经理王腾、小米互联网业务部总经理马骥等手机圈高管纷纷下场创业，产品形态包括AI睡眠硬件、AI耳机、AI影像硬件等等。 2024年10月，vivo明星手机产品经理宋紫薇也在微博宣布投身AI智能硬件领域创业 。此后，关于其创业方向一直众说纷纭。 《智能涌现》从知情人士处获悉，宋紫薇的创业公司「薇光点亮」 将打造以",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月10日消息，文｜邓咏仪 编辑｜苏建勋 Nodesk AI创始人宋健和他的创业公司NoDesk AI，在过去两周里，完成了一场极限AI竞赛： 2025年春节前，OpenClaw开始爆火。NoDesk AI创始人宋健带着团队，用两周时间开发了新产品DeskClaw。 最初，NoDesk只是为了内部使用，让自己的电商Agent业务团队基于OpenClaw提升效率。但开发完成后，团队感受到外界喷涌的需求，马上决定对外",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月10日消息，AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月10日消息，Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月10日消息，The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月10日消息，arXiv:2603.06290v1 Announce Type: new Abstract: Personal Artificial Intelligence is currently hindered by the fragmentation of user data across isolated silos. While Retrieval-Augmented Generation off",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月10日消息，arXiv:2603.03668v1 Announce Type: cross Abstract: Solving constraints involving inductive (aka recursive) definitions is challenging. State-of-the-art SMT/CHC solvers and first-order logic provers pro",
+      "importance": "高"
+    }
+  ]
+}
