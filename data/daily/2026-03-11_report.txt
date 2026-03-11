@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-11
+生成时间: 2026-03-11 08:30:25
+数据来源: 从 166 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月11日消息，作者 | 王晗玉 编辑 | 张帆 3月6日，中国证监会主席吴清在十四届全国人大四次会议经济主题记者会上表示，将在创业板增设一套更加精准、更为包容的上市标准，并明确提及积极支持新型消费、现代服务业等优质创新创业企业在创业板发行上市。 这一表态被市场解读为创业板向新型消费与现代服务业企业敞开大门的信号。 此前较长一段时间内，由于A股主板及创业板上市标准对“盈利性”和“硬科技”属性的严苛要求，大批如泡泡
+2、3月11日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，中性原子量子计算企业——太一量生（上海）量子科技有限公司（下称“太一量生”）近日完成超亿元天使轮融资。 本轮融资由上海未来产业基金和科大讯飞旗下CVC讯飞创投联合领投，晶科能源控股、银河通用、雅本化学等产业方及厚雪投资等多家知名市场化投资机构跟投。资金将主要用于产品研发、团队扩张以及公司首台量子计算机的研制搭建。 太一量生成立于2026年1月，是一家专注于以中性
+3、3月9日，具身智能领先企业魔法原子宣布完成新一轮5亿元融资。本轮投资机构包括天空工场创投基金、拓普集团、金雨茂物、苏大天宫、杰创智能、爱仕达、梁创投等。与此同时，魔法原子百亿生态基金落子无锡，围绕具身智能应用形成“融资+募资”的双线布局，整体撬动资金规模超过105亿元，为公司技术研发、产品迭代与产业生态建设提供持续支撑，助力公司加速具身智能产业化落地。 产业资本协同入局，撬动产业发展新阶段 魔法原
+4、3月11日，百度智能云发布零部署服务DuClaw，将过往的“一键部署”模式进一步精简为“零部署”，用户无需自行选择OpenClaw镜像部署云端服务器，无需自行配置大模型推理服务的API Key，做到零门槛“养虾”。目前，用户已可通过网页端直接使用该服务。后续还将陆续支持企业微信、钉钉、飞书等主流通讯应用，让AI助理随时随地触手可及。 据介绍，通过DuClaw用户无需接触任何云控制台操作，不需了解镜
+5、3月11日消息，
+
+国际动态：
+1、3月11日消息，Household-help app Snabbit is in talks for fresh funding at a valuation of about $450 million, the latest to tap investor interest in the burgeoning market.
+2、3月11日消息，Multiyear partnership includes a further ‘significant’ investment from Nvidia into one-year-old AI start-up
+3、3月11日消息，arXiv:2603.08954v1 Announce Type: new Abstract: The first 72 hours of a missing-person investigation are critical for successful recovery. Guardian is an end-to-end system designed to support missing-
+4、3月11日消息，Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.
+5、3月11日消息，The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月11日消息，作者 | 王晗玉 编辑 | 张帆 3月6日，中国证监会主席吴清在十四届全国人大四次会议经济主题记者会上表示，将在创业板增设一套更加精准、更为包容的上市标准，并明确提及积极支持新型消费、现代服务业等优质创新创业企业在创业板发行上市。 这一表态被市场解读为创业板向新型消费与现代服务业企业敞开大门的信号。 此前较长一段时间内，由于A股主板及创业板上市标准对“盈利性”和“硬科技”属性的严苛要求，大批如泡泡
+   📋 入选理由: 影响力评分: 517.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3718189771863427?f=rss
+   🏷️ 标签: 上市, 监管, IPO, 投资, 创新
+
+2、🔥 3月11日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，中性原子量子计算企业——太一量生（上海）量子科技有限公司（下称“太一量生”）近日完成超亿元天使轮融资。 本轮融资由上海未来产业基金和科大讯飞旗下CVC讯飞创投联合领投，晶科能源控股、银河通用、雅本化学等产业方及厚雪投资等多家知名市场化投资机构跟投。资金将主要用于产品研发、团队扩张以及公司首台量子计算机的研制搭建。 太一量生成立于2026年1月，是一家专注于以中性
+   📋 入选理由: 影响力评分: 357.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3717849446659464?f=rss
+   🏷️ 标签: CEO, 投资, 突破, AI, 融资
+
+3、🔥 3月9日，具身智能领先企业魔法原子宣布完成新一轮5亿元融资。本轮投资机构包括天空工场创投基金、拓普集团、金雨茂物、苏大天宫、杰创智能、爱仕达、梁创投等。与此同时，魔法原子百亿生态基金落子无锡，围绕具身智能应用形成“融资+募资”的双线布局，整体撬动资金规模超过105亿元，为公司技术研发、产品迭代与产业生态建设提供持续支撑，助力公司加速具身智能产业化落地。 产业资本协同入局，撬动产业发展新阶段 魔法原
+   📋 入选理由: 影响力评分: 330.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/I7ftM1HzjADTPOCq.html
+   🏷️ 标签: 领先, 投资, 百亿, 创新, AI
+
+4、🔥 3月11日，百度智能云发布零部署服务DuClaw，将过往的“一键部署”模式进一步精简为“零部署”，用户无需自行选择OpenClaw镜像部署云端服务器，无需自行配置大模型推理服务的API Key，做到零门槛“养虾”。目前，用户已可通过网页端直接使用该服务。后续还将陆续支持企业微信、钉钉、飞书等主流通讯应用，让AI助理随时随地触手可及。 据介绍，通过DuClaw用户无需接触任何云控制台操作，不需了解镜
+   📋 入选理由: 影响力评分: 315.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/R5htapqdbfUHU6bW.html
+   🏷️ 标签: 开放, 发布, 开源, AI, 风险
+
+5、🔥 3月11日消息，
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/385840.html
+   🏷️ 标签: 发布, AGI, 领先
+
+6、🔥 3月11日消息，要闻提示 1.宝马销售直播狂踩小米汽车：180天速成鸡可以吃，但180天造的车不敢开！小米高管回应 2.小鹏NGP上大分！4名儿童在马路上“COS减速带”险被碾，车主：太后怕 3.博主发吉利广告被指责：把女性塑造成拜金刻薄形象，官方客服回应 4.无惧荷兰断供晶圆！安世中国恢复量产、本土制造 5.董明珠建议：促消费首先要加工资 6.MiniMax市值大涨，超越百度！“龙虾”上大分 7.曝某公司招聘要
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/iy4EVfkxqQnxKzVy.html
+   🏷️ 标签: 上市, 开放, 投资, 超越, 合作
+
+7、🔥 3月11日消息，一台3D打印机前，孩子们目不转睛地盯着喷头来回游走。塑料丝线层层堆叠，不过二十分钟，一只小恐龙便从想象中里，变成了可以握在手心的真实玩具。 三十年前，你想要一件东西，只能去商店买。二十年前，你可以找人定制。而今天，你可以直接打印出来。这种转变的意义，远比看上去更深远。当平价 3D 打印机走进客厅，当 AI 能把随手涂鸦秒变立体模型，横亘在创意与现实之间的高墙，第一次被轻松穿透。 人人都是设计师——
+   📋 入选理由: 影响力评分: 251.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3718136930039168?f=rss
+   🏷️ 标签: 开源, 突破, 创新, AI
+
+8、🔥 3月11日消息，今日热点导览 德国大众集团拟2030年前裁退5万人 市场消息：苹果公司2025年将印度的iPhone产量提高了53% 小红书：坚定维护社区真实底色，严格打击AI托管账号 腾讯：目前已初步形成覆盖个人、开发者及企业级部署的智能体“养虾”矩阵 杨立昆的AI初创公司完成逾10亿美元融资 青塔发布基于AI Agent架构的智能人才地图 TOP 3 大新闻 宁德时代日赚近2亿，全年营收4237.02亿元 宁
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3717775829776002?f=rss
+   🏷️ 标签: 上市, 发布, AI, 融资, 风险
+
+9、🔥 3月11日消息，23人团队两年干出8600万估值
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/385637.html
+   🏷️ 标签: AI, 收购, 估值
+
+10、🔥 3月5日，比亚迪在深圳召开了二代刀片电池发布会。据比亚迪董事长王传福介绍: 第二代刀片电池及闪充技术，能够做到在5分钟内，从10%SoC充电到70%SoC； 在9分钟内，从10%SoC充电到97%SoC； 在零下30摄氏度环境，从20%SoC充电到97%SoC，会比常温环境下慢3分钟。 发布第二代刀片电池的同时，比亚迪还宣布，直到今年年底，将在全国建设2万座闪充站。 比亚迪建设闪充站的策略，是利用
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3718267571041664?f=rss
+   🏷️ 标签: 发布, 上市, 合作
+
+11、🔥 3月11日消息，评判一家智驾企业的关键，不再是它能获得多少合作意向，而是其技术方案能否真正高效、可靠地落地于千差万别的车型与场景之中。 近日，卓驭科技宣布了一项新的里程碑：截至目前，其合作客户增至20家，覆盖32个合作品牌，累计量产车型50+，定点合作车型正式突破100款。尤为值得关注的是，其业务版图已从乘用车延伸至重卡、无人物流车等更加多元的领域。 在行业普遍面临降本压力与技术路线焦虑的当下，卓驭的这一步跨越，
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/gI5e9XsU8IqS4OSF.html
+   🏷️ 标签: 发布, 突破, 开放, 合作
+
+12、🔥 3月10日晚间，绿城中国发布盈利警告公告。绿城官方预计公司2025年全年股东应占利润同比2024年的15.96亿元下降95%左右，盈利降幅创下近年新高。 这意味着绿城在去年的利润只有约8000万元。 绿城公告同时表示，虽然公司利润大幅下降，但债务结构持续优化，短期负债占比低于20%，创历史新低，现金储备充裕，现金短债比超过2.5倍，创历史新高，整体经营稳定高效，财务安全稳健。 根据中指研究院公布的
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3717993729472129?f=rss
+   🏷️ 标签: 发布, 上市, 百亿
+
+13、🔥 3月10日，海信举行了主题为“RGB-Mini LED换代风暴 越级而至”的新品发布会，正式推出搭载海信全新RGB-Mini LED技术的性能旗舰电视E7S Pro。这款新品凭借光源底层重构的技术突破、全维度的配置升级与沉浸式的体验创新，成为2026年旗舰电视的版本答案，不仅打破了传统单色背光显示技术的物理天花板，更以主流旗舰价位带来越级的视听体验，推动电视行业正式迈入RGB-Mini LED新时
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/smarthome/733Ju0V4hYAk6iLM.html
+   🏷️ 标签: 正式推出, 发布, 突破, AI, 创新
+
+14、🔥 3月11日消息，“美股AI的风向变了。”面对微软、亚马逊一个月以来的暴跌，多位投资者向雷峰网表示，如果说过去几年全球科技巨头们在AI竞赛中豪掷千金是“战略前瞻”，那么财报季过后的这一波暴跌， 是资本市场对AI定价逻辑的一次大转向。 不久前，微软、亚马逊相继发布最新季度财报，两份看似亮眼的业绩答卷，却引发了资本市场的剧烈震荡。财报发布至今，微软股价跌幅接近18%，亚马逊下跌约 6%， 市值蒸发合计约8千亿美元，折合
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrycloud/25KixfmrSBFG6YeH.html
+   🏷️ 标签: 发布, AGI, 投资, AI, 风险
+
+15、🔥 3月11日消息，要闻提示 1.突发！薪资谈判破裂，芯片巨头8.9万人要罢工：内存供货或遭重创 2.养龙虾的第一批受害者出现了！OpenClaw给装惨用户自动转了笔钱 3.曝一加将于今日宣布涨价，多品牌手机3月拟启动调价 4.网友举报收视率造假，腾讯视频回应 5.Qwen管理调整出炉：周靖人代管千问模型一号位 6.蔚来CEO李斌：快充再快也快不过换电，多用损害电池寿命 7.叮咚买菜梁昌霖辞任CEO，王松接任 8.约
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/Qv1K7AeGqwTPvqlL.html
+   🏷️ 标签: AI, CEO, 投资, 合作
+
+16、🔥 3月11日消息，a16z发布Top100 GenAI应用榜
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/386114.html
+   🏷️ 标签: 发布, AI
+
+17、🔥 3月11日消息，作者 | 肖思佳 王毓婵 编辑 | 乔芊 杨轩 一向以稳重风格著称的腾讯近日来在AI上连出重拳：3月6日，举办“免费装龙虾”活动；9日，推出全场景AI智能体WorkBuddy；10日，内测本地AI助手QClaw。但这些只是开始。 36氪独家获悉，腾讯旗下微信正在尝试研发一套独立的自有AI模型。目前，该AI模型已完成基础能力建设及内部代号命名，预计将于2026年对外落地。 一方面，这套模型将被用于接
+   📋 入选理由: 影响力评分: 145.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3717835616335497?f=rss
+   🏷️ 标签: 突破, AI
+
+18、🔥 3月11日消息，左手养qq虾，右手养微信虾
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/385664.html
+   🏷️ 标签: 上线
+
+19、🔥 3月11日消息，
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/385800.html
+   🏷️ 标签: 发布
+
+20、🔥 3月11日港股收盘，吉利汽车收涨8.21%，报17.39港元，股价一度创今年新高。据了解，极氪8X将于3月16日晚举办技术发布会，该车首发搭载最新版千里浩瀚G-ASD高阶辅助驾驶系统，及全球混动领域首个全栈900V高压动力系统，满油满电综合续航突破1000公里，并支持6C超充技术。其高端化战略布局及2025年度财务表现，将于3月18日召开的吉利汽车年度业绩发布会上正式披露。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3718278601143689?f=rss
+   🏷️ 标签: 发布, 突破
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月11日消息，Household-help app Snabbit is in talks for fresh funding at a valuation of about $450 million, the latest to tap investor interest in the burgeoning market.
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-11/home-help-app-snabbit-in-funding-talks-at-450-million-valuation
+   🏷️ 标签: founder, billion, valuation
+
+2、🔥 3月11日消息，Multiyear partnership includes a further ‘significant’ investment from Nvidia into one-year-old AI start-up
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/a8853057-c0a3-46f6-817f-7a23e79ea4e2
+   🏷️ 标签: AI, billion, partnership
+
+3、🔥 3月11日消息，arXiv:2603.08954v1 Announce Type: new Abstract: The first 72 hours of a missing-person investigation are critical for successful recovery. Guardian is an end-to-end system designed to support missing-
+   📋 入选理由: 影响力评分: 215.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.08954
+   🏷️ 标签: fine, LLM, investigation
+
+4、🔥 3月11日消息，Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/
+   🏷️ 标签: AI, billion, valuation
+
+5、🔥 3月11日消息，The lawsuit says Anthropic is being harmed "irreparably" and could lose hundreds of millions of dollars.
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html
+   🏷️ 标签: lawsuit, blacklist
+
+6、🔥 3月11日消息，Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Blackrock’s Stephen Laippl
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-10/the-close-3-10-2026-video
+   🏷️ 标签: AI, CEO, founder
+
+7、🔥 3月11日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Amazon’s bond sale that is set to be one of the biggest corporate debt offerings ever, as it looks to fund the AI boom. Plus, Google introduces AI agent
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-10/bloomberg-tech-3-10-2026-video
+   🏷️ 标签: billion, CEO, introduces, AI
+
+8、🔥 3月11日消息，Jeff Sprecher, Intercontinental Exchange chairman and CEO, joins Tim Stenovec on "Bloomberg Crypto." They discussed how digital ledgers and blockchain technology are shifting markets to 24/7, 365 trad
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-10/markets-increasingly-dollar-denominated-sprecher-video
+   🏷️ 标签: AI, CEO, joins
+
+9、🔥 3月11日消息，Craig Donohue, CEO, Cboe joins Tim Stenovec on "Bloomberg Crypto." They spoke about new products in development and Cboe's position on sports betting markets at the FIA Global Cleared Markets Conferen
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-10/prediction-markets-products-to-launch-in-june-cboe-ceo-video
+   🏷️ 标签: AI, CEO, joins
+
+10、🔥 3月11日消息，Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition.
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html
+   🏷️ 标签: acquisition, CEO, Elon Musk, chief
+
+11、🔥 3月11日消息，Software giant throws its weight behind the AI start-up’s lawsuit challenging its designation as a supply chain risk
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/4efa382a-3c77-4515-bb0f-ab5f0450037e
+   🏷️ 标签: AI, lawsuit
+
+12、🔥 3月11日消息，The announcement comes on the back of a bumper start to the week for European AI companies.
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/10/swedish-ai-legaltech-legora-hits-5-billion-valuation.html
+   🏷️ 标签: AI, billion, valuation
+
+13、🔥 3月11日消息，Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1
+   🏷️ 标签: launches, AI, chief
+
+14、🔥 3月11日消息，Meta's methods for identifying deepfakes are "not robust or comprehensive enough" to handle how quickly misinformation spreads during armed conflicts like the Iran war. That's according to the Meta Ov
+   📋 入选理由: 影响力评分: 156.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram
+   🏷️ 标签: misinformation, deepfake
+
+15、🔥 3月11日消息，Zoom is also introducing real-time deepfake detection tech for meetings.
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/
+   🏷️ 标签: AI, introduces, deepfake
+
+16、🔥 3月11日消息，The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/
+   🏷️ 标签: AI, executive order
+
+17、🔥 3月11日消息，A lot of people are mad at Ticketmaster, and have been for a long time. (Did Swifties directly create an antitrust trial? Discuss.) The US government's case against Live Nation-Ticketmaster appeared p
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast
+   🏷️ 标签: antitrust, AI
+
+18、🔥 3月11日消息，Sequoia Capital partner Ravi Gupta and former Meta Platforms Inc. Chief Revenue Officer John Hegeman are looking to raise at least $1 billion for a new company called Ithaca Holdings, according to peo
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-10/meta-veteran-and-sequoia-partner-aim-to-raise-over-1-billion-for-new-firm
+   🏷️ 标签: AI, billion, chief
+
+19、🔥 3月11日消息，Rishi Jaluria, managing director of software equity research at RBC Capital Markets, discusses Oracle’s earnings, the company's plans to build a flagship AI data center and the challenges surrounding 
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-10/the-key-takeaways-from-oracle-s-earnings-beat-video
+   🏷️ 标签: AI, AGI
+
+20、🔥 3月11日消息，Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/
+   🏷️ 标签: launches, AI
+
+
+======================================================================
+📊 今日总结: 今日从166条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：「泡泡玛特们」能回A股了？；原微软首席量子架构师创业，获上海未来产业基金和科大讯飞超亿元天使融资丨36氪首发；百亿募资、五亿融资！魔法原子融资募资双线高歌猛进。
+======================================================================
