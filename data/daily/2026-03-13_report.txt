@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-13
+生成时间: 2026-03-13 08:29:35
+数据来源: 从 149 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月13日消息，雷峰网 AI 科技评论消息，华为前高管刘武龙已于近期创业，成立贝塔无限（Beta Infinity），瞄准万亿消费级机器人蓝海市场。一位接近该公司的人士透露，贝塔无限已经完成近亿元种子轮融资。本轮投资机构包括洪泰基金、正景基金、银杏谷资本（鹏城愿景基金）、水木清华校友种子基金等知名投资机构。 创始人兼CEO刘武龙，2015年博士毕业于清华电子系，曾担任华为大模型工程团队负责人和强化学习首席科学家（
+2、3月13日消息，2026年3月12日，中国上海——当人工智能加速从模型能力走向系统能力，家庭场景正成为AI规模化落地的关键单元。今日，全球超高端AI智慧生活引领者MOVA在中国家电及消费电子博览会（AWE 2026）开幕首日，首次系统披露自研芯片战略，并对外阐释其“家庭AI系统”技术架构及多项生态布局。 依托AWE 2026“一展双区”的创新布局，MOVA以“智见新宇宙，慧享新生活”为主题亮相上海新国际博览中心。
+3、3月12日，萤石Stella星辰系列技术发布会在AWE上海新国际博览中心萤石展台启幕，以“蒸汽进化，AI新净界”为主题，重磅发布Stella星辰系列AI蒸汽洗地机器人。依托全球首创的双擎双热活水洗地方案与自研的萤石星辰世界模型，萤石实现清洁能力与AI技术的双重突破，引领清洁行业迈入6.0时代，为清洁市场注入颠覆性创新活力。 行业困局凸显，萤石Stella星辰系列直击用户痛点 当前扫地机器人行业已历
+4、3月13日消息，文｜胡香赟 编辑｜海若镜 36氪获悉，「艾科脉医疗」已完成超亿元Pre-B轮融资。本轮融资由中金资本旗下基金领投，元璟资本及知名产业投资人跟投，星桥资本担任独家财务顾问。募集资金将主要用于加速公司脉冲电场消融系统、三维标测系统及系列电生理耗材的研发和商业化落地。 心血管领域是全球第二大医疗器械市场，心脏电生理作为其重要细分方向，已实现20余年连续增长。过去近30年间，射频消融和冷冻消融一直是主流的
+5、3月13日消息，「世研观察」聚焦重点行业前沿动态，以专业视角追踪头部企业与新锐品牌的最新战略、产品创新及营销实践。 致力于为关注产业趋势的读者提供高价值、高时效的洞察参考。观察，不仅为看见，更为预见，助力从业者把握竞争脉搏，洞见商业未来。 品牌大事件 始祖鸟 2026 战略转向定调户外新趋势 2月26日，始祖鸟发布《2026 山系生活报告》，正式将战略重心从专业硬核攀登转向城市山系生活。数据显示，其非功能性时尚支
+
+国际动态：
+1、3月13日消息，Sunday, the maker of a robot for housework, has raised $165 million Series B at a $1.15 billion valuation. CEO Tony Zhao discusses the company’s plans to begin beta testing its robots in homes later t
+2、3月13日消息，arXiv:2603.11442v1 Announce Type: new Abstract: Can humans detect AI-generated financial documents better than machines? We present GPT4o-Receipt, a benchmark of 1,235 receipt images pairing GPT-4o-ge
+3、3月13日消息，arXiv:2603.11093v1 Announce Type: new Abstract: The development of high-level autonomous driving (AD) is shifting from perception-centric limitations to a more fundamental bottleneck, namely, a defici
+4、3月13日消息，Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Deutsche Bank Securities’ 
+5、3月13日消息，Adobe Inc. Chief Executive Officer Shantanu Narayen will resign from his position atop the creative software giant amid deep skepticism about the company’s ability to thrive in the AI era.
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月13日消息，雷峰网 AI 科技评论消息，华为前高管刘武龙已于近期创业，成立贝塔无限（Beta Infinity），瞄准万亿消费级机器人蓝海市场。一位接近该公司的人士透露，贝塔无限已经完成近亿元种子轮融资。本轮投资机构包括洪泰基金、正景基金、银杏谷资本（鹏城愿景基金）、水木清华校友种子基金等知名投资机构。 创始人兼CEO刘武龙，2015年博士毕业于清华电子系，曾担任华为大模型工程团队负责人和强化学习首席科学家（
+   📋 入选理由: 影响力评分: 425.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/BtG630uoXBud6n1e.html
+   🏷️ 标签: 百亿, 估值, AI, 投资, 合作
+
+2、🔥 3月13日消息，2026年3月12日，中国上海——当人工智能加速从模型能力走向系统能力，家庭场景正成为AI规模化落地的关键单元。今日，全球超高端AI智慧生活引领者MOVA在中国家电及消费电子博览会（AWE 2026）开幕首日，首次系统披露自研芯片战略，并对外阐释其“家庭AI系统”技术架构及多项生态布局。 依托AWE 2026“一展双区”的创新布局，MOVA以“智见新宇宙，慧享新生活”为主题亮相上海新国际博览中心。
+   📋 入选理由: 影响力评分: 396.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3720969176988041?f=rss
+   🏷️ 标签: 发布, AI, 突破, 人工智能, 合作
+
+3、🔥 3月12日，萤石Stella星辰系列技术发布会在AWE上海新国际博览中心萤石展台启幕，以“蒸汽进化，AI新净界”为主题，重磅发布Stella星辰系列AI蒸汽洗地机器人。依托全球首创的双擎双热活水洗地方案与自研的萤石星辰世界模型，萤石实现清洁能力与AI技术的双重突破，引领清洁行业迈入6.0时代，为清洁市场注入颠覆性创新活力。 行业困局凸显，萤石Stella星辰系列直击用户痛点 当前扫地机器人行业已历
+   📋 入选理由: 影响力评分: 370.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/8X6efc1aFtQTm5AA.html
+   🏷️ 标签: 发布, 领先, AI, 突破, 首次
+
+4、🔥 3月13日消息，文｜胡香赟 编辑｜海若镜 36氪获悉，「艾科脉医疗」已完成超亿元Pre-B轮融资。本轮融资由中金资本旗下基金领投，元璟资本及知名产业投资人跟投，星桥资本担任独家财务顾问。募集资金将主要用于加速公司脉冲电场消融系统、三维标测系统及系列电生理耗材的研发和商业化落地。 心血管领域是全球第二大医疗器械市场，心脏电生理作为其重要细分方向，已实现20余年连续增长。过去近30年间，射频消融和冷冻消融一直是主流的
+   📋 入选理由: 影响力评分: 342.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3719908411078275?f=rss
+   🏷️ 标签: 伦理, 上市, 投资, 创新, 融资
+
+5、🔥 3月13日消息，「世研观察」聚焦重点行业前沿动态，以专业视角追踪头部企业与新锐品牌的最新战略、产品创新及营销实践。 致力于为关注产业趋势的读者提供高价值、高时效的洞察参考。观察，不仅为看见，更为预见，助力从业者把握竞争脉搏，洞见商业未来。 品牌大事件 始祖鸟 2026 战略转向定调户外新趋势 2月26日，始祖鸟发布《2026 山系生活报告》，正式将战略重心从专业硬核攀登转向城市山系生活。数据显示，其非功能性时尚支
+   📋 入选理由: 影响力评分: 322.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3719937460712837?f=rss
+   🏷️ 标签: 发布, 上市, 投资, 创新, 融资
+
+6、🔥 3月13日消息，2026年3月12日，中国上海——当人工智能加速从模型能力走向系统能力，家庭场景正成为AI规模化落地的关键单元。今日，全球超高端AI智慧生活引领者MOVA在中国家电及消费电子博览会（AWE 2026）开幕首日，首次系统披露自研芯片战略，并对外阐释其“家庭AI系统”技术架构及多项生态布局。 依托AWE 2026“一展双区”的创新布局，MOVA以“智见新宇宙，慧享新生活”为主题亮相上海新国际博览中心。
+   📋 入选理由: 影响力评分: 320.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/Q12viTOuIGrjk0hd.html
+   🏷️ 标签: 发布, AI, 突破, 人工智能, 合作
+
+7、🔥 3月13日消息，当汹涌的全球AI浪潮与开放的国门在上海东方交汇，一年一度的中国科技“春晚”已然拉开帷幕。 2026年3月12日至15日，2026中国（上海）家电及消费电子博览会（以下简称AWE2026）以“AI科技·慧享未来”为主题，在申城奏响产业创新的最强音。 值得注意的是，在这片象征着高水平开放的创新高地上，砺算科技迎来它的国家级开放平台首秀，携自研TrueGPU天图架构“渲推一体GPU”产品亮相上海东方枢纽
+   📋 入选理由: 影响力评分: 315.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/TI4DV4QnPISLpyyK.html
+   🏷️ 标签: 发布, AI, 监管, 突破, 合作
+
+8、🔥 3月13日消息，托举小红书社区氛围的真实体验和情感，只能来源于人。 当OpenClaw爆火，“养龙虾”安全性仍存疑之时，借助OpenClaw等AI工具形成的AI托管账号已经悄悄流向主流内容社区。 在此背景下，小红书向AI托管账号开了第一枪，这也是主流平台首次对 AI 智能体工具在内容社区的滥用行为作出明确规制。 作为以真人分享起家的UGC社区，真诚、真实一直是小红书的底色，当AI Agent试图侵入社区真实性时，
+   📋 入选理由: 影响力评分: 279.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3720962630417024?f=rss
+   🏷️ 标签: 发布, 开源, 风险, AI, 突破
+
+9、🔥 3月13日消息，今日热点导览 腾讯回应OpenClaw之父Peter的“抄袭”指责：希望继续支持生态 中国灵活就业人员超2.4亿，参加职工保险支持政策将出台 苹果回应有人利用“14天无理由退货”换屏退货赚差价 曝千问郁博文加入字节跳动，字节暂未回应 今年以来多家非银支付机构调整高管层 本田宣布取消北美三款纯电车型研发 TOP3大新闻 微信推出三大新功能：可“忽略”语音/视频 3月12日，据“微信派”官方消息，微信
+   📋 入选理由: 影响力评分: 279.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3720613899958912?f=rss
+   🏷️ 标签: 发布, 开源, 风险, AI, 突破
+
+10、🔥 3月13日消息，36氪获悉，脑机接口企业「阶梯医疗」近日获5亿元战略融资，由阿里巴巴领投，国投创合跟投；老股东腾讯、源来资本、奥博资本、元禾原点、启明创投、礼来亚洲基金、源码资本、上海国投先导持续跟进，启峰资本担任独家财务顾问。近一年间，阶梯医疗累计融资额达到11亿元。 2025年12月，阶梯医疗发布了第二代高通量无线侵入式脑机接口系统（WRS02），电极通道数提高至256，应用场景除了“运动控制”，还将拓展到“
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3720572708665989?f=rss
+   🏷️ 标签: 投资, 发布, 大模型, 融资
+
+11、🔥 3月13日消息，就在前天，字节豆包团队官宣：豆包要做手机助手了。 豆包手机助手，是字节和手机厂商合作，基于操作系统层面的授权落地的ai助手。背靠在推理、视觉、图像视频创作、语音等多方面国际领先的豆包大模型，豆包手机助手给用户带来的，是交互和体验层面的关键创新。 豆包手机助手，是字节入局手机生意的前夜吗？豆包官方给出了明确的否定：豆包没有自研手机的计划。当下的豆包手机助手，是以生态合作的方式，将软件技术整合进不同品
+   📋 入选理由: 影响力评分: 235.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/H8w4gm9ko6oHLo0z.html
+   🏷️ 标签: 领先, AI, 合作, 创新, 开放
+
+12、🔥 3月12日，百度发布了全球首款手机龙虾应用——“红手指Operator”，用户下载App其即可实现手机“养虾”。上线后，迅速引爆下载热潮，系统后台资源出现紧缺提示。百度智能云回应称，正全速调配资源扩容，全力保障用户体验。 12日11点时许，OpenClaw创始人Peter Steinberger在海外社交平台上连发两条回复，称中国AI创新速度“Amazing”，并表示愿与百度共同开发龙虾。 此前，
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/2FtUIk1mtqmNy1tz.html
+   🏷️ 标签: AI, 发布, 上线, 创新
+
+13、🔥 3月13日消息，有媒体曾报道称，Meta从去年12月研发一款代号为“牛油果（Avocado）”的文本人工智能模型，并计划在第一季度推出。然而最新消息称，Meta 已将“牛油果”人工智能模型代码的发布时间从3月至少推迟至5月。据知情人士透露，Meta耗时数月研发了这款AI模型，但其在内部推理、编码和写作测试中，性能表现却不及谷歌、OpenAI和Anthropic等竞争对手的领先人工智能模型。（财联社）
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3721068228311424?f=rss
+   🏷️ 标签: 发布, 人工智能, 领先, AI
+
+14、🔥 3月13日消息，在3月23日-24日召开的西门子首届全球科技大会上，西门子将宣布一系列与中国工业AI市场相关的动作，以加速推动其工业AI战略在中国的落地。此外，未来该公司还将在华陆续落地多个相关合作。西门子同时在加码中国本土生态建设，此次大会邀请了约40家中国合作伙伴出席。此外，西门子将在大会期间发布约30款本土研发新品，涉及智能制造自动化、传动与运动控制、配电与电气化基础设施等。（界面）
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3721033620470150?f=rss
+   🏷️ 标签: 发布, 合作, AI
+
+15、🔥 3月13日消息，文｜王毓婵 周鑫雨 编辑｜苏建勋 3月初，大潭参加了深圳一场OpenClaw线下活动。现场人头攒动，两边走道也站满了人。 让几百人聚集在一起的，是当下最火的Agent开源框架，OpenClaw，别称“龙虾”。这款可以被直接部署在电脑本地的Agent，能像人类一样操作系统、访问文件、回复消息，同时突破生理极限，7*24小时不间断干活。 活动现场，不少坐在前排的人头上戴着红色的龙虾帽。到了合影环节，人
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3720215408310663?f=rss
+   🏷️ 标签: 开源, 突破, AI
+
+16、🔥 3月13日消息，全民“养虾”热潮正酣，从个人到企业，都在争相体验OpenClaw（俗称“龙虾”），腾讯楼下甚至排起装机长队。当这些能力强大的“龙虾”开始深度介入系统、访问数据甚至连接企业内网时，一个无法回避的问题浮出水面：如何保障“龙虾”安全？ 3 月 12 日，记者获悉，针对龙虾带来的安全挑战，腾讯推出了OpenClaw安全工具箱，为企业和用户提供安全保障，让装虾人告别顾虑，安心“养虾”。 “赛博养虾”背后，不
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/6KvcYNfcLGjQi3rj.html
+   🏷️ 标签: 监控, 风险, AI
+
+17、🔥 3月13日消息，在跑步成为城市生活方式的一部分后，品牌之间的竞争也从单纯的性能转向文化表达。 在2026上海半程马拉松和F1中国大奖赛开赛前夕，德国运动品牌阿迪达斯在上海滨江搭建了一场名为“竞速实验场”的线下活动。品牌把跑步、赛车和音乐放在同一场景中，通过运动员、赛车手和音乐人的跨界合作 ，对于一个已经拥有七十多年历史的运动品牌来说，这或许是重新解释“速度”的一种方式。 活动现场的三位核心人物分别是单板滑雪奥运冠
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3720907606555269?f=rss
+   🏷️ 标签: 合作, 首次
+
+18、🔥 3月13日消息，36氪获悉，中国汽车流通协会发布2026年2月“汽车经销商库存”调查结果：2月汽车经销商综合库存系数为1.95，环比上升31.8%，同比上升21.1%。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3721072190470792?f=rss
+   🏷️ 标签: 发布
+
+19、🔥 3月13日消息，国际能源署署长法提赫·比罗尔12日说，目前全球在建核电装机容量已达约70吉瓦，创40年来新高。（央视新闻）
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3721096358001287?f=rss
+   🏷️ 标签: 创新
+
+20、🔥 3月13日消息，“查一下羊肚菌放冷冻还是冷藏？”“家里酸奶还有吗？”“水饺放哪了？”这些厨房里的高频对话，道出了不少家庭饮食生活的尴尬：存食材靠猜、管食材靠记、找食材靠翻。 3月12日，在AWE2026，海尔智家针对这些痛点给出了场景化解决方案，让“无人家务”愿景更进一步。具体来看，在智慧厨房场景中，海尔冰箱发布了“AI新物种”AI多舱魔方冰箱seeker系列新品，实现健康饮食全托管，帮助用户从厨房家务中解放出来
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/woXHW6ZBaDv4PBFv.html
+   🏷️ 标签: 发布, AI
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月13日消息，Sunday, the maker of a robot for housework, has raised $165 million Series B at a $1.15 billion valuation. CEO Tony Zhao discusses the company’s plans to begin beta testing its robots in homes later t
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-12/home-robot-maker-sunday-hits-1-15-billion-valuation-video
+   🏷️ 标签: AI, valuation, CEO, joins, billion
+
+2、🔥 3月13日消息，arXiv:2603.11442v1 Announce Type: new Abstract: Can humans detect AI-generated financial documents better than machines? We present GPT4o-Receipt, a benchmark of 1,235 receipt images pairing GPT-4o-ge
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.11442
+   🏷️ 标签: Sonnet, AI, state-of-the-art, multimodal, Gemini 2
+
+3、🔥 3月13日消息，arXiv:2603.11093v1 Announce Type: new Abstract: The development of high-level autonomous driving (AD) is shifting from perception-centric limitations to a more fundamental bottleneck, namely, a defici
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.11093
+   🏷️ 标签: multimodal, LLM, reasoning, AI
+
+4、🔥 3月13日消息，Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Deutsche Bank Securities’ 
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-12/the-close-3-12-2026-video
+   🏷️ 标签: AI, CEO, founder
+
+5、🔥 3月13日消息，Adobe Inc. Chief Executive Officer Shantanu Narayen will resign from his position atop the creative software giant amid deep skepticism about the company’s ability to thrive in the AI era.
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-12/adobe-announces-ceo-to-step-down-gives-lackluster-forecast
+   🏷️ 标签: chief, AI, CEO
+
+6、🔥 3月13日消息，arXiv:2603.11279v1 Announce Type: new Abstract: The immense number of parameters and deep neural networks make large language models (LLMs) rival the complexity of human brains, which also makes them 
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.11279
+   🏷️ 标签: large language model, artificial intelligence, AI, neural network, reasoning
+
+7、🔥 3月13日消息，Elon Musk’s X, the social network formerly known as Twitter, has agreed to change its verification mechanism in the European Union following a fine of €120 million ($138 million).
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-12/musk-s-x-to-alter-verification-system-in-europe-commission-says
+   🏷️ 标签: fine, Elon Musk
+
+8、🔥 3月13日消息，Palantir Technologies Inc.’s chief executive Alex Karp bought a Miami mansion in June, seven months before the firm’s surprise announcement to move its headquarters to the city, according to a person 
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-12/palantir-s-karp-is-said-to-be-buyer-of-46-million-miami-mansion
+   🏷️ 标签: chief, CEO
+
+9、🔥 3月13日消息，Commercially available AI systems will be taken off the mandatory investment screening list in drive to cut red tape
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/a5691f00-7202-4749-868d-01021fc422b4
+   🏷️ 标签: AI, national security
+
+10、🔥 3月13日消息，Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/
+   🏷️ 标签: privacy, lawsuit, AI
+
+11、🔥 3月13日消息，Apple Inc. is lowering the fees it collects from app developers in China, a major concession in a hugely lucrative market where the company faced the risk of antitrust intervention by local regulators
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-13/apple-lowers-app-store-cut-to-25-from-30-in-china-to-fend-off-local-regulators
+   🏷️ 标签: antitrust
+
+12、🔥 3月13日消息，Singapore has committed more than S$1 billion ($782 million) to become a global hub for artificial intelligence. But one of the architects of that effort says the country’s approach to AI readiness ma
+   📋 入选理由: 影响力评分: 147.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-13/singapore-must-train-more-people-to-build-ai-top-official-says
+   🏷️ 标签: artificial intelligence, billion, AI
+
+13、🔥 3月13日消息，In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/
+   🏷️ 标签: lawsuit, AI
+
+14、🔥 3月13日消息，Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. The back-and-forth is complicated, but
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying
+   🏷️ 标签: lawsuit, AI
+
+15、🔥 3月13日消息，SoftBank Group Corp.-backed PayPay Corp. is open to a dual listing with a presence on Tokyo’s bourse, its chief said after the digital payments company’s $880 million trading debut in New York.
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo
+   🏷️ 标签: chief, IPO, AI
+
+16、🔥 3月13日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss the fall in tech stocks as oil prices spike again, stoking fears the war in Iran will further crimp energy supplies and fuel inflation. Plus, Dell CEO M
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-12/bloomberg-tech-3-12-2026-video
+   🏷️ 标签: AI, partnership, CEO
+
+17、🔥 3月13日消息，arXiv:2603.11266v1 Announce Type: new Abstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. H
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.11266
+   🏷️ 标签: large language model, AI, valuation, bias, reasoning
+
+18、🔥 3月13日消息，Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/
+   🏷️ 标签: introduces, AI
+
+19、🔥 3月13日消息，Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what peopl
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck
+   🏷️ 标签: AI, Sora
+
+20、🔥 3月13日消息，arXiv:2603.11388v1 Announce Type: new Abstract: Safety alignment aims to ensure that large language models (LLMs) refuse harmful requests by post-training on harmful queries paired with refusal answer
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.11388
+   🏷️ 标签: fine, large language model, AI, alignment, LLM
+
+
+======================================================================
+📊 今日总结: 今日从149条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：独家 | 华为前高管刘武龙创立具身公司贝塔无限，已完成近亿元种子轮融资；科氪 | AWE 2026再携重磅阵容，MOVA全面披露芯片战略，擎画“主动时代”技术版图；萤石Stella星辰系列震撼发布！全球首创双擎双热活水洗地 解锁AI清洁新高度。
+======================================================================
