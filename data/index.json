@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-03-14 08:24:12",
+  "last_updated": "2026-03-15 08:27:06",
   "dates": [
+    "2026-03-15",
     "2026-03-14",
     "2026-03-13",
     "2026-03-12",
@@ -99,10 +100,15 @@
     "2025-12-09"
   ],
   "statistics": {
-    "total_days": 96,
-    "total_domestic": 1763,
-    "total_international": 1693,
+    "total_days": 97,
+    "total_domestic": 1783,
+    "total_international": 1700,
     "by_date": [
+      {
+        "date": "2026-03-15",
+        "domestic": 20,
+        "international": 7
+      },
       {
         "date": "2026-03-14",
         "domestic": 20,
@@ -585,7 +591,7 @@
       }
     ],
     "by_importance": {
-      "高": 2866,
+      "高": 2893,
       "中": 405,
       "低": 185
     }
