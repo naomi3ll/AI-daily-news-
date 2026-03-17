@@ -1,0 +1,740 @@
+{
+  "date": "2026-03-17",
+  "generated_at": "2026-03-17 08:40:39",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”",
+      "summary": "3月17日消息，2026年，AI行业正站在一个历史性的分水岭上。 不久前，谷歌在其《AI智能体趋势2026》报告中预言，人工智能正经历从“只会回答问题的工具”向能自主拆解任务、跨系统干活的“得力助手”的关键跃迁 。 而在这一轮全球AI浪潮中，一个极具象征意义的细节来自埃隆·马斯克：在2025年4月的Grok-4发布会及后续的Vending Bench测试中，马斯克用事实证明了AI不仅能聊天，更能卖货：马斯克以Ve",
+      "importance": "高",
+      "reason": "影响力评分: 381.0",
+      "tags": [
+        "超越",
+        "AGI",
+        "GPT-5",
+        "人工智能",
+        "大语言模型"
+      ],
+      "url": "https://36kr.com/p/3725309124786819?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 05:20:53",
+      "impact_score": 381.0
+    },
+    {
+      "index": 2,
+      "title": "AWE 2026圆满落幕！追觅以科技推动人类社会与文明进步",
+      "summary": "3月15日，中国家电及消费电子博览会(AWE 2026)在上海新国际博览中心落下帷幕。本届展会，追觅科技以“追觅宇宙 ALL IN DREAME”为主题重磅亮相，以万平超大展区，集中展出智能手机、智能汽车、智能家电、天空与宇宙探索、能源与芯片算力等全矩阵产品。 展会期间，追觅展台客流络绎不绝，其独家包揽的E7展馆单日人流量突破10万人次，创下史上单一品牌展馆人流量记录；并凭借多项创新产品与首创技术",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "AI",
+        "创新",
+        "首次",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/dWpVKNzGeQ8iljkZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 05:28:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "松下发布中国事业新战略：明星单品、套系家电加码，强调“Made by China”出海丨最前线",
+      "summary": "3月17日消息，近日，中国家电及消费电子博览会（简称“AWE”）在上海落下帷幕。展会期间，家电品牌松下举办“松下电器中国事业战略发布暨Top渠道商大会”，并发布中国事业新战略。 松下电器中国事业战略发布暨Top渠道商大会，图片：企业提供 “ 当前中国家电市场的特征是：需求持续下降、存量市场内卷不断加剧；消费需求持续呈现K型分化，行业整体增长面临挑战。但中国依然是全球家电产业的核心中枢。 ” 松下电器株式会社中国东",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "开放",
+        "创新",
+        "合作",
+        "发布",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3725245431839369?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-16 07:10:20",
+      "impact_score": 264.0
+    },
+    {
+      "index": 4,
+      "title": "阿里建立AI新组织，CEO亲自挂帅，悟空事业部首次公开；山姆紧急下架！网红产品被曝重金属超标；首发价1499元！追觅发布AI戒指Glow",
+      "summary": "3月17日消息，要闻提示 1.阿里巴巴宣布成立Alibaba Token Hub（ATH）事业群，CEO吴泳铭直接负责 2.山姆紧急下架！网红产品被曝重金属超标 3.7进4S店！林肯车主被空调冻到麻木，厂家反称：是你身体太敏感 4.又有2个手机品牌官宣涨价！vivo门店店员：已收到涨价通知 5.追觅戒指 Glow 正式发布！全球首创指尖 AI 心电监测 6.雷军回应新一代SU7变化不大：外观不能乱改，要有定力 7",
+      "importance": "高",
+      "reason": "影响力评分: 250.0",
+      "tags": [
+        "大模型",
+        "首次",
+        "创新",
+        "CEO",
+        "百亿"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/q1XtUKjdxD3x4uG8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-17 02:19:00",
+      "impact_score": 250.0
+    },
+    {
+      "index": 5,
+      "title": "华为面向AI推理场景发布新一代AI数据基础设施",
+      "summary": "3月17日消息，在3月17日下午举行的华为数据存储2026新春发布会上，华为发布针对AI推理场景的全新AI数据基础设施，包含面向中心训推场景的AI数据平台，和面向分支边缘推理场景的FusionCube A1000超融合一体机，旨在推动AI推理体验升级，加速推理效率，并显著降低推理部署门槛，加速AI商业正循环。据介绍，AI数据平台包含了知识库、KV Cache加速、记忆库的能力，且三者能通过UCM技术统一管理调度，",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "AI",
+        "上线",
+        "发布",
+        "大模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3726765261273731?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 08:21:40",
+      "impact_score": 249.0
+    },
+    {
+      "index": 6,
+      "title": "百度秒哒应用生成Skill上线，面向全球用户开放",
+      "summary": "3月17日消息，今日举办的百度AI开放日活动上，百度宣布秒哒应用生成skill上线并面向全球用户开放，用户只需要安装部署好OpenClaw，注册秒哒账号在秒哒官号获取API Key并复制Skill命令发给OpenClaw完成接入，即可用OpenClaw用秒哒做应用。（新浪科技）",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "AI",
+        "上线",
+        "开放"
+      ],
+      "url": "https://36kr.com/newsflashes/3726727878294146?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 07:43:38",
+      "impact_score": 249.0
+    },
+    {
+      "index": 7,
+      "title": "36氪首发｜「Chowbus」获8100万美元融资，借力AI做北美餐饮品牌的SaaS首选",
+      "summary": "3月17日消息，36氪获悉，北美头部餐饮SaaS企业「Chowbus」宣布完成8100万美元新一轮融资，累计融资规模已达2.09亿美元。其中，本轮由Prysm Capital和Left Lane Capital联合领投，Dutchess、Fika、Avid Bank等跟投。本轮融资将重点投入两大方向：AI业务研发与全球化布局。 Chowbus是36氪持续关注的公司，成立于2016年，深耕北美市场十年，已实现美加全",
+      "importance": "高",
+      "reason": "影响力评分: 245.0",
+      "tags": [
+        "融资",
+        "人工智能",
+        "CEO",
+        "AI",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3719657153459589?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 01:00:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 8,
+      "title": "清闲动态人机工学椅两款新品发布，覆盖全场景久坐需求｜最前线",
+      "summary": "3月17日消息，作者｜黄楠 编辑｜袁斯来 人体工学椅行业正在经历一场从“静态”到“动态”的结构性转移。 过去十年，人体工学椅品类的创新深陷产品同质化困局中，腰托可调、头枕可调、扶手可调的三段式调节方案，几乎构成了行业在“高端座椅”上的全部想象力。 但一个长期被忽略的事实是：人的坐姿本就是动态流动的。伏案工作、后仰休憩、侧身取物，每一次姿态切换，都是身体重心与支撑需求的实时改变。当支撑结构仍停留在原位，用户的身体已",
+      "importance": "高",
+      "reason": "影响力评分: 236.0",
+      "tags": [
+        "创新",
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3726466205579650?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 04:14:29",
+      "impact_score": 236.0
+    },
+    {
+      "index": 9,
+      "title": "千问AI眼镜AWE发布，回答聪明、办事靠谱，月底上新更多功能",
+      "summary": "3月14日，千问AI眼镜在中国家电及消费电子博览会（简称“AWE 2026”）举办国内首场产品发布会。阿里巴巴千问C端事业群AI硬件产品负责人吴建军介绍，千问AI眼镜G1已经上市，配备顶级硬件配置，未来也将接入更多AI办事能力，做到“回答聪明、办事靠谱、时尚好看、功能强大”。 AWE是全球三大家电及消费电子展之一。在今年的展区现场，千问AI眼镜吸引大量观众排队体验。展台上多台设备被持续轮流试戴，许",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "领先",
+        "上线",
+        "创新",
+        "AI",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/YqrP917O42FzdN4R.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 11:01:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "奇安信发布龙虾安全伴侣，应对 openclaw“养虾潮”新风险",
+      "summary": "3月16日，奇安信在北京召开“龙虾安全产品发布会”，围绕AI智能体 OpenClaw（业内称“龙虾”）快速发展带来的安全挑战，发布国内首份《OpenClaw生态威胁分析报告》，并推出《奇安信政企版龙虾（OpenClaw）安全使用指南》以及AI安全解决方案“奇安信龙虾安全伴侣”，同时上线SAFESKILL平台。报告显示，OpenClaw生态中的Skills（技能模块）数量已接近75万个，每日新增约2",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "风险",
+        "AI安全",
+        "上线",
+        "突破",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/db2Bf5DrsyKrwFYm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 07:57:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发",
+      "summary": "3月17日消息，零一汽车 文｜肖漫 编辑｜李勤 36氪获悉，新能源智能重卡公司零一汽车已完成新一轮12亿元人民币融资。本轮融资由溥泉资本（宁德时代旗下唯一产业投资平台）、Momenta、蔚来资本联合领投，安徽灵通集团、方广投资、淡马锡旗下毅峰资本、愉悦资本、申能诚毅、蓝湖资本跟投，老股东活水资本持续跟投。 这是零一汽车近半年内完成的第二笔融资。2025年年中，公司刚刚完成 5亿元A轮融资，连续两轮融资金额累计超过",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3717366669948297?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-16 09:43:34",
+      "impact_score": 215.0
+    },
+    {
+      "index": 12,
+      "title": "追觅戒指 Glow 正式发布：全球首创指尖 AI 心电监测，重塑指尖智能穿戴新标杆",
+      "summary": "3月17日消息，2026年3月14日，全球三大家电及消费电子展会之一的AWE中国家电及消费电子博览会在上海盛大举办，现场汇聚全球顶尖科技品牌与前沿消费电子成果，成为年度科技行业风向标。在这场万众瞩目的行业盛会上，追觅科技迎来重磅时刻——旗下全新一代旗舰智能硬件产品 追觅AI戒指Glow 正式全球发布，这款产品凭借突破性的健康监测技术，成为 全球首款指尖AI心电分析+心率血氧分析AI智能戒指 ，彻底打破传统健康穿戴",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "大模型",
+        "创新",
+        "发布",
+        "突破",
+        "深度学习"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/HNZJ4wk7xEI68TI3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 02:25:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 13,
+      "title": "“锐思智芯”完成数亿元B+轮融资",
+      "summary": "3月17日消息，36氪获悉，“锐思智芯”宣布完成数亿元人民币B+轮融资。本轮融资由京国投、粤财基金、广汽资本、圆周基金、长江资本、中科蓝讯、中青恒辉、智宸投资、沃赋创投、新亚制程等多家机构共同参与。本轮融资将主要用于核心技术持续迭代、产品规模化量产以及全球市场拓展，进一步推动新一代AI视觉感知技术的产业化落地。",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/newsflashes/3726719685294466?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 07:35:18",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "AWE2026落幕：具身智能企业，站上舞台C位",
+      "summary": "3月17日消息，近日，2026年中国家电及消费电子博览会（AWE2026)在上海举办。与往年不同的是，今年AWE首次设立了“创新科技展区”，汇集了多家知名具身智能企业，机器人终于成为AWE的主角之一。 雷峰网观察到，今年AWE的具身智能展位相当火爆，成了全场关注的焦点。各大展位前都围满了驻足观看演示、交流咨询的逛展人群，几天下来热度依旧居高不下。 展会火热的背后，折射出了具身智能加速向各领域落地、产业化进程持续提",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "创新",
+        "首次",
+        "发布",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/robot/skIOIqxRwh7HGL4h.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-17 02:21:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "达能亚太与阿里云达成AI战略合作",
+      "summary": "3月17日消息，近日，达能亚太与阿里云达成战略合作。双方将围绕“AI+健康”的愿景，在全栈AI、大数据及亚太区域公共云合作等多个领域深度共创，共同打造面向AI时代的数智化平台与敏捷组织。 达能全球CIO Erwin Logt、阿里云智能集团资深副总裁，公共云事业部总裁刘伟光见证签约，达能亚太CIO Shivani Saini与阿里云智能集团公共云事业部副总裁、东区总经理解航代表双方签约，达能中国、北亚及大洋洲信息",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "大模型",
+        "领先",
+        "创新",
+        "AI",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/vcx3HzMTp9EBcS5I.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 04:20:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 16,
+      "title": "AWE2026闭幕：石头科技全系旗舰亮相，实力领跑智能清洁赛道",
+      "summary": "3月15日，2026年中国家电及消费电子博览会（AWE2026）圆满闭幕。全球智能清洁行业领导品牌石头科技，集中呈现了其在家庭清洁领域的前沿技术布局与成果，系统展示了覆盖扫地机器人、洗地机、洗衣机三大品类的全系旗舰产品，并携手人民日报健康客户端共同发布了《2026家庭地面清洁标准白皮书》。 这一系列组合举措，展现了头部企业从提供产品到定义体验、参与构建行业标准的系统性能力，是其从市场领先者向产业生",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "首次",
+        "发布",
+        "领先"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/L7D5fGwSBhrwECn7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 04:51:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 17,
+      "title": "OMOWAY发布全球首款量产自平衡车，获砺思资本数千万美元A轮领投｜最前线",
+      "summary": "3月17日消息，作者 | 张子怡 编辑 | 袁斯来 近日，智能科技公司OMOWAY（目蔚科技）在新加坡举办2026全球技术发布会，宣布旗下首款自平衡智能电动摩托车OMO X进入量产阶段，并同步展示了基于通用架构开发的未来轮式机器人Mobility One。 在推进产品商业化的同时，OMOWAY宣布正式开启A轮融资，目前已获得Monolith（砺思资本）数千万美元领投。资金将主要用于产品量产交付及全球渠道的拓展。 ",
+      "importance": "高",
+      "reason": "影响力评分: 177.0",
+      "tags": [
+        "风险",
+        "融资",
+        "首次",
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3726441493805444?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-17 02:58:20",
+      "impact_score": 177.0
+    },
+    {
+      "index": 18,
+      "title": "A股存储模组厂三巨头业绩狂飙，谁在靠周期？谁在靠能力？",
+      "summary": "3月17日消息，“存储的产业趋势确实强，超很多人预期，资金得重新定价。”一位长期跟踪存储产业链的分析师张张向雷峰网表示。 3月3日晚间，佰维存储罕见的发布了月度业绩预告：2026年1-2月，公司预计实现净利润15亿至18亿元。作为对比，佰维在2025年全年的归母净利润为8.67亿元——这意味着仅今年前两个月的利润，就几乎是去年全年的两倍。次日，公司股价涨停，市值冲破800亿元。 在A股市场，上市公司主动披露月度经",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "投资",
+        "发布",
+        "上市"
+      ],
+      "url": "https://www.leiphone.com/category/chips/1Z4OHjCQtVmeDrd2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 07:28:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 19,
+      "title": "优必选与西门子重磅合作！万台人形机器人量产加速落地",
+      "summary": "3月17日消息，近日，优必选与西门子工业软件在深圳正式签署战略合作框架协议，西门子工业软件全球高级副总裁、大中华区首席执行官兼董事总经理梁乃明，西门子工业软件大中华区机械装备行业副总裁刘若峰，优必选创始人、董事会主席兼CEO周剑，优必选副总裁、研究院院长焦继超，优必选副总裁林旭，优必选制造中心总经理孙昌荣，优必选研究院副院长梅兴泰等共同出席签约仪式。此次强强联合，以人形机器人领域全价值链深度合作为核心，将充分融合",
+      "importance": "高",
+      "reason": "影响力评分: 155.0",
+      "tags": [
+        "合作",
+        "创新",
+        "开放",
+        "CEO"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/JjEvfFMqoi5106yH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-16 12:55:00",
+      "impact_score": 155.0
+    },
+    {
+      "index": 20,
+      "title": "品牌出海赛道又一重磅合作！速卖通加入YouTube购物联盟",
+      "summary": "3月17日消息，据韩国媒体报道，阿里旗下跨境电商平台速卖通AliExpress与YouTube达成重磅合作，作为官方合作伙伴正式加入YouTube“购物联盟计划”，拥抱AI时代全新流量入口。 据悉，速卖通是首个在韩国与YouTube达成合作的中国电商平台。通过此次合作，YouTube将成为速卖通全新的分销渠道，而速卖通也将为YouTube生态引入更丰富、更优质的全球精选商品。此举也被视为是速卖通“超亚马逊”计划后",
+      "importance": "高",
+      "reason": "影响力评分: 140.0",
+      "tags": [
+        "AI",
+        "合作",
+        "上线"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/n6ADzcASE08IbPBD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-17 03:45:00",
+      "impact_score": 140.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Asia’s DayOne Data Centers Is Said to Near Confidential Filing for US IPO",
+      "summary": "3月17日消息，DayOne Data Centers Ltd. is close to filing confidentially for an initial public offering in the US, people familiar with the matter said, paving the way for another multibillion-dollar deal in an ind",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "AI",
+        "IPO",
+        "billion",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/asia-s-dayone-data-centers-is-said-to-near-confidential-filing-for-us-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-16 11:09:15",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+      "summary": "3月17日消息，Setting up AI factories in simulation — decreasing deployment time from months to days — is accelerating the next industrial revolution. Nowhere was that more apparent than at GTC 2026, in San Jose, w",
+      "importance": "高",
+      "reason": "影响力评分: 229.5",
+      "tags": [
+        "AI",
+        "founder",
+        "CEO",
+        "Jensen Huang"
+      ],
+      "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-03-16 20:00:48",
+      "impact_score": 229.5
+    },
+    {
+      "index": 3,
+      "title": "The ARC of Progress towards AGI: A Living Survey of Abstraction and Reasoning",
+      "summary": "3月17日消息，arXiv:2603.13372v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC-AGI) has become a key benchmark for fluid intelligence in AI. This survey presents the first cross-generation ",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "reasoning",
+        "o3",
+        "Opus",
+        "AGI",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2603.13372",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-17 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "AutoTool: Automatic Scaling of Tool-Use Capabilities in RL via Decoupled Entropy Constraints",
+      "summary": "3月17日消息，arXiv:2603.13348v1 Announce Type: new Abstract: Tool use represents a critical capability for AI agents, with recent advances focusing on leveraging reinforcement learning (RL) to scale up the explici",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "AI",
+        "reasoning",
+        "AGI",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2603.13348",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-17 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "Nvidia CEO Huang Expects to Make $1 Trillion From AI Chips",
+      "summary": "3月17日消息，Nvidia CEO Jensen Huang says the company expects to generate at least $1 trillion from its Blackwell and Rubin chips through the end of 2027. He speaks during Nvidia's GTC event in San Jose, Californi",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "AI",
+        "Blackwell",
+        "Jensen Huang",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-16/nvidia-s-huang-expects-to-make-1-trillion-from-ai-chips-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-16 19:36:57",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
+      "summary": "3月17日消息，arXiv:2603.13239v1 Announce Type: new Abstract: Smart contracts play a central role in blockchain systems by encoding financial and operational logic. Still, their susceptibility to subtle security fl",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AI",
+        "reasoning",
+        "LLM",
+        "state-of-the-art"
+      ],
+      "url": "https://arxiv.org/abs/2603.13239",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-17 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "Multi-hop Reasoning and Retrieval in Embedding Space: Leveraging Large Language Models with Knowledge",
+      "summary": "3月17日消息，arXiv:2603.13266v1 Announce Type: new Abstract: As large language models (LLMs) continue to grow in size, their abilities to tackle complex tasks have significantly improved. However, issues such as h",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "reasoning",
+        "large language model",
+        "AGI",
+        "LLM",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2603.13266",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-17 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Intel Launches New Core Ultra 200HX Plus Series Mobile Processors",
+      "summary": "3月17日消息，What’s New: Intel today announced the launch of its new Intel® Core™ Ultra 200HX Plus series mobile processors, giving gamers and professionals new high-performance options in the Core Ultra 200 serie",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "introduces",
+        "launches"
+      ],
+      "url": "https://newsroom.intel.com/client-computing/intel-launches-core-ultra-200hx-plus-series-mobile-processors",
+      "source": "Intel AI",
+      "original_pub_date": "2026-03-17 07:00:15",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Nvidia Makes Trillion-Dollar Forecast at Annual Product Expo",
+      "summary": "3月17日消息，Nvidia Corp. Chief Executive Officer Jensen Huang, addressing crowds at the company’s biggest annual event, unveiled a variety of new products while predicting that its flagship AI processors would he",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "chief",
+        "Jensen Huang"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/nvidia-expects-to-make-1-trillion-from-ai-chips-through-2027",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-16 19:17:32",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Sonos Is Committed to Headphones, But CEO Says Car Audio Is a 'Hobby'",
+      "summary": "3月17日消息，Sonos Inc. Chief Executive Officer Tom Conrad said the company remains committed to the headphones category, even though its first effort in that space failed to win over consumers.",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/sonos-ceo-is-committed-to-headphones-but-not-car-audio",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-16 17:03:22",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "3月17日消息，Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "importance": "高",
+      "reason": "影响力评分: 173.0",
+      "tags": [
+        "AI",
+        "Blackwell",
+        "Jensen Huang",
+        "CEO"
+      ],
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-16 21:41:37",
+      "impact_score": 173.0
+    },
+    {
+      "index": 12,
+      "title": "UK To Invest £1 Billion into Quantum Computing Research, Trials",
+      "summary": "3月17日消息，The UK will spend more than £1 billion ($1.3 billion) on quantum computing research over the next four years, as governments boost investment into a technology that’s increasingly considered critical ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "national security",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-17/uk-to-invest-1-billion-into-quantum-computing-research-trials",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-17 00:01:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "summary": "3月17日消息，GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th",
+      "importance": "高",
+      "reason": "影响力评分: 162.0",
+      "tags": [
+        "AI",
+        "announces",
+        "partnership",
+        "Jensen Huang"
+      ],
+      "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-16 17:51:46",
+      "impact_score": 162.0
+    },
+    {
+      "index": 14,
+      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+      "summary": "3月17日消息，Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Pos",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "lawsuit"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-16 21:44:11",
+      "impact_score": 160.0
+    },
+    {
+      "index": 15,
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "summary": "3月17日消息，The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "lawsuit"
+      ],
+      "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-16 19:18:44",
+      "impact_score": 160.0
+    },
+    {
+      "index": 16,
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "summary": "3月17日消息，Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic i",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "Jensen Huang"
+      ],
+      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-16 21:56:05",
+      "impact_score": 158.0
+    },
+    {
+      "index": 17,
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "summary": "3月17日消息，Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "Jensen Huang"
+      ],
+      "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-16 19:12:19",
+      "impact_score": 158.0
+    },
+    {
+      "index": 18,
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "summary": "3月17日消息，At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "Jensen Huang"
+      ],
+      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-16 17:47:32",
+      "impact_score": 158.0
+    },
+    {
+      "index": 19,
+      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+      "summary": "3月17日消息，Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "Jensen Huang"
+      ],
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-03-16 15:00:08",
+      "impact_score": 158.0
+    },
+    {
+      "index": 20,
+      "title": "Grindr Unveils New AI Features, Details Premium Subscription Tier",
+      "summary": "3月17日消息，Grindr Inc. unveiled a handful of new app features and shared more details around its premium subscription tier as part of a larger effort to integrate artificial intelligence across its LGBTQ dating ",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "unveils"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/grindr-unveils-new-ai-features-details-premium-subscription-tier",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-16 16:00:04",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从162条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”；AWE 2026圆满落幕！追觅以科技推动人类社会与文明进步；松下发布中国事业新战略：明星单品、套系家电加码，强调“Made by China”出海丨最前线。",
+  "statistics": {
+    "raw_domestic": 45,
+    "raw_international": 117,
+    "raw_total": 162,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月17日消息，2026年，AI行业正站在一个历史性的分水岭上。 不久前，谷歌在其《AI智能体趋势2026》报告中预言，人工智能正经历从“只会回答问题的工具”向能自主拆解任务、跨系统干活的“得力助手”的关键跃迁 。 而在这一轮全球AI浪潮中，一个极具象征意义的细节来自埃隆·马斯克：在2025年4月的Grok-4发布会及后续的Vending Bench测试中，马斯克用事实证明了AI不仅能聊天，更能卖货：马斯克以Ve",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月15日，中国家电及消费电子博览会(AWE 2026)在上海新国际博览中心落下帷幕。本届展会，追觅科技以“追觅宇宙 ALL IN DREAME”为主题重磅亮相，以万平超大展区，集中展出智能手机、智能汽车、智能家电、天空与宇宙探索、能源与芯片算力等全矩阵产品。 展会期间，追觅展台客流络绎不绝，其独家包揽的E7展馆单日人流量突破10万人次，创下史上单一品牌展馆人流量记录；并凭借多项创新产品与首创技术",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月17日消息，近日，中国家电及消费电子博览会（简称“AWE”）在上海落下帷幕。展会期间，家电品牌松下举办“松下电器中国事业战略发布暨Top渠道商大会”，并发布中国事业新战略。 松下电器中国事业战略发布暨Top渠道商大会，图片：企业提供 “ 当前中国家电市场的特征是：需求持续下降、存量市场内卷不断加剧；消费需求持续呈现K型分化，行业整体增长面临挑战。但中国依然是全球家电产业的核心中枢。 ” 松下电器株式会社中国东",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月17日消息，要闻提示 1.阿里巴巴宣布成立Alibaba Token Hub（ATH）事业群，CEO吴泳铭直接负责 2.山姆紧急下架！网红产品被曝重金属超标 3.7进4S店！林肯车主被空调冻到麻木，厂家反称：是你身体太敏感 4.又有2个手机品牌官宣涨价！vivo门店店员：已收到涨价通知 5.追觅戒指 Glow 正式发布！全球首创指尖 AI 心电监测 6.雷军回应新一代SU7变化不大：外观不能乱改，要有定力 7",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月17日消息，在3月17日下午举行的华为数据存储2026新春发布会上，华为发布针对AI推理场景的全新AI数据基础设施，包含面向中心训推场景的AI数据平台，和面向分支边缘推理场景的FusionCube A1000超融合一体机，旨在推动AI推理体验升级，加速推理效率，并显著降低推理部署门槛，加速AI商业正循环。据介绍，AI数据平台包含了知识库、KV Cache加速、记忆库的能力，且三者能通过UCM技术统一管理调度，",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月17日消息，DayOne Data Centers Ltd. is close to filing confidentially for an initial public offering in the US, people familiar with the matter said, paving the way for another multibillion-dollar deal in an ind",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月17日消息，Setting up AI factories in simulation — decreasing deployment time from months to days — is accelerating the next industrial revolution. Nowhere was that more apparent than at GTC 2026, in San Jose, w",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月17日消息，arXiv:2603.13372v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC-AGI) has become a key benchmark for fluid intelligence in AI. This survey presents the first cross-generation ",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月17日消息，arXiv:2603.13348v1 Announce Type: new Abstract: Tool use represents a critical capability for AI agents, with recent advances focusing on leveraging reinforcement learning (RL) to scale up the explici",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月17日消息，Nvidia CEO Jensen Huang says the company expects to generate at least $1 trillion from its Blackwell and Rubin chips through the end of 2027. He speaks during Nvidia's GTC event in San Jose, Californi",
+      "importance": "高"
+    }
+  ]
+}
