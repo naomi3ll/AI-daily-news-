@@ -1,0 +1,178 @@
+======================================================================
+AI每日动态 - 2026-03-22
+生成时间: 2026-03-22 08:23:39
+数据来源: 从 54 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月22日消息，中国人民银行行长潘功胜3月22日在中国发展高层论坛2026年年会上表示，我们将稳步推动金融业的高水平开放。深化金融市场互联互通、支付系统跨境互联，便利更多投资者投资中国金融市场。中国股市和债市规模均位居全球第二，市场深度、韧性和流动性持续提升。截至2025年底，境外机构和个人持有境内股票、债券、存贷款等人民币金融资产超过10万亿元。我们欢迎境外投资者参与和投资中国金融市场。近年来，人民币国际化取得
+2、3月22日消息，作者丨欧雪 编辑丨袁斯来 3月20日，总部位于伦敦的消费科技公司Nothing在中国上海召开新品发布会，正式推出头戴式耳机Headphone(a)和智能手机Phone(4a)系列。这是Nothing第二次在中国以线下发布会形式发布新品，显示出其对中国市场的投入正在逐步加深。 从定价来看，Headphone(a)国内首销价为1299元，Phone(4a)起售价为3299元（12GB+256GB），P
+3、3月22日消息，据《日本经济新闻》网站21日报道，日本汽车制造商2025年全球累计汽车销量小幅下降至约2500万辆，自2000年以来首次跌落榜首。中国车企去年全球累计销量为近2700万辆，超越日本首次跃居世界第一。
+4、3月22日消息，“空头死了至少3次，Palantir涨了不只30倍。” 在美股市场，有这么一个现象级标的——Palantir。它被一路看空做空，却一路逆势暴涨，让所有做空者接连惨败。 短短几年间，Palantir的股价走势堪称炸裂：从2022年底、2023年初不到6美元的历史低位 绝地反击、暴涨超30倍 ，在2025年创下了207.52美元的历史最高价，市值一度逼近5000亿美元，是同类软件Snowflake的5
+5、3月22日消息，安全防御工具ClawGuard Auditor
+
+国际动态：
+1、3月22日消息，Apple Inc. Chief Executive Officer Tim Cook commended Chinese developers and the company’s partners in the country, days after the ruling party’s flagship newspaper criticized the iPhone maker for mon
+2、3月22日消息，Elon Musk was sued in late 2022 after completing his acquisition of Twitter, which he later renamed X.
+3、3月22日消息，Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national sec
+4、3月22日消息，Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, 
+5、3月22日消息，Start-up aims to capitalise on rising interest in atomic power due to growing power demand from AI
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月22日消息，中国人民银行行长潘功胜3月22日在中国发展高层论坛2026年年会上表示，我们将稳步推动金融业的高水平开放。深化金融市场互联互通、支付系统跨境互联，便利更多投资者投资中国金融市场。中国股市和债市规模均位居全球第二，市场深度、韧性和流动性持续提升。截至2025年底，境外机构和个人持有境内股票、债券、存贷款等人民币金融资产超过10万亿元。我们欢迎境外投资者参与和投资中国金融市场。近年来，人民币国际化取得
+   📋 入选理由: 影响力评分: 307.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733738655973636?f=rss
+   🏷️ 标签: 开放, 融资, 合作, 投资
+
+2、🔥 3月22日消息，作者丨欧雪 编辑丨袁斯来 3月20日，总部位于伦敦的消费科技公司Nothing在中国上海召开新品发布会，正式推出头戴式耳机Headphone(a)和智能手机Phone(4a)系列。这是Nothing第二次在中国以线下发布会形式发布新品，显示出其对中国市场的投入正在逐步加深。 从定价来看，Headphone(a)国内首销价为1299元，Phone(4a)起售价为3299元（12GB+256GB），P
+   📋 入选理由: 影响力评分: 234.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3733553048256518?f=rss
+   🏷️ 标签: 正式推出, 发布
+
+3、🔥 3月22日消息，据《日本经济新闻》网站21日报道，日本汽车制造商2025年全球累计汽车销量小幅下降至约2500万辆，自2000年以来首次跌落榜首。中国车企去年全球累计销量为近2700万辆，超越日本首次跃居世界第一。
+   📋 入选理由: 影响力评分: 221.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733632950255622?f=rss
+   🏷️ 标签: 超越, 首次
+
+4、🔥 3月22日消息，“空头死了至少3次，Palantir涨了不只30倍。” 在美股市场，有这么一个现象级标的——Palantir。它被一路看空做空，却一路逆势暴涨，让所有做空者接连惨败。 短短几年间，Palantir的股价走势堪称炸裂：从2022年底、2023年初不到6美元的历史低位 绝地反击、暴涨超30倍 ，在2025年创下了207.52美元的历史最高价，市值一度逼近5000亿美元，是同类软件Snowflake的5
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/DDJUUtS5ZMcZFnlU.html
+   🏷️ 标签: 投资, AI, 上市
+
+5、🔥 3月22日消息，安全防御工具ClawGuard Auditor
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/390918.html
+   🏷️ 标签: 开源, 风险
+
+6、🔥 3月22日消息，当地时间3月21日，马斯克就“Terafab”项目召开发布会，称这项旨在最终为机器人、人工智能和太空数据中心制造自有芯片的宏伟计划将落户奥斯汀，并由特斯拉和SpaceX共同运营。马斯克表示，他将首先在奥斯汀建立一座“先进技术晶圆厂”，该厂将配备制造和测试各类芯片所需的全套设备。 马斯克表示，尽管半导体行业正在增加产量，但其发展速度仍无法满足他预���的芯片需求。“这个速度远低于我们的预期，”马斯克
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733739661950979?f=rss
+   🏷️ 标签: 发布, 人工智能
+
+7、🔥 3月22日上午，国务院总理李强在北京出席中国发展高层论坛2026年年会开幕式并发表主旨演讲。李强表示，保护主义不是解决问题的灵丹妙药。我们应当坚持开放、开拓精神，扩大自由贸易、积极推动创新。中国的进出口是在规则框架下进行的公平贸易，中方将坚定不移推进高水平对外开放，进口更多国外优质商品，同各方一道推动贸易优化平衡发展，合力做大全球经贸蛋糕。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733634400387337?f=rss
+   🏷️ 标签: 开放, 创新
+
+8、🔥 3月22日消息，今日热点导览 商务部部长王文涛会见苹果公司首席执行官库克 贾国龙起家的西贝首店将缩减一半经营面积 特斯拉计划采购中国光伏设备？企业回应：确有此事 针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击 中国学生平均留学预算超60万 TOP3大新闻 傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应 3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”3
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3732001538490631?f=rss
+   🏷️ 标签: CEO, AI, 收购
+
+9、🔥 3月22日消息，国产大模型MiniMax M2.5连续五周霸榜全球大模型调用量冠军，在公司总部的办公区，产品研发人员向记者展示了直观的价格差距。“达到同样能力水平的海外模型跟我们相比，价格可能有十几倍的差距。”性价比正在成为国产大模型吸引全球用户的核心竞争力。这种性价比从何而来？第一个关键因素是技术创新，通过底层架构创新，从根本上降低了推理成本，简单来说，就是用更少的Token完成同样的任务。另一关键因素是能源优
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733794493694209?f=rss
+   🏷️ 标签: AI, 大模型, 创新
+
+10、🔥 3月22日消息，据国家医保局消息，2026年3月13日，全球首款侵入式脑机接口医疗器械正式获批上市。3月15日，国家医保局主动对接、靠前服务，为该产品完成医保编码赋码，成功打通创新产品从获批上市到临床应用的关键环节，标志着脑机接口产业从“规划蓝图”正式驶入“落地快车道”。
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733737868214534?f=rss
+   🏷️ 标签: 创新, 上市
+
+11、🔥 3月22日消息，中央财经委员会办公室分管日常工作的副主任、中央农村工作领导小组办公室主任韩文秀在“中国发展高层论坛2026年年会”上表示，面对人口减量发展、老龄化和少子化的结构性变化，“十五五”规划纲要首次将人口高质量发展单独成篇作出部署。中国注重在高质量发展中保障和改善民生，在满足民生需求中拓展高质量发展空间。当今人工智能时代，面临无所不在的冲击和渗透，全方位加以应对，坚持科技向善，促进高质量充分就业，优化收入
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733568329531393?f=rss
+   🏷️ 标签: 首次, 人工智能
+
+12、🔥 3月22日，苹果公司首席执行官蒂姆·库克在中国发展高层论坛2026年年会上表示，中国才华横溢的开发者群体每天都在挑战创新极限，他们利用技术构建的工具帮助人们学习技能、管理健康、激发新想法，成为强大的增长引擎，是新质生产力的典范，为全国带来繁荣与机遇。他同时指出，同样的创新精神也深刻改变着中国制造业：曾经依赖人工流程的企业，如今已跃升为全球最先进的制造商之一，在自动化和智能制造领域取得令人瞩目的进步
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733484525682947?f=rss
+   🏷️ 标签: 创新, CEO
+
+13、🔥 3月22日消息，近日，自然资源部发布最新找矿成果。四川冕宁县牦牛坪矿区稀土矿资源储量核实勘查项目，查明资源总量为966.56万吨稀土氧化物，同时伴生超大型萤石（2713.54万吨）、重晶石（3722.77万吨）资源。牦牛坪稀土矿系全球在产稀土矿山资源储量世界第二，仅次于内蒙古包头白云鄂博矿。对比此前已查明的316万吨资源量计算，牦牛坪稀土矿此次增储超过200%。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733635358736392?f=rss
+   🏷️ 标签: 发布
+
+14、🔥 3月22日消息，2026年3月20日，新阿维塔12预售发布会在重庆金融会展中心举办。新车提供纯电与增程双动力，共推出7个车型版本，预售价29.99万元-43.99万元。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733572718592007?f=rss
+   🏷️ 标签: 发布
+
+15、🔥 3月22日消息，据俄罗斯国家航天集团此前发布的消息，“进步MS-33”货运飞船定于当地时间3月22日发射。飞船将为国际空间站送去超过2.5吨货物，包括空间站维修设备、实验装置、燃料、饮用水和食品等。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733569113391362?f=rss
+   🏷️ 标签: 发布
+
+16、🔥 3月22日消息，据腾讯官微3月22日消息，正式推出微信“ClawBot”插件，支持接入OpenClaw。用户扫码或复制命令，即可将OpenClaw接入微信。连接后，用户就能通过微信聊天的方式，快速调用自己的“龙虾”高效互动。除此之外，腾讯“养虾车间”云端虾Lighthouse、自研虾workbuddy、本地虾QClaw等均已就位。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733567272239111?f=rss
+   🏷️ 标签: 正式推出
+
+17、🔥 3月22日消息，具身收入已到千万，已经过了追求当明星公司的阶段
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/390531.html
+   🏷️ 标签: 百亿
+
+18、🔥 3月22日消息，当地时间3月21日，大众汽车集团旗下Scout品牌首席执行官斯科特·基奥（Scott Keogh）表示，Scout Motors将在美国打造独立品牌，并可能在未来考虑上市。基奥称，作为大众与Rivian合资项目的一部分，Scout的车型将采用Rivian的软件技术。Scout的增程版车型将使用在大众墨西哥工厂生产的发动机。
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733739148738568?f=rss
+   🏷️ 标签: 上市
+
+19、🔥 3月22日，财政部部长蓝佛安在中国发展高层论坛2026年年会上表示，财政政策将更加突出投资于人。加大投资于人的力度。“十四五”时期财政民生投入接近100万亿元，占财政支出比重超过70%，推动建成全世界规模最大的教育体系、社会保障体系、医疗卫生体系。未来五年，我们将坚持尽力而为、量力而行，继续加大保障和改善民生力度，合理提高公共服务支出占财政支出的比重，提高民生类政府投资的比重。
+   📋 入选理由: 影响力评分: 97.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3733632235667718?f=rss
+   🏷️ 标签: 投资
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月22日消息，Apple Inc. Chief Executive Officer Tim Cook commended Chinese developers and the company’s partners in the country, days after the ruling party’s flagship newspaper criticized the iPhone maker for mon
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-22/apple-ceo-praises-china-partners-as-beijing-applies-pressure
+   🏷️ 标签: chief, AI, CEO
+
+2、🔥 3月22日消息，Elon Musk was sued in late 2022 after completing his acquisition of Twitter, which he later renamed X.
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html
+   🏷️ 标签: billion, Elon Musk, acquisition
+
+3、🔥 3月22日消息，Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national sec
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/
+   🏷️ 标签: AI, national security
+
+4、🔥 3月22日消息，Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, 
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
+   🏷️ 标签: AI, Sora
+
+5、🔥 3月22日消息，Start-up aims to capitalise on rising interest in atomic power due to growing power demand from AI
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/22d28650-5536-4446-92ba-b094f56d13fa
+   🏷️ 标签: AI, IPO
+
+6、🔥 3月22日消息，At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
+   📋 入选理由: 影响力评分: 125.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html
+   🏷️ 标签: Jensen Huang, AI, CEO
+
+7、🔥 3月22日消息，Elon Musk said his Terafab project — a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers — will be built in Austin and jointly run by Tesl
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin
+   🏷️ 标签: Elon Musk, AI, artificial intelligence
+
+8、🔥 3月22日消息，Big Tech companies including Nvidia and Elon Musk's SpaceX are making large bets on a new layer of critical infrastructure that's emerging above our heads.
+   📋 入选理由: 影响力评分: 90.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html
+   🏷️ 标签: billion, Elon Musk
+
+9、🔥 3月22日消息，Barry speaks with Bill Miller IV, Chief Investment Officer and the Portfolio Manager for the Miller Value Fund about his start in investing. They discuss the rise of bitcoin, and how it may mirror tec
+   📋 入选理由: 影响力评分: 82.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-21/conviction-investing-masters-in-business-with-bill-miller-iv
+   🏷️ 标签: chief
+
+
+======================================================================
+📊 今日总结: 今日从54条原始信息中精选出19条国内动态和9条国际动态，其中28条为高重要性。 重点关注：潘功胜：将稳步推动金融业的高水平开放；Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线；中国车企全球销量20多年来首超日本。
+======================================================================
