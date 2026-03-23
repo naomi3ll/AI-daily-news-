@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-23
+生成时间: 2026-03-23 08:44:27
+数据来源: 从 103 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月23日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，三维重建与空间智能公司——杭州竹马创新科技有限公司（下称“竹马创新”）近日完成数千万天使轮融资。本轮融资由峰瑞资本领投，洪泰基金跟投，光智资本担任本轮独家财务顾问。资金将主要用于研发团队招聘、产品量产筹备及初期营销推广。 竹马创新成立于2025年11月，专注于消费级三维重建与空间智能产品。公司创始人兼CEO张吉，毕业于西安交通大学计算机系，拥有20余年3D图形行
+2、3月23日消息，硬氪获悉，AI投资技术公司Grace Investment Machine（以下简称GIM）近日完成数千万元天使轮融资，由Monolith和五源资本共同投资。本轮资金将主要用于自研金融大模型的技术迭代、数据与算力基础设施建设，以及全球化顶尖团队的持续扩张。值观资本后续担任独家财务顾问。 GIM成立于2025年7月，公司定位为下一代自进化智能体投资平台，希望通过多智能体架构，打造AGI时代的投资机器
+3、3月23日消息，雷峰网·鲸犀独家获悉，华为云物理智能创新Lab（原具身智能创新Lab）负责人、首席技术专家周顺波已于今年3月初正式离职。在主导完成了华为具身领域唯一的技术到产品闭环后，周顺波选择投身创业洪流。这位深耕智能机器人领域十余年的Founder，正带着他的新公司「欧拉万象」（Ola Dimensions），奔向具身智能的下一波浪潮。 作为华为具身智能领域的「1号员工」，周顺波在华为的5年间留下了浓墨重彩的
+4、3月23日消息，36氪获悉，生物制造企业「食气生化」近日完成超亿元融资，最新投资方包括上海科创知识产权基金和天创资本。本轮融资将重点用于推进公司从中试向产业化的关键跨越。此前，公司曾获得博远资本、腾讯、前海母基金、南创投等机构投资。 食气生化成立于2023年1月，专注于一碳生物转化与气体发酵技术开发。联合创始人闻志强、汪庆卓，博士期间为中科院合成生物学重点实验室同门师兄弟。其所在课题组曾服务百余项工业化项目，在气
+5、3月23日消息，文｜兰杰 编辑｜乔芊 “如果你在出生的时候没有劳斯莱斯，那么这辈子大概率都不会有了。”这是酱油动漫创始人黄浩南熟记于心的一句话。 他中专毕业，没有父母帮衬，只坚信一条信念，打工是不可能发财的，一定要抓住风口。所以在网文、短剧这些昔日风口中，都有过黄浩南的身影。做短剧后，他终于实现了阶层跨越，但那时酱油动漫仍籍籍无名，直到他又一头扎进漫剧的巨浪。 去年11月，酱油动漫的月收入超5000万元，已经是名
+
+国际动态：
+1、3月23日消息，Dash0 has raised $110 million at a $1 billion valuation in a Balderton Capital-led round to expand its monitoring platform, used to detect problems in software systems, across the US.
+2、3月23日消息，arXiv:2603.19253v1 Announce Type: cross Abstract: Argument mining (AM) is an interdisciplinary research field focused on the automatic identification and classification of argumentative components, su
+3、3月23日消息，arXiv:2603.20046v1 Announce Type: new Abstract: Reinforcement Learning (RL) with rubric-based rewards has recently shown remarkable progress in enhancing general reasoning capabilities of Large Langua
+4、3月23日消息，arXiv:2603.19429v1 Announce Type: new Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners 
+5、3月23日消息，Cathie Wood, CEO and CIO of Ark Investment Management, joins Merryn Somerset Webb to make the bullish case for the next era of innovation. From AI, robotaxis and CRISPR to bitcoin, Tesla and SpaceX, s
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月23日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，三维重建与空间智能公司——杭州竹马创新科技有限公司（下称“竹马创新”）近日完成数千万天使轮融资。本轮融资由峰瑞资本领投，洪泰基金跟投，光智资本担任本轮独家财务顾问。资金将主要用于研发团队招聘、产品量产筹备及初期营销推广。 竹马创新成立于2025年11月，专注于消费级三维重建与空间智能产品。公司创始人兼CEO张吉，毕业于西安交通大学计算机系，拥有20余年3D图形行
+   📋 入选理由: 影响力评分: 357.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3734855815184390?f=rss
+   🏷️ 标签: 创新, CEO, AI, 突破, 融资
+
+2、🔥 3月23日消息，硬氪获悉，AI投资技术公司Grace Investment Machine（以下简称GIM）近日完成数千万元天使轮融资，由Monolith和五源资本共同投资。本轮资金将主要用于自研金融大模型的技术迭代、数据与算力基础设施建设，以及全球化顶尖团队的持续扩张。值观资本后续担任独家财务顾问。 GIM成立于2025年7月，公司定位为下一代自进化智能体投资平台，希望通过多智能体架构，打造AGI时代的投资机器
+   📋 入选理由: 影响力评分: 342.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3734918559842560?f=rss
+   🏷️ 标签: AI, 融资, AGI, 领先, IPO
+
+3、🔥 3月23日消息，雷峰网·鲸犀独家获悉，华为云物理智能创新Lab（原具身智能创新Lab）负责人、首席技术专家周顺波已于今年3月初正式离职。在主导完成了华为具身领域唯一的技术到产品闭环后，周顺波选择投身创业洪流。这位深耕智能机器人领域十余年的Founder，正带着他的新公司「欧拉万象」（Ola Dimensions），奔向具身智能的下一波浪潮。 作为华为具身智能领域的「1号员工」，周顺波在华为的5年间留下了浓墨重彩的
+   📋 入选理由: 影响力评分: 290.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/rFeuvZCYsc6GOqfn.html
+   🏷️ 标签: 创新, founder, 首次, 领先
+
+4、🔥 3月23日消息，36氪获悉，生物制造企业「食气生化」近日完成超亿元融资，最新投资方包括上海科创知识产权基金和天创资本。本轮融资将重点用于推进公司从中试向产业化的关键跨越。此前，公司曾获得博远资本、腾讯、前海母基金、南创投等机构投资。 食气生化成立于2023年1月，专注于一碳生物转化与气体发酵技术开发。联合创始人闻志强、汪庆卓，博士期间为中科院合成生物学重点实验室同门师兄弟。其所在课题组曾服务百余项工业化项目，在气
+   📋 入选理由: 影响力评分: 271.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3727983704243078?f=rss
+   🏷️ 标签: 创新, 风险, 首次, 融资, 投资
+
+5、🔥 3月23日消息，文｜兰杰 编辑｜乔芊 “如果你在出生的时候没有劳斯莱斯，那么这辈子大概率都不会有了。”这是酱油动漫创始人黄浩南熟记于心的一句话。 他中专毕业，没有父母帮衬，只坚信一条信念，打工是不可能发财的，一定要抓住风口。所以在网文、短剧这些昔日风口中，都有过黄浩南的身影。做短剧后，他终于实现了阶层跨越，但那时酱油动漫仍籍籍无名，直到他又一头扎进漫剧的巨浪。 去年11月，酱油动漫的月收入超5000万元，已经是名
+   📋 入选理由: 影响力评分: 251.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3734101643706371?f=rss
+   🏷️ 标签: AI, 突破, AGI, 投资, 大模型
+
+6、🔥 3月23日消息，今日热点导览 多地中小银行集中清理沉睡账户，已有超7家银行发布公告 全球首个脑机接口创新产品获得医保编码 微信推出官方龙虾插件 美药管局在全美召回近9万瓶儿童布洛芬药物 日媒：中国车企全球销量20多年来首次超日本居榜首 TOP 3大新闻 上市公司董事长病逝，未成年女儿继承9亿元股票 3月20日晚间，大北农发布关于控股股东、实际控制人变更暨权益变动的提示性公告。 公司原实际控制人、董事长邵根伙于20
+   📋 入选理由: 影响力评分: 251.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3734758253887744?f=rss
+   🏷️ 标签: 创新, 发布, 上市, 首次
+
+7、🔥 3月23日消息，36氪获悉，近日，微博推出超话“硅基茶水间”，成为国内首个上线AI社区的社交媒体平台，目前该超话已上线。据介绍，“硅基茶水间”是一个为包括龙虾、评论机器人等在内的各类AI创建的，支持其入驻、生活并进行互动的平行宇宙。AI作为社区的“居民”，能够发布动态、评论互动等，完成完整的社交行为。用户将超话链接发送给自己的AI，即可启动其入驻流程。
+   📋 入选理由: 影响力评分: 249.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3735189732360196?f=rss
+   🏷️ 标签: AI, 发布, 上线
+
+8、🔥 3月23日消息，图为轻舟智航 文｜肖漫 编辑｜李勤 36氪获悉，轻舟智航（QCraft，以下简称“轻舟”）宣布完成D轮新一轮融资1亿美元。本轮融资由某国内头部主机厂、宁波宁海兴泰合基金、梁溪科创产业母基金（博华资本管理）、华德科创、某头部汽车电子零部件公司等重磅产业投资方及投资机构联合投资。 本次资金将主要用于两大方向：一是加大“世界模型+强化学习”等前沿物理AI技术的研发投入；二是加强组织人才建设，为公司的长远
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3734094940504073?f=rss
+   🏷️ 标签: CEO, 投资, AI, 融资
+
+9、🔥 3月23日消息，作者丨欧雪 编辑丨袁斯来 3月20日，总部位于伦敦的消费科技公司Nothing在中国上海召开新品发布会，正式推出头戴式耳机Headphone(a)和智能手机Phone(4a)系列。这是Nothing第二次在中国以线下发布会形式发布新品，显示出其对中国市场的投入正在逐步加深。 从定价来看，Headphone(a)国内首销价为1299元，Phone(4a)起售价为3299元（12GB+256GB），P
+   📋 入选理由: 影响力评分: 234.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3733553048256518?f=rss
+   🏷️ 标签: 正式推出, 发布
+
+10、🔥 3月23日消息，如今，前沿AI技术已悄然渗透进日常生活——从简单的交互提问到OpenClaw等智能体的复杂应用，从生成视频到AIGC制作电影级短剧，技术进化肉眼可见，SE（超级创业者）、OPC（一人公司）随之崛起。作为开源开放之城、AI极致应用之城、更懂开发者之城，上海正以“创见时刻，就在上海”的先锋精神，迎接每一位拥抱AI浪潮的开发者、创业者。 2026全球开发者先锋大会将于3月27日至29日在上海徐汇举办。本
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/rnJBP0XYoVKStiCV.html
+   🏷️ 标签: 创新, 开源, AI, 开放, 大模型
+
+11、🔥 3月23日消息，36氪获悉，爱企查App显示，近日，中邮金融资产投资有限公司成立，法定代表人为杜春野，注册资本100亿元人民币，经营范围包括非银行金融业务。股东信息显示，该公司由中国邮政储蓄银行股份有限公司全资持股。
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3735268422860800?f=rss
+   🏷️ 标签: 投资, 融资
+
+12、🔥 3月23日消息，有1.3亿用户在千问首次体验AI购物
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/391308.html
+   🏷️ 标签: AI, 首次, 上线
+
+13、🔥 3月23日消息，36氪获悉，中国银行发布关于加强贵金属市场风险防范的提示。近期，全球地缘政治风险加剧，在多重因素影响下，国内外贵金属价格波动进一步加大。为保护积存金、积利金、账户贵金属等贵金属相关业务的客户利益，我行特别提示各位客户做好市场风险防范，基于自身财务状况和风险承受能力开展理性投资，合理控制贵金属仓位，并通过长期投资降低阶段性价格波动影响，防范市场波动带来的资金损失风险。
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3735260468264960?f=rss
+   🏷️ 标签: 风险, 投资, 发布
+
+14、🔥 3月23日消息，文｜兰杰 编辑｜乔芊 3月19日，腾讯发布了2025年全年以及Q4的财报，表现依然稳健。其中，游戏仍是腾讯的基本盘业务，贡献了超30%的收入。 2025年，腾讯本土市场游戏的收入为1642亿元，同比增长18%，得益于《三角洲行动》的强劲表现，以及《王者荣耀》、《和平精英》等长青游戏及《无畏契约》系列(个人电脑端及移动端)的收入增长。 国际市场游戏收入为774亿元，同比增长33%，得益于 Super
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3734107862073606?f=rss
+   🏷️ 标签: AI, 投资, 发布, 大模型
+
+15、🔥 3月23日消息，各类Skill按需扩展
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/391361.html
+   🏷️ 标签: 开源
+
+16、🔥 3月23日消息，36氪获悉，海天精工发布2025年业绩报告。报告显示，2025年实现营业收入33.68亿元，同比增长0.48%；归属于上市公司股东的净利润4.29亿元，同比下降17.97%；基本每股收益0.82元。按公司总股本5.22亿股为基数，拟向全体股东每10股派发现金红利3元（含税），共计分配现金红利1.57亿元，占公司2025年度实现的归属于上市公司股东净利润的36.50%，剩余未分配利润滚存至下一年度。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3735273032581125?f=rss
+   🏷️ 标签: 发布, 上市
+
+17、🔥 3月23日消息，36氪获悉，金财互联发布2025年业绩报告。报告显示，2025年实现营业收入10.46亿元，同比下降17.38%；归属于上市公司股东的净利润6485.68万元，上年同期亏损916.09万元；基本每股收益0.08元。公司经本次董事会审议通过的利润分配预案为：以7.79亿股为基数，向全体股东每10股派发现金红利0.26元（含税），送红股0股（含税），不以公积金转增股本。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3735263428214793?f=rss
+   🏷️ 标签: 发布, 上市
+
+18、🔥 3月23日消息，要闻提示 1.鲜猪肉竟是数个月前屠宰？山姆紧急回应！品控频遭质疑，网友称“不如菜市场” 2.俞敏洪：东方甄选不是直播公司，而是产品公司 3.乘客坐网约车受伤索赔39万，这钱司机赔还是平台赔？法院判了 4.Cursor 被质疑套壳 Kimi，马斯克下场补刀，Kimi：听说我，谢谢你 5.60加60等于120言论引争议，雷军：确实说错了，感谢网友们指正 6.华为云新加坡总经理胡维琦将加入MiniMax
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/Nf63Jxdl5BO3461P.html
+   🏷️ 标签: AI, 发布, 雷军
+
+19、🔥 3月23日，千问上线打车能力，可一句话完成选车型、添加途经点、预约时间等操作，还支持“要空气清新的车，价格不超过30元”、“驾驶平稳”、“服务态度好”等个性化需求。 即便是复杂需求，用户只需直接表达，千问都能理解意图并完成车辆匹配。例如，“我们一家人想去什刹海看夕阳，打车去，6个人”，系统可自动判断人数并匹配商务车；而对于“去医院、车上有病人、要开得稳的老司机”，千问则会优先推荐驾驶平稳的车，还可
+   📋 入选理由: 影响力评分: 120.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/qLBVknTHk5oRmhvM.html
+   🏷️ 标签: AI, 首次, 上线
+
+20、🔥 3月23日消息，36氪获悉，老铺黄金发布2025年业绩报告。报告显示，2025年本集团销售业绩约为313.75亿元，同比增长约220.3%；营业收入为约273.03亿元，同比增长约221.0%；年内利润48.7亿元，同比增长230.5%；非国际财务报告准则经调整净利润50.29亿元，同比增长234.9%。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3735271298859015?f=rss
+   🏷️ 标签: 发布
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月23日消息，Dash0 has raised $110 million at a $1 billion valuation in a Balderton Capital-led round to expand its monitoring platform, used to detect problems in software systems, across the US.
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-23/balderton-backed-startup-dash0-bags-110-million-to-expand-in-us
+   🏷️ 标签: AI, valuation, billion
+
+2、🔥 3月23日消息，arXiv:2603.19253v1 Announce Type: cross Abstract: Argument mining (AM) is an interdisciplinary research field focused on the automatic identification and classification of argumentative components, su
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19253
+   🏷️ 标签: AI, Llama 4, valuation, machine learning, GPT-5
+
+3、🔥 3月23日消息，arXiv:2603.20046v1 Announce Type: new Abstract: Reinforcement Learning (RL) with rubric-based rewards has recently shown remarkable progress in enhancing general reasoning capabilities of Large Langua
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.20046
+   🏷️ 标签: AI, AGI, LLM, large language model, fine
+
+4、🔥 3月23日消息，arXiv:2603.19429v1 Announce Type: new Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19429
+   🏷️ 标签: outperforms, reasoning, fine
+
+5、🔥 3月23日消息，Cathie Wood, CEO and CIO of Ark Investment Management, joins Merryn Somerset Webb to make the bullish case for the next era of innovation. From AI, robotaxis and CRISPR to bitcoin, Tesla and SpaceX, s
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-23/the-convergence-trade-cathie-wood-s-boldest-predictions-video
+   🏷️ 标签: CEO, joins, AI
+
+6、🔥 3月23日消息，Apple Inc. Chief Executive Officer Tim Cook commended Chinese developers and the company’s partners in the country, days after the ruling party’s flagship newspaper criticized the iPhone maker for mon
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-22/apple-ceo-praises-china-partners-as-beijing-applies-pressure
+   🏷️ 标签: CEO, AI, chief
+
+7、🔥 3月23日消息，arXiv:2603.19247v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly integrated into high-stakes applications, making robust safety guarantees a central practical and commer
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19247
+   🏷️ 标签: AI, valuation, LLM, large language model, fine
+
+8、🔥 3月23日消息，Russia launched an uncrewed cargo spacecraft toward the International Space Station on Sunday after recent repairs to the Baikonur Cosmodrome launch site, NASA said.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-22/russia-launches-cargo-ship-to-iss-from-baikonur-after-repairs
+   🏷️ 标签: AI, launches
+
+9、🔥 3月23日消息，arXiv:2603.19715v1 Announce Type: new Abstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scr
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19715
+   🏷️ 标签: AI, LLM, large language model, fine, introduces
+
+10、🔥 3月23日消息，arXiv:2603.19252v1 Announce Type: cross Abstract: Evaluating the symbolic reasoning of large language models (LLMs) calls for geometry benchmarks that require multi-step proofs grounded in both text a
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19252
+   🏷️ 标签: AI, valuation, LLM, large language model, fine
+
+11、🔥 3月23日消息，On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.
+   📋 入选理由: 影响力评分: 143.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/
+   🏷️ 标签: CEO, Jensen Huang
+
+12、🔥 3月23日消息，The biggest boy band in the world returns after a three-year break. Can they recapture the magic?
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/newsletters/2026-03-22/bts-is-back-after-a-long-break-can-the-band-be-bigger-than-ever
+   🏷️ 标签: AI, AGI
+
+13、🔥 3月23日消息，arXiv:2603.19236v1 Announce Type: cross Abstract: The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework provides a rigorous foundation for evidence synthesis, yet t
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19236
+   🏷️ 标签: AI, bias, LLM, large language model, artificial intelligence
+
+14、🔥 3月23日消息，Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.
+   📋 入选理由: 影响力评分: 132.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/
+   🏷️ 标签: AI, billion
+
+15、🔥 3月23日消息，Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/
+   🏷️ 标签: Elon Musk, unveils
+
+16、🔥 3月23日消息，arXiv:2603.19514v1 Announce Type: new Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19514
+   🏷️ 标签: AI, LLM, large language model, fine, reasoning
+
+17、🔥 3月23日消息，arXiv:2603.19639v1 Announce Type: new Abstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and un
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19639
+   🏷️ 标签: AI, LLM, reasoning, fine
+
+18、🔥 3月23日消息，arXiv:2603.20101v1 Announce Type: new Abstract: Automated interpretability systems aim to reduce the need for human labor and scale analysis to increasingly large models and diverse tasks. Recent effo
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.20101
+   🏷️ 标签: AI, valuation, LLM, large language model, fine
+
+19、🔥 3月23日消息，arXiv:2603.19258v1 Announce Type: cross Abstract: While differentially private (DP) fine-tuning of large language models (LLMs) is a powerful tool, it is often computationally prohibitive or infeasibl
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.19258
+   🏷️ 标签: AI, LLM, large language model, state-of-the-art, fine
+
+20、🔥 3月23日消息，Bain Capital-owned Bridge Data Centres is in talks with lenders for a potential loan of up to $6 billion, according to people familiar with the matter, in what would be one of the largest-ever borrowi
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-23/bain-capital-s-bridge-data-centres-seeks-up-to-6-billion-loan
+   🏷️ 标签: AI, billion
+
+
+======================================================================
+📊 今日总结: 今日从103条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：36氪首发丨峰瑞资本投了家智能硬件公司，做空间三维重建，创始人为前群核科技副总裁；前五源投资人联手港大教授，想做一款AGI投资机器，获Monolith投资｜硬氪首发；独家丨华为具身智能「1号员工」周顺波离职创业。
+======================================================================
