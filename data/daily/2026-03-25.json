@@ -1,0 +1,731 @@
+{
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25 08:38:52",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "突发！OpenAI关停Sora，精简产品线为 IPO 铺路；Momenta 港股秘密递表，预计年内上市；别吵了！Token中文名定了：词元丨雷峰早报",
+      "summary": "3月25日消息，要闻提示 1.突发！OpenAI关停Sora，精简产品线为 IPO 铺路 2.别吵了！Token中文名定了：词元 3.蜜雪冰城张红甫卸任CEO，35岁清华硕士张渊接任 4.小米卢伟冰回应内存涨价：不排除产品未来涨价可能 5.覆盖5系7系！宝马在华召回近18万辆汽车：极端情况下存起火风险 6.OpenClaw版本升级“翻车”，激进重构致用户全线报错，开发者回应 7.扎克伯格收编 AI 智能体公司 D",
+      "importance": "高",
+      "reason": "影响力评分: 380.0",
+      "tags": [
+        "投资",
+        "CEO",
+        "合作",
+        "AI",
+        "风险"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/VumodM2N8a0faAlv.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 01:33:00",
+      "impact_score": 380.0
+    },
+    {
+      "index": 2,
+      "title": "IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发",
+      "summary": "3月25日消息，36氪获悉，工业具身智能企业光象科技，已完成种子轮、天使轮及天使+轮多轮融资，累计金额超1亿元人民币，由财务投资机构 IDG 资本、东方富海联合领投，机器人产业资本埃夫特、零一创投、达泰资本、光源 L2F创业者基金跟投。 据悉，企业融资资金将主要用于公司具身机器人的核心技术研发、产品化推进及商业化交付工作。 光象科技成立于 2025 年 4 月，由前阿里巴巴高德技术总监张涛，与清华大学教授、人工智",
+      "importance": "高",
+      "reason": "影响力评分: 327.5",
+      "tags": [
+        "融资",
+        "人工智能",
+        "合作",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3737667859398665?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 01:15:40",
+      "impact_score": 327.5
+    },
+    {
+      "index": 3,
+      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
+      "summary": "3月25日消息，图源:36kr 每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。 本期合作企业：红杉中国、高瓴、鼎晖、经纬被投企业｜B轮及以上占比65%。 卷首语 我们见过太多这样的场景：一家硬科技公司融完B轮，创始人却在朋友圈悄悄挂出招聘启事；一个专注大模型的算法专家，翻遍猎头推荐却找不到真正懂技术的团队。 这不是供需错配，而是信息失真。 过去十年，36氪记录了数千家公司的成长轨迹。我",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "开放",
+        "LLM",
+        "融资",
+        "大模型",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 07:23:01",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "全球场景在上海汇聚：需求清单如何成为AI的试金石",
+      "summary": "3月25日消息，当电影《她》中的智能助手能读懂人类情绪，当《银翼杀手》里的全息广告在城市上空闪烁——这些“赛博朋克”风格的科幻想象，描述着未来社会的场景。 在经济综合实力全球领先、创新产业集群效应凸显的上海，追赶AI浪潮的步伐从未放缓。但与电影中冷峻疏离的“高科技、低生活”未来图景截然不同，上海正用AI赋能营造更具温度的城市生活。从明确提出“模塑申城”到系统布局重点领域，这座城市以开放包容的姿态，将整座城市作为A",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "人工智能",
+        "发布",
+        "开放",
+        "大模型",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/LpGNroIqDhnemmX5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 15:03:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "第一只会做生意的「龙虾」来了：从选品到采购，30分钟「手搓」出一家网店",
+      "summary": "3月25日消息，过去一个月，全球科技圈正在被一只「龙虾」OpenClaw，搅得天翻地覆。它直接读写本地文件、自主操控桌面应用，把一个复杂任务拆解，替你打工。 OpenClaw 之后，各个大厂的AI打工助手纷纷上线。从应用层面来看，当前全球主流的AI Agent更多是以办公场景的个人助理形态，停留在“Copilot”（副驾驶）阶段——它们擅长处理文档、整理表格、归纳纪要，本质上是替人类打工的“实习生”。 然而企业主",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "发布",
+        "上线",
+        "开放",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/lA9KFsIvqf4Ozvgy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 06:52:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "独家｜华为云新加坡总经理胡维琦将加入MiniMax，或向贠烨祎汇报",
+      "summary": "3月25日消息，MiniMax 或将迎来一位来自云计算巨头的重要高管。 AI科技评论独家获悉， 原华为云中国区副总裁、现华为云新加坡总经理胡维琦将加入 MiniMax，知情人士透露，该项人事变动在 2026 年春节前已达成意向，目前胡维琦正处于入职前的最后准备阶段。 有消息称，胡维琦加入 MiniMax后将向公司执行董事兼 COO 贠烨祎直接汇报。考虑到胡维琦在云计算领域的长期履历，其在 MiniMax 的核心任",
+      "importance": "高",
+      "reason": "影响力评分: 275.0",
+      "tags": [
+        "发布",
+        "大模型",
+        "融资",
+        "上市",
+        "IPO"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/a6MRb7oWS3HKM9fh.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 03:50:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 7,
+      "title": "增程+R7世界模型，上汽大众能否跻身新能源主流玩家？",
+      "summary": "3月25日消息，作者 | 郑浩钧 编辑 | 王瑞昊 在AI行业蓬勃发展的今天，作为“物理AI”在现实世界中最先实现大规模量产的功能——智能驾驶在汽车行业中的地位越来越重要，用户购车时也愈发看重智驾功能的体验。这就使得一些车企不再一昧强调自研智驾，也不再把智驾供应商藏在身后，而是让他们站到台前，共同去赢得用户的青睐。 上周，在上汽大众ID. ERA技术发布会上，不仅有多位上汽大众负责人上台介绍该系列车型的多项核心技",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "发布",
+        "投资",
+        "融资",
+        "大模型",
+        "CEO"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/91jfmuT0DxCNLHkf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 04:51:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 8,
+      "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
+      "summary": "3月25日消息，JVS Claw也荣登App Store“智能体”和“Claw”搜索榜首位",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "开放",
+        "全面开放"
+      ],
+      "url": "https://www.qbitai.com/2026/03/391830.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-25 03:36:58",
+      "impact_score": 270.0
+    },
+    {
+      "index": 9,
+      "title": "阿里云JVS Claw 全面开放 轻松实现手机“一键养虾”",
+      "summary": "3月25日，阿里云JVS Claw宣布全面开放，无需邀请码即可获得一只云端“龙虾”，同时新增语音输入、专属文件空间、一键修复、Skill开关等多个实用功能，为“逮虾户”们提供便捷、安全的操作体验。在保留7天免费体验的同时，JVS Claw还推出最低39元首月的“匠心版”套餐等，满足不同用户需求。 自内测以来，凭借“易上手、强安全、自进化”的特点，JVS Claw在短时间内迅速积累了大量人气，成为大",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "发布",
+        "开放",
+        "全面开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/EDz5bxWBFh1Y1Iwf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 03:36:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 10,
+      "title": "你的模型真的会”举一反三”吗？RoboChallenge Table30 V2 正式发布，泛化时代开幕",
+      "summary": "3月25日消息，Table30 V2将为全球具身智能研究者打造了一个精准的“泛化标尺”与公平、开放的真机竞技场",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "发布",
+        "开放"
+      ],
+      "url": "https://www.qbitai.com/2026/03/391744.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-24 08:33:52",
+      "impact_score": 270.0
+    },
+    {
+      "index": 11,
+      "title": "8点1氪丨美国提出15点结束冲突方案，拟停火1个月；张雪峰因心源性猝死抢救无效去世；Token中文名定了：词元",
+      "summary": "3月25日消息，今日热点导览 美团客服回应“App自动删除用户照片” 傅盛深夜向周鸿祎致歉 受内存涨价等因素影响，手机涨价潮到来 国际油价持续上涨 三只松鼠：拟以1亿元-2亿元回购公司股份 TOP 3大新闻 美国提出15点结束冲突方案，拟停火1个月 当地时间3月24日，央视记者获悉，美国政府通过巴基斯坦向伊朗提出一份包含15项条件的结束冲突方案，涵盖核计划、导弹能力及地区问题。 据称，美方主要要求包括：伊朗解除现",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "发布",
+        "开放",
+        "大模型",
+        "制裁",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3737612384043270?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 00:19:03",
+      "impact_score": 264.0
+    },
+    {
+      "index": 12,
+      "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
+      "summary": "3月20日，TE Connectivity（简称 “TE” ）在苏州举办了 “机器人核心技术赋能智能工厂创新大会” 。活动通过技术交流与工厂参观等形式，邀请机器人产业链上下游企业与生态圈伙伴围绕核心技术与落地问题展开讨论，搭建起面向产业的交流与对接平台。与会讨论折射出一个共同背景：机器人正从技术验证加速走向工程化与规模化落地。 今年，政府工作报告连续第三年提出“人工智能+”，并首次提出“打造智能经",
+      "importance": "高",
+      "reason": "影响力评分: 236.0",
+      "tags": [
+        "人工智能",
+        "首次",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3737937096655107?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 06:07:59",
+      "impact_score": 236.0
+    },
+    {
+      "index": 13,
+      "title": "中上协：2月全市场总市值再创历史新高，突破116.8万亿",
+      "summary": "3月25日消息，36氪获悉，中上协发布2月统计月报。以2月末收盘价计算，全市场总市值再创历史新高，突破116.8万亿，同比增长34%。其中，制造业、科学研究和技术服务业总市值同比增幅均超40%。2月，超千亿市值公司新增12家，超百亿市值公司新增67家，20亿以下市值公司数量进一步减少。2月末，上市公司市值中位数72.53亿元，较年初提升11%。",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "发布",
+        "百亿",
+        "上市",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3738026355802118?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 07:17:02",
+      "impact_score": 225.0
+    },
+    {
+      "index": 14,
+      "title": "闲鱼重磅上线：5秒即可完成商品发布，还可AI辅助定价！",
+      "summary": "3月25日，闲鱼正式发布重磅新产品——闲鱼AI相机。打开闲鱼AI相机，用户只需简单拍照，即可5秒实现对商品的一键上架；闲鱼还将通过AI对商品进行辅助定价，促成用户合理高效成交。 一直以来，闲置商品描述难、定价难，是影响用户发布商品的主要痛点。闲鱼AI相机大大降低了商品发布门槛，用户随手即可发布；特别是AI辅助定价，用户不再需要花费大量时间研究市场行情，AI直接给出参考公允价格，用户可实现快速成交。",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "发布",
+        "上线",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Yix1MlagTs9plPry.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 02:54:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 15,
+      "title": "黑科技王者性能再进化，华为Mate 80 Pro Max 风驰版实力破圈",
+      "summary": "3月23日，华为终端正式推出了备受瞩目的华为Mate 80 Pro Max 风驰版。这不仅是华为Mate 80系列面向高端性能市场打造的全新旗舰力作，更是品牌对“全能旗舰”性能维度的极致探索与突破。 作为软硬芯协同创新的集大成之作，华为Mate 80 Pro Max 风驰版凭借首发搭载华为风驰散热架构、超丝滑方舟引擎，以及创新的HyperSpace Memory超空间内存技术等多项黑科技完成性能重",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "突破",
+        "创新",
+        "正式推出",
+        "风险",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/WHvWFjBdmoeaIctn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 01:56:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 16,
+      "title": "36氪首发丨东方富海投了一个海归博导，要挑战日本高端激光设备巨头",
+      "summary": "3月25日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近日完成数千万元天使轮融资。本轮融资由东方富海独家投资，华君资本担任长期独家战略财务顾问。融资资金将主要用于研发投入和团队建设。 中微精仪成立于2024年11月，但其技术积累可追溯至2022年。公司专注于激光超精密加工领域，核心业务涵盖碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3737670256345345?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 01:15:01",
+      "impact_score": 215.0
+    },
+    {
+      "index": 17,
+      "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+      "summary": "3月25日消息，九章云极正式推出AI编码平台Alaya Code，为企业及开发者提供一站式AI编程与模型调用服务。平台以\"普惠+灵活\"为核心定位，依托九章云极智算云生态，将算力调度、模型适配封装为开箱即用的开发工具，实现“算力-模型-开发”全链路打通，凭借高调用量、多模型聚合、双SDK兼容等优势，成为AI编程与智能体开发新选择。 Alaya Code聚合Kimi-K2.5、Qwen3.5-Plus、GLM-5、M",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "正式推出",
+        "开源",
+        "AI",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/EYqNM6TlxH4qzGvp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 07:19:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 18,
+      "title": "小龙虾成龙记： 为什么创新的答案总能在上海找到",
+      "summary": "3月25日消息，在上海，创新从不只是实验室里的奇思妙想，而是街头巷尾生长出的真实故事。从一只轻巧的“小龙虾”开始，以大模型推理能力为“脑”，以OpenClaw等流程化、模块化方案为“骨架”，以行业 know-how为“肌肉”，无数开发者借助开源生态“化虾为龙”，这座城市正在书写一种全新的创新范式：技术在这里快速落地，创意以天为单位变现，个体拥有组织级的战斗力。 为什么上海的答案总能被找到？因为这里不仅有最前沿的模",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "开源",
+        "大模型",
+        "创新",
+        "突破",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/yDq7NvacqhSpruML.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 15:12:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 19,
+      "title": "AI+视频的爆发点： AIGC如何接住下一波内容红利",
+      "summary": "3月25日消息，2026年央视春晚，AIGC（人工智能生成内容）技术应用含量高达80%。观众看到的不仅有数字人与真人同屏共舞，还有媲美真实场景的虚拟特效、动态渲染，连运镜轨迹也由AI模拟生成。而在标志性运用AIGC的节目《贺花神》中，漫天纷飞的大雪、黄沙飞扬的大漠，伴随着陶渊明、王昭君等“十二花神”的现身，让观众仿佛置身四季流转之间，真切感受“冬去春来又一春”的意境之美，将整场晚会推向高潮。 马年春晚深度采用AI",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "人工智能",
+        "发布",
+        "大模型",
+        "领先",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/eJD7i3VNM2zPS3pf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 15:07:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 20,
+      "title": "腾讯元宝派推出电脑版，一键开启龙虾社交新体验",
+      "summary": "3月25日 腾讯宣布，旗下AI原生应用元宝，正式推出“元宝派”电脑版。在电脑端的大屏环境中，用户可以边参与共享屏幕，边在单独窗口与派友或元宝聊天互动。同时，元宝派电脑版还支持多端消息同步、文件拖拽、截图等功能，用户可以轻松在元宝派电脑版中完成信息流转。 不只是大屏带来的体验优势，电脑版同步支持一键创建“龙虾”和关联已有的“龙虾”。3月25日至4月1日，每天12:00和20:00，用户在元宝派点击「",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "上线",
+        "正式推出",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/M0vDwj6hiSpM3Fnp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 06:11:00",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "China Restricts Manus Founders From Leaving China, FT Says",
+      "summary": "3月25日消息，Chinese authorities have barred two Manus co-founders from leaving the country, the Financial Times reported, heightening scrutiny over Meta Platforms Inc.’s 2025 acquisition of the fast-rising agenti",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "founder",
+        "acquisition",
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/china-restricts-manus-founders-from-leaving-china-ft-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 06:12:06",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "Reliable Classroom AI via Neuro-Symbolic Multimodal Reasoning",
+      "summary": "3月25日消息，arXiv:2603.22793v1 Announce Type: new Abstract: Classroom AI is rapidly expanding from low-level perception toward higher-level judgments about engagement, confusion, collaboration, and instructional ",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "AI",
+        "multimodal",
+        "privacy",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2603.22793",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-25 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 3,
+      "title": "Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar'",
+      "summary": "3月25日消息，The Defense Department designated Anthropic as a risk to U.S. national security, the first time an American company had been hit with that designation.",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "blacklist",
+        "national security"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/anthropic-lawsuit-pentagon-supply-chain-risk-claude.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 23:45:50",
+      "impact_score": 200.0
+    },
+    {
+      "index": 4,
+      "title": "Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes",
+      "summary": "3月25日消息，Walt Disney Co. Chief Executive Officer Josh D’Amaro hasn’t even been been in his new job for one week and he’s already seen two, billion-dollar technology bets falter —- with one of them unraveling e",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "CEO",
+        "billion",
+        "AI",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/disney-ceo-s-first-week-marred-by-openai-fortnite-trouble",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 01:56:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI to end Disney deal and Sora video app",
+      "summary": "3月25日消息，CEO Sam Altman is shifting AI start-up’s strategy to focus on its core products",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "Sam Altman",
+        "CEO",
+        "AI",
+        "Sora"
+      ],
+      "url": "https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-24 22:59:05",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI Hires CEO of India’s JioStar to Head Up Asia-Pacific",
+      "summary": "3月25日消息，OpenAI is tapping Kiran Mani, the chief executive officer of Indian streaming platform JioStar, for a newly created role leading its Asia-Pacific operations.",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "CEO",
+        "AI",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/openai-hires-ceo-of-india-s-jiostar-to-head-up-asia-pacific",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 06:30:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "The Infinity Machine — a deep dive into the mind of Demis Hassabis",
+      "summary": "3月25日消息，Sebastian Mallaby’s compelling biography of the DeepMind co-founder traces his life’s mission to create artificial general intelligence",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "founder",
+        "Demis Hassabis",
+        "artificial general intelligence"
+      ],
+      "url": "https://www.ft.com/content/100d89bb-1b8f-4ca3-bcda-46f802112c04",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-25 05:00:03",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Fmr. Tesla President Talks New Book on Musk's Success",
+      "summary": "3月25日消息，DVx Ventures CEO & Former Tesla President Jon McNeill discusses his new book, \"The Algorithm,\" which details the hypergrowth formula behind some of the fastest growing companies, and why you don't hav",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-24/fmr-tesla-president-talks-new-book-on-musk-s-success-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 20:51:25",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Arm CEO on Selling Own Chips, Meta Is One of First Customers",
+      "summary": "3月25日消息，Arm Holdings Plc. is going to start selling its own chips for the first time. Meta Platforms will be their first major customer. Arm Chief Executive Officer Rene Haas shows off the AGI CPU and speaks ",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "CEO",
+        "AGI",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-24/arm-ceo-on-selling-own-own-chips-for-first-time-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 20:34:40",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Your Body Is Betraying Your Right to Privacy",
+      "summary": "3月25日消息，Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+      "importance": "高",
+      "reason": "影响力评分: 171.0",
+      "tags": [
+        "leaves",
+        "privacy",
+        "surveillance"
+      ],
+      "url": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-03-24 10:00:00",
+      "impact_score": 171.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "summary": "3月25日消息，On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few mo",
+      "importance": "高",
+      "reason": "影响力评分: 162.0",
+      "tags": [
+        "Sam Altman",
+        "billion",
+        "AI",
+        "Sora"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-24 21:08:10",
+      "impact_score": 162.0
+    },
+    {
+      "index": 12,
+      "title": "Chain-of-Authorization: Internalizing Authorization into Large Language Models via Reasoning Trajectories",
+      "summary": "3月25日消息，arXiv:2603.22869v1 Announce Type: new Abstract: Large Language Models (LLMs) have become core cognitive components in modern artificial intelligence (AI) systems, combining internal knowledge with ext",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "LLM",
+        "artificial intelligence",
+        "reasoning",
+        "fine",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2603.22869",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-25 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "OpenAI Discontinues Support for Sora, Winds Down Disney Deal",
+      "summary": "3月25日消息，OpenAI plans to discontinue its Sora AI video generator six months after the high-profile launch of a standalone app for the service, as the company works to simplify its portfolio of artificial intel",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "artificial intelligence",
+        "AI",
+        "Sora"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/openai-plans-to-discontinue-support-for-sora-ai-video-generator",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 20:08:57",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "British fintech Revolut reports record annual profit as it gears up for U.S. push",
+      "summary": "3月25日消息，The startup, which hit a $75 billion valuation in 2025, is one of Europe's most valuable private tech companies.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "valuation",
+        "billion"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/revolut-2025-earnings-record-profit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 09:30:59",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk's xAI",
+      "summary": "3月25日消息，Following international regulatory probes, lawsuits are piling up in the U.S. against Elon Musk's xAI and its Grok chatbot.",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "lawsuit",
+        "deepfake",
+        "AI",
+        "Elon Musk"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 21:15:39",
+      "impact_score": 145.0
+    },
+    {
+      "index": 16,
+      "title": "Dueling AI agents could reveal keys to restoring consciousness",
+      "summary": "3月25日消息，A new study probes consciousness with models that simulate and classify brain activity. A neuroscientist behind the work explains its ambitions",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "consciousness",
+        "AI"
+      ],
+      "url": "https://www.science.org/content/article/dueling-ai-agents-could-reveal-keys-restoring-consciousness",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-03-24 10:45:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 17,
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "summary": "3月25日消息，Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "Sora"
+      ],
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-24 23:57:55",
+      "impact_score": 132.0
+    },
+    {
+      "index": 18,
+      "title": "ABSTRAL: Automatic Design of Multi-Agent Systems Through Iterative Refinement and Topology Optimization",
+      "summary": "3月25日消息，arXiv:2603.22791v1 Announce Type: new Abstract: How should multi-agent systems be designed, and can that design knowledge be captured in a form that is inspectable, revisable, and transferable? We int",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "fine",
+        "AI",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2603.22791",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-25 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 19,
+      "title": "Meta Offers Top Execs Stock Options for First Time Since IPO",
+      "summary": "3月25日消息，Meta Platforms Inc. is offering top executives stock options for the first time since its 2012 IPO — an effort to retain and compensate executives as the company continues to spend aggressively to com",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "IPO",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 02:08:53",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "Thai AI Startup Amity Raises $100 Million in Push Toward IPO",
+      "summary": "3月25日消息，Thailand’s Amity, which builds and integrates generative AI technology for businesses, raised $100 million as it gears up for a stock-market debut and accelerates its product rollout.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "IPO",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 01:03:17",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从172条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：突发！OpenAI关停Sora，精简产品线为 IPO 铺路；Momenta 港股秘密递表，预计年内上市；别吵了！Token中文名定了：词元丨雷峰早报；IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发；Vol1.人才留言板｜第一期：这20家AI明星公司正在等你。",
+  "statistics": {
+    "raw_domestic": 49,
+    "raw_international": 123,
+    "raw_total": 172,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月25日消息，要闻提示 1.突发！OpenAI关停Sora，精简产品线为 IPO 铺路 2.别吵了！Token中文名定了：词元 3.蜜雪冰城张红甫卸任CEO，35岁清华硕士张渊接任 4.小米卢伟冰回应内存涨价：不排除产品未来涨价可能 5.覆盖5系7系！宝马在华召回近18万辆汽车：极端情况下存起火风险 6.OpenClaw版本升级“翻车”，激进重构致用户全线报错，开发者回应 7.扎克伯格收编 AI 智能体公司 D",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月25日消息，36氪获悉，工业具身智能企业光象科技，已完成种子轮、天使轮及天使+轮多轮融资，累计金额超1亿元人民币，由财务投资机构 IDG 资本、东方富海联合领投，机器人产业资本埃夫特、零一创投、达泰资本、光源 L2F创业者基金跟投。 据悉，企业融资资金将主要用于公司具身机器人的核心技术研发、产品化推进及商业化交付工作。 光象科技成立于 2025 年 4 月，由前阿里巴巴高德技术总监张涛，与清华大学教授、人工智",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月25日消息，图源:36kr 每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。 本期合作企业：红杉中国、高瓴、鼎晖、经纬被投企业｜B轮及以上占比65%。 卷首语 我们见过太多这样的场景：一家硬科技公司融完B轮，创始人却在朋友圈悄悄挂出招聘启事；一个专注大模型的算法专家，翻遍猎头推荐却找不到真正懂技术的团队。 这不是供需错配，而是信息失真。 过去十年，36氪记录了数千家公司的成长轨迹。我",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月25日消息，当电影《她》中的智能助手能读懂人类情绪，当《银翼杀手》里的全息广告在城市上空闪烁——这些“赛博朋克”风格的科幻想象，描述着未来社会的场景。 在经济综合实力全球领先、创新产业集群效应凸显的上海，追赶AI浪潮的步伐从未放缓。但与电影中冷峻疏离的“高科技、低生活”未来图景截然不同，上海正用AI赋能营造更具温度的城市生活。从明确提出“模塑申城”到系统布局重点领域，这座城市以开放包容的姿态，将整座城市作为A",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月25日消息，过去一个月，全球科技圈正在被一只「龙虾」OpenClaw，搅得天翻地覆。它直接读写本地文件、自主操控桌面应用，把一个复杂任务拆解，替你打工。 OpenClaw 之后，各个大厂的AI打工助手纷纷上线。从应用层面来看，当前全球主流的AI Agent更多是以办公场景的个人助理形态，停留在“Copilot”（副驾驶）阶段——它们擅长处理文档、整理表格、归纳纪要，本质上是替人类打工的“实习生”。 然而企业主",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月25日消息，Chinese authorities have barred two Manus co-founders from leaving the country, the Financial Times reported, heightening scrutiny over Meta Platforms Inc.’s 2025 acquisition of the fast-rising agenti",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月25日消息，arXiv:2603.22793v1 Announce Type: new Abstract: Classroom AI is rapidly expanding from low-level perception toward higher-level judgments about engagement, confusion, collaboration, and instructional ",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月25日消息，The Defense Department designated Anthropic as a risk to U.S. national security, the first time an American company had been hit with that designation.",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月25日消息，Walt Disney Co. Chief Executive Officer Josh D’Amaro hasn’t even been been in his new job for one week and he’s already seen two, billion-dollar technology bets falter —- with one of them unraveling e",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月25日消息，CEO Sam Altman is shifting AI start-up’s strategy to focus on its core products",
+      "importance": "高"
+    }
+  ]
+}
