@@ -1,0 +1,742 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26 08:43:49",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "北京人形机器人创新中心发布开源开放生态计划",
+      "summary": "3月26日消息，36氪获悉，3月26日，在中关村论坛上，北京人形机器人创新中心CTO唐剑正式宣布，北京人形启动具身智能开源开放生态建设计划，将携手合作伙伴全力打造行业第一的具身智能开放生态。这也是全球首个以国地共建创新平台为核心载体，覆盖开发者培育、产业应用落地、具身技术底座、标准测试与中试服务等全链开源开放生态计划，是北京人形作为具身智能国家队，推动产业高质量发展的使命担当。北京人形开源开放生态计划中的四个支撑",
+      "importance": "高",
+      "reason": "影响力评分: 381.0",
+      "tags": [
+        "发布",
+        "合作",
+        "开源",
+        "创新",
+        "开放"
+      ],
+      "url": "https://36kr.com/newsflashes/3739459222355972?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-26 07:34:37",
+      "impact_score": 381.0
+    },
+    {
+      "index": 2,
+      "title": "畅销海外！MOVA割草机器人登顶亚马逊多国Best Sellers榜首",
+      "summary": "3月26日消息，在全球智能庭院经济蓬勃发展的浪潮中，全球高端智能科技品牌MOVA依托多项全球首创技术与精准的全球化布局， 仅用一年时间，便实现了智能割草机器人全球领军者的行业占位。不仅登顶激光雷达割草机器人销量榜首，更以颠覆性的科技创新，重新定义了智能割草的行业标准，重塑消费者使用体验。 登顶全球市场，销量佳绩彰显领军地位 MOVA 割草机器人的全球影响力正加速释放，销量与口碑实现双丰收。近期，其核心产品ViAX",
+      "importance": "高",
+      "reason": "影响力评分: 355.0",
+      "tags": [
+        "首次",
+        "AI",
+        "突破",
+        "创新",
+        "领先"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/HTTtQF4QBGzxQpLH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 06:54:00",
+      "impact_score": 355.0
+    },
+    {
+      "index": 3,
+      "title": "「傲意科技」获1.5亿元C轮融资，海外收入增速反超国内｜36氪首发",
+      "summary": "3月26日消息，36氪获悉，傲意科技近期已完成1.5亿元C轮融资。本轮融资由中金资本旗下深圳市脑科学与类脑智能产业投资基金（下称\"中金脑科学基金\"）领投，另有多家老股东持续跟投。 傲意科技 成立于2015年，专注于非侵入式神经信号传感与AI解析技术，并已自主研发肌电/脑电传感器、智能仿生手、神经康复外骨骼及具身智能灵巧手等产品，拥有百余项自主知识产权。 作为新一代科技革命的核心前沿赛道，脑机接口和具身智能领域均获",
+      "importance": "高",
+      "reason": "影响力评分: 327.5",
+      "tags": [
+        "融资",
+        "投资",
+        "上市",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3738341704270083?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-26 00:00:00",
+      "impact_score": 327.5
+    },
+    {
+      "index": 4,
+      "title": "第二期：百融云创、每日互动等AI大模型公司招聘大语言模型算法工程师等岗位｜人才留言板",
+      "summary": "3月26日消息，图源:36kr 每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60% 本期亮点速览 图源:36kr 精选岗位 | 中城交科技 · 天使轮 · 交通大模型 一句话卖点： 上海首家国资背景交通垂类大模型公司，千亿级数据资产，双引擎技术",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "大语言模型",
+        "IPO",
+        "大模型",
+        "上市",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3738062628962563?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-26 03:00:00",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
+      "summary": "3月26日消息，图源:36kr 每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。 本期合作企业：红杉中国、高瓴、鼎晖、经纬被投企业｜B轮及以上占比65%。 卷首语 我们见过太多这样的场景：一家硬科技公司融完B轮，创始人却在朋友圈悄悄挂出招聘启事；一个专注大模型的算法专家，翻遍猎头推荐却找不到真正懂技术的团队。 这不是供需错配，而是信息失真。 过去十年，36氪记录了数千家公司的成长轨迹。我",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "大模型",
+        "上市",
+        "合作",
+        "AI",
+        "LLM"
+      ],
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 07:23:01",
+      "impact_score": 322.5
+    },
+    {
+      "index": 6,
+      "title": "独家| 智谱押注的这家Agent Computer公司接近完成2026年业内最大笔融资",
+      "summary": "3月26日消息，如果用一个词来形容2026年开春的科技圈，那一定是“OpenClaw”。 这只看似不起眼的“红色龙虾”，正在以摧枯拉朽之势重塑整个AI产业的叙事逻辑。从硅谷车库到深圳咖啡厅，从顶级VC的闭门会议到技术极客的深夜代码提交，所有人都在谈论同一个话题。 在这场“淘金热”中，真正让嗅觉灵敏的资本兴奋的，不是铲子，而是新的矿场本身。 雷峰网独家获悉，据接近交易的人士独家透露，吾云创新正在接近完成一轮大额融资",
+      "importance": "高",
+      "reason": "影响力评分: 305.0",
+      "tags": [
+        "投资",
+        "大模型",
+        "估值",
+        "开源",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/T8INUqlTwPdMsQxD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 11:23:00",
+      "impact_score": 305.0
+    },
+    {
+      "index": 7,
+      "title": "TCT观察丨多头、全彩与AI，谁在定义3D打印的未来？",
+      "summary": "3月26日消息，“冰箱贴、纪念币，即打即干，2分钟下一位。” 2026年3月17日，国家会展中心8.1号馆，人群在一台设备前排起了长队。这不是某家国际大牌的旗舰机，而是原子重塑展台上的Mojo 1——一台桌面消费级UV打印机。而在它不远处，Palette 300的12个喷嘴正同时作业，将一个复杂模型一次性成型。 但热闹的不只这一家。 闪铸、玩得美、纤意……就在原子重塑展台两侧的不远处，多头3D打印机扎堆首秀，好几",
+      "importance": "高",
+      "reason": "影响力评分: 285.0",
+      "tags": [
+        "AGI",
+        "首次",
+        "投资",
+        "IPO",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/aCn4nKlaVt6hkS9S.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 06:52:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 8,
+      "title": "氪星晚报｜拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资；阿里获评全球最具创新力AI企业，是唯一入选的亚洲公司；三星加入韩国政府倡导的车辆轮换限行计划，以应对能源短缺",
+      "summary": "3月26日消息，大公司： 斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付 36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。即日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付已覆盖全球78个国家和地区，支持36种货币，覆盖餐饮、百货、商超便利、交通出行、景点购票、留学缴费等丰富场景。 拼多多",
+      "importance": "高",
+      "reason": "影响力评分: 271.0",
+      "tags": [
+        "AI",
+        "创新",
+        "发布",
+        "领先"
+      ],
+      "url": "https://36kr.com/p/3737878147203072?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 11:49:36",
+      "impact_score": 271.0
+    },
+    {
+      "index": 9,
+      "title": "增程+R7世界模型，上汽大众能否跻身新能源主流玩家？",
+      "summary": "3月26日消息，作者 | 郑浩钧 编辑 | 王瑞昊 在AI行业蓬勃发展的今天，作为“物理AI”在现实世界中最先实现大规模量产的功能——智能驾驶在汽车行业中的地位越来越重要，用户购车时也愈发看重智驾功能的体验。这就使得一些车企不再一昧强调自研智驾，也不再把智驾供应商藏在身后，而是让他们站到台前，共同去赢得用户的青睐。 上周，在上汽大众ID. ERA技术发布会上，不仅有多位上汽大众负责人上台介绍该系列车型的多项核心技",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "投资",
+        "大模型",
+        "合作",
+        "AI",
+        "CEO"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/91jfmuT0DxCNLHkf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 04:51:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 10,
+      "title": "阿里云JVS Claw 全面开放 轻松实现手机“一键养虾”",
+      "summary": "3月25日，阿里云JVS Claw宣布全面开放，无需邀请码即可获得一只云端“龙虾”，同时新增语音输入、专属文件空间、一键修复、Skill开关等多个实用功能，为“逮虾户”们提供便捷、安全的操作体验。在保留7天免费体验的同时，JVS Claw还推出最低39元首月的“匠心版”套餐等，满足不同用户需求。 自内测以来，凭借“易上手、强安全、自进化”的特点，JVS Claw在短时间内迅速积累了大量人气，成为大",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "开放",
+        "发布",
+        "全面开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/EDz5bxWBFh1Y1Iwf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 03:36:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 11,
+      "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
+      "summary": "3月26日消息，今日热点导览 于东来：超市总裁峰会门票有点高，每人退3000元 品牌金饰克价一夜大涨近70元，克价重回1400元 央行25日开展785亿元7天期逆回购操作 泡泡玛特将在今年下半年推出LABUBU 4.0系列 “中园石化”加油站被查 TOP3大新闻 张雪峰医疗文件疑似泄露，苏州卫生健康委回应 3月24日晚，江苏苏州峰学蔚来教育科技有限公司发布讣告，知名考研老师张雪峰（本名张子彪）因突发疾病，经抢救无",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "Sora",
+        "人工智能",
+        "AI",
+        "CEO",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3739006287216903?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 23:59:56",
+      "impact_score": 264.0
+    },
+    {
+      "index": 12,
+      "title": "汽水音乐：优化抖音音乐开放平台歌曲授权合作的分成方式和激励活动",
+      "summary": "3月26日消息，36氪获悉，3月25日，2026年汽水音乐x抖音“看见音乐计划·行业大会”在京举行。据介绍，平台将全面开放合作，优化抖音音乐开放平台歌曲授权合作的分成方式和激励活动；同时持续扶持音乐创作者及机构。数据显示，2025年汽水音乐用户规模同比增长120%，其中25%为音乐流媒体新用户。目前，平台创作者规模已达570万，音乐人55万。",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "合作",
+        "开放",
+        "全面开放"
+      ],
+      "url": "https://36kr.com/newsflashes/3739473876566280?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-26 07:49:32",
+      "impact_score": 249.0
+    },
+    {
+      "index": 13,
+      "title": "雷军，辞任金山云非执行董事；泡泡玛特跨界做家电：首款产品下月发布；价格有望下探到20万以内，曝特斯拉Model 3标准版将在华上市",
+      "summary": "3月26日消息，要闻提示 1.某互联网大厂男子跳槽被诉违反竞业限制，一审判赔百万元 2.拼多多宣布：组建“新拼姆”，未来三年投入1000亿 3.雷军，辞任金山云非执行董事 4.泡泡玛特跨界做家电：首款产品下月发布 5.价格有望下探到20万以内，曝特斯拉Model 3标准版将在华上市 6.首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub 7.黄仁勋：拒绝传统接班计划，希望工作到生命最",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "上线",
+        "上市",
+        "AI",
+        "监控",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/CYXt4UzSrfKg3Irq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 01:28:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 14,
+      "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
+      "summary": "3月20日，TE Connectivity（简称 “TE” ）在苏州举办了 “机器人核心技术赋能智能工厂创新大会” 。活动通过技术交流与工厂参观等形式，邀请机器人产业链上下游企业与生态圈伙伴围绕核心技术与落地问题展开讨论，搭建起面向产业的交流与对接平台。与会讨论折射出一个共同背景：机器人正从技术验证加速走向工程化与规模化落地。 今年，政府工作报告连续第三年提出“人工智能+”，并首次提出“打造智能经",
+      "importance": "高",
+      "reason": "影响力评分: 236.0",
+      "tags": [
+        "人工智能",
+        "创新",
+        "首次"
+      ],
+      "url": "https://36kr.com/p/3737937096655107?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 06:07:59",
+      "impact_score": 236.0
+    },
+    {
+      "index": 15,
+      "title": "36氪首发 | 前九号产品副总裁创业全地形车，获高瓴、云时、云沐千万美元融资",
+      "summary": "3月26日消息，作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能电动全地形车研发商「ModMax（以下简称：魔迈）」，已于近日连续完成千万美元级种子轮及天使轮融资，融资由高瓴资本、云时资本、云沐资本投资。据悉，本轮融资资金将主要用于首款产品的研发生产，成建制团队搭建以及海外市场的品牌初步拓展。 全地形车在欧美市场是一门长盛不衰的生意。它既是北美约100万个农场和牧场必不可少的生产力工具，也是每年数百万越野发烧友",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "融资",
+        "投资",
+        "超越"
+      ],
+      "url": "https://36kr.com/p/3738426692567046?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-26 01:00:54",
+      "impact_score": 230.0
+    },
+    {
+      "index": 16,
+      "title": "生产速度提升四倍，推出桌面级金属3D打印机，「融速科技」完成近亿元A轮融资 | 36氪首发",
+      "summary": "3月26日消息，文 | 张冰冰 编辑 | 阿至 36氪获悉，苏州融速智造科技有限公司（以下简称「融速科技」） 宣布完成近亿元A轮融资，投资方为河南豫资集团、苏高新融享基金。 资金将用于进一步优化产品技术及产线建设，根据市场需求提升交付能力和生产规模。 「融速科技」成立于2020年，创始人徐方达为英国巴斯大学博士后，主要从事大尺寸增材方向研究。「融速科技」聚焦新一代DED送丝3D打印技术，面向航空航天、钢铁冶金、石",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "融资",
+        "投资",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3738196912881927?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 10:13:44",
+      "impact_score": 230.0
+    },
+    {
+      "index": 17,
+      "title": "「华舟魔」三强之一，加速迈向物理AI",
+      "summary": "3月26日消息，作者 | 郑浩钧 编辑 | 王瑞昊 战略重心迈向物理AI的轻舟智航又获一笔融资。 3月23日，轻舟智航宣布完成D轮新一轮融资1亿美元，投资方不仅包括投资机构，还有产业投资方——某国内头部主机厂、宁波宁海兴泰合基金、梁溪科创产业母基金（博华资本管理）、华德科创、某头部汽车电子零部件公司。 拿到这一亿美元后，轻舟会加大世界模型+强化学习等前沿物理AI技术研发、加大公司组织人才建设。 关于公司对物理AI",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "投资",
+        "AI",
+        "开源",
+        "CEO",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/Sq9ZaNJzFRf6cFfv.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 10:57:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 18,
+      "title": "华为春季全场景新品发布会，鸿蒙智行多款重磅新品开启预订、焕新升级",
+      "summary": "3月26日消息，2026年3月23日，华为春季全场景新品发布会在长沙隆重举办。此次发布会的新品涵盖消费者多元应用场景，智慧出行方面，尚界Z7、尚界Z7T、问界M6正式开启预订；智界V9官宣4月下旬展车进店；享界S9、享界S9T、智界R7、智界新S7、问界M7、问界M8焕新上市。 鸿蒙智行全系累计交付超130万辆[1]。43个月达成百万交付，创新势力达成纪录[2]。鸿蒙智行现有销售门店数量1835个，服务门店数量9",
+      "importance": "高",
+      "reason": "影响力评分: 220.0",
+      "tags": [
+        "创新",
+        "发布",
+        "上市",
+        "领先"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/6JuIn1TjiShUBCxb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 05:32:00",
+      "impact_score": 220.0
+    },
+    {
+      "index": 19,
+      "title": "闲鱼重磅上线：5秒即可完成商品发布，还可AI辅助定价！",
+      "summary": "3月25日，闲鱼正式发布重磅新产品——闲鱼AI相机。打开闲鱼AI相机，用户只需简单拍照，即可5秒实现对商品的一键上架；闲鱼还将通过AI对商品进行辅助定价，促成用户合理高效成交。 一直以来，闲置商品描述难、定价难，是影响用户发布商品的主要痛点。闲鱼AI相机大大降低了商品发布门槛，用户随手即可发布；特别是AI辅助定价，用户不再需要花费大量时间研究市场行情，AI直接给出参考公允价格，用户可实现快速成交。",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "上线",
+        "发布",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Yix1MlagTs9plPry.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 02:54:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 20,
+      "title": "黑科技王者性能再进化，华为Mate 80 Pro Max 风驰版实力破圈",
+      "summary": "3月23日，华为终端正式推出了备受瞩目的华为Mate 80 Pro Max 风驰版。这不仅是华为Mate 80系列面向高端性能市场打造的全新旗舰力作，更是品牌对“全能旗舰”性能维度的极致探索与突破。 作为软硬芯协同创新的集大成之作，华为Mate 80 Pro Max 风驰版凭借首发搭载华为风驰散热架构、超丝滑方舟引擎，以及创新的HyperSpace Memory超空间内存技术等多项黑科技完成性能重",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "正式推出",
+        "AI",
+        "突破",
+        "创新",
+        "风险"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/WHvWFjBdmoeaIctn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 01:56:00",
+      "impact_score": 215.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "summary": "3月26日消息，Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+      "importance": "高",
+      "reason": "影响力评分: 275.0",
+      "tags": [
+        "legislation",
+        "AI regulation",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-25 17:15:50",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
+      "summary": "3月26日消息，Elon Musk’s rocket company told investors it hopes to go public with a $1.75tn valuation",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "Elon Musk",
+        "AI",
+        "IPO",
+        "valuation"
+      ],
+      "url": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-25 22:17:57",
+      "impact_score": 255.0
+    },
+    {
+      "index": 3,
+      "title": "China’s CXMT Rides AI Boom to Record Revenue Ahead of IPO",
+      "summary": "3月26日消息，ChangXin Memory Technologies Inc. more than doubled revenue to $8 billion in 2025, giving the strategically important Chinese chipmaker a major boost ahead of one of this year’s biggest domestic IPOs.",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/cxmt-potentially-challenges-sk-hynix-samsung-micron-in-hbm-supply-for-ai",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-26 04:52:49",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "Adani in Talks With Meta, Google for India Data Centers",
+      "summary": "3月26日消息，Indian billionaire Gautam Adani is in talks with American technology giants including Meta Platforms Inc. and Google for partnerships in his fast-expanding data center business, according to people fa",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "AI",
+        "partnership"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/adani-eyes-partnerships-with-meta-google-amid-data-center-boom",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 11:18:39",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
+      "summary": "3月26日消息，Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Adviso",
+      "importance": "高",
+      "reason": "影响力评分: 229.5",
+      "tags": [
+        "AI",
+        "founder",
+        "Jensen Huang",
+        "CEO"
+      ],
+      "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-25 14:41:21",
+      "impact_score": 229.5
+    },
+    {
+      "index": 6,
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "summary": "3月26日消息，Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation"
+      ],
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-25 14:48:40",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "Reliable Classroom AI via Neuro-Symbolic Multimodal Reasoning",
+      "summary": "3月26日消息，arXiv:2603.22793v1 Announce Type: new Abstract: Classroom AI is rapidly expanding from low-level perception toward higher-level judgments about engagement, confusion, collaboration, and instructional ",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "privacy",
+        "reasoning",
+        "multimodal",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2603.22793",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-26 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes",
+      "summary": "3月26日消息，Walt Disney Co. Chief Executive Officer Josh D’Amaro hasn’t even been in his new job for one week and he’s already seen two, billion-dollar technology bets falter — with one of them unraveling entirel",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "billion",
+        "AI",
+        "chief",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/disney-ceo-s-first-week-marred-by-openai-fortnite-trouble",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 01:56:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "3月26日消息，Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting d",
+      "importance": "高",
+      "reason": "影响力评分: 188.0",
+      "tags": [
+        "Sora",
+        "billion",
+        "appointed",
+        "AI",
+        "CEO"
+      ],
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-25 20:02:48",
+      "impact_score": 188.0
+    },
+    {
+      "index": 10,
+      "title": "Prologis CEO Sees Prolonged AI, Data Center Tailwinds",
+      "summary": "3月26日消息，Prologis CEO Dan Letter joins Bloomberg Businessweek Daily to discuss the state of global logistics and shipping as geopolitics and associated risk impacts the firm's customer base. However, Prologis ",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-25/prologis-ceo-sees-prolonged-ai-data-center-tailwinds-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 21:57:44",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "The Infinity Machine — a deep dive into the mind of Demis Hassabis",
+      "summary": "3月26日消息，Sebastian Mallaby’s compelling biography of the DeepMind co-founder traces his life’s mission to create artificial general intelligence",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "artificial general intelligence",
+        "founder",
+        "Demis Hassabis"
+      ],
+      "url": "https://www.ft.com/content/100d89bb-1b8f-4ca3-bcda-46f802112c04",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-25 05:00:03",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "Senate Democrats are trying to ‘codify’ Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
+      "summary": "3月26日消息，Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questi",
+      "importance": "高",
+      "reason": "影响力评分: 171.0",
+      "tags": [
+        "AI",
+        "autonomous weapons",
+        "surveillance"
+      ],
+      "url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-25 15:05:46",
+      "impact_score": 171.0
+    },
+    {
+      "index": 13,
+      "title": "Truce Prospects Lift Stocks | The Close 3/25/2026",
+      "summary": "3月26日消息，Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Edward Jones’ Mona Mahajan",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "founder",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-25/the-close-3-25-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 22:11:24",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Virginia Rep. Calls for Spreading AI Build-Out Across the Country",
+      "summary": "3月26日消息，Senator Bernie Sanders and Congresswoman Alexandria Ocasio-Cortez plan to introduce legislation that would impose a moratorium on new AI data centers, following growing pushback on their impact on ene",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "legislation",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-25/virginia-rep-calls-for-spreading-ai-build-out-across-us-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 18:04:52",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora",
+      "summary": "3月26日消息，Elon Musk said his artificial intelligence company, xAI, plans to upgrade its AI video generator, seizing on an opening left by rival OpenAI’s decision this week to discontinue its Sora product.",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "Elon Musk",
+        "AI",
+        "Sora",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/musk-s-xai-doubling-down-on-ai-videos-after-openai-nixes-sora",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 17:20:50",
+      "impact_score": 165.0
+    },
+    {
+      "index": 16,
+      "title": "Chain-of-Authorization: Internalizing Authorization into Large Language Models via Reasoning Trajectories",
+      "summary": "3月26日消息，arXiv:2603.22869v1 Announce Type: new Abstract: Large Language Models (LLMs) have become core cognitive components in modern artificial intelligence (AI) systems, combining internal knowledge with ext",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "reasoning",
+        "fine",
+        "artificial intelligence",
+        "AI",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2603.22869",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-26 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "Que Sora, Sora",
+      "summary": "3月26日消息，RIP Sora. OpenAI video generation platform, 2024-26. We hardly knew ye.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "Sora"
+      ],
+      "url": "https://www.ft.com/content/5acd6554-fb76-4d44-9037-47995b8746b9",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-25 08:42:17",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "OpenAI Enters Its Focus Era by Killing Sora",
+      "summary": "3月26日消息，As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "AI",
+        "IPO",
+        "Sora"
+      ],
+      "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-03-25 14:57:45",
+      "impact_score": 147.0
+    },
+    {
+      "index": 19,
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "summary": "3月26日消息，Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "AI",
+        "launches",
+        "CEO"
+      ],
+      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-25 14:45:20",
+      "impact_score": 147.0
+    },
+    {
+      "index": 20,
+      "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk's xAI",
+      "summary": "3月26日消息，Following international regulatory probes, lawsuits are piling up in the U.S. against Elon Musk's xAI and its Grok chatbot.",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "Elon Musk",
+        "deepfake",
+        "lawsuit",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-25 13:01:18",
+      "impact_score": 145.0
+    }
+  ],
+  "summary": "今日从169条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：北京人形机器人创新中心发布开源开放生态计划；畅销海外！MOVA割草机器人登顶亚马逊多国Best Sellers榜首；「傲意科技」获1.5亿元C轮融资，海外收入增速反超国内｜36氪首发。",
+  "statistics": {
+    "raw_domestic": 49,
+    "raw_international": 120,
+    "raw_total": 169,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月26日消息，36氪获悉，3月26日，在中关村论坛上，北京人形机器人创新中心CTO唐剑正式宣布，北京人形启动具身智能开源开放生态建设计划，将携手合作伙伴全力打造行业第一的具身智能开放生态。这也是全球首个以国地共建创新平台为核心载体，覆盖开发者培育、产业应用落地、具身技术底座、标准测试与中试服务等全链开源开放生态计划，是北京人形作为具身智能国家队，推动产业高质量发展的使命担当。北京人形开源开放生态计划中的四个支撑",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月26日消息，在全球智能庭院经济蓬勃发展的浪潮中，全球高端智能科技品牌MOVA依托多项全球首创技术与精准的全球化布局， 仅用一年时间，便实现了智能割草机器人全球领军者的行业占位。不仅登顶激光雷达割草机器人销量榜首，更以颠覆性的科技创新，重新定义了智能割草的行业标准，重塑消费者使用体验。 登顶全球市场，销量佳绩彰显领军地位 MOVA 割草机器人的全球影响力正加速释放，销量与口碑实现双丰收。近期，其核心产品ViAX",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月26日消息，36氪获悉，傲意科技近期已完成1.5亿元C轮融资。本轮融资由中金资本旗下深圳市脑科学与类脑智能产业投资基金（下称\"中金脑科学基金\"）领投，另有多家老股东持续跟投。 傲意科技 成立于2015年，专注于非侵入式神经信号传感与AI解析技术，并已自主研发肌电/脑电传感器、智能仿生手、神经康复外骨骼及具身智能灵巧手等产品，拥有百余项自主知识产权。 作为新一代科技革命的核心前沿赛道，脑机接口和具身智能领域均获",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月26日消息，图源:36kr 每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60% 本期亮点速览 图源:36kr 精选岗位 | 中城交科技 · 天使轮 · 交通大模型 一句话卖点： 上海首家国资背景交通垂类大模型公司，千亿级数据资产，双引擎技术",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月26日消息，图源:36kr 每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。 本期合作企业：红杉中国、高瓴、鼎晖、经纬被投企业｜B轮及以上占比65%。 卷首语 我们见过太多这样的场景：一家硬科技公司融完B轮，创始人却在朋友圈悄悄挂出招聘启事；一个专注大模型的算法专家，翻遍猎头推荐却找不到真正懂技术的团队。 这不是供需错配，而是信息失真。 过去十年，36氪记录了数千家公司的成长轨迹。我",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月26日消息，Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月26日消息，Elon Musk’s rocket company told investors it hopes to go public with a $1.75tn valuation",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月26日消息，ChangXin Memory Technologies Inc. more than doubled revenue to $8 billion in 2025, giving the strategically important Chinese chipmaker a major boost ahead of one of this year’s biggest domestic IPOs.",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月26日消息，Indian billionaire Gautam Adani is in talks with American technology giants including Meta Platforms Inc. and Google for partnerships in his fast-expanding data center business, according to people fa",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月26日消息，Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Adviso",
+      "importance": "高"
+    }
+  ]
+}
