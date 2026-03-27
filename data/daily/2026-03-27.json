@@ -1,0 +1,730 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27 08:40:41",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
+      "summary": "3月27日消息，作者 | 黄��� 袁斯来 编辑 | 袁斯来 近日，硬氪通过多个渠道独家获悉，云鲸联合创始人吴一昊（Hower）即将从公司离职。根据硬氪了解， Hower即将创业，但产品本身还在高度保密阶段。 硬氪就此向吴一昊本人求证，对方证实消息属实；吴一昊表示，近期他将卸任管理职务、并准备创业，但仍保留云鲸首席战略顾问一职。 吴一昊与云鲸创始人张峻彬并肩走过十年，共同经历了公司从初创团队到成长为百亿估值企业的",
+      "importance": "高",
+      "reason": "影响力评分: 425.0",
+      "tags": [
+        "融资",
+        "估值",
+        "突破",
+        "百亿",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3736574177345799?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 01:35:51",
+      "impact_score": 425.0
+    },
+    {
+      "index": 2,
+      "title": "对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资",
+      "summary": "3月27日消息，文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成",
+      "importance": "高",
+      "reason": "影响力评分: 420.0",
+      "tags": [
+        "十亿",
+        "融资",
+        "突破",
+        "估值",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3740899945136130?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 08:00:35",
+      "impact_score": 420.0
+    },
+    {
+      "index": 3,
+      "title": "全网炸锅！罗技官方广告公然辱骂消费者：「一降价还不是像狗一样跑过来」；Manus的两名联创被告知不要离开中国；小米 MIUI 全面停止更新",
+      "summary": "3月27日消息，要闻提示 1.中国禁止AI公司Manus两名高管离境？外交部回应 2.全网炸锅！罗技官方广告公然辱骂消费者：一降价还不是像狗一样跑过来 3.斯柯达将退出中国，大众中国回应：销售到年中，持续提供售后 4.稳居全球纯晶圆代工第二！中芯国际2025年全年营收673.23亿元 5.零跑A10正式上市！朱江明：国内目前有17家车企，市场容不下这么多 6.小米正式终止 MIUI 系统更新，全面转向澎湃 OS ",
+      "importance": "高",
+      "reason": "影响力评分: 390.0",
+      "tags": [
+        "上市",
+        "IPO",
+        "投资",
+        "估值",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/GltlDGdXhPRwWCWd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-27 02:10:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 4,
+      "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+      "summary": "3月27日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人品牌汉阳科技Yarbo已完成近2亿元新一轮融资。本轮融资由松禾资本、温润投资（温氏股份旗下）、安乃达、芯联资本、龙华资本投资，涵盖了头部财务投资机构、上市公司产业资本与地方政府引导基金。融资资金将主要用于深化技术研发、加速产品迭代及拓展全球市场渠道。庚辛资本担任长期财务顾问。 产业资本的注入将为Yarbo提供协同资源。其中，温润投资背靠温氏股份，有",
+      "importance": "高",
+      "reason": "影响力评分: 342.5",
+      "tags": [
+        "融资",
+        "上线",
+        "上市",
+        "突破",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3736563677396994?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 02:00:00",
+      "impact_score": 342.5
+    },
+    {
+      "index": 5,
+      "title": "腾讯云上海峰会：发布Agent产品全景图，升级全栈AI能力",
+      "summary": "3月27日，2026腾讯云城市峰会首站落地上海。继ToB业务实现全年规模化盈利后，腾讯云公布2026年AI演进路线：首次发布涵盖基础设施、模型、生态到应用的Agent产品全景图，将MaaS平台升级为TokenHub，推出企业级Agent治理方案，底层平台Cube全面开源，进一步夯实面向AI Agent时代的全栈工程能力。同时，腾讯开放了涵盖自研Skills、开源SkillHub、微信、小程序、企微",
+      "importance": "高",
+      "reason": "影响力评分: 330.0",
+      "tags": [
+        "CEO",
+        "开放",
+        "大模型",
+        "开源",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/GjY1dyeMjGRWx941.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-27 06:26:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 6,
+      "title": "杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”",
+      "summary": "3月27日消息，文｜周鑫雨 王欣逸 钟楚笛 编辑｜周鑫雨 Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。 近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。 它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费Cha",
+      "importance": "高",
+      "reason": "影响力评分: 294.0",
+      "tags": [
+        "CEO",
+        "大模型",
+        "突破",
+        "开源",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3740893801824512?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 07:54:53",
+      "impact_score": 294.0
+    },
+    {
+      "index": 7,
+      "title": "为超百家具身智能企业提供核心零部件，「知行机器人」连续完成两轮近亿元融资 | 36氪首发",
+      "summary": "3月27日消息，36氪获悉，灵巧手及具身智能机器人产品提供商知行机器人科技（苏州）有限公司（以下简称「知行机器人」）已完成B+、B++轮融资，两轮融资累计近亿元。本轮融资由山东威达领投，国兴投资、芜湖科创和上海天使会等机构跟投，翊荣资本担任长期独家财务顾问，资金将主要用于产品研发、数据采集以及全球市场拓展。 知行机器人成立于2018年，致力于机器人灵巧手、电动夹爪、旋转和线性执行器以及具身智能机器人系统解决方案的",
+      "importance": "高",
+      "reason": "影响力评分: 271.0",
+      "tags": [
+        "融资",
+        "超越",
+        "创新",
+        "发布",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3740523277517063?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 01:37:35",
+      "impact_score": 271.0
+    },
+    {
+      "index": 8,
+      "title": "「龙虾」火热，硬件掘金，这里有10个最新的硬件项目",
+      "summary": "3月27日消息，文｜周鑫雨 钟楚笛 编辑｜周鑫雨 若是在春节后来到深圳华强北，你大概率会撞上这样一幕： 在赛格电子世界大厦的二手设备批发档口，短短十几分钟，就有3、4位操着不同口音的客户，询问是否有适配“龙虾”的硬件。一台部署好“龙虾”的一体机，雅称“虾缸”，售价近期一路从1000元出头，涨到2000元。 华强北，是观察科技行业创业风向的窗口。AI眼镜、录音笔、玩偶……在这里，万物皆可适配“龙虾”。一名科技从业者",
+      "importance": "高",
+      "reason": "影响力评分: 264.0",
+      "tags": [
+        "上线",
+        "大模型",
+        "突破",
+        "开源",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3740888543412228?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 07:50:56",
+      "impact_score": 264.0
+    },
+    {
+      "index": 9,
+      "title": "傲意科技完成C1轮1.5亿元融资",
+      "summary": "3月27日消息，上海傲意信息科技有限公司（以下简称\"傲意科技\"）今日宣布完成C1轮融资，本轮融资由 中金资本旗下深圳市脑科学与类脑智能产业投资基金 （以下简称\"中金脑科学基金\"）领投，多家老股东持续跟投。傲意科技系 中金脑科学基金首家投资企业 ，据悉，傲意科技曾于2023年、2025年先后获得来自三博脑科集团实控人、天津合盈资本的投资，目前是 国内唯一一家获得两家专业脑科学主题投资基金布局 的脑机接口企业。公司股",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "融资",
+        "上市",
+        "AI",
+        "领先",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KlwYh9dMxCW8zBRR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 07:14:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 10,
+      "title": "雷军，辞任金山云非执行董事；泡泡玛特跨界做家电：首款产品下月发布；价格有望下探到20万以内，曝特斯拉Model 3标准版将在华上市",
+      "summary": "3月27日消息，要闻提示 1.某互联网大厂男子跳槽被诉违反竞业限制，一审判赔百万元 2.拼多多宣布：组建“新拼姆”，未来三年投入1000亿 3.雷军，辞任金山云非执行董事 4.泡泡玛特跨界做家电：首款产品下月发布 5.价格有望下探到20万以内，曝特斯拉Model 3标准版将在华上市 6.首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub 7.黄仁勋：拒绝传统接班计划，希望工作到生命最",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "上线",
+        "上市",
+        "监控",
+        "雷军",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/CYXt4UzSrfKg3Irq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 01:28:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "华为春季全场景新品发布会，鸿蒙智行多款重磅新品开启预订、焕新升级",
+      "summary": "3月27日消息，2026年3月23日，华为春季全场景新品发布会在长沙隆重举办。此次发布会的新品涵盖消费者多元应用场景，智慧出行方面，尚界Z7、尚界Z7T、问界M6正式开启预订；智界V9官宣4月下旬展车进店；享界S9、享界S9T、智界R7、智界新S7、问界M7、问界M8焕新上市。 鸿蒙智行全系累计交付超130万辆[1]。43个月达成百万交付，创新势力达成纪录[2]。鸿蒙智行现有销售门店数量1835个，服务门店数量9",
+      "importance": "高",
+      "reason": "影响力评分: 220.0",
+      "tags": [
+        "上市",
+        "创新",
+        "领先",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/6JuIn1TjiShUBCxb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 05:32:00",
+      "impact_score": 220.0
+    },
+    {
+      "index": 12,
+      "title": "*ST精伦：股票或因市值及股价问题终止上市",
+      "summary": "3月27日消息，36氪获悉，*ST精伦公告，公司股票2026年3月27日总市值3.69亿元，已连续15个交易日低于5亿元，收盘价0.75元，已连续12个交易日低于1元，均可能触发交易类强制退市。公司预计2025年度净利润为负，扣除相关收入后的营收低于3亿元，年报披露后或触及财务类退市情形。交易类强制退市公司股票不进入退市整理期，提醒投资者注意风险。",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "上市",
+        "投资",
+        "风险"
+      ],
+      "url": "https://36kr.com/newsflashes/3740899480289545?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 07:59:44",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "Quest Mobile：闲鱼活跃用户数首次超过小红书",
+      "summary": "3月27日消息，第三方数据机构QuestMobile数据显示，3月以来，闲鱼活跃用户数首次并连续两周超过小红书。3月份闲鱼活跃用户数增幅明显，排名互联网行业第一。此前，闲鱼上线了 AI相机新功能，极大降低了用户参与闲置发布、交易的门槛，带来开年后用户活跃度的强劲增长。 雷峰网",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "首次",
+        "AI",
+        "上线",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/yMRIRIJWZT3zdcOj.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 03:14:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "当小米不再需要\"奇迹\"",
+      "summary": "3月27日消息，短短一周不到的时间，小米做出了两件瞩目的大事。 首先，小米发布了新一代小米SU7，在配置全面提升后，新一代SU7标准版21.99万元，Pro版24.99万元，Max版30.39万元，全系相比老款涨价4000元。价格虽然有所上涨，但新小米SU7仍在开售34分钟锁单突破1.5万、开售3天锁单超过3万。这对于习惯了“卷”字当先的汽车行业来说，这是一件让人很难相信的事实。 其次，小米集团在3月24日，发布",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "首次",
+        "突破",
+        "雷军",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/ualyzr4FuEVr8zr1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 10:45:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "从单季到全年盈利，知乎迎来估值重估",
+      "summary": "3月27日消息，作者 | 黄绎达 编辑 | 张帆 3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。 知乎2025年财报最核心的亮点， 是首次实现全年非公认会计准则（Non-GAAP）盈利， 对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7",
+      "importance": "高",
+      "reason": "影响力评分: 162.0",
+      "tags": [
+        "大模型",
+        "估值",
+        "首次",
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3740850993037312?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 08:02:11",
+      "impact_score": 162.0
+    },
+    {
+      "index": 16,
+      "title": "阿里云百炼上线三方视频生成模型，PixVerse首发登陆",
+      "summary": "3月27日消息，在百炼平台上，PixVerse V5.6全面支持文生视频、图文生视频、首尾帧生成及参考生成等多种创作模式，并率先推出按需、按时长计费的灵活模式。",
+      "importance": "高",
+      "reason": "影响力评分: 155.0",
+      "tags": [
+        "上线"
+      ],
+      "url": "https://www.qbitai.com/2026/03/392692.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-27 03:30:49",
+      "impact_score": 155.0
+    },
+    {
+      "index": 17,
+      "title": "猎户星空推出AI Agent服务机器人",
+      "summary": "3月27日消息，36氪获悉，3月27日，以“真有用才有真生意”为主题的猎户星空合作伙伴共赢大会暨豹小秘系列新品发布会在北京召开。会上，猎户星空正式发布两款AI Agent语音交互服务机器人——豹小秘Lite与豹小秘Pro，并推出机器人Agent商店。",
+      "importance": "高",
+      "reason": "影响力评分: 147.0",
+      "tags": [
+        "合作",
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3740901175394309?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 08:01:27",
+      "impact_score": 147.0
+    },
+    {
+      "index": 18,
+      "title": "目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发",
+      "summary": "3月27日消息，文 | 张冰冰 编辑 | 阿至 36氪获悉，苏州市志青博材科技有限公司（以下简称「志青博材」） 近日宣布完成千万元天使+轮融资，由大连融科储能集团股份有限公司领投，老股东熔拓资本跟投 ，资金将主要用于核心材料研发及工程化推进。 「志青博材」成立于2023年6月，致力于推进氢能、液流电池等长周期储能领域中核心材料——阴离子交换膜（AEM）的全国产化研发与量产。目前，「志青博材」已打通从树脂合成到膜材",
+      "importance": "高",
+      "reason": "影响力评分: 145.5",
+      "tags": [
+        "融资",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3740569636962566?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-27 02:26:56",
+      "impact_score": 145.5
+    },
+    {
+      "index": 19,
+      "title": "林俊旸离职后首次发声！复盘千问的弯路，指出AI的新路",
+      "summary": "3月27日消息，长文探讨从“推理模型时代的思考”到“智能体时代的思考”的转变。",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "首次",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/03/392770.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-27 06:19:01",
+      "impact_score": 142.5
+    },
+    {
+      "index": 20,
+      "title": "从卖寝具到提供睡眠系统服务：慕思的“用户终身价值”棋局",
+      "summary": "3月27日消息，当“睡个好觉”成为当代人普遍的奢侈品，睡眠经济便毫无悬念地站上了风口。 从褪黑素到助眠APP，从智能手环到睡眠喷雾，无数创业公司和资本竞相涌入，试图在这个千亿级市场中分一杯羹。 然而，喧嚣背后，一个核心问题始终悬而未决：这些零散的单点解决方案，真的能解决系统性睡眠问题吗？用户需要的究竟是更多数据，还是一个能真正理解并守护睡眠的“伙伴”？ 3月20日，世界睡眠日的前一天，一场由慕思携手华为鸿蒙举办，",
+      "importance": "高",
+      "reason": "影响力评分: 135.0",
+      "tags": [
+        "创新",
+        "融资",
+        "AI",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/smarthome/sq46gIok1siIPZpI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-26 02:26:00",
+      "impact_score": 135.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+      "summary": "3月27日消息，After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl",
+      "importance": "高",
+      "reason": "影响力评分: 275.0",
+      "tags": [
+        "AI",
+        "lawsuit",
+        "blacklist"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-27 00:33:44",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
+      "summary": "3月27日消息，Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "Sonnet",
+        "AI",
+        "Opus"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-03-26 23:08:53",
+      "impact_score": 195.0
+    },
+    {
+      "index": 3,
+      "title": "Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math",
+      "summary": "3月27日消息，arXiv:2603.24961v1 Announce Type: new Abstract: Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, co",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "large language model",
+        "AI",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2603.24961",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-27 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "Sparse Visual Thought Circuits in Vision-Language Models",
+      "summary": "3月27日消息，arXiv:2603.25075v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) improve interpretability in multimodal models, but it remains unclear whether SAE features form modular, composable units for",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "multimodal",
+        "AI",
+        "reasoning"
+      ],
+      "url": "https://arxiv.org/abs/2603.25075",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-27 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "Antitrust Agencies Should Be Wary of AI Scrutiny, Official Says",
+      "summary": "3月27日消息，The market for artificial intelligence is competitive, evolving rapidly, and antitrust enforcers should be wary of intervening, a senior White House official said.",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "antitrust"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/antitrust-agencies-should-be-wary-of-ai-scrutiny-official-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-26 21:48:22",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Now There's a Helium Shortage and It Affects More Than Balloons | Odd Lots",
+      "summary": "3月27日消息，Ripple effects from the war in Iran and the closure of the Strait of Hormuz continue to widen. There's yet another brewing shortage, this time in helium. While most people associate helium with balloo",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "CEO",
+        "founder",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/a-helium-shortage-that-affects-more-than-balloons-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-27 08:12:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Pony AI CEO: Middle East Market Remains a Priority",
+      "summary": "3月27日消息，Pony AI has reported its first profitable quarter. Founder and CEO James Peng says the company plans to expand its robotaxi business both domestically and overseas, citing strong demand. Peng adds tha",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "CEO",
+        "founder",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-27 03:42:24",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Musk’s lawsuit against X advertisers thrown out by US judge",
+      "summary": "3月27日消息，Billionaire had accused brands of organising an illegal boycott",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "billion",
+        "lawsuit"
+      ],
+      "url": "https://www.ft.com/content/731f921f-4be1-42c3-a9b8-462eca7e437c",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-26 18:30:48",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Chip Security Bill Advances in House After Super Micro Case",
+      "summary": "3月27日消息，A House panel advanced legislation that would require the Commerce Department to demand chipmakers do more to keep AI technology from being smuggled to China, an effort that’s gained new urgency after",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "legislation",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/chip-security-bill-advances-in-house-following-super-micro-case",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-26 17:42:34",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "How AI Is Reshaping The Battlefield | Bloomberg Tech: Asia 3/27/2026",
+      "summary": "3月27日消息，AI is driving a new global arms race where warfare is increasingly defined by algorithms, sensors, and autonomous systems. But with this shift comes urgent ethical questions. In the latest episode of ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "fine"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/bloomberg-tech-asia-3-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-27 04:48:24",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "MP-MoE: Matrix Profile-Guided Mixture of Experts for Precipitation Forecasting",
+      "summary": "3月27日消息，arXiv:2603.25046v1 Announce Type: new Abstract: Precipitation forecasting remains a persistent challenge in tropical regions like Vietnam, where complex topography and convective instability often lim",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "bias",
+        "AGI",
+        "penalty",
+        "AI",
+        "alignment"
+      ],
+      "url": "https://arxiv.org/abs/2603.25046",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-27 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Commission preliminarily finds Pornhub, Stripchat, XNXX and XVideos in breach of the Digital Services Act for allowing minors to access their services",
+      "summary": "3月27日消息，Commission preliminarily finds Pornhub, Stripchat, XNXX and XVideos in breach of the Digital Services Act for allowing minors to access their services Anonymous (not verified) Thu, 03/26/2026 - 09:39 ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "investigation"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-pornhub-stripchat-xnxx-and-xvideos-breach-digital-services-act",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-03-26 08:39:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Commission investigates Snapchat's compliance with child protection rules under the Digital Services Act",
+      "summary": "3月27日消息，Commission investigates Snapchat's compliance with child protection rules under the Digital Services Act Anonymous (not verified) Thu, 03/26/2026 - 09:39 The European Commission has opened formal proc",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "privacy",
+        "investigation"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigates-snapchats-compliance-child-protection-rules-under-digital-services-act",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-03-26 08:39:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning",
+      "summary": "3月27日消息，arXiv:2603.25152v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems face significant challenges in complex reasoning, multi-hop queries, and domain-specific QA. While existing",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "introduces",
+        "reasoning",
+        "AI",
+        "fine",
+        "alignment"
+      ],
+      "url": "https://arxiv.org/abs/2603.25152",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-27 04:00:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 15,
+      "title": "Senate Bill Seeks to Curb Insider Bets on Prediction Markets",
+      "summary": "3月27日消息，A bipartisan group of senators introduced legislation Thursday that would require lawmakers and government employees to disclose any bets they place through prediction markets in a bid to prevent publ",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "legislation"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/senate-bill-seeks-to-curb-insider-bets-on-prediction-markets",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-26 21:13:16",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "OpenAI makes a ‘Code Red’ turn in strategy",
+      "summary": "3月27日消息，The company shows some business discipline in ditching Sora video app and plans for erotic chatbot",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "Sora"
+      ],
+      "url": "https://www.ft.com/content/f2b478a5-d7e0-48f6-bdb4-f9df90f4c7e0",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-26 17:59:32",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "3月27日消息，Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "Gemini 3"
+      ],
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-03-26 15:23:35",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "Can Lesotho Solve Johannesburg's Water Crisis?",
+      "summary": "3月27日消息，Much of Johannesburg’s water comes from Lesotho's highlands, where a major dam project could shape the future of supply as aging infrastructure and climate pressures strain the system. The project is ",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AGI",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-27/can-lesotho-solve-johannesburg-s-water-crisis",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-27 06:00:06",
+      "impact_score": 142.5
+    },
+    {
+      "index": 19,
+      "title": "Google AI Breakthrough Exposes Divide in Memory Stocks",
+      "summary": "3月27日消息，A two-day selloff in memory-chip stocks is revealing a new split in the artificial intelligence trade, as Google touts a breakthrough that analysts say may curb demand for certain types of storage whi",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "artificial intelligence",
+        "AI",
+        "breakthrough"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-27/ai-breakthrough-from-google-exposes-divide-in-memory-stocks",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-27 05:59:40",
+      "impact_score": 142.5
+    },
+    {
+      "index": 20,
+      "title": "Musk Rips Twitter Verdict, Claims Jury’s $4.20 ‘Joke’ Mocked Him",
+      "summary": "3月27日消息，Elon Musk’s lawyer says the billionaire didn’t get a fair trial because a San Francisco jury slipped a “bizarre and highly questionable” joke into a verdict form when it concluded he defrauded Twitter",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "Elon Musk",
+        "billion",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/musk-rips-twitter-verdict-claims-jury-s-4-20-joke-mocked-him",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-26 17:33:26",
+      "impact_score": 142.5
+    }
+  ],
+  "summary": "今日从165条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：云鲸联创吴一昊Hower即将离职创业 | 硬氪独家；对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资；全网炸锅！罗技官方广告公然辱骂消费者：「一降价还不是像狗一样跑过来」；Manus的两名联创被告知不要离开中国；小米 MIUI 全面停止更新。",
+  "statistics": {
+    "raw_domestic": 43,
+    "raw_international": 122,
+    "raw_total": 165,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月27日消息，作者 | 黄��� 袁斯来 编辑 | 袁斯来 近日，硬氪通过多个渠道独家获悉，云鲸联合创始人吴一昊（Hower）即将从公司离职。根据硬氪了解， Hower即将创业，但产品本身还在高度保密阶段。 硬氪就此向吴一昊本人求证，对方证实消息属实；吴一昊表示，近期他将卸任管理职务、并准备创业，但仍保留云鲸首席战略顾问一职。 吴一昊与云鲸创始人张峻彬并肩走过十年，共同经历了公司从初创团队到成长为百亿估值企业的",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月27日消息，文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月27日消息，要闻提示 1.中国禁止AI公司Manus两名高管离境？外交部回应 2.全网炸锅！罗技官方广告公然辱骂消费者：一降价还不是像狗一样跑过来 3.斯柯达将退出中国，大众中国回应：销售到年中，持续提供售后 4.稳居全球纯晶圆代工第二！中芯国际2025年全年营收673.23亿元 5.零跑A10正式上市！朱江明：国内目前有17家车企，市场容不下这么多 6.小米正式终止 MIUI 系统更新，全面转向澎湃 OS ",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月27日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人品牌汉阳科技Yarbo已完成近2亿元新一轮融资。本轮融资由松禾资本、温润投资（温氏股份旗下）、安乃达、芯联资本、龙华资本投资，涵盖了头部财务投资机构、上市公司产业资本与地方政府引导基金。融资资金将主要用于深化技术研发、加速产品迭代及拓展全球市场渠道。庚辛资本担任长期财务顾问。 产业资本的注入将为Yarbo提供协同资源。其中，温润投资背靠温氏股份，有",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月27日，2026腾讯云城市峰会首站落地上海。继ToB业务实现全年规模化盈利后，腾讯云公布2026年AI演进路线：首次发布涵盖基础设施、模型、生态到应用的Agent产品全景图，将MaaS平台升级为TokenHub，推出企业级Agent治理方案，底层平台Cube全面开源，进一步夯实面向AI Agent时代的全栈工程能力。同时，腾讯开放了涵盖自研Skills、开源SkillHub、微信、小程序、企微",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月27日消息，After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月27日消息，Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月27日消息，arXiv:2603.24961v1 Announce Type: new Abstract: Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, co",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月27日消息，arXiv:2603.25075v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) improve interpretability in multimodal models, but it remains unclear whether SAE features form modular, composable units for",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月27日消息，The market for artificial intelligence is competitive, evolving rapidly, and antitrust enforcers should be wary of intervening, a senior White House official said.",
+      "importance": "高"
+    }
+  ]
+}
