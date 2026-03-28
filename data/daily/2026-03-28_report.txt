@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-28
+生成时间: 2026-03-28 08:28:37
+数据来源: 从 89 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月28日消息，文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成
+2、3月28日消息，文｜周鑫雨 王欣逸 钟楚笛 编辑｜周鑫雨 Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。 近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。 它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费Cha
+3、3月28日消息，今日热点导览 前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体 九号公司：与泡泡玛特达成合作，联名电动车将于4月推出 苹果公司或将改变战略，向外部人工智能助手开放Siri 多位即将卸任的CEO将人工智能列为决定离职的原因之一 英国将对限制青少年使用社交媒体展开试点 TOP3大新闻 美籍华裔刑事鉴识专家李昌钰逝世，享年87岁 美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专
+4、3月28日消息，在编程能力上相比上一代GLM-5直接飙升近10分
+5、3月28日消息，国内首个CLI开源的国民级应用
+
+国际动态：
+1、3月28日消息，An over-regulatory approach to agentic workflows could be short-sighted, says Joe Scheidler, CEO and co-founder of Helios, which builds AI operating systems for public-private sector interaction. Sche
+2、3月28日消息，After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl
+3、3月28日消息，Physical Intelligence, a two-year-old robotics startup founded by AI academics and former Google DeepMind researchers, is discussing a new funding round of about $1 billion that would bring the compan
+4、3月28日消息，SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.
+5、3月28日消息，Initial signatories include AI pioneers Yoshua Bengio and Geoffrey Hinton, leading media voices Steve Bannon and Glenn Beck, Obama's National Security Advisor Susan Rice, business trailblazers Steve W
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月28日消息，文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成
+   📋 入选理由: 影响力评分: 420.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3740899945136130?f=rss
+   🏷️ 标签: 融资, 突破, 估值, 十亿, 投资
+
+2、🔥 3月28日消息，文｜周鑫雨 王欣逸 钟楚笛 编辑｜周鑫雨 Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。 近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。 它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费Cha
+   📋 入选理由: 影响力评分: 294.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3740893801824512?f=rss
+   🏷️ 标签: 突破, CEO, 合作, 开源, AI
+
+3、🔥 3月28日消息，今日热点导览 前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体 九号公司：与泡泡玛特达成合作，联名电动车将于4月推出 苹果公司或将改变战略，向外部人工智能助手开放Siri 多位即将卸任的CEO将人工智能列为决定离职的原因之一 英国将对限制青少年使用社交媒体展开试点 TOP3大新闻 美籍华裔刑事鉴识专家李昌钰逝世，享年87岁 美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专
+   📋 入选理由: 影响力评分: 279.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3741924007461128?f=rss
+   🏷️ 标签: 人工智能, CEO, 开放, 合作, 发布
+
+4、🔥 3月28日消息，在编程能力上相比上一代GLM-5直接飙升近10分
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/392914.html
+   🏷️ 标签: Opus, 上线
+
+5、🔥 3月28日消息，国内首个CLI开源的国民级应用
+   📋 入选理由: 影响力评分: 270.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/392828.html
+   🏷️ 标签: 开放, 开源
+
+6、🔥 3月28日消息，文｜周鑫雨 钟楚笛 编辑｜周鑫雨 若是在春节后来到深圳华强北，你大概率会撞上这样一幕： 在赛格电子世界大厦的二手设备批发档口，短短十几分钟，就有3、4位操着不同口音的客户，询问是否有适配“龙虾”的硬件。一台部署好“龙虾”的一体机，雅称“虾缸”，售价近期一路从1000元出头，涨到2000元。 华强北，是观察科技行业创业风向的窗口。AI眼镜、录音笔、玩偶……在这里，万物皆可适配“龙虾”。一名科技从业者
+   📋 入选理由: 影响力评分: 264.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3740888543412228?f=rss
+   🏷️ 标签: 突破, 开源, 上线, AI, 大模型
+
+7、🔥 3月28日，2026中关村论坛平行论坛——雄安“人工智能+”产业生态融合发展论坛在雄安新区举行。本次论坛作为2026年中关村论坛唯一京外平行论坛，汇聚院士专家、企业及投资机构代表等300多位嘉宾。集中展示了京雄两地推动人工智能产业协同的创新实践，发布了京雄协同创新科技成果，人工智能京雄联合攻关“揭榜挂帅”项目榜单。一批重点科技合作与产业投资项目集中签约，雄安新区人工智能“百模大赛”同步启动。（央视
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3742118900072708?f=rss
+   🏷️ 标签: 人工智能, 合作, 创新, 投资, 发布
+
+8、🔥 3月27日，龙湖集团发布2025年度业绩报告。报告显示，龙湖集团2025年营业收入约为973.1亿元。 其中，地产开发业务收入705.4亿元；运营及服务业务收入为267.7亿元，在集团营业收入中占比达到27.5%，创历史新高；公司拥有人应占溢利为10.2亿元；剔除投资物业及其他衍生金融工具公平值变动影响后，归母核心亏损为17亿元。 龙湖从2022年开始主动调整节奏、压降负债，开发业务占比持续走低。
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3741132856115207?f=rss
+   🏷️ 标签: 融资, CEO, 首次, 投资, 发布
+
+9、🔥 3月28日消息，全球开发者先锋大会3月27日至3月29日在沪举行。大会期间，上海市人工智能行业协会秘书长钟俊浩在接受证券时报记者采访时表示，“养龙虾”热潮，表明AI正实现从生产工具到生产力的进阶。当前AI智能体技术仍在快速迭代，行业处于“在前行中探索，在探索中前行”的阶段。对待AI安全和规范议题，既不能因噎废食，也不能忽视风险，需依托既有网络安全管理体系，结合大模型内生安全建设，逐步规范行业发展。（证券时报）
+   📋 入选理由: 影响力评分: 171.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3742120135246089?f=rss
+   🏷️ 标签: 人工智能, AI安全, 风险, AI, 大模型
+
+10、🔥 3月28日消息，揭秘硬件高投入≠高效 Token 产出
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/392896.html
+   🏷️ 标签: AI, 领先, 发布
+
+11、🔥 3月28日消息，作者 | 黄绎达 编辑 | 张帆 3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。 知乎2025年财报最核心的亮点， 是首次实现全年非公认会计准则（Non-GAAP）盈利， 对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7
+   📋 入选理由: 影响力评分: 162.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3740850993037312?f=rss
+   🏷️ 标签: 估值, 首次, AI, 大模型, 发布
+
+12、🔥 3月27日，喜临门(603008.SH)公告称，近日，公司发现下属控股子公司喜途科技有限公司的银行账户资金被非法划转，划转资金累计1亿元。经公司核查，发现相关人员涉嫌利用职务之便，非法挪用公司资金。为进一步防范资金安全风险，保障上市公司资金安全，公司已于2026年3月26日向公安机关申请立案侦查，并对三家子公司合计9.00亿元资金的银行账户实施保护性冻结。上述资金合计约10.00亿元，占公司最近一
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3741948416753669?f=rss
+   🏷️ 标签: 上市, 风险, 监管
+
+13、🔥 3月28日消息，在中国科协强势反制之后
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/392814.html
+   🏷️ 标签: 反制
+
+14、🔥 3月28日消息，大公司： 日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年 日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经） 菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3737878513844224?f=rss
+   🏷️ 标签: AI, 合作, 上线
+
+15、🔥 3月28日消息，文｜ 王熠 3月27日，茶百道发布2025年业绩报告，公司总年度GMV达到161.8亿元，同比增长11%；单店日均GMV较2024年提升10%。 自2025年二季度起，外卖大战重点围绕“咖啡及新茶饮”赛道展开。然而在第三季度后，各平台的补贴显著减弱，部分茶咖企业的外卖订单下滑，且长达数月的补贴及促销，也进而影响了公司的毛利率水平及线下门店的营收表现。 在诸多茶咖企业之中，茶百道对外卖大战的态度一直
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3741100948029448?f=rss
+   🏷️ 标签: 突破, 发布
+
+16、🔥 3月27日，在中关村平行论坛“6G技术与产业创新论坛”上，vivo通信研究院院长秦飞表示，当前推动6G发展的关键，不是单纯追求节奏更快，而是先把未来真实需求进一步厘清。此外，随着智能体加速进入终端，手机将成为AI能力落地的重要入口。（新浪财经）
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3742012902752512?f=rss
+   🏷️ 标签: AI, 创新
+
+17、🔥 3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。 更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。 与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3741142695117059?f=rss
+   🏷️ 标签: 首次, AI
+
+18、🔥 3月28日消息，作者｜黄楠 编辑｜袁斯来 一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。 然而，传统健身行业长期受困于用户留存难、运营效率低、服务同质化三大瓶颈。在这一背景下，从单一场馆运营转向“A
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3740892215623942?f=rss
+   🏷️ 标签: AI, 突破
+
+19、🔥 3月27日，讯飞医疗（02506.HK）发布2025年度业绩报告。报告期内，公司实现营业收入9.15亿元，同比增长25%；年内亏损6577万元，同比亏损大幅收窄。在3月27日晚的业绩说明会上，董事长刘庆峰表示将致力于推动医院智能化转型。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3742212656414983?f=rss
+   🏷️ 标签: 发布
+
+20、🔥 3月28日，富士康旗下储能品牌富储科能宣布，将于3月31日15时举办2026年多元化应用场景工商业储能系统新品发布会。
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3742008061886728?f=rss
+   🏷️ 标签: 发布
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月28日消息，An over-regulatory approach to agentic workflows could be short-sighted, says Joe Scheidler, CEO and co-founder of Helios, which builds AI operating systems for public-private sector interaction. Sche
+   📋 入选理由: 影响力评分: 277.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-27/calls-for-national-ai-regulation-grow-video
+   🏷️ 标签: CEO, founder, AI regulation, joins, AI
+
+2、🔥 3月28日消息，After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl
+   📋 入选理由: 影响力评分: 275.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction
+   🏷️ 标签: blacklist, AI, lawsuit
+
+3、🔥 3月28日消息，Physical Intelligence, a two-year-old robotics startup founded by AI academics and former Google DeepMind researchers, is discussing a new funding round of about $1 billion that would bring the compan
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation
+   🏷️ 标签: valuation, AI, billion
+
+4、🔥 3月28日消息，SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/
+   🏷️ 标签: AI, IPO, billion
+
+5、🔥 3月28日消息，Initial signatories include AI pioneers Yoshua Bengio and Geoffrey Hinton, leading media voices Steve Bannon and Glenn Beck, Obama's National Security Advisor Susan Rice, business trailblazers Steve W
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: Future of Life Institute | 🔗 https://futureoflife.org/press-release/prominent-scientists-faith-leaders-policymakers-and-artists-call-for-a-prohibition-on-superintelligence/
+   🏷️ 标签: Nobel, superintelligence, AI, national security
+
+6、🔥 3月28日消息，The last big story right before the war in Iran started was the collapse in the relationship between the Pentagon and Anthropic, with the latter objecting to any potential use of its models in either 
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
+   🏷️ 标签: surveillance, autonomous weapons, AI
+
+7、🔥 3月28日消息，When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby 
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
+   🏷️ 标签: Sora, AI, billion
+
+8、🔥 3月28日消息，Elon Musk took to his social media network to attack the judge in the trial he lost last week when a jury found the billionaire defrauded Twitter Inc. shareholders before acquiring the platform in 202
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-27/musk-takes-a-swipe-at-bowtied-judge-in-twitter-investor-case
+   🏷️ 标签: AI, billion, Elon Musk
+
+9、🔥 3月28日消息，When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby 
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/
+   🏷️ 标签: Sora, AI
+
+10、🔥 3月28日消息，A Dutch court issued a $115,000 penalty for every day xAI fails to remove non-consensual AI-generated nude images created by its chatbot Grok.
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/27/grok-elon-musk-dutch-court-ban-ai-nudes.html
+   🏷️ 标签: AI, Elon Musk, penalty
+
+11、🔥 3月28日消息，Bloomberg’s Ed Ludlow discusses the impact of the Iran war on markets as the Nasdaq 100 falls into correction territory and Big Tech stocks slide. Plus, Meta is set to fund the construction of seven n
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-27/bloomberg-tech-3-27-2026-video
+   🏷️ 标签: AI, IPO
+
+12、🔥 3月28日消息，Bloomberg's Aaron Weinman, joins Scarlet Fu on "Bloomberg Real Yield." Banks led by JPMorgan Chase & Co. sold almost $15 billion of risky debt on Tuesday to help fund the record leveraged buyout of vi
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-27/ea-sale-racks-up-45b-demand-for-record-leveraged-buyout-video
+   🏷️ 标签: joins, billion
+
+13、🔥 3月28日消息，Texas site for Nexus Data Centers aims to avoid grid connection delays with direct gas supplies
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22
+   🏷️ 标签: AI, billion
+
+14、🔥 3月28日消息，Reliance Industries Ltd. has set investment banking advisory fees for the planned initial public offering of its telecom unit at about 0.65% of the issue size, according to people familiar with the ma
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-27/ambani-s-jio-mega-ipo-is-said-to-set-bank-fees-in-line-with-nse
+   🏷️ 标签: AI, IPO
+
+15、🔥 3月28日消息，A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/27/jeffrey-epstein-victims-sue-trump-administration-google.html
+   🏷️ 标签: AI, lawsuit
+
+16、🔥 3月28日消息，A federal judge in San Francisco granted Anthropic's request for a preliminary injunction in its lawsuit against the Trump administration.
+   📋 入选理由: 影响力评分: 115.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
+   🏷️ 标签: AI, lawsuit
+
+17、🔥 3月28日消息，Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/
+   🏷️ 标签: AI, IPO
+
+18、🔥 3月28日消息，Austrian authorities have so far declined to approve Chinese e-commerce firm JD.com Inc’s offer to acquire Germany’s Ceconomy AG, throwing the broader €2.2 billion ($2.5 billion) deal for Europe’s lar
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-27/austria-declines-to-approve-jd-com-s-offer-to-buy-ceconomy
+   🏷️ 标签: billion
+
+19、🔥 3月28日消息，On this episode of Stock Movers: Unity Software (U) rose on a strong earnings forecast and news that it plans to sell its video-game publisher and close its advertising unit to focus on better busines
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-27/brown-foreman-up-blue-owl-falls-stock-movers-video
+   🏷️ 标签: merger
+
+20、🔥 3月28日消息，How AI will reshape warfare.
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-military-over-future-of-autonomous-weapons
+   🏷️ 标签: autonomous weapons, AI
+
+
+======================================================================
+📊 今日总结: 今日从89条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资；杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”；9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号。
+======================================================================
