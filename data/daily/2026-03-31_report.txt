@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-03-31
+生成时间: 2026-03-31 08:46:18
+数据来源: 从 148 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、3月31日消息，大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。 特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出 36氪获悉，据TeslaAI微博消息，TERAFA
+2、3月31日消息，上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢，邀全球科研力量共同定义未来 3月29日，在第二届浦江AI学术年会上，上海人工智能实验室（上海AI实验室）发布面向重大科学突破的“AGI for Science珠穆朗玛计划”（AGI4S珠穆朗玛计划），旨在构建“科学智能创新中枢”，打造领先的AGI4S基座能力，汇聚科学智能创新全要素，助力全球科学家攀登科学高峰。 正如攀登珠穆朗
+3、3月31日消息，文｜胡香赟 编辑｜海若镜 AI制药领域，再现200亿人民币级交易。 3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。 同日，英矽智能年报显示，2025年总收入5620万美元，
+4、3月31日消息，今日热点导览 曝iPhoneFold将成史上最大改款，有媒体称其设计革新超iPhone X 泡泡玛特乐园迎来新区域开放，门票将涨价 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 DeepSeek公告服务出现重大中断，12小时未修复引发热议 俞敏洪：东方甄选首家线下门店将于4月在北京中关村开业 TOP3大新闻 伊朗议会批准对海峡征收通行费，需以伊朗本币支付 当地时间周一，伊朗议会通
+5、3月31日消息，36氪独家获悉，新型镍氢气电池技术公司EnerVenue已完成3亿美元的B轮优先股追加融资，本轮融资由赋生资本领投，新引入香港投资管理有限公司为战略股东。据悉，本轮资金将用于常州工厂产能升级与扩充。 至此，公司已完成3轮融资，总金额已超8亿美元。 EnerVenue成立于2020年，由斯坦福大学材料科学与工程系教授崔屹创立，专注于镍氢气电池技术的研发和商业化。目前，公司已在中国江苏常州与美国肯塔基
+
+国际动态：
+1、3月31日消息，Apple Inc.’s European subsidiary was fined £390,000 ($516,110) by the UK for breaching Russian sanctions.
+2、3月31日消息，European operation ordered to pay £390,000 for payments to video-streaming service Okko
+3、3月31日消息，Bloomberg’s Tim Stenovec discusses the selloff in tech stocks as investors weigh whether it's a turning point for the market. Plus, NASA prepares to launch Artemis II on a lunar flyby. And, investors 
+4、3月31日消息，The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.
+5、3月31日消息，Katie Wheeler, managing director of partnerships at Ondo, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on "Bloomberg ETF IQ." Franklin Templeton is partnering with Ondo Finance to offer tokeni
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 3月31日消息，大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。 特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出 36氪获悉，据TeslaAI微博消息，TERAFA
+   📋 入选理由: 影响力评分: 528.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3745267391103239?f=rss
+   🏷️ 标签: 开源, 突破, 人工智能, 大模型, AI安全
+
+2、🔥 3月31日消息，上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢，邀全球科研力量共同定义未来 3月29日，在第二届浦江AI学术年会上，上海人工智能实验室（上海AI实验室）发布面向重大科学突破的“AGI for Science珠穆朗玛计划”（AGI4S珠穆朗玛计划），旨在构建“科学智能创新中枢”，打造领先的AGI4S基座能力，汇聚科学智能创新全要素，助力全球科学家攀登科学高峰。 正如攀登珠穆朗
+   📋 入选理由: 影响力评分: 455.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/hCyDjKWtWsp2U9Rh.html
+   🏷️ 标签: AGI, 突破, 人工智能, 领先, AI
+
+3、🔥 3月31日消息，文｜胡香赟 编辑｜海若镜 AI制药领域，再现200亿人民币级交易。 3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。 同日，英矽智能年报显示，2025年总收入5620万美元，
+   📋 入选理由: 影响力评分: 435.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3745377703608832?f=rss
+   🏷️ 标签: 合作, 估值, 上市, 监管, AI
+
+4、🔥 3月31日消息，今日热点导览 曝iPhoneFold将成史上最大改款，有媒体称其设计革新超iPhone X 泡泡玛特乐园迎来新区域开放，门票将涨价 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 DeepSeek公告服务出现重大中断，12小时未修复引发热议 俞敏洪：东方甄选首家线下门店将于4月在北京中关村开业 TOP3大新闻 伊朗议会批准对海峡征收通行费，需以伊朗本币支付 当地时间周一，伊朗议会通
+   📋 入选理由: 影响力评分: 435.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746104816943617?f=rss
+   🏷️ 标签: 国家安全, 合作, 制裁, 法案, 首次
+
+5、🔥 3月31日消息，36氪独家获悉，新型镍氢气电池技术公司EnerVenue已完成3亿美元的B轮优先股追加融资，本轮融资由赋生资本领投，新引入香港投资管理有限公司为战略股东。据悉，本轮资金将用于常州工厂产能升级与扩充。 至此，公司已完成3轮融资，总金额已超8亿美元。 EnerVenue成立于2020年，由斯坦福大学材料科学与工程系教授崔屹创立，专注于镍氢气电池技术的研发和商业化。目前，公司已在中国江苏常州与美国肯塔基
+   📋 入选理由: 影响力评分: 342.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3745335802790147?f=rss
+   🏷️ 标签: 十亿, 融资, CEO, 投资, 创新
+
+6、🔥 3月31日消息，2026年3月29日，东莞，一场关乎智能未来的思想盛宴在聚光灯下缓缓落幕。 三天时间里，以“Change-Maker”为名的熵基科技「脑机接口×AI空间智能体」发布会暨中国合作伙伴大会（以下简称“Change-Maker大会”），汇聚了全球脑机接口、脑健康、可穿戴电子与智慧空间等领域的500余位产学研代表。从科研前沿的深度洞察，到脑电穿戴原型设备的现场演示，再到AI空间智能体矩阵的首次亮相，这场大
+   📋 入选理由: 影响力评分: 300.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/smartcity/pV6BgHhHpiKzUKCe.html
+   🏷️ 标签: 突破, 合作, AI, 首次, 创新
+
+7、🔥 3月31日消息，日本金属生产商三菱材料3月31日表示，将收购美国稀土公司ReElement Technologies的股份，计划通过承购和加工协议与后者合作。三菱材料称，持股比例仅占ReElement Technologies的一小部分，此外未透露更多细节。（界面）
+   📋 入选理由: 影响力评分: 292.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3746562606859008?f=rss
+   🏷️ 标签: 投资, 合作, 收购
+
+8、🔥 3月30日港股盘后，壁仞科技发布上市后的首份财务报告。 数据显示，2025年，公司实现营业收入10.35亿元，同比增长207.2%；同期毛利达5.57亿元，同比增长210.8%，对应毛利率为53.8%。 2025年以来，模型的持续迭代、智能体的全面爆发叠加上地缘政治冲突的升温，共同驱动国产算力行业进入快速爆发期。而芯片作为核心基座，受益于行业爆发红利，实现了从技术突破到规模化落地的关键拐点。 作为
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746575157658368?f=rss
+   🏷️ 标签: 突破, 上市, 投资, AI, 风险
+
+9、🔥 3月31日消息，作者 | 谢芸子 编辑 | 张帆 安踏的增长结构在重塑，这反映出不同消费层级体育品牌的分化。 近日，安踏体育发布2025年财报，集团整体营收达802.2亿元，同比增长13.3%；归母净利润135.9亿元，同比减少12.9%。 财报解释称，净利润下滑是因为2024年安踏集团控股的亚玛芬体育上市，确认了一大笔“一次性收益”，从而推高了比较基数。剔除这一因素，安踏体育的归母净利润同比上涨13.9%。 再
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746211357655808?f=rss
+   🏷️ 标签: 突破, 上市, CEO, 百亿, 发布
+
+10、🔥 3月31日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，江苏珩创纳米科技有限公司（以下简称“珩创纳米”）正式宣布完成B轮融资的数亿元交割。本轮融资由银川育成凤凰科创基金投资，大桉资本担任本轮融资财务顾问。资金将主要用于公司在宁夏银川的产能布局，规划建设年产13万吨（一期3万吨）磷酸锰铁锂（LMFP）正极材料生产线。与此同时，公司在盐城的基地将进一步扩产。 珩创纳米成立于2022年，聚焦新能源电池核心材
+   📋 入选理由: 影响力评分: 230.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746236378202631?f=rss
+   🏷️ 标签: 创新, 融资, 投资
+
+11、🔥 3月31日消息，2026年3月26日，国际顶级学术出版机构《自然》（Nature）在其 Nature Index China 特刊中，以两篇深度报道系统呈现天立国际控股有限公司（01773.HK）在“AI+教育”领域的探索路径，特刊随正刊同步出版并上线官网。 报道以技术特写与高层访谈为结构，从理念、技术体系与应用规模三个层面展开，对中国K12教育体系中的教育AGI探索进行完整刻画。在全球基础教育领域，能够被Nat
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/Nbnu3WCQsly6EHcr.html
+   🏷️ 标签: AGI, 突破, 上线, AI
+
+12、🔥 3月31日消息，近日，MOVA 生态链企业零界奇点（MOVA TPEAK）宣布完成新一轮数千万级融资。本轮资金将重点投向核心技术研发、产品矩阵扩容、全球渠道布局三大方向，公司以大健康为战略级赛道，依托 “AI + 音频” 双引擎与成熟工程化能力，加速构建覆盖智能穿戴、AI 创新硬件、大健康的舒适健康生态。 零界奇点公司成立半年，完成Clip Pro开放式耳夹耳机从技术研发到产品全球上市，自研开放式耳挂运动耳机即将
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/l6KSd2EjIOyJVC5b.html
+   🏷️ 标签: 融资, 上市, AI, 创新, 开放
+
+13、🔥 3月31日消息，要闻提示 1.不管路人死活？医生推荐71岁眼疾患者用FSD开车，特斯拉官方点赞支持！ 2.巨亏14.77亿元！游戏巨头耗时三年，投入超3亿元的大作“翻车”，710名员工减员至260人 3.北汽蓝谷多位高层履新职！ 4.摩尔线程斩获6.6亿元合同订单 5.前蔚来汽车世界模型交付负责人肖中阳离职创业，入局具身智能 6.比亚迪：对2026年汽车出口量达150万辆有信心，可能超出此前设定目标的15% 7.
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/MInnE6069EmB4UVX.html
+   🏷️ 标签: 上市, AI, 上线, IPO
+
+14、🔥 3月31日消息，春节前几天，何佳霖的微信一直没消停过。 FA （财务顾问）会发来各种分析文章，投资人也会不断转来新项目链接，问他怎么看 Openclaw 的爆火、有什么区别。 “那段时间是真的比较焦虑。”他说道。 焦虑并非来自竞争本身，而是一种典型的创业者心态——有时候会拍大腿苛责自己开始的有点晚，但冷静分析后，反而平静许多。 这种情绪，与他正在做的事情密切相关。何佳霖是 AI 科技公司 Violoop 的创始人
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/t2gRxcIrOs1q0a4i.html
+   🏷️ 标签: 融资, AI, 大模型, 投资
+
+15、🔥 3月31日，国行iPhone设置页面短暂出现“Apple智能与Siri”选项，引发Apple Intelligence国行版落地热议，但该入口很快被移除，已下载模型的用户功能也被收回。苹果方面就此进行回应称，由于软件问题，中国的iPhone和iPad设备曾短暂地可以下载其他地区适用的设备端Apple 智能并启用该功能，但此问题已迅速修复。 针对国行版苹果智能上线的时间，苹果表示：“苹果智能的推出时
+   📋 入选理由: 影响力评分: 160.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3746508453937667?f=rss
+   🏷️ 标签: AI, 监管, 上线
+
+16、🔥 3月31日消息，300万对RGB-D数据，专治机器人看不清
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/393864.html
+   🏷️ 标签: 开源, SOTA
+
+17、🔥 3月31日消息，每百万Tokens输入不到0.8元，比Gemini-3.1 Pro的1/10还低。
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/393460.html
+   🏷️ 标签: 超越, 发布
+
+18、🔥 3月31日消息，随着大模型技术持续演进，人工智能正加速从“能力展示”迈向“规模化应用”。作为承接大模型能力、实现任务自动执行的关键形态，AI智能体正在金融、能源、医疗、制造、政务等领域快速落地，成为重构产业生产力的重要抓手。业内普遍判断，2026年将成为AI智能体规模化部署的关键节点。 在此背景下，由中国互联网协会、中国安全防范产品行业协会、中国人工智能产业发展联盟、中国计算机学会计算机安全专业委员会、清华大学五
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/K9aRGx7Heug56c8G.html
+   🏷️ 标签: 隐私, 人工智能, AI安全, AI, 创新
+
+19、🔥 3月31日消息，作者 | 王欣逸 编辑 | 邓咏仪 火热的可穿戴智能硬件市场，崛起了一位野心勃勃的争夺者。 3月27日，追觅科技AI智能硬件新品招商会在苏州举办，新品智能戒指Glow成为了会上的焦点产品。 在AI硬件赛道，追觅最先从智能戒指开始布局。 追觅曾于2025年10月发布旗下首个AI硬件产品震动AI智能戒指。这一硬件上市至今累计订单破亿，并登上2026年CES大会，斩获最佳智能穿戴奖。 随后，在今年的3月
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746508855869954?f=rss
+   🏷️ 标签: 上市, 发布, AI
+
+20、🔥 3月31日消息，作者｜黄楠 编辑｜袁斯来 2024年进入储能市场，是个有些反常识的决定。 储能在2022年前后经历过一次疯狂的增长，产能过剩后又惨烈洗牌，到曹治鹏入场时，已经相对平静。华宝新能、正浩创新、安克、大疆、华为等等大厂，都在其中盘踞一块领地。 但曹治鹏发现，市场并非死水一潭。 曹治鹏从事能源行业近20年，他曾任职于沈飞、华硕、阿特斯等上市企业，主导参与了户用储能、工商业储能等产品从0到1的研发与设计，亲
+   📋 入选理由: 影响力评分: 140.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3743753252061189?f=rss
+   🏷️ 标签: 创新, 上市, AI
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 3月31日消息，Apple Inc.’s European subsidiary was fined £390,000 ($516,110) by the UK for breaching Russian sanctions.
+   📋 入选理由: 影响力评分: 300.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-30/apple-fined-390-000-by-uk-over-russian-sanction-breaches
+   🏷️ 标签: fine, sanctions
+
+2、🔥 3月31日消息，European operation ordered to pay £390,000 for payments to video-streaming service Okko
+   📋 入选理由: 影响力评分: 300.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/915ac02f-96f8-4224-b2ab-10d83e5afd92
+   🏷️ 标签: fine, sanctions
+
+3、🔥 3月31日消息，Bloomberg’s Tim Stenovec discusses the selloff in tech stocks as investors weigh whether it's a turning point for the market. Plus, NASA prepares to launch Artemis II on a lunar flyby. And, investors 
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-30/bloomberg-tech-3-30-2026-video
+   🏷️ 标签: Elon Musk, billion, IPO
+
+4、🔥 3月31日消息，The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
+   🏷️ 标签: valuation, AI, IPO
+
+5、🔥 3月31日消息，Katie Wheeler, managing director of partnerships at Ondo, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on "Bloomberg ETF IQ." Franklin Templeton is partnering with Ondo Finance to offer tokeni
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-30/tokenization-brings-etfs-to-wallets-ondo-s-wheeler-video
+   🏷️ 标签: partnership, AGI, joins, fine
+
+6、🔥 3月31日消息，arXiv:2603.27150v1 Announce Type: new Abstract: Large language models (LLMs) have revolutionized medical reasoning tasks, yet single-agent systems often falter on complex, interdisciplinary problems r
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.27150
+   🏷️ 标签: AGI, reasoning, LLM, AI, large language model
+
+7、🔥 3月31日消息，arXiv:2603.27341v1 Announce Type: new Abstract: Recent Artificial Intelligence (AI) models have matched or exceeded human experts in several benchmarks of biomedical task performance, but have lagged 
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.27341
+   🏷️ 标签: artificial intelligence, AGI, multimodal, AI
+
+8、🔥 3月31日消息，arXiv:2603.27536v1 Announce Type: new Abstract: Advanced Driver Assistance Systems (ADAS) increasingly rely on learning-based perception, yet safety-relevant failures often arise without component mal
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.27536
+   🏷️ 标签: reasoning, multimodal, AI, LLM
+
+9、🔥 3月31日消息，With AI capabilities advancing at an unprecedented speed, how are companies adapting to the rapidly changing landscape? Goldman Sachs Chief Information Officer Marco Argenti joins Tracy Alloway and Jo
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-30/goldman-cio-on-the-warp-speed-improvements-in-ai-video
+   🏷️ 标签: chief, joins, AI
+
+10、🔥 3月31日消息，Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity
+   🏷️ 标签: CEO, AI, founder
+
+11、🔥 3月31日消息，Plus the social media lawsuits
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/bebc453a-b6ed-44a0-8b0a-e1c641c94682
+   🏷️ 标签: lawsuit
+
+12、🔥 3月31日消息，arXiv:2603.27076v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for automated tutoring, but their reliability in structured symbolic domains remains unclear. We stud
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.27076
+   🏷️ 标签: valuation, fine, reasoning, LLM, AI
+
+13、🔥 3月31日消息，Elon Musk and Jeff Bezos’s commitment to putting data centres in space boosts fortunes of smaller players
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/c6b73b3b-b04f-44bd-8d69-0694d3ae815c
+   🏷️ 标签: Elon Musk, AI, IPO
+
+14、🔥 3月31日消息，OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/
+   🏷️ 标签: Sora, AI
+
+15、🔥 3月31日消息，arXiv:2603.27415v1 Announce Type: new Abstract: Classical optimization algorithms--hill climbing, simulated annealing, population-based methods--generate candidate solutions via random perturbations. 
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.27415
+   🏷️ 标签: valuation, AI, fine, LLM
+
+16、🔥 3月31日消息，Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.
+   📋 入选理由: 影响力评分: 130.0
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/
+   🏷️ 标签: investigation
+
+17、🔥 3月31日消息，Global data-center provider Equinix Inc. plans to build more facilities in South Africa as part of a 7.5 billion-rand ($438 million) plan to capitalize on the continent’s artificial-intelligence boom.
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-31/equinix-plans-more-south-african-data-centers-as-local-ai-booms
+   🏷️ 标签: AI, billion
+
+18、🔥 3月31日消息，Five years ago, almost no accident and health insurance claims at Ping An Insurance Group ran without humans. Today, nearly 60% are automated, with some settled in just 51 seconds.
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value
+   🏷️ 标签: AI, billion
+
+19、🔥 3月31日消息，Meta Platforms Inc. was looking like the best Big Tech stock in the market when the year began. But investors’ fears of legal risks and heavy spending on artificial intelligence are bubbling to the su
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-30/meta-s-310-billion-tailspin-sparks-tobacco-moment-questions
+   🏷️ 标签: artificial intelligence, AI, billion
+
+20、🔥 3月31日消息，Blackstone Inc. closed its latest life-sciences fund with $6.3 billion of commitments, the firm’s biggest haul for backing clinical trials of medicines and technologies.
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-30/blackstone-raises-6-3-billion-for-latest-life-sciences-fund
+   🏷️ 标签: AI, billion
+
+
+======================================================================
+📊 今日总结: 今日从148条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复；上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢，邀全球科研力量共同定义未来；“医药界英伟达”，花200亿买中国AI公司的减重药。
+======================================================================
