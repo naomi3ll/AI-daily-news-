@@ -1,0 +1,238 @@
+======================================================================
+AI每日动态 - 2026-04-01
+生成时间: 2026-04-01 08:54:36
+数据来源: 从 167 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、4月1日消息，2026年3月31日，中国领先的智能驾驶、智能座舱与无人车科技企业佑驾创新（2431.HK）正式披露2025年度业绩报告。 在智能驾驶产业发展回归商业本质的背景下，佑驾创新凭借多维度突破，核心经营指标持续向好，营收与毛利同步增长，创下历史新高。同时，L4无人车及运营业务迎来业绩爆发，不仅营收达到6500万元，2025年下半年营收较上半年实现了450%环比增长。 财报数据显示，2025年公司实现总收
+2、4月1日消息，3月27日至29日，以“宁智毋庸 创领未来”为主题的2026全球开发者先锋大会（GDPS）在上海徐汇西岸国际会展中心召开。这场汇聚全球开发者创业者智慧、集中展示上海人工智能成果的盛会，吸引近5万人线下参会，全网流量突破47亿，超800家新锐企业、200余位重磅嘉宾齐聚，国内外超200家开发者社区云集，百余家国内外知名投资机构现场对接。大会通过主论坛、工作坊及沉浸式互动体验等多元形式，以“产业出题、
+3、4月1日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。 PathFinder成立于2024年，聚焦运动领域AI Agent及智能终端的研发，以高尔夫场景为切口，为用户提供适配专业运动场
+4、4月1日消息，3家AI芯片上市公司进入华东大厂采购名单 寒武纪、海光、壁仞3家国产AI芯片上市公司进入华东互联网公司采购名单，虽然这三家的订单还未最终落地，但数量都不小，据说单家采购超数万张，或订单金额高达数十亿人民币。 不过获得华东大厂采购并非是这几家国产卡产品力获得认可的“金牌认证”，消息人士表示，国产卡被采购的一个条件是有明确的客户，华东大厂采购回来后再给明确的客户提供国产算力。国产芯片公司如何拿下互联网
+5、4月1日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。 SHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底制造等领域提
+
+国际动态：
+1、4月1日消息，Bloomberg’s Matt Miller takes a look at Nvidia’s $2 billion investment in Marvell, part of an agreement to collaborate on silicon photonics technology. Plus, the debt binge fueling the AI boom continu
+2、4月1日消息，Valar Atomics, the nuclear energy startup backed by Anduril Industries Inc. founder Palmer Luckey and Palantir Technologies Inc. executive Shyam Sankar, has raised fresh capital at a valuation of $2 b
+3、4月1日消息，Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. On today'
+4、4月1日消息，OpenAI has completed a deal to raise $122 billion from investors at an $852 billion valuation, marking the company’s largest funding round to date. Shirin Ghaffary has more on "Bloomberg The Close." (
+5、4月1日消息，OpenAI has completed a deal to raise $122 billion from investors at an $852 billion valuation, marking the company’s largest funding round to date by far and bolstering its costly push for more chips,
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 4月1日消息，2026年3月31日，中国领先的智能驾驶、智能座舱与无人车科技企业佑驾创新（2431.HK）正式披露2025年度业绩报告。 在智能驾驶产业发展回归商业本质的背景下，佑驾创新凭借多维度突破，核心经营指标持续向好，营收与毛利同步增长，创下历史新高。同时，L4无人车及运营业务迎来业绩爆发，不仅营收达到6500万元，2025年下半年营收较上半年实现了450%环比增长。 财报数据显示，2025年公司实现总收
+   📋 入选理由: 影响力评分: 370.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/0aPtdzFGItdnehtR.html
+   🏷️ 标签: 突破, 上市, 领先, 首次, 合作
+
+2、🔥 4月1日消息，3月27日至29日，以“宁智毋庸 创领未来”为主题的2026全球开发者先锋大会（GDPS）在上海徐汇西岸国际会展中心召开。这场汇聚全球开发者创业者智慧、集中展示上海人工智能成果的盛会，吸引近5万人线下参会，全网流量突破47亿，超800家新锐企业、200余位重磅嘉宾齐聚，国内外超200家开发者社区云集，百余家国内外知名投资机构现场对接。大会通过主论坛、工作坊及沉浸式互动体验等多元形式，以“产业出题、
+   📋 入选理由: 影响力评分: 330.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/Mo1PurhD1lkknYSK.html
+   🏷️ 标签: 突破, 人工智能, 投资, 开放, 隐私
+
+3、🔥 4月1日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。 PathFinder成立于2024年，聚焦运动领域AI Agent及智能终端的研发，以高尔夫场景为切口，为用户提供适配专业运动场
+   📋 入选理由: 影响力评分: 260.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746252355535622?f=rss
+   🏷️ 标签: 投资, CEO, 上线, AI, 融资
+
+4、🔥 4月1日消息，3家AI芯片上市公司进入华东大厂采购名单 寒武纪、海光、壁仞3家国产AI芯片上市公司进入华东互联网公司采购名单，虽然这三家的订单还未最终落地，但数量都不小，据说单家采购超数万张，或订单金额高达数十亿人民币。 不过获得华东大厂采购并非是这几家国产卡产品力获得认可的“金牌认证”，消息人士表示，国产卡被采购的一个条件是有明确的客户，华东大厂采购回来后再给明确的客户提供国产算力。国产芯片公司如何拿下互联网
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/wlh8YAGXIxiSOXac.html
+   🏷️ 标签: 上市, H200, 合作, 十亿, AI
+
+5、🔥 4月1日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。 SHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底制造等领域提
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3747870039147016?f=rss
+   🏷️ 标签: AI, 突破, 融资, 投资
+
+6、🔥 4月1日消息，信息爆炸时代，炒股最怕 消息滞后、真假难辨、抓不住涨跌核心 。刷遍新闻、研报、股吧，仍看不清市场全貌？36 氪重磅推出 企业全情报微信小程序 ，以 AI 大模型 + 独家舆情大数据，为普通投资者打造机构级情报工具，一键看透股价逻辑、精准把握投资先机36氪。 一、硬核实力：机构级数据，普通人也能用 小程序由 36 氪联合 红麦聚信 倾力打造，依托 17 年大数据技术沉淀，实现 全网 7×24 小时实
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3747662784332289?f=rss
+   🏷️ 标签: 投资, 上市, 领先, 监控, AI
+
+7、🔥 4月1日，韩国产业通商部发布的“3月进出口动向”资料显示，3月韩国出口额同比增加48.3%，为861.3亿美元，创下单月最高纪录。其中，半导体出口额同比猛增151.4%，首次突破300亿美元关口，为328.3亿美元。此外，汽车出口同比增加2.2%，为63.7亿美元。石油产品出口额增加54.9%，为51亿美元。（界面）
+   📋 入选理由: 影响力评分: 236.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3747993654706949?f=rss
+   🏷️ 标签: 发布, 突破, 首次
+
+8、🔥 4月1日消息，现场拍摄 文 | 阿至 我们似乎比以往任何时候都更相信技术本身的力量。 过去3年，在这场由AI所掀起的创业浪潮中，技术正以前所未有的速度，被赋予创造一切、解决一切的宏大叙事。参数在迭代，估值在飙升，钱的流动此起彼伏。 然而在这种高速的，甚至有些喧嚣的确定性之外， 那些勇敢做出选择、推动改变发生的、具体的人，才是创造变革的原点。 基于这一原点，我们组织了一场「离线聚会」 。作为36氪全新的超轻量线下
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3747976260174341?f=rss
+   🏷️ 标签: AI, 估值, 创新, 投资
+
+9、🔥 4月1日消息，3 月 30 日，由深圳市人工智能产业办公室指导，自变量机器人、深圳市人工智能行业协会与广东省具身智能训练场联合主办的全球首届具身智能开发者大会（EAIDC 2026）暨「具亮计划」黑客松・大湾区巅峰赛在深圳落幕。 作为全球首个大型线下具身智能基础模型真机操作黑客松，本次赛事吸引上百支队伍报名，覆盖清华、北大、浙大等顶尖高校、科研院所及高新企业，最终 20 支队伍共约 60 人晋级决赛，赛事成果远
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/ZEAdyGmKOaZudN7N.html
+   🏷️ 标签: 人工智能, 开放, CEO, 开源, 领先
+
+10、🔥 4月1日消息，3月31日，“人形机器人第一股”优必选（股份代码：9880.HK）发布2025年全年业绩报告。报告显示，2025年公司核心业务实现重大突破，人形机器人业务收入增长强劲。其中，全尺寸具身智能人形机器人（非遥控非玩具，身高160cm以上）表现亮眼，收入达8.2亿元，同比增长2203.7%，销量达1079台，同比增长35866.7%，收入、销量均位列全球第一，标志着优必选在全球人形机器人产业的领导地位。
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/jaF9J09x7q4qwLOZ.html
+   🏷️ 标签: 突破, 开源, 发布, AI, 大模型
+
+11、🔥 4月1日消息，字节跳动Seed正式启动大模型人才校招，下设2027届应届生招聘和在校实习生招聘。据悉，今年Seed将加大人才投入，本次在全球招募的2027届大模型人才将达到约100位。 在招聘标准上，Seed大模型校招保持了此前的业界最高水准，希望寻找有极强技术信仰和高远目标、具备出色研究和实践能力、极具好奇心和自驱力的人才。除需在大模型某一领域有深刻的技术见解和代表性工作外，Seed更看重人才是
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ZMIJxUutAtwnKQVD.html
+   🏷️ 标签: 突破, 领先, 发布, AI, 大模型
+
+12、🔥 4月1日消息，2026年3月27日，上海徐汇西岸国际会议中心，一场关于AI时代人才与产业深度融合的对话正在展开。作为2026全球开发者先锋大会（GDPS2026）的重要论坛之一，以“科创共生 聚力向新”为主题的科创合伙人生态大会，汇聚了中国国家创新与发展战略研究会学术委员会常务副主席、重庆市原市长黄奇帆，上海交通大学安泰经济与管理学院副院长、中银科技金融学院执行院长刘少轩，上海交通大学智能计算研究院院长、杉数科
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/8HVNSrjgHOAE9oOs.html
+   🏷️ 标签: 突破, 人工智能, 投资, 合作, AI
+
+13、🔥 4月1日消息，近日，MOVA 生态链企业零界奇点（MOVA TPEAK）宣布完成新一轮数千万级融资。本轮资金将重点投向核心技术研发、产品矩阵扩容、全球渠道布局三大方向，公司以大健康为战略级赛道，依托 “AI + 音频” 双引擎与成熟工程化能力，加速构建覆盖智能穿戴、AI 创新硬件、大健康的舒适健康生态。 零界奇点公司成立半年，完成Clip Pro开放式耳夹耳机从技术研发到产品全球上市，自研开放式耳挂运动耳机即将
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/l6KSd2EjIOyJVC5b.html
+   🏷️ 标签: 开放, 上市, AI, 创新, 融资
+
+14、🔥 4月1日消息，今日热点导览 苹果官方称“锁定模式”至今无人攻破 红果回应普通人形象被AI短剧盗脸，涉事角色部分画面已替换 国内航线燃油附加费上涨通知被撤回 达美乐比萨任命Nicola Frampton为CEO 美国太空探索技术公司一颗“星链”卫星失联 澳洲联储宣布10月起取消银行卡支付的附加费 TOP3大新闻 Patagonia客服回应收取“地球使用费”：属实，计划试行一个月 近日，户外运动品牌Patagoni
+   📋 入选理由: 影响力评分: 175.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3747503534899976?f=rss
+   🏷️ 标签: 法案, CEO, 首次, AI, 大模型
+
+15、🔥 4月1日消息，近日，在北京市消费者协会的一场扫地机产品测试中，追觅扫地机以综合评分五星的成绩脱颖而出，成为此次测试中最受推荐的产品，在众多扫地机中一骑绝尘。 北京市消费者协会在测评结论中称：“追觅S50 Pro在多项核心指标上均获五星，表现全面。”这意味着，无论是在满足多场景需求，还是在技术前沿性上，追觅S50 Pro都达到了行业顶尖水平，做到了真正的全面均衡。 追觅S50 Pro在边角清洁、拖地清洁、基站自清
+   📋 入选理由: 影响力评分: 170.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/VKIBG1g17zGTb0vO.html
+   🏷️ 标签: 突破, 领先
+
+16、🔥 4月1日消息，“这次的财报会，李想本人的表达是不work的，每句话都有无数个然后，明显不是过去那么强势的输出风格了。”一个接近理想汽车的人士评价。 无论是财报会的概述，还是回答投资者的提问，李想的发言中时有停顿、重复和磕绊，但也在L系列换代、纯电车型调整等一些关键问题上，又声量提高，显得激动又昂扬——一个半小时的财报电话会上，人们能轻易地感知到他压力与信心交织的复杂内心。 过去一年，理想汽车全力转型具身智能企业
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/0kC794IgkRe6D387.html
+   🏷️ 标签: 上市, AI, 投资
+
+17、🔥 4月1日消息，解锁AI视频沉浸式观感
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/04/394373.html
+   🏷️ 标签: Sora, AI
+
+18、🔥 4月1日消息，36氪创投研究院的朋友们： 新春好！ 2026的整个春天，创投圈显得格外忙碌：大家或许在养虾、参加龙虾活动；或许在钻研技术、敲代码；或许在寻觅并肩作战的队友；亦或不断在各个AI APP中反复横跳.... 现在正是AI春暖花开之时，暗涌Waves的2026年度调研规划也随之官宣！ 2025过去一年，我们见证了AI从实验室的静默代码，破土成为改变产业底座的显学。暗涌发布了96篇文章，不断追踪报道一级市
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3747982127481345?f=rss
+   🏷️ 标签: 发布, AI, 投资
+
+19、🔥 4月1日消息，CES 2026 期间，Vocci Ring作为全球首款 AI 笔记戒指正式亮相，获得 4 项行业大奖。 在智能戒指赛道长期拥挤在心率、睡眠等健康监测领域的背景下，Vocci Ring 的出现展示另一条路线：从生理数据采集转移到声学交互与生产力工具属性上。这种垂直化的取舍，使其在特定细分市场，如记者、律师、金融从业者及创意工作者中，具有比通用型可穿戴设备更强的工具属性。 全球首款AI笔记戒指Voc
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3746892878480132?f=rss
+   🏷️ 标签: 发布, 隐私, AI
+
+20、🔥 4月1日消息，能看能听能唠嗑，还能现场vibe coding
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/03/393941.html
+   🏷️ 标签: SOTA, AI
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 4月1日消息，Bloomberg’s Matt Miller takes a look at Nvidia’s $2 billion investment in Marvell, part of an agreement to collaborate on silicon photonics technology. Plus, the debt binge fueling the AI boom continu
+   📋 入选理由: 影响力评分: 367.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-31/bloomberg-tech-3-31-2026-video
+   🏷️ 标签: CEO, partnership, billion, valuation, AI
+
+2、🔥 4月1日消息，Valar Atomics, the nuclear energy startup backed by Anduril Industries Inc. founder Palmer Luckey and Palantir Technologies Inc. executive Shyam Sankar, has raised fresh capital at a valuation of $2 b
+   📋 入选理由: 影响力评分: 255.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-31/palmer-luckey-backed-nuclear-startup-valar-lands-2-billion-valuation
+   🏷️ 标签: billion, AI, founder, valuation
+
+3、🔥 4月1日消息，Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. On today'
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-04-01/daybreak-europe-4-1-2026-video
+   🏷️ 标签: billion, AI, valuation
+
+4、🔥 4月1日消息，OpenAI has completed a deal to raise $122 billion from investors at an $852 billion valuation, marking the company’s largest funding round to date. Shirin Ghaffary has more on "Bloomberg The Close." (
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-31/openai-completes-deal-to-raise-122-billion-video
+   🏷️ 标签: billion, AI, valuation
+
+5、🔥 4月1日消息，OpenAI has completed a deal to raise $122 billion from investors at an $852 billion valuation, marking the company’s largest funding round to date by far and bolstering its costly push for more chips,
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-03-31/openai-valued-at-852-billion-after-completing-122-billion-round
+   🏷️ 标签: billion, AI, valuation
+
+6、🔥 4月1日消息，Wearable device maker eyes IPO after raising $575mn from sovereign wealth funds and top athletes
+   📋 入选理由: 影响力评分: 240.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0a1e069c-adfd-4ea7-9472-0ff64bb63e25
+   🏷️ 标签: IPO, AI, valuation
+
+7、🔥 4月1日消息，arXiv:2603.29366v1 Announce Type: new Abstract: Prior authorization remains one of the most burdensome administrative processes in U.S. healthcare, consuming billions of dollars and thousands of physi
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.29366
+   🏷️ 标签: fine, Gemini 2, billion, large language model, Sonnet
+
+8、🔥 4月1日消息，OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/
+   🏷️ 标签: billion, AI, IPO
+
+9、🔥 4月1日消息，arXiv:2603.29199v1 Announce Type: new Abstract: The AEC-Bench is a multimodal benchmark for evaluating agentic systems on real-world tasks in the Architecture, Engineering, and Construction (AEC) doma
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.29199
+   🏷️ 标签: reasoning, AI, valuation, multimodal
+
+10、🔥 4月1日消息，arXiv:2603.28906v1 Announce Type: new Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented am
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.28906
+   🏷️ 标签: AGI, AI, artificial general intelligence
+
+11、🔥 4月1日消息，The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+   🏷️ 标签: billion, AI, IPO
+
+12、🔥 4月1日消息，Perplexity AI Inc. was accused in a lawsuit of surreptitiously sharing the personal information of its users with Meta Platforms Inc. and Alphabet Inc.’s Google in violation of California privacy laws
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google
+   🏷️ 标签: AI, lawsuit, privacy
+
+13、🔥 4月1日消息，Muddy Waters Capital founder and CEO Carson Block says investors are underestimating the risk AI poses to the labor market and US economy. Speaking on "Bloomberg The Close," Block also comments on cre
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-31/carson-block-warns-about-ai-talks-etfs-and-credit-video
+   🏷️ 标签: AI, CEO, founder
+
+14、🔥 4月1日消息，Jason Trost, CEO of Smarkets, joins Scarlet Fu and Tim Stenovec on "Bloomberg Crypto." They discuss the recent pushback against prediction markets. (Source: Bloomberg)
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-03-31/prediction-markets-shouldn-t-include-everything-trost-video
+   🏷️ 标签: AI, CEO, joins
+
+15、🔥 4月1日消息，Saronic's latest funding round more than doubles its valuation to $9.25 billion from the prior fundraising early last year.
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html
+   🏷️ 标签: billion, AI, valuation
+
+16、🔥 4月1日消息，Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.
+   📋 入选理由: 影响力评分: 152.0
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/
+   🏷️ 标签: AI, launches
+
+17、🔥 4月1日消息，Anthropic PBC inadvertently released source code for its popular Claude AI agent, raising questions about its operational security and sending developers on a search for clues about the startup’s plan
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent
+   🏷️ 标签: AI, releases
+
+18、🔥 4月1日消息，CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion.
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html
+   🏷️ 标签: billion, merger
+
+19、🔥 4月1日消息，In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
+   🏷️ 标签: reasoning, AI, large language model, LLM
+
+20、🔥 4月1日消息，arXiv:2603.29211v1 Announce Type: new Abstract: In recent years, multimodal large models have continued to improve on general benchmarks. However, in real-world content moderation and adversarial sett
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2603.29211
+   🏷️ 标签: fine, AI, alignment, multimodal
+
+
+======================================================================
+📊 今日总结: 今日从167条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：佑驾创新2025年营收、毛利再创新高，L4首年营收狂飙6500万；2026全球开发者先锋大会圆满落幕，近 5 万人共赴上海之约；宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发。
+======================================================================
