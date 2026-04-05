@@ -1,0 +1,158 @@
+======================================================================
+AI每日动态 - 2026-04-05
+生成时间: 2026-04-05 08:33:38
+数据来源: 从 40 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、4月5日消息，香港特区政府财政司司长陈茂波发表网志称，新股上市方面，香港今年首季IPO市场延续去年强势，截至3月27日，集资额已超过1030亿港元，全球排行第一；连同后续融资等，筹资总规模约2370亿港元。更重要的是，来港上市企业愈来愈多属新兴产业——人工智能、半导体、机械人、自动驾驶、生物科技等。目前轮候来港上市的申请个案已超过500宗。可以说，当外围环境愈不明朗，更多企业视香港为融资与“出海”发展的重要窗口
+2、4月5日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。 AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体
+3、4月4日消息，发布仅1天的阿里千问新模型Qwen3.6-Plus，冲上全球知名大模型API调用平台OpenRouter的日榜榜首，成为当下最受企业和开发者热捧的大模型。OpenRouter官方数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。 图说：OpenRouter社媒官宣截图，称Qwen3.6-Plus破纪录，是“最强劲的新模型表
+4、4月5日消息，雷峰网获悉 2026年4月2日，泉智博“高爆发一体化关节自动化产线”在无锡正式投产。高爆发一体化关节作为人形机器人的动力核心，其成本占整机近50%，量产能力直接决定了人形机器人产业化进程。 该产线标志着高爆发一体化关节量产瓶颈的实质性突破，为人形机器人规模化应用按下“加速键”。 泉智博获过亿元A+轮融资 继2025年9月圆满完成A轮融资后，泉智博近期又获得过亿元A+轮融资。此次新工厂的投产是融资落
+5、4月5日，香港特区政府财政司司长陈茂波发文称，2026年第一季度刚过去，全球局势仍然复杂多变，中东地区冲突的阴霾持续困扰市场情绪。受外部因素拖累，本港股市出现回调，恒生指数今年来下跌约2%，但交易活跃，首两月日均成交额超过2600亿港元，按年升17%。踏入3月，市况更为活跃，港股日均成交额超过3000亿港元，较去年同期增加逾8%。这反映在不明朗形势下，投资者增加在此配置资产，除了视香港为资金可靠避
+
+国际动态：
+1、4月5日消息，Russia’s attempts to restrict the use of virtual private networks amid a clampdown on the Telegram messaging platform triggered the widespread banking outage seen across the country this week, the ser
+2、4月5日消息，Napster CEO John Acunto explains how the company has been reimagined, shifting focus from traditional music streaming to what they call "streaming intelligence." Watch his full interview on Bloomberg 
+3、4月5日消息，Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.
+4、4月5日消息，This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural an
+5、4月5日消息，Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's 
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 4月5日消息，香港特区政府财政司司长陈茂波发表网志称，新股上市方面，香港今年首季IPO市场延续去年强势，截至3月27日，集资额已超过1030亿港元，全球排行第一；连同后续融资等，筹资总规模约2370亿港元。更重要的是，来港上市企业愈来愈多属新兴产业——人工智能、半导体、机械人、自动驾驶、生物科技等。目前轮候来港上市的申请个案已超过500宗。可以说，当外围环境愈不明朗，更多企业视香港为融资与“出海”发展的重要窗口
+   📋 入选理由: 影响力评分: 307.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753419658806022?f=rss
+   🏷️ 标签: 融资, 上市, IPO, 人工智能
+
+2、🔥 4月5日消息，作者｜黄楠 编辑｜袁斯来 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。 AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体
+   📋 入选理由: 影响力评分: 245.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3752260051616512?f=rss
+   🏷️ 标签: 创新, AI, 融资, 投资
+
+3、🔥 4月4日消息，发布仅1天的阿里千问新模型Qwen3.6-Plus，冲上全球知名大模型API调用平台OpenRouter的日榜榜首，成为当下最受企业和开发者热捧的大模型。OpenRouter官方数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。 图说：OpenRouter社媒官宣截图，称Qwen3.6-Plus破纪录，是“最强劲的新模型表
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/pWoHJBvmcpwoaqRM.html
+   🏷️ 标签: 大模型, 上线, 发布, AI, 突破
+
+4、🔥 4月5日消息，雷峰网获悉 2026年4月2日，泉智博“高爆发一体化关节自动化产线”在无锡正式投产。高爆发一体化关节作为人形机器人的动力核心，其成本占整机近50%，量产能力直接决定了人形机器人产业化进程。 该产线标志着高爆发一体化关节量产瓶颈的实质性突破，为人形机器人规模化应用按下“加速键”。 泉智博获过亿元A+轮融资 继2025年9月圆满完成A轮融资后，泉智博近期又获得过亿元A+轮融资。此次新工厂的投产是融资落
+   📋 入选理由: 影响力评分: 200.0
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/TKvC6lx8Q7TzO0NN.html
+   🏷️ 标签: 突破, 监控, 融资, 创新
+
+5、🔥 4月5日，香港特区政府财政司司长陈茂波发文称，2026年第一季度刚过去，全球局势仍然复杂多变，中东地区冲突的阴霾持续困扰市场情绪。受外部因素拖累，本港股市出现回调，恒生指数今年来下跌约2%，但交易活跃，首两月日均成交额超过2600亿港元，按年升17%。踏入3月，市况更为活跃，港股日均成交额超过3000亿港元，较去年同期增加逾8%。这反映在不明朗形势下，投资者增加在此配置资产，除了视香港为资金可靠避
+   📋 入选理由: 影响力评分: 195.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753627196097026?f=rss
+   🏷️ 标签: 上市, 投资
+
+6、🔥 4月5日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。 霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精
+   📋 入选理由: 影响力评分: 182.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3753526848897792?f=rss
+   🏷️ 标签: 融资, AI, 开源, 领先
+
+7、🔥 4月5日消息，彻底奔着AGI去的模型
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/04/396366.html
+   🏷️ 标签: AGI, GPT-6
+
+8、🔥 4月5日消息，开源开发者的赛博马鞭
+   📋 入选理由: 影响力评分: 150.0
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/04/396358.html
+   🏷️ 标签: AI, 开源
+
+9、🔥 4月3日，王府井集团（600859.SH）发布关于终止转让子公司股权的公告。公告显示，2024年10月29日，王府井第十一届董事会第十四次会议审议通过了《关于公开挂牌出让子公司股权的议案》，同意公司通过北京产权交易所公开挂牌转让旗下全资子公司北京王府井百货商业物业管理有限公司100%股权，首次挂牌价格不低于经国资评估备案后的评估值。（澎湃新闻）
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753591788323589?f=rss
+   🏷️ 标签: 首次, 发布, 估值
+
+10、🔥 4月5日消息，唯一原生支持指代消解，Benchmark现象级领先
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/04/396069.html
+   🏷️ 标签: AI, 领先
+
+11、🔥 4月5日凌晨，艺人易烊千玺工作室发布声明称，近日，工作室发现部分网络平台传播擅自使用易烊千玺肖像等生成的AI剧集，易烊千玺未曾参演相关剧集，也未授权第三方将其肖像等进行AI合成。截至发稿，《午夜公车》《骗我投个好胎？》在红果短剧上已被下架。但同样上架相关作品的百度暂未进行人物形象调整或下架处理。红果短剧人工客服回应称：为积极响应治理要求，相关短剧已下架。红果短剧官方对记者回应称：相关内容已完成修改
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753578181214721?f=rss
+   🏷️ 标签: 发布, AI
+
+12、🔥 4月5日消息，斯德哥尔摩消息：瑞典隆德大学日前宣布，该校参与研发出一种新型人工智能（AI）模型，可通过单次血液检测辅助识别多种神经退行性疾病，为相关疾病早期筛查和辅助诊断提供新思路。隆德大学发布的新闻公报说，不同神经退行性疾病在早期往往表现出相似症状，与年龄相关的认知功能下降成因也较为复杂，患者大脑中还可能同时存在多种相互重叠的病理过程，进一步增加了临床诊断难度。（新华社）
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753563457831433?f=rss
+   🏷️ 标签: 发布, AI, 人工智能
+
+13、🔥 4月5日消息，2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。 现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。 图片由智能涌现拍摄 和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3752115857638145?f=rss
+   🏷️ 标签: 开源, CEO
+
+14、🔥 4月5日消息，日调用量突破1.4万亿Token
+   📋 入选理由: 影响力评分: 127.5
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/04/396346.html
+   🏷️ 标签: 突破
+
+15、🔥 4月4日深夜，张雪机车创始人张雪发布视频，回应了自己此前说重庆“一个子儿都没有”的言论。他表示，自己当时想的是没有拿过政府的钱，“也想装一下，我自己就能干这么酷的事情”。张雪强调，正因为有重庆这么好的土壤，张雪机车才有可能在两年之内取得今天的成绩。张雪称，张雪机车之所以选择重庆，是因为重庆是摩托车配套资源最丰富、全国工业制造门类最齐全的城市，尤其是在高性能重机和人才方面。张雪机车的工程师和中高层管
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753624861065734?f=rss
+   🏷️ 标签: 发布
+
+16、🔥 4月5日消息，民政部指导开发的中国殡葬网（https://www.zgbznet.com.cn）今天正式上线运行，面向社会公众提供权威的殡葬信息服务。网站收录全国殡葬服务机构信息，构建各地“身后事一次办”政务服务入口矩阵，提供在线查询机构信息、办理身后事项等功能。（央视新闻）
+   📋 入选理由: 影响力评分: 117.0
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753616341320452?f=rss
+   🏷️ 标签: 上线
+
+17、🔥 4月5日，记者今天从国家能源集团获悉，龙源电力海南启源海上风电项目首批机组正式并网发电，这标志着我国大容量海上风电机组规模化运营实现新突破。启源海风场位于海南省东方市西侧海域。离岸距离约12公里，水深介于12至26.5米之间，总面积近27.24平方公里。设计安装22台10兆瓦和20台14兆瓦风电机组，总装机容量500兆瓦。这次首批投产的50兆瓦风电装机，预计年发电量1.5亿度。（央视新闻）
+   📋 入选理由: 影响力评分: 110.5
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3753608611644165?f=rss
+   🏷️ 标签: 突破
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 4月5日消息，Russia’s attempts to restrict the use of virtual private networks amid a clampdown on the Telegram messaging platform triggered the widespread banking outage seen across the country this week, the ser
+   📋 入选理由: 影响力评分: 172.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says
+   🏷️ 标签: founder, billion, AGI, AI
+
+2、🔥 4月5日消息，Napster CEO John Acunto explains how the company has been reimagined, shifting focus from traditional music streaming to what they call "streaming intelligence." Watch his full interview on Bloomberg 
+   📋 入选理由: 影响力评分: 157.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-04-04/napster-is-evolving-in-the-ai-era-video
+   🏷️ 标签: AI, AGI, CEO
+
+3、🔥 4月5日消息，Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.
+   📋 入选理由: 影响力评分: 145.0
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/
+   🏷️ 标签: AI, national security
+
+4、🔥 4月5日消息，This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural an
+   📋 入选理由: 影响力评分: 125.5
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/national-robotics-week-2026/
+   🏷️ 标签: AI, breakthrough
+
+5、🔥 4月5日消息，Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's 
+   📋 入选理由: 影响力评分: 112.5
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/
+   🏷️ 标签: AI, IPO
+
+6、🔥 4月5日消息，OpenAI President Greg Brockman will oversee product in Simo's absence.
+   📋 入选理由: 影响力评分: 105.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html
+   🏷️ 标签: AI, announces
+
+7、🔥 4月5日消息，Extension cords are fine for smaller devices, but some appliances can be dangerous to use with them, particularly in cold weather.
+   📋 入选理由: 影响力评分: 100.0
+   📰 来源: ZDNet AI | 🔗 https://www.zdnet.com/article/dont-plug-common-household-gadgets-into-an-extension-cord/
+   🏷️ 标签: fine
+
+
+======================================================================
+📊 今日总结: 今日从40条原始信息中精选出17条国内动态和7条国际动态，其中24条为高重要性。 重点关注：香港财政司司长陈茂波：目前轮候来港上市申请个案已超过500宗；高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发；阿里千问3.6Plus大模型登顶全球模型调用排行榜首。
+======================================================================
