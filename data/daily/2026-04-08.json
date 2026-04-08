@@ -1,0 +1,731 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08 08:52:30",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+      "summary": "4月8日消息，36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。 成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让 AI 具备",
+      "importance": "高",
+      "reason": "影响力评分: 455.0",
+      "tags": [
+        "投资",
+        "上市",
+        "创新",
+        "估值",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3750675963904513?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 02:00:00",
+      "impact_score": 455.0
+    },
+    {
+      "index": 2,
+      "title": "SpaceX太抢风头，美股分析师担忧美国IPO市场或反受其累",
+      "summary": "4月8日消息，今年美股IPO市场预计迎来SpaceX、Anthropic和OpenAI等重量级公司，但其超大估值可能吸干投资者需求。Renaissance Capital高级策略师Matt Kennedy警告，历史经验表明，像SpaceX这样的大型IPO会吸走市场的人气，2012年的Facebook上市就是如此。各家公司不会希望让SpaceX掩盖自己交易的进展，因此在SpaceX上市前后几周，上市活动可能放缓。",
+      "importance": "高",
+      "reason": "影响力评分: 405.0",
+      "tags": [
+        "投资",
+        "上市",
+        "估值",
+        "IPO",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3757851824538370?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-08 07:31:19",
+      "impact_score": 405.0
+    },
+    {
+      "index": 3,
+      "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
+      "summary": "4月8日消息，大公司： 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布 4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报） 名创优品：预计2026年",
+      "importance": "高",
+      "reason": "影响力评分: 322.5",
+      "tags": [
+        "投资",
+        "估值",
+        "发布",
+        "监控",
+        "收购"
+      ],
+      "url": "https://36kr.com/p/3756523983536905?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 11:16:08",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "第一视角效率超过真机，深度机智发布全球首个以人类学习范式构建的具身基座模型",
+      "summary": "4月8日消息，2026年，具身智能的泡沫与烈火同时燃烧。 宇树科技递交招股书，估值冲击百亿；Figure AI、Physical Intelligence等美国公司融资额屡创新高，将行业热度推向顶点。国内创业公司紧急跟进——堆数据、抢场景、拼本体，十万小时真机数据成为新的军备竞赛标的。 但喧嚣之下，一个尴尬的共识正在形成：没有人知道正确的技术路线究竟是什么。遥操作、仿真合成、互联网视频、人类第一视角……数据类型",
+      "importance": "高",
+      "reason": "影响力评分: 300.0",
+      "tags": [
+        "创新",
+        "估值",
+        "发布",
+        "AI",
+        "SOTA"
+      ],
+      "url": "https://www.leiphone.com/category/ai/BLS2oRfBOj5bwGyP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:04:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
+      "summary": "4月8日消息，八小时造了个Linux系统",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "开源",
+        "Opus"
+      ],
+      "url": "https://www.qbitai.com/2026/04/397898.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-08 06:29:23",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "华为汪涛当值轮值董事长，孟晚舟谈战略聚焦；Claude Code源码意外「被开源」，51万行代码令全网狂欢；奇瑞宣布放1天春假，还用年假抵扣",
+      "summary": "4月8日消息，要闻提示 1.低级失误致史诗级泄露！Claude Code源码意外“被开源”，51万行代码令全网狂欢 2.华为汪涛当值轮值董事长，孟晚舟致辞谈战略聚焦 3.奇瑞宣布放春假：仅1天，还用年假抵扣！ 4.清明节祭祀用品与时俱进！有OpenClaw、DeepSeek等AI纸扎模型，网友：希望爷爷喜欢 5.武汉萝卜快跑集体“瘫痪”？多名乘客称被困在高架上或主干道上，交警通报 6.Nature称中国基础研究",
+      "importance": "高",
+      "reason": "影响力评分: 270.0",
+      "tags": [
+        "上市",
+        "估值",
+        "发布",
+        "AI",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 00:30:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "独家丨雷军马云罕见握手，千寻智能30天完成30亿元融资",
+      "summary": "4月8日消息，据AI科技评论独家获悉，2026年4月7日，千寻智能完成新一轮10亿元融资。本轮融资由顺为资本、云锋基金联合领投，达晨财智、某头部人民币基金、银河源汇、图灵基金、新鼎资本、庚辛资本等重磅加持。 这距离该公司2月份完成的近20亿元融资，仅过去30天。（雷峰网） 30天内两轮融资累计30亿元，千寻智能成为2026年融资节奏最迅猛的具身公司之一。 和具身领域其他融资case不同，千寻本轮融资的最大看点，",
+      "importance": "高",
+      "reason": "影响力评分: 250.0",
+      "tags": [
+        "投资",
+        "发布",
+        "AI",
+        "首次",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/ai/ipevOwCEqpoqypW9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:12:00",
+      "impact_score": 250.0
+    },
+    {
+      "index": 8,
+      "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
+      "summary": "4月8日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，AR显示技术企业——赛富乐斯近日已完成3亿元C轮融资。本轮投资方包括西安西高投繁星投资基金、无锡市梁溪科创产业投资二期基金、安徽金安产业引导基金、上海吉六零山海松金创业投资基金、西安财金龙门成长股权投资合伙企业、西安市人才发展基金等多家机构。资金将主要用于加速AR用全彩微显示屏的量产交付。 赛富乐斯成立于2017年，是一家从耶鲁大学实验室走出的光电半导体企业。公",
+      "importance": "高",
+      "reason": "影响力评分: 245.0",
+      "tags": [
+        "投资",
+        "突破",
+        "融资",
+        "CEO"
+      ],
+      "url": "https://36kr.com/p/3756111263384071?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 01:57:48",
+      "impact_score": 245.0
+    },
+    {
+      "index": 9,
+      "title": "达闼科技陨落一周年：具身独角兽的消亡史",
+      "summary": "4月8日消息，2026年春天，具身智能行业正在迎接一场资本化浪潮。宇树科技冲刺A股，智元机器人筹备港股，星海图、傅利叶智能等完成股改，众多具身公司估值已经突破百亿。让资本站队，似乎成了具身公司提升安全感的不二法则。 但从历史的角度看，高估值并不代表着稳定。最典型的案例，就是曾经的具身独角兽——达闼机器人。 这家由创始人黄晓庆花了10年时间搭建起的具身大厦，估值曾超过200亿元，却在一年多前经历了瞬间垮塌。到底是",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "突破",
+        "百亿",
+        "融资",
+        "估值"
+      ],
+      "url": "https://www.leiphone.com/category/ai/wzcQ6oXkI7YqxGV2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:09:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 10,
+      "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+      "summary": "4月8日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，苏州灵动佳芯科技有限公司（下称“灵动佳芯”）近期完成A轮融资，融资金额近亿元。本轮融资引入锦秋基金、中芯聚源、瑞丞投资、润璋创投等多家产业方与财务投资机构，慕石资本担任长期战略财务顾问。 灵动佳芯成立于2021年，是一家基于压电材料与半导体技术开发传感器解决方案的企业，应用场景覆盖智能机器人、智能穿戴、新能源与锂电池等多个领域。 创始核心团队均出身于国",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "投资",
+        "融资",
+        "领先"
+      ],
+      "url": "https://36kr.com/p/3757589543813893?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-08 02:58:42",
+      "impact_score": 230.0
+    },
+    {
+      "index": 11,
+      "title": "36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展",
+      "summary": "4月8日消息，作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，兴荣新源（厦门）科技有限公司（以下简称“兴荣新源”）近日完成了数千万元天使轮融资，由蓝图创投和厦门高新投共同投资，融资资金将主要用于研发投入及扩大产能。 兴荣新源成立于2022年，总部位于厦门市，致力于钠离子电池正极材料的研发、生产和销售，公司围绕复合磷酸铁钠（NFPP）技术路线，构建了系统化的材料设计与工艺能力。 兴荣新源的技术优势主要体现在材料设计",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "投资",
+        "融资",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3756486340199170?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 08:16:13",
+      "impact_score": 230.0
+    },
+    {
+      "index": 12,
+      "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
+      "summary": "4月8日消息，全面加速全球化业务布局",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "投资",
+        "融资"
+      ],
+      "url": "https://www.qbitai.com/2026/04/397912.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-08 06:39:06",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "产品观察 | 追觅入局智能床垫赛道，3个月公司估值10亿",
+      "summary": "4月8日消息，作者 | 乔钰杰 编辑 | 袁斯来 中国每年向全球出口价值100亿的床垫，但很长一段时间，智能床垫行业的明星公司并不诞生于此地。 这个行业的明星创业者，是一个来自意大利小城费拉拉的业余运动员。2014年，他在纽约和妻子成立了一家智能床垫公司Eight Sleep，如今每年卖出5亿美元，估值达到15亿美元。 毫无意外，Eight Sleep的代工厂和研发伙伴都在珠三角。在看到Eight Sleep让",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "发布",
+        "AI",
+        "融资",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3757587705873158?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-08 02:56:54",
+      "impact_score": 225.0
+    },
+    {
+      "index": 14,
+      "title": "破局同质化内卷 追觅N40pro肩颈按摩器以首创可更换按摩头技术解锁个护赛道B端新增量",
+      "summary": "4月8日消息，近日，智能科技品牌追觅旗下健康生活版块正式发布N40pro肩颈按摩器，针对当前个护健康市场肩颈按摩品类同质化严重、用户多元需求难以满足的行业痛点，以行业首创的可替换旋转式颈部揉捏按摩头为核心技术突破，搭载6D深层揉捏、全域光疗热敷等全维创新配置，为职场人群、品质中产、中老年及全家庭用户打造定制化、全场景的肩颈放松解决方案，更为行业B端合作伙伴开辟了差异化竞争的全新增长赛道。 从“众口难调”到“一机",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "合作",
+        "发布",
+        "创新",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/XkT4gARrn7J6p6Az.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 06:35:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "中恒电气：控股股东中恒科技投资拟接受宁德时代增资",
+      "summary": "4月8日消息，36氪获悉，中恒电气公告，为促进实现公司与宁德时代新能源科技股份有限公司的战略合作，公司控股股东杭州中恒科技投资有限公司拟接受宁德时代对其进行增资。宁德时代拟以41亿元认购中恒科技投资新增注册资本人民币1441.18万元，出资方式为货币及股权。",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "合作",
+        "投资"
+      ],
+      "url": "https://36kr.com/newsflashes/3757870486061574?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-08 07:43:32",
+      "impact_score": 195.0
+    },
+    {
+      "index": 16,
+      "title": "什么样的龙虾，才是「一人公司」的心头好？",
+      "summary": "4月8日消息，AI 时代的商业世界，OPC（One Man Company，一人公司）的概念，正变得越来越火热。 如果，经营中过往那些繁重且细碎的杂事能交给 AI 打理，那么企业的生产力自然能够得到巨大的解放。过往的大模型和 Agent 虽然能力达标，却始终没法把能力实际落进使用场景，让一个普通人独力撑起一整家公司。 而 OpenClaw 的横空出世，则让这一切更加接近现实。 然而，今天有关这只“龙虾”的新闻稿",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "大模型",
+        "发布",
+        "AI",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/UmMgv35Das8qxXgN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:46:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 17,
+      "title": "完成超 1 亿美元融资，卡尔动力韦峻青：让无人重卡穿越大漠戈壁丨 L4 十人谈",
+      "summary": "4月8日消息，2005 年，美国国防高级研究计划局“DARPA”举办的第二届无人驾驶汽车挑战赛——DARPA Grand Challenge 在莫哈维沙漠举行，共有 23 支队伍进入决赛。 最终，斯坦福大学团队在 Sebastian Thrun 的带领下，其研发的“Stanley” 赛车力压卡内基梅隆大学团队的两辆改装悍马，以第一名的成绩完赛获得冠军，拿走了 200 万美金的赛事奖金。 自此，以 Google ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "合作",
+        "融资",
+        "CEO"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/ePZrQnd7yLg3rvcY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 05:59:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 18,
+      "title": "三星中国将大调整：只保留手机和存储部门，其余全撤；携程集团启动无理由事假管理实验：员工可无理由请假；美国AI三巨头封杀中国模型蒸馏",
+      "summary": "4月8日消息，要闻提示 1.严防死守！美国AI三巨头联手封杀中国模型蒸馏 2.三星中国将大调整：只保留手机和存储部门，其余全撤！ 3.美拟禁止向中国出口DUV光刻机：禁止中芯国际、长江长鑫等使用 4.辛巴现身直播高调收徒，旗下公司虚假宣传优思益等刚被罚32万 5.携程集团启动无理由事假管理实验：员工可无理由请假，最多45天 6.小米罗福莉开怼大模型“价格战”：建议 LLM 公司不要盲目压低价格 7.字节33亿元",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "IPO",
+        "AI",
+        "大模型",
+        "合作",
+        "LLM"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 00:46:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 19,
+      "title": "松应科技发布ORCA Lab 1.0：一场关于\"物理AI操作系统\"的国产替代暗战",
+      "summary": "4月8日消息，当英伟达CEO黄仁勋在2025年GTC大会上再次强调\"Omniverse是物理AI的操作系统\"时，上海松应科技创始人聂凯旋可能是最感同身受的中国创业者之一。 这位前华为云鲲鹏解决方案副总指挥，在2020年就敏锐捕捉到英伟达Omniverse的战略意图——那不仅仅是一个3D仿真工具，而是未来物理世界智能化的底层基础设施。五年后，他带领松应科技推出的ORCA3.0企业版和开发者版ORCA Lab 1.",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "发布",
+        "对齐",
+        "AI",
+        "CEO",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/ai/HDGEBADnaixxMsxl.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:18:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 20,
+      "title": "国务院国资委成立境外国资工作局",
+      "summary": "4月8日消息，36氪获悉，从国务院国资委获悉，国务院国资委新设境外国资工作局。主要职责：指导所监管企业国际化经营和境外资产布局优化、结构调整，承担所监管企业境外资产监督有关工作，加强境外投资经营等方面风险防范化解，承担境外突发事件和危机处理有关工作。",
+      "importance": "高",
+      "reason": "影响力评分: 160.0",
+      "tags": [
+        "投资",
+        "风险",
+        "监管"
+      ],
+      "url": "https://36kr.com/newsflashes/3757916815114754?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-08 08:30:39",
+      "impact_score": 160.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Musk Seeks Ouster of OpenAI CEO Sam Altman as Trial Looms",
+      "summary": "4月8日消息，Elon Musk is seeking to have OpenAI Chief Executive Officer and board member Sam Altman removed from his roles at the artificial intelligence startup as part of the billionaire’s legal challenge to th",
+      "importance": "高",
+      "reason": "影响力评分: 360.0",
+      "tags": [
+        "billion",
+        "Sam Altman",
+        "CEO",
+        "Elon Musk",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/musk-wants-openai-nonprofit-to-get-any-trial-winnings-from-suit",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 21:11:57",
+      "impact_score": 360.0
+    },
+    {
+      "index": 2,
+      "title": "Targeted consultation on measuring energy consumption and emissions of AI models and systems",
+      "summary": "4月8日消息，Targeted consultation on measuring energy consumption and emissions of AI models and systems Anonymous (not verified) Tue, 04/07/2026 - 12:00 Opening: 07 April 2026 Closing: 15 May 2026 Part of a broa",
+      "importance": "高",
+      "reason": "影响力评分: 315.0",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "fine",
+        "AI Act"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-measuring-energy-consumption-and-emissions-ai-models-and-systems",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-04-07 10:00:41",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "Quantum Risk Not Imminent for Crypto: Adam Back",
+      "summary": "4月8日消息，Adam Back, co-founder and CEO of Blockstream, joins Katie Greifeld and Tim Stenovec on \"Bloomberg Crypto.\" Google researchers warned that future quantum computers may be able to break some of the cryp",
+      "importance": "高",
+      "reason": "影响力评分: 247.5",
+      "tags": [
+        "joins",
+        "CEO",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/quantum-risk-not-imminent-for-crypto-adam-back-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 19:26:38",
+      "impact_score": 247.5
+    },
+    {
+      "index": 4,
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "summary": "4月8日消息，Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "valuation",
+        "billion"
+      ],
+      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-07 18:46:55",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
+      "summary": "4月8日消息，Elon Musk is seeking to have OpenAI CEO Sam Altman and President Greg Brockman removed from their roles as officers in the company as part of a lawsuit.",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "lawsuit",
+        "AI",
+        "Sam Altman",
+        "CEO",
+        "Elon Musk"
+      ],
+      "url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-07 23:34:15",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Eclipse Raises $1.3 Billion to Back Manufacturing, Robotics",
+      "summary": "4月8日消息，Venture firm Eclipse has raised $1.3 billion across two funds to back companies building the next era of physical industries like those in robotics, manufacturing, and energy. Lior Susan, the founder ",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "AI",
+        "billion",
+        "CEO",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/eclipse-raises-1-3b-to-back-manufacturing-robotics-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 19:19:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Intel Joins Musk’s Terafab Project With Tesla, SpaceX, xAI | Bloomberg Tech 4/7/2026",
+      "summary": "4月8日消息，Bloomberg’s Caroline Hyde and Ed Ludlow discuss Intel’s plan to join Elon Musk’s Terafab project with Tesla, SpaceX, and xAI. Plus, Broadcom and Google expand an agreement with Anthropic to power the ",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "Elon Musk"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/bloomberg-tech-4-7-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 21:01:28",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Clarity Act May Pass by July 'If Lucky': Sandra Ro",
+      "summary": "4月8日消息，Sandra Ro, Global Blockchain Business Council CEO, joins Katie Greifeld and Tim Stenovec on \"Bloomberg Crypto.\" They discuss the possible timeline for the passage of the Clarity Act and the increasing",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/clarity-act-may-pass-by-july-if-lucky-sandra-ro-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 19:16:38",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Intel joins Musk's Terafab in Surprise Move, Shares Jump",
+      "summary": "4月8日消息，Intel is joining Elon Musk’s Terafab project, a massive effort to develop in-house semiconductors for Tesla, SpaceX and xAI. The project aims to consolidate the entire chip-making lifecycle under one ",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "Elon Musk"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/intel-joins-musk-s-terafab-in-surprise-move-shares-jump-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 19:12:53",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Bezos’s Project Prometheus poaches xAI co-founder from OpenAI",
+      "summary": "4月8日消息，Kyle Kosic joins Project Prometheus, the secretive start-up working on systems that can understand the physical world",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "founder"
+      ],
+      "url": "https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-07 04:00:45",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Chinese Battery Maker Announces 11B Yuan Capacity Expansion Plan",
+      "summary": "4月8日消息，EVE Energy Co., one of China’s top lithium-ion battery makers, said it would build two new manufacturing plants with a combined annual capacity of 110 gigawatt-hours at a total cost of 11 billion yuan",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "announces",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/chinese-battery-maker-announces-11b-yuan-capacity-expansion-plan",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 04:07:49",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "On Verge of Tokenization Super Cycle: Sharplink CEO",
+      "summary": "4月8日消息，Sharplink CEO Joseph Chalom joins Katie Greifeld and Tim Stenovec on \"Bloomberg Crypto.\" They discuss the potential super cycle in tokenization. (Source: Bloomberg)",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "joins",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/on-verge-of-tokenization-super-cycle-sharplink-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 19:46:56",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Bitcoin is Not a Productive Asset: Sharplink CEO",
+      "summary": "4月8日消息，Joseph Chalom, CEO of Sharplink, joins Katie Greifeld and Tim Stenovec on \"Bloomberg Crypto.\" They discuss the rapid fall of digital asset treasury (DAT) stocks and the potential super cycle in tokeni",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "joins",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/bitcoin-is-not-a-productive-asset-sharplink-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 19:43:01",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Identifying Nonobvious AI Winners",
+      "summary": "4月8日消息，The HumanX conference is underway, highlighting developments in AI. Wesley Chan, managing partner at FPV, discusses some of the nonobvious industries where startups are leveraging AI. He joins Carolin",
+      "importance": "高",
+      "reason": "影响力评分: 157.5",
+      "tags": [
+        "AI",
+        "joins",
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/identifying-nonobvious-ai-winners-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 20:03:11",
+      "impact_score": 157.5
+    },
+    {
+      "index": 15,
+      "title": "Telenor Faces Lawsuit in Norway Over Data Protection in Myanmar",
+      "summary": "4月8日消息，Telenor ASA is facing a lawsuit in Norway over sharing data with authorities in Myanmar from its local customers who were suspected of opposing the 2021 coup.",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "lawsuit"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/telenor-faces-lawsuit-in-norway-over-data-protection-in-myanmar",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 08:37:24",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+      "summary": "4月8日消息，arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researc",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "LLM",
+        "fine",
+        "large language model",
+        "machine learning"
+      ],
+      "url": "https://arxiv.org/abs/2604.04937",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-08 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "Super Micro Launches Internal Probe of Server Sales to China",
+      "summary": "4月8日消息，Super Micro Computer Inc. said a committee of its independent directors has hired a law firm and is investigating the circumstances surrounding an indictment last month of two employees and a contract",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "launches"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/super-micro-launches-internal-probe-of-server-sales-to-china",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 20:38:29",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "Gemini is making it faster for distressed users to reach mental health resources",
+      "summary": "4月8日消息，Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "lawsuit",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-07 10:09:57",
+      "impact_score": 145.0
+    },
+    {
+      "index": 19,
+      "title": "Greece to Impose Social Media Ban for Children Under 15",
+      "summary": "4月8日消息，Greece will ban access to social media for children under 15, Prime Minister Kyriakos Mitsotakis said.",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AI",
+        "SOTA"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/greece-to-impose-social-media-ban-for-children-under-15",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 08:19:11",
+      "impact_score": 142.5
+    },
+    {
+      "index": 20,
+      "title": "Attribution Bias in Large Language Models",
+      "summary": "4月8日消息，arXiv:2604.05224v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly used to support search and information retrieval, it is critical that they accurately attribute content",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "investigation",
+        "AI",
+        "bias",
+        "large language model",
+        "LLM"
+      ],
+      "url": "https://arxiv.org/abs/2604.05224",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-08 04:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从156条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发；SpaceX太抢风头，美股分析师担忧美国IPO市场或反受其累；氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金。",
+  "statistics": {
+    "raw_domestic": 48,
+    "raw_international": 108,
+    "raw_total": 156,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月8日消息，36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。 成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让 AI 具备",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月8日消息，今年美股IPO市场预计迎来SpaceX、Anthropic和OpenAI等重量级公司，但其超大估值可能吸干投资者需求。Renaissance Capital高级策略师Matt Kennedy警告，历史经验表明，像SpaceX这样的大型IPO会吸走市场的人气，2012年的Facebook上市就是如此。各家公司不会希望让SpaceX掩盖自己交易的进展，因此在SpaceX上市前后几周，上市活动可能放缓。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月8日消息，大公司： 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布 4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报） 名创优品：预计2026年",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月8日消息，2026年，具身智能的泡沫与烈火同时燃烧。 宇树科技递交招股书，估值冲击百亿；Figure AI、Physical Intelligence等美国公司融资额屡创新高，将行业热度推向顶点。国内创业公司紧急跟进——堆数据、抢场景、拼本体，十万小时真机数据成为新的军备竞赛标的。 但喧嚣之下，一个尴尬的共识正在形成：没有人知道正确的技术路线究竟是什么。遥操作、仿真合成、互联网视频、人类第一视角……数据类型",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月8日消息，八小时造了个Linux系统",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月8日消息，Elon Musk is seeking to have OpenAI Chief Executive Officer and board member Sam Altman removed from his roles at the artificial intelligence startup as part of the billionaire’s legal challenge to th",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月8日消息，Targeted consultation on measuring energy consumption and emissions of AI models and systems Anonymous (not verified) Tue, 04/07/2026 - 12:00 Opening: 07 April 2026 Closing: 15 May 2026 Part of a broa",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月8日消息，Adam Back, co-founder and CEO of Blockstream, joins Katie Greifeld and Tim Stenovec on \"Bloomberg Crypto.\" Google researchers warned that future quantum computers may be able to break some of the cryp",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月8日消息，Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月8日消息，Elon Musk is seeking to have OpenAI CEO Sam Altman and President Greg Brockman removed from their roles as officers in the company as part of a lawsuit.",
+      "importance": "高"
+    }
+  ]
+}
