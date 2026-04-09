@@ -1,0 +1,725 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09 08:59:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
+      "summary": "4月9日消息，亦庄又“炸场”了。 AI未来大会现场 4月8日启幕的AI FUTURE北京亦庄AI未来大会上，一系列重磅消息密集释放，彻底点燃科技圈热度。这场为期两天的盛会，吸引了2000余位业内精英、34家头部企业参与。 AI未来大会现场 现场更有罗振宇、方汉等行业大佬现场分享洞见，成为亦庄AI实力的一次集中秀肌肉。 AI未来大会现场 在AIFUT北京亦庄AI未来大会上，全国首个聚焦AI超级个体的全周期服务站—",
+      "importance": "高",
+      "reason": "影响力评分: 498.0",
+      "tags": [
+        "大模型",
+        "Opus",
+        "AI",
+        "超越",
+        "首次"
+      ],
+      "url": "https://36kr.com/p/3759269095113219?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 08:08:48",
+      "impact_score": 498.0
+    },
+    {
+      "index": 2,
+      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+      "summary": "4月9日消息，文｜胡香赟 编辑｜海若镜 制药行业离“告别”动物实验又近了一步。 从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。 图源：FDA官网 伴随政策层面的深入，类器官/器官芯片企业在一级市场上的声量也逐步提高",
+      "importance": "高",
+      "reason": "影响力评分: 305.0",
+      "tags": [
+        "AI",
+        "CEO",
+        "法案",
+        "融资",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3758982738641670?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 02:36:29",
+      "impact_score": 305.0
+    },
+    {
+      "index": 3,
+      "title": "百度官宣！Create2026百度AI开发者大会定档5月13至14日",
+      "summary": "4月8日，百度官微正式官宣，Create 2026 百度AI开发者大会（以下简称“Create2026”）将于5月13日至14日在北京举办。据悉，百度或将发布在「芯-云-模-体」全栈AI布局、产业应用、AI生态等方面的最新进展。目前大会已开放售票通道（https://ai-conference.baidu.com/marketing/ai-conference/ticket/fullpass） 官",
+      "importance": "高",
+      "reason": "影响力评分: 260.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "发布",
+        "创新",
+        "李彦宏"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ljciEjrbH8lCGB1X.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-09 03:06:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 4,
+      "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+      "summary": "4月9日消息，大公司： 三星电子中国业务陷重组传闻，重心转向半导体 4月8日，有消息称，三星电子中国战略将进行调整，未来可能只保留手机和存储业务，重心转向存储等半导体业务。此外，三星电子在中国的家电业务不断收缩，今年下半年有可能变为代理制。截至发稿前，三星官方并未对上述消息做出正式回应。（第一财经） 星巴克中国发布“千店千面”战略 36氪获悉，星巴克中国今日宣布，星巴克全球与博裕投资的战略合作已启动，并发布“千",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "CEO",
+        "发布",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3756524566610437?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-08 11:51:22",
+      "impact_score": 255.0
+    },
+    {
+      "index": 5,
+      "title": "腾讯发布QClaw V2大版本",
+      "summary": "4月9日消息，36氪获悉，4月9日，腾讯宣布QClaw V2大版本上线，新版本（V0.2.5）实现多Agent、应用连接器和龙虾管家三大核心能力，支持用户创建多个Agent，每个Agent可自定义不同的专长、技能和权限；同时打通众多第三方应用，让单任务操作步骤减少60%以上。针对用户最为关注的安全问题，QClaw上线“龙虾管家”功能，率先实现原生安全防护。在QClaw可一键开启安全防护环境，拦截恶意prompt",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "发布",
+        "风险",
+        "上线"
+      ],
+      "url": "https://36kr.com/newsflashes/3759353951355398?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 08:52:35",
+      "impact_score": 249.0
+    },
+    {
+      "index": 6,
+      "title": "微信支付发布“AI接入工具箱”",
+      "summary": "4月9日消息，36氪获悉，微信支付宣布，正式上线一整套面向AI的支付接入能力体系。该体系包含Skill技能包、AI友好文档和AI友好API三大核心模块。据介绍，微信支付Skill技能包可加载至Cursor、腾讯CodeBuddy等AI开发工具中。微信支付Skill还是业内首个支持\"金融级代码诊断\"和\"智能排障\"的AI编程技能工具。",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "发布",
+        "AI",
+        "上线"
+      ],
+      "url": "https://36kr.com/newsflashes/3759289959809793?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 07:47:30",
+      "impact_score": 249.0
+    },
+    {
+      "index": 7,
+      "title": "OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线",
+      "summary": "4月9日消息，作者｜黄楠 编辑｜袁斯来 直播与视频会议已成为日常工作和生活的一部分，创作者对设备的需求也从“能拍就行”转向了“随时随地专业开播”。 但当前市场上的常见方案各有短板：手机直播容易过热降频，且无法灵活多机位；传统网络摄像头画质一般、对焦慢、缺少智能跟踪；单反加采集卡虽然画质好，但整套设备笨重，还需要复杂的供电和推流设置，移动场景下很难即开即用。 这个介于“专业画质”与“极致便携”之间的市场空白，正被",
+      "importance": "高",
+      "reason": "影响力评分: 249.0",
+      "tags": [
+        "发布",
+        "AI",
+        "上线"
+      ],
+      "url": "https://36kr.com/p/3759286934356744?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 07:45:46",
+      "impact_score": 249.0
+    },
+    {
+      "index": 8,
+      "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+      "summary": "4月9日消息，今日热点导览 国资委成立境外国资工作局 李飞飞出任阿里云CTO B站“按暂停弹出广告”功能将于4月10日上线 多款印度原料药被暂停进口 德勤：一季度香港新股集资1099亿港元，全球居首 TOP3大新闻 张雪机车LOGO被指抄袭，设计公司回应 4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新京报贝壳财经记者",
+      "importance": "高",
+      "reason": "影响力评分: 234.0",
+      "tags": [
+        "发布",
+        "上线"
+      ],
+      "url": "https://36kr.com/p/3758836635730432?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 00:10:15",
+      "impact_score": 234.0
+    },
+    {
+      "index": 9,
+      "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+      "summary": "4月9日消息，作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线建设及工程化团队扩充。 智子力控成立于2024年，现总部位于上海，是一家基于光学传感技术，为人形机器人提供分布式力觉感知",
+      "importance": "高",
+      "reason": "影响力评分: 230.0",
+      "tags": [
+        "人工智能",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3758900416348934?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 01:11:39",
+      "impact_score": 230.0
+    },
+    {
+      "index": 10,
+      "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+      "summary": "4月9日消息，近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。 Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "开放",
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3759045427937793?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 03:53:44",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "印度禁止中国大陆产摄像头监控：花高价大批替换，国产厂商回应；传宇树科技与阿里达成出海战略合作；DeepSeek上线专家模式",
+      "summary": "4月9日消息，要闻提示 1.印度禁止中国大陆产摄像头监控：花高价大批替换，国产厂商回应 2.B站官宣播放页暂停广告！陈睿曾称「永不变质」？网友吵翻了！ 3.阿里巴巴新设集团技术委员会：升级通义大模型事业部，李飞飞出任阿里云 CTO 4.传宇树科技与阿里达成出海战略合作，最新款机器人R1现身西溪园区 5.DeepSeek更新，上线专家模式 6.华为余承东批评团队零售设计没做好：核心原因出在审美上 7.传苹果明年推",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "首次",
+        "上线",
+        "监控"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/DHsa9yGegOpLxsAb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-09 01:19:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
+      "summary": "4月9日消息，作者丨欧雪 编辑丨袁斯来 今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。 过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。 刚离职时，王腾并不确定，干了十多年消费电子后，自己接下来要走向何方。他密集见投资人、老朋友，逐渐发现自己正处在一个转瞬即逝的拐点。“这是AI硬件十年一遇的创业窗口",
+      "importance": "高",
+      "reason": "影响力评分: 210.0",
+      "tags": [
+        "AI",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3758896443884033?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 01:08:02",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "20分钟破1000万！首日破3000万！创想三维2026全球3D打印类目众筹王者！AI+生态双向助推，3D打印布道者重新定义3D打印生态！",
+      "summary": "4月9日消息，“众筹一开启，就挤垮了IGG服务器，20分钟众筹金额破1000万，首日破3000万！IGG历史最大3D打印项目，2026年全球3D打印众筹项目王者！” 3月31日，全球消费级3D打印生态领创者创想三维（Creality）重磅推出的Creality Filament Maker M1&Shredder R1（耗材生成器M1 & 粉碎机R1）正式登陆全球最大科技众筹平台之一Indiegogo。 令人震",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "上线",
+        "创新",
+        "AI",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/sMdHrkJHN3fIisKk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 09:28:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 14,
+      "title": "破局同质化内卷 追觅N40pro肩颈按摩器以首创可更换按摩头技术解锁个护赛道B端新增量",
+      "summary": "4月9日消息，近日，智能科技品牌追觅旗下健康生活版块正式发布N40pro肩颈按摩器，针对当前个护健康市场肩颈按摩品类同质化严重、用户多元需求难以满足的行业痛点，以行业首创的可替换旋转式颈部揉捏按摩头为核心技术突破，搭载6D深层揉捏、全域光疗热敷等全维创新配置，为职场人群、品质中产、中老年及全家庭用户打造定制化、全场景的肩颈放松解决方案，更为行业B端合作伙伴开辟了差异化竞争的全新增长赛道。 从“众口难调”到“一机",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "合作",
+        "发布",
+        "创新",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/XkT4gARrn7J6p6Az.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 06:35:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "Polygon Labs正为支付业务融资至多1亿美元",
+      "summary": "4月9日消息，据知情人士透露，为预测市场平台Polymarket及其他加密项目提供底层支持的区块链开发商 Polygon Labs，正与投资者进行早期融资洽谈，计划募资至多1亿美元，用于打造全新的稳定币支付业务。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3759359536742914?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 08:58:16",
+      "impact_score": 195.0
+    },
+    {
+      "index": 16,
+      "title": "市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
+      "summary": "4月9日消息，市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市。（新浪财经）",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "投资",
+        "上市"
+      ],
+      "url": "https://36kr.com/newsflashes/3759337876275973?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 08:36:14",
+      "impact_score": 195.0
+    },
+    {
+      "index": 17,
+      "title": "武汉光谷金融控股集团增资至约215.9亿元",
+      "summary": "4月9日消息，36氪获悉，爱企查App显示，近日，武汉光谷金融控股集团有限公司发生工商变更，注册资本由200亿元人民币增至约215.9亿元人民币。 该公司成立于2015年5月，法定代表人为吴家伟，经营范围包括企业股权投资、金融企业股权投资、科技企业融资服务等，由湖北省科技投资集团有限公司、武汉高科国有控股集团有限公司、武汉葛化集团有限公司、武汉高科农业集团有限公司共同持股。",
+      "importance": "高",
+      "reason": "影响力评分: 195.0",
+      "tags": [
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3759281855578627?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 07:39:15",
+      "impact_score": 195.0
+    },
+    {
+      "index": 18,
+      "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
+      "summary": "4月9日消息，文丨彭倩 编辑丨乔芊 “苦大仇深”是马学军对自己的形容。 他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。 搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验",
+      "importance": "高",
+      "reason": "影响力评分: 177.0",
+      "tags": [
+        "风险",
+        "上市",
+        "CEO",
+        "发布",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3758979573121538?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-09 02:32:44",
+      "impact_score": 177.0
+    },
+    {
+      "index": 19,
+      "title": "完成超 1 亿美元融资，卡尔动力韦峻青：让无人重卡穿越大漠戈壁丨 L4 十人谈",
+      "summary": "4月9日消息，2005 年，美国国防高级研究计划局“DARPA”举办的第二届无人驾驶汽车挑战赛——DARPA Grand Challenge 在莫哈维沙漠举行，共有 23 支队伍进入决赛。 最终，斯坦福大学团队在 Sebastian Thrun 的带领下，其研发的“Stanley” 赛车力压卡内基梅隆大学团队的两辆改装悍马，以第一名的成绩完赛获得冠军，拿走了 200 万美金的赛事奖金。 自此，以 Google ",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "合作",
+        "CEO",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/ePZrQnd7yLg3rvcY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 05:59:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 20,
+      "title": "三星中国将大调整：只保留手机和存储部门，其余全撤；携程集团启动无理由事假管理实验：员工可无理由请假；美国AI三巨头封杀中国模型蒸馏",
+      "summary": "4月9日消息，要闻提示 1.严防死守！美国AI三巨头联手封杀中国模型蒸馏 2.三星中国将大调整：只保留手机和存储部门，其余全撤！ 3.美拟禁止向中国出口DUV光刻机：禁止中芯国际、长江长鑫等使用 4.辛巴现身直播高调收徒，旗下公司虚假宣传优思益等刚被罚32万 5.携程集团启动无理由事假管理实验：员工可无理由请假，最多45天 6.小米罗福莉开怼大模型“价格战”：建议 LLM 公司不要盲目压低价格 7.字节33亿元",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "大模型",
+        "AI",
+        "LLM",
+        "合作",
+        "IPO"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-08 00:46:00",
+      "impact_score": 165.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "The vibes are off at OpenAI",
+      "summary": "4月9日消息，OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's ",
+      "importance": "高",
+      "reason": "影响力评分: 307.5",
+      "tags": [
+        "billion",
+        "AI",
+        "valuation",
+        "IPO"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-08 13:47:38",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "Anthropic Gives Tech Firms Early Access to Powerful AI Model",
+      "summary": "4月9日消息，Anthropic is giving tech firms access to a powerful, unreleased AI model, Mythos, in an effort to prepare for possible cyberattacks that could result from wider adoption of the technology. Theresa Pay",
+      "importance": "高",
+      "reason": "影响力评分: 262.5",
+      "tags": [
+        "AI",
+        "joins",
+        "chief",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-08/anthropic-gives-tech-firms-early-access-to-ai-model-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 17:09:16",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+      "summary": "4月9日消息，A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
+      "importance": "高",
+      "reason": "影响力评分: 215.0",
+      "tags": [
+        "lawsuit",
+        "AI",
+        "blacklist"
+      ],
+      "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-08 23:52:04",
+      "impact_score": 215.0
+    },
+    {
+      "index": 4,
+      "title": "Snowflake Seeing Strong Return on AI Investment: CEO",
+      "summary": "4月9日消息，Some of Snowflake’s coders are producing work 24 hours a day using AI agents, says CEO Sridhar Ramaswamy. He joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "joins",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-08/snowflake-seeing-strong-return-on-ai-investment-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 18:36:41",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Bloomberg Deals 4/8/2026",
+      "summary": "4月9日消息，A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Blackstone Global Head Private E",
+      "importance": "高",
+      "reason": "影响力评分: 180.0",
+      "tags": [
+        "AI",
+        "chief",
+        "founder"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-08/bloomberg-deals-4-8-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 18:00:46",
+      "impact_score": 180.0
+    },
+    {
+      "index": 6,
+      "title": "Meta Debuts First AI Model From New Superintelligence Group",
+      "summary": "4月9日消息，Meta Platforms Inc. debuted its latest artificial intelligence model Wednesday — its first since Chief Executive Officer Mark Zuckerberg embarked on a multibillion-dollar overhaul of the company’s AI ",
+      "importance": "高",
+      "reason": "影响力评分: 172.5",
+      "tags": [
+        "artificial intelligence",
+        "AI",
+        "chief",
+        "superintelligence",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/meta-debuts-first-ai-model-from-prized-superintelligence-group",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 16:00:00",
+      "impact_score": 172.5
+    },
+    {
+      "index": 7,
+      "title": "DOJ Top Antitrust Litigators Exit After Ticketmaster Accord",
+      "summary": "4月9日消息，The US Justice Department’s top antitrust litigator and three senior trial attorneys that led cases against Live Nation Entertainment Inc., Apple Inc. and Alphabet Inc.’s Google are leaving the agency",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "AI",
+        "antitrust"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 20:46:46",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "Kia to Use Atlas Robots in US Plant, Develop First Software Car",
+      "summary": "4月9日消息，Kia Corp. will begin using humanoid robots in its US factories from 2029 and is developing its first software-defined vehicle as the South Korean carmaker ramps up investment in new-generation cars an",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "fine"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/kia-to-use-atlas-robots-in-us-plant-develop-first-software-car",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-09 07:27:27",
+      "impact_score": 150.0
+    },
+    {
+      "index": 9,
+      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+      "summary": "4月9日消息，arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researc",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "machine learning",
+        "reasoning",
+        "AI",
+        "LLM",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2604.04937",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-09 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "Meta releases first AI model since Zuckerberg’s spending spree",
+      "summary": "4月9日消息，Muse Spark ‘purpose-built’ for social media apps as investors question huge AI investment",
+      "importance": "高",
+      "reason": "影响力评分: 150.0",
+      "tags": [
+        "AI",
+        "releases"
+      ],
+      "url": "https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-08 16:55:04",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "summary": "4月9日消息，Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta",
+      "importance": "高",
+      "reason": "影响力评分: 140.5",
+      "tags": [
+        "billion",
+        "AI",
+        "superintelligence"
+      ],
+      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-08 16:12:54",
+      "impact_score": 140.5
+    },
+    {
+      "index": 12,
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "summary": "4月9日消息，Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "importance": "高",
+      "reason": "影响力评分: 140.5",
+      "tags": [
+        "AGI",
+        "AI",
+        "founder"
+      ],
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-08 15:00:00",
+      "impact_score": 140.5
+    },
+    {
+      "index": 13,
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "summary": "4月9日消息，OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "releases"
+      ],
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-08 15:23:44",
+      "impact_score": 132.0
+    },
+    {
+      "index": 14,
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "summary": "4月9日消息，Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "launches"
+      ],
+      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-08 13:00:00",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "Attribution Bias in Large Language Models",
+      "summary": "4月9日消息，arXiv:2604.05224v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly used to support search and information retrieval, it is critical that they accurately attribute content",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "bias",
+        "investigation",
+        "AI",
+        "LLM",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2604.05224",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-09 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 16,
+      "title": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions",
+      "summary": "4月9日消息，Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "chief",
+        "superintelligence",
+        "billion",
+        "large language model"
+      ],
+      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-08 23:21:25",
+      "impact_score": 130.0
+    },
+    {
+      "index": 17,
+      "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
+      "summary": "4月9日消息，In this post, we explore where RFT is most effective, using the GSM8K mathematical reasoning dataset as a concrete example. We then walk through best practices for dataset preparation and reward funct",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "reasoning",
+        "AI",
+        "fine"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-04-08 19:43:28",
+      "impact_score": 130.0
+    },
+    {
+      "index": 18,
+      "title": "Goldman-Backed Go Taxi App Said to Plan Japan IPO This Year",
+      "summary": "4月9日消息，Japan’s most popular taxi-hailing provider Go Inc. is planning an initial public offering this year which could raise several hundred million dollars, according to people familiar with the matter.",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/goldman-backed-go-taxi-app-is-said-to-plan-japan-ipo-this-year",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-09 08:14:16",
+      "impact_score": 127.5
+    },
+    {
+      "index": 19,
+      "title": "Pimco to Weigh $14B Debt Deal for Oracle Data Center",
+      "summary": "4月9日消息，Bloomberg's Laura Benitez joins Dani Burger on \"Bloomberg Deals.\" Pacific Investment Management is in talks with Bank of America to help provide roughly $14 billion of debt financing to build a massiv",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "joins"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-08/pimco-to-weigh-14b-debt-deal-for-oracle-data-center",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 19:37:05",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "Banks Selling $3 Billion Debt for Meta’s Prometheus Data Center",
+      "summary": "4月9日消息，A group of banks including Natixis SA, Mitsubishi UFJ Financial Group Inc. and Societe Generale SA have started selling $3 billion of loans for a data center in Ohio backed by Meta Platforms Inc., the",
+      "importance": "高",
+      "reason": "影响力评分: 127.5",
+      "tags": [
+        "billion",
+        "artificial intelligence"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/natixis-mufg-others-market-meta-s-3b-data-center-build",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-08 19:04:35",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从148条原始信息中精选出20条国内动态和20条国际动态，其中40条为高重要性。 重点关注：一个225平方公里的“庄”，如何成为AI“顶流”；耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程；百度官宣！Create2026百度AI开发者大会定档5月13至14日。",
+  "statistics": {
+    "raw_domestic": 43,
+    "raw_international": 105,
+    "raw_total": 148,
+    "final_domestic": 20,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月9日消息，亦庄又“炸场”了。 AI未来大会现场 4月8日启幕的AI FUTURE北京亦庄AI未来大会上，一系列重磅消息密集释放，彻底点燃科技圈热度。这场为期两天的盛会，吸引了2000余位业内精英、34家头部企业参与。 AI未来大会现场 现场更有罗振宇、方汉等行业大佬现场分享洞见，成为亦庄AI实力的一次集中秀肌肉。 AI未来大会现场 在AIFUT北京亦庄AI未来大会上，全国首个聚焦AI超级个体的全周期服务站—",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月9日消息，文｜胡香赟 编辑｜海若镜 制药行业离“告别”动物实验又近了一步。 从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。 图源：FDA官网 伴随政策层面的深入，类器官/器官芯片企业在一级市场上的声量也逐步提高",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月8日，百度官微正式官宣，Create 2026 百度AI开发者大会（以下简称“Create2026”）将于5月13日至14日在北京举办。据悉，百度或将发布在「芯-云-模-体」全栈AI布局、产业应用、AI生态等方面的最新进展。目前大会已开放售票通道（https://ai-conference.baidu.com/marketing/ai-conference/ticket/fullpass） 官",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月9日消息，大公司： 三星电子中国业务陷重组传闻，重心转向半导体 4月8日，有消息称，三星电子中国战略将进行调整，未来可能只保留手机和存储业务，重心转向存储等半导体业务。此外，三星电子在中国的家电业务不断收缩，今年下半年有可能变为代理制。截至发稿前，三星官方并未对上述消息做出正式回应。（第一财经） 星巴克中国发布“千店千面”战略 36氪获悉，星巴克中国今日宣布，星巴克全球与博裕投资的战略合作已启动，并发布“千",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月9日消息，36氪获悉，4月9日，腾讯宣布QClaw V2大版本上线，新版本（V0.2.5）实现多Agent、应用连接器和龙虾管家三大核心能力，支持用户创建多个Agent，每个Agent可自定义不同的专长、技能和权限；同时打通众多第三方应用，让单任务操作步骤减少60%以上。针对用户最为关注的安全问题，QClaw上线“龙虾管家”功能，率先实现原生安全防护。在QClaw可一键开启安全防护环境，拦截恶意prompt",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月9日消息，OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's ",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月9日消息，Anthropic is giving tech firms access to a powerful, unreleased AI model, Mythos, in an effort to prepare for possible cyberattacks that could result from wider adoption of the technology. Theresa Pay",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月9日消息，A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月9日消息，Some of Snowflake’s coders are producing work 24 hours a day using AI agents, says CEO Sridhar Ramaswamy. He joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月9日消息，A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Blackstone Global Head Private E",
+      "importance": "高"
+    }
+  ]
+}
